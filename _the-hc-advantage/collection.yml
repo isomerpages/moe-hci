@@ -1,4 +1,5 @@
 collections:
   the-hc-advantage:
     output: true
-    order: []
+    order:
+      - A Leadership Centric Experience.md
