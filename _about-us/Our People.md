@@ -34,3 +34,16 @@ We want every Hwa Chong student to live with passion and lead with compassion. E
 
 Hwa Chong is a home and more, where we pursue our passions, create possibilities, overcome challenges and celebrate milestones. I am energised to be playing a role to support the school, my fellow colleagues and my juniors. Let us walk and enjoy the journey together.
 <br clear="left">
+
+<img align="left" style="width:30%" src="/images/people7.jpg">
+
+Hwa Chong is a place where dreams come true! Very thankful to the school for the opportunities to work with excellent staff to nurture science talents and set up our very own Science Research Centre. Together with our research teams, I look forward to enhance our programmes and facilities to continue to contribute to Singapore’s pool of science talents.
+<br clear="left">
+
+<img align="left" style="width:30%" src="/images/people8.jpg">
+
+I was really blessed when MOE posted me to The Chinese High School as my first school after graduation in 1984. That was the beginning of my career immersed in a community of people with immense talent and who care for others. Hwa Chong was both a home and a playing field for me to do purposeful and meaningful work.
+<br clear="left">
+
+<img align="left" style="width:30%" src="/images/people9.jpg">
+<br clear="left">
