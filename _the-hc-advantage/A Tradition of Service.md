@@ -50,3 +50,12 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 |:-:|---|---|---|
 | **Professor Phua Kok Khoo**  <br>Founding Director of the Institute of Advanced Studies at Nanyang Technological University, and Founder of World Scientific Publishing  | **Anthony Chen**  <br>Director of films like Ilo Ilo, winner of the Camera d’Or at the Cannes Film Festival 2013  | **Kuo Pao Kun**  <br>Pioneer of Singapore theatre  | **Liu Kang**  <br>Pioneering Singapore artist and ‘father’ of the Nanyang style  |
 |   |   |   |   |
+
+<img align="left" style="width:22%;margin-left:60px;" src="/images/tradition17.jpg">
+<img align="left" style="width:22%;margin-left:80px;" src="/images/tradition18.jpg">
+<br clear="left">
+
+|   |   |
+|:-:|---|
+|  **Tan Swie Hian**  <br>Multi-disciplinary artist | **Gentle Bones (Joel Tan)**  <br>Singer-songwriter, <br>and Forbes Asia 30 under 30 member  |
+|   |   |
