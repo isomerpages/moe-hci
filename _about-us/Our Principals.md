@@ -36,3 +36,11 @@ description: ""
 <p align="right"><b>1993<br>Hwa Chong Junior College</b><br>Mdm Leong Fan Chin (1993-1998)</p>
 
 <p align="left"><b>1999<br>The Chinese High School</b><br>Mr Koh Yong Chiah (1999-2002)<br><b>Hwa Chong Junior College</b><br>Mr Ang Wee Hiong (1999-2004)</p>
+
+<p align="right"><b>2002<br>The Chinese High School</b><br>Dr Hon Chiew Weng (2002-2004)</p>
+
+<p align="left"><b>2005<br>Hwa Chong Institution</b><br>Mr Ang Wee Hiong (2005-2009)</p>
+
+<p align="right"><b>2005<br>Hwa Chong Institution</b><br>Dr Hon Chiew Weng (2010-2017)</p>
+
+<p align="left"><b>2018<br>Hwa Chong Institution</b><br>Mr Pang Choon How (2018-Present)</p>
