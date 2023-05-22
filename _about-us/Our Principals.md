@@ -25,3 +25,8 @@ description: ""
 
 <p align="leftr"><b>1976<br>The Chinese High School</b><br>Mr Phua Beng Tee (1976-1978)<br><b>Hwa Chong Junior College</b><br>Mr Wu Tsung Kan (1976-1979)</p>
 
+<p align="right"><b>1978<br>The Chinese High School</b><br>Mr Tooh Fee San (1978-1999)</p>
+
+<p align="left"><b>1979<br>Hwa Chong Junior College</b><br>Mr Lim Kim Woon (1979-1980)</p>
+
+<p align="right"><b>1980<br>Hwa Chong Junior College</b><br>Mr Bernard Fong (1980-1988)</p>
