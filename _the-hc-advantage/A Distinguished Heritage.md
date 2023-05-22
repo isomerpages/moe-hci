@@ -44,3 +44,8 @@ description: ""
 
 <img align="left" style="width:49%" src="/images/1991image.png">
 <br clear="left">
+
+<p align="right"><b>2005</b><br>The Making of Hwa Chong Institution In 2005, The Chinese<br> High School merged with Hwa Chong Junior College <br>to facilitate the running of a holistic six-year <br>Integrated Programme with unrivalled state-of-the-art facilities.</p>
+
+<img align="right" style="width:49%" src="/images/2005image.png">
+<br clear="right">
