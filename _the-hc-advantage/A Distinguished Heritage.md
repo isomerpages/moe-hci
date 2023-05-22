@@ -19,3 +19,13 @@ description: ""
 
 <img align="right" style="width:49%" src="/images/1945image.png">
 <br clear="right">
+
+<p align="left"><b>1974</b><br>Hwa Chong Junior College was founded<br> as the second junior college in Singapore. The school <br>would take over pre-university classes previously<br> conducted at The Chinese High School.</p>
+
+<img align="left" style="width:49%" src="/images/1974image.png">
+<br clear="left">
+
+<p align="right"><b>1979</b><br>The Chinese High School was accorded Special <br>Assistance Plan status to nurture bilingual<br>scholars, steeped in Chinese traditions and values.</p>
+
+<img align="right" style="width:30%" src="/images/1979image.png">
+<br clear="right">
