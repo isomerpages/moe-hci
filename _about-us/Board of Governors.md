@@ -42,3 +42,14 @@ description: ""
 |:-:|---|---|---|
 | Mr Ang Kiam Meng  <br>黄建铭先生  <br>Member  <br>委员  | Mr Appa Durai Shunmugam  <br>Member  <br>委员  | Mr Jimmy Ng Leng Kim  <br>黄龙金先生  <br>Member  <br>委员  | Dr Loh Boon Kwang  <br>罗文光医生  <br>Member  <br>委员  |
 |   |   |   |   |
+
+<img align="left" style="width:22%;margin-right:15px;" src="/images/member20.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/member21.png">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/member22.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/member23.png">
+<br clear="left">
+
+|   |   |   |   |
+|:-:|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
