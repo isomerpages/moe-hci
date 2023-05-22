@@ -2,6 +2,6 @@ collections:
   the-hc-advantage:
     output: true
     order:
-      - A Home Away From Home/Science Research Centre.md
-      - A Home Away From Home/.keep
       - A Leadership Centric Experience.md
+      - A Home Away From Home/.keep
+      - A Home Away From Home/Science Research Centre.md
