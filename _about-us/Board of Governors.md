@@ -54,9 +54,9 @@ description: ""
 | Mr Kwok Wei Woon, Joseph  <br>郭伟文先生  <br>Member  <br>委员  | Mr Ng Wei Fang  <br>黄卫防先生  <br>Member  <br>委员  | Mr Ng Yeau Chong  <br>黄耀宗先生  <br>Member  <br>委员  | Dr Phua Ghee Chee  <br>潘宜志医生  <br>Member  <br>委员  |
 |   |   |   |   |
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member24.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member25.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member26.png">
+<img align="left" style="width:22%;margin-left:40px;" src="/images/member24.jpg">
+<img align="left" style="width:22%;margin-left:50px;" src="/images/member25.jpg">
+<img align="left" style="width:22%;margin-left:60px;" src="/images/member26.png">
 <br clear="left">
 
 |   |   |   |
