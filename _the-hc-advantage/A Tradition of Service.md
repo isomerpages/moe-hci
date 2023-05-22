@@ -29,8 +29,13 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 | **Kelvin Khong**  <br>Chief of Air Force  |  **Goh Si Hou**  <br>Former Chief of Army. CEO, Public Utilities Board | **Aaron Beng**  <br>Chief of Defense Force  | **Ye Gang**  <br>Co-founder of Sea, consumer internet company  |
 |   |   |   |   |
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition5.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition6.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition7.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition8.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition9.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition10.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition11.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition12.jpg">
 <br clear="left">
+
+|   |   |   |   |
+|:-:|---|---|---|
+| **Ang Kiam Meng**  <br>CEO and Executive Director of JUMBO Group  | **Ronald Tay**  <br>CEO of CapitaLand Singapore  | **Professor Ho Teck Hua**  <br>Senior Deputy President and Provost of the National University of Singapore  | **Professor Ling San**  <br>Provost and Vice-President (Academic) of the Nanyang Technological University  |
+|   |   |   |   |
