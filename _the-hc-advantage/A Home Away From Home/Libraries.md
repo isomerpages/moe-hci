@@ -15,7 +15,6 @@ The Jing Xian library was founded in 1974, and was renamed in 1983, in honour of
 In 2019, the Jing Xian library underwent a major revamp and extensive renovation.
 
 <img style="width:70%" src="/images/library2.jpg"><br>
-
 <img style="width:70%" src="/images/library3.jpg">
 
 It now boasts amongst its splendid facilities a dedicated performance space, a cozy corner with a wide selection of board games, exhibition spaces and multimedia areas for ICT-based lessons. Our Jing Xian library is now a library of the future – a space of creative possibilities combined with integrated classrooms that support greater learning and research styles.
@@ -24,6 +23,8 @@ It now boasts amongst its splendid facilities a dedicated performance space, a c
 
 In 2020, the Kong Chian Library was also revamped to meld iconic neoclassical elements with inviting modern touches.
 
-<img style="width:70%" src="/images/library4.jpg"><br>
+<img style="width:70%" src="/images/library5.jpg">
 
-<img style="width:70%" src="/images/library4.jpg">
+<img style="width:70%" src="/images/library6.jpg">
+
+Spanning a total of three floors, it provides a wide array of flexible spaces to support students’ collaborative exploration, creation and learning.&nbsp;At its core, the Kong Chian Library brings together the best of the physical and digital to create learning hubs, which cater to nurturing critical, creative, and caring thinkers and leaders for the 21st&nbsp;century.
