@@ -15,3 +15,7 @@ description: ""
 <img align="left" style="width:49%" src="/images/1925image.png">
 <br clear="left">
 
+<p align="right"><b>1942-1945</b><br>Due to its height and location, the Chinese High School’s clock<br> tower served as a vantage point for surveillance<br> for the Allied forces and the occupying Japanese army.</p>
+
+<img align="right" style="width:49%" src="/images/1945image.png">
+<br clear="right">
