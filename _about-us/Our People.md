@@ -63,17 +63,13 @@ Hwa Chong is a home for discovery, hope and possibility where lifelong friendshi
 Hwa Chong symbolises the dare to be innovative and entrepreneurial while it leads in charting and pushing educational frontiers. Because of Hwa Chong’s strong Chinese culture and values, many generations of students and teachers call this school our home where strong friendships are built on trust, excellence and compassion.
 <br clear="left">
 
-<img align="left" style="width:30%" src="/images/people12.jpg">
-
-Hwa Chong symbolises the dare to be innovative and entrepreneurial while it leads in charting and pushing educational frontiers. Because of Hwa Chong’s strong Chinese culture and values, many generations of students and teachers call this school our home where strong friendships are built on trust, excellence and compassion.
+<img align="left" style="width:30%" src="/images/people13.jpg">
 <br clear="left">
 
-<img align="left" style="width:30%" src="/images/people12.jpg">
-
-Hwa Chong symbolises the dare to be innovative and entrepreneurial while it leads in charting and pushing educational frontiers. Because of Hwa Chong’s strong Chinese culture and values, many generations of students and teachers call this school our home where strong friendships are built on trust, excellence and compassion.
+<img align="left" style="width:30%" src="/images/people14.jpg">
 <br clear="left">
 
-<img align="left" style="width:30%" src="/images/people12.jpg">
+<img align="left" style="width:30%" src="/images/people15.jpg">
 
-Hwa Chong symbolises the dare to be innovative and entrepreneurial while it leads in charting and pushing educational frontiers. Because of Hwa Chong’s strong Chinese culture and values, many generations of students and teachers call this school our home where strong friendships are built on trust, excellence and compassion.
+Hwa Chong is a heart-warming home where Teachers, EAS, students and alumni serve with passion and lead with compassion.It’s a place where I see meaning and purpose @ work. 我💗华中!
 <br clear="left">
