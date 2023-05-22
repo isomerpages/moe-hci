@@ -73,3 +73,14 @@ Hwa Chong symbolises the dare to be innovative and entrepreneurial while it lead
 
 Hwa Chong is a heart-warming home where Teachers, EAS, students and alumni serve with passion and lead with compassion.It’s a place where I see meaning and purpose @ work. 我💗华中!
 <br clear="left">
+
+<img align="left" style="width:30%" src="/images/people16.jpg">
+
+Hwa Chong is a family and a home, a place where all students can live, learn and grow to become the best persons they can be. We hope that 自强不息 will become their motto in life, that they will establish win-win partnerships with others and they will allow 饮水思源 to guide their hearts and actions.
+<br clear="left">
+
+<img align="left" style="width:30%" src="/images/people17.jpg">
+<br clear="left">
+
+<img align="left" style="width:30%" src="/images/people18.jpg">
+<br clear="left">
