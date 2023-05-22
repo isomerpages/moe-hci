@@ -34,3 +34,8 @@ description: ""
 
 <img align="left" style="width:49%" src="/images/1981image.png">
 <br clear="left">
+
+<p align="right"><b>1987</b><br>The Chinese High School acquired Independent <br>School status, and was granted greater autonomy<br> for innovation and experimentation. <br>The school was one of the first to offer <br>Computer Studies as a subject in the 1980s.</p>
+
+<img align="right" style="width:49%" src="/images/1987image.png">
+<br clear="right">
