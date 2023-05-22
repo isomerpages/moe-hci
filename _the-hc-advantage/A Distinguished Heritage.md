@@ -39,3 +39,8 @@ description: ""
 
 <img align="right" style="width:49%" src="/images/1987image.png">
 <br clear="right">
+
+<p align="left"><b>1991</b><br>Hwa Chong Junior College celebrated a move back<br> into her Bukit Timah campus. In 1987, structural<br> instabilities on the campus had forced students <br>and staff to relocate twice in four years to temporary<br> campuses before the necessary works were completed.</p>
+
+<img align="left" style="width:49%" src="/images/1991image.png">
+<br clear="left">
