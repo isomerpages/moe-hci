@@ -6,7 +6,7 @@ third_nav_title: A Culture Of Care
 ---
 ##### High School: The Consortium System
 
-Hwa Chong Institution took the bold but natural step of pioneering the Consortium System in 1999. 
+Hwa Chong Institution took the bold but natural step of pioneering the Consortium System in 1999.&nbsp;
 
 The Consortium System—which operates on the concept of a “school within a school”—was fully implemented in 2001. Each consortium comprises a team of about 30 teachers with a smaller cohort of students as their charges. At Hwa Chong Institution, teachers and students are grouped into 4 consortia, Aphelion, iSpark, Ortus and ProEd. With a smaller student population in each “minischool”, the nimble Consortium System allows for greater autonomy: staff members are empowered to make local decisions efficiently, so as to better respond to the changing needs of both students and teachers. The birth of the consortia led to a groundbreaking approach with a “start-up” culture imbued into the system. The Directors of Consortium, in tandem with the School Leaders, set up a system that was dynamic, flexible and responsive to the unique needs of the students and staff within each consortia.
 
@@ -21,3 +21,23 @@ The unique set up provides a more holistic, supportive and customised curriculum
 | Ortus  | Latin for a new beginning or a rising star  | Explore the unexplored arenas; set a new pace for the race  |
 | ProEd  | Amalgamation of the words ‘Process’ and ‘Education’  | The journey is as important as the destination  |
 |   |   |   |
+
+Click on each of the following links to find out more:
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img src="/images/aphelion.jpg" align="left" style="width:25%">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img src="/images/ispark.jpg" align="left" style="width:25%">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img src="/images/ortuslink.jpg" align="left" style="width:13%">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img src="/images/proedlink.jpg" align="left" style="width:25%">
+</a></p>
+<br clear="left">
+
