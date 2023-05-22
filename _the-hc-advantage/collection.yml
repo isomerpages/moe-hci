@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - A Leadership Centric Experience.md
-      - A Home Away From Home/Others.md
       - A Home Away From Home/.keep
       - A Home Away From Home/Science Research Centre.md
       - A Home Away From Home/Libraries.md
@@ -12,3 +11,4 @@ collections:
       - A Home Away From Home/Boarding School.md
       - A Home Away From Home/Holistic Education Centre.md
       - A Home Away From Home/Kuo Chuan Centennial Art Gallery.md
+      - A Home Away From Home/Others.md
