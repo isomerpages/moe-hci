@@ -20,3 +20,10 @@ In 2019, the Jing Xian library underwent a major revamp and extensive renovation
 
 It now boasts amongst its splendid facilities a dedicated performance space, a cozy corner with a wide selection of board games, exhibition spaces and multimedia areas for ICT-based lessons. Our Jing Xian library is now a library of the future – a space of creative possibilities combined with integrated classrooms that support greater learning and research styles.
 
+<img style="width:70%" src="/images/library4.jpg">
+
+In 2020, the Kong Chian Library was also revamped to meld iconic neoclassical elements with inviting modern touches.
+
+<img style="width:70%" src="/images/library4.jpg"><br>
+
+<img style="width:70%" src="/images/library4.jpg">
