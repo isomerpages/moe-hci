@@ -39,3 +39,9 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 |:-:|---|---|---|
 | **Ang Kiam Meng**  <br>CEO and Executive Director of JUMBO Group  | **Ronald Tay**  <br>CEO of CapitaLand Singapore  | **Professor Ho Teck Hua**  <br>Senior Deputy President and Provost of the National University of Singapore  | **Professor Ling San**  <br>Provost and Vice-President (Academic) of the Nanyang Technological University  |
 |   |   |   |   |
+
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition13.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition14.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition15.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition16.jpg">
+<br clear="left">
