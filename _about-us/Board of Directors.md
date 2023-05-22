@@ -3,7 +3,7 @@ title: Board of Directors
 permalink: /about-us/board-of-directors/
 description: ""
 ---
-<img style="width:25%" src="/images/chairman.jpg">
+<img style="width:22%" src="/images/chairman.jpg">
 
 |   |
 |:-:|
