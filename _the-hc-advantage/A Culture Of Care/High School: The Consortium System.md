@@ -24,20 +24,24 @@ The unique set up provides a more holistic, supportive and customised curriculum
 
 Click on each of the following links to find out more:
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://aphelion.hci.edu.sg/">
 <img src="/images/aphelion.jpg" align="left" style="width:25%">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://sites.google.com/hci.edu.sg/ispark/home">
 <img src="/images/ispark.jpg" align="left" style="width:25%">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://sites.google.com/hci.edu.sg/ortus">
 <img src="/images/ortuslink.jpg" align="left" style="width:13%">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="http://www.hci.sg/proed/index.html">
 <img src="/images/proedlink.jpg" align="left" style="width:25%">
 </a></p>
 <br clear="left">
 
+|   |   |   |   |
+|:-:|---|---|---|
+| [Aphelion](http://aphelion.hci.edu.sg/)  | [iSpark](https://sites.google.com/hci.edu.sg/ispark/home)  | [Ortus](https://sites.google.com/hci.edu.sg/ortus)  | [ProEd](http://www.hci.sg/proed/index.html)  |
+|   |   |   |   |
