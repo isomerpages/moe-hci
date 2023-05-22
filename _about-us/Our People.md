@@ -63,10 +63,8 @@ Hwa Chong is a home for discovery, hope and possibility where lifelong friendshi
 Hwa Chong symbolises the dare to be innovative and entrepreneurial while it leads in charting and pushing educational frontiers. Because of Hwa Chong’s strong Chinese culture and values, many generations of students and teachers call this school our home where strong friendships are built on trust, excellence and compassion.
 <br clear="left">
 
-<img align="left" style="width:30%" src="/images/people13.jpg">
-<br clear="left">
-
-<img align="left" style="width:30%" src="/images/people14.jpg">
+<img align="left" style="width:30%;margin-left:px;" src="/images/people13.jpg">
+<img align="left" style="width:30%;margin-left:13px;" src="/images/people14.jpg">
 <br clear="left">
 
 <img align="left" style="width:30%" src="/images/people15.jpg">
