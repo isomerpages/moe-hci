@@ -14,3 +14,10 @@ The unique set up provides a more holistic, supportive and customised curriculum
 
 ##### Our Consortia
 
+| Name  | Etymology  | Ethos  |
+|:-:|---|---|
+| Aphelion  | The point furthest from the sun in the orbit of a planet or a comet  | Building bridges, realizing dreams  |
+| iSpark | The 'i' / eye is the window into the many exciting worlds of ideas, innovation, and imagination, while the spark represents vibrance and energy.  | Keep the spark burning  |
+| Ortus  | Latin for a new beginning or a rising star  | Explore the unexplored arenas; set a new pace for the race  |
+| ProEd  | Amalgamation of the words ‘Process’ and ‘Education’  | The journey is as important as the destination  |
+|   |   |   |
