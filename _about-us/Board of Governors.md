@@ -29,5 +29,5 @@ description: ""
 
 |   |   |   |   |
 |:-:|---|---|---|
-|   |   |   |   |
+| Mrs Elaine Ng-Neo Poh Choo  <br>梁宝珠女士  <br>Treasurer/BOG,  <br>Chair/Finance Sub-Committee  <br>财政，财务组主席  | Mr Tan Chin Hwee  <br>陈竞辉先生  <br>Secretary  <br>秘书  | Prof Tan Kim Seng  <br>郑金城教授  <br>EXCO Member  <br>执行委员  | Ms Theodora Tan Peck Hiang  <br>陈碧娴女士  <br>EXCO Member  <br>执行委员  |
 |   |   |   |   |
