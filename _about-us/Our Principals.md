@@ -23,10 +23,16 @@ description: ""
 
 <p align="right"><b>1974<br>The Chinese High School</b><br>Mr Kong Look Sen (1974-1976)<br><b>Hwa Chong Junior College</b><br>Mr Lim Nai Tian (1974-1976)</p>
 
-<p align="leftr"><b>1976<br>The Chinese High School</b><br>Mr Phua Beng Tee (1976-1978)<br><b>Hwa Chong Junior College</b><br>Mr Wu Tsung Kan (1976-1979)</p>
+<p align="left"><b>1976<br>The Chinese High School</b><br>Mr Phua Beng Tee (1976-1978)<br><b>Hwa Chong Junior College</b><br>Mr Wu Tsung Kan (1976-1979)</p>
 
 <p align="right"><b>1978<br>The Chinese High School</b><br>Mr Tooh Fee San (1978-1999)</p>
 
 <p align="left"><b>1979<br>Hwa Chong Junior College</b><br>Mr Lim Kim Woon (1979-1980)</p>
 
 <p align="right"><b>1980<br>Hwa Chong Junior College</b><br>Mr Bernard Fong (1980-1988)</p>
+
+<p align="left"><b>1989<br>Hwa Chong Junior College</b><br>Mr Chan Tung Fong (1989-1993)</p>
+
+<p align="right"><b>1993<br>Hwa Chong Junior College</b><br>Mdm Leong Fan Chin (1993-1998)</p>
+
+<p align="left"><b>1999<br>The Chinese High School</b><br>Mr Koh Yong Chiah (1999-2002)<br><b>Hwa Chong Junior College</b><br>Mr Ang Wee Hiong (1999-2004)</p>
