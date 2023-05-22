@@ -31,3 +31,14 @@ description: ""
 |:-:|---|---|---|
 | Mdm Cheng Yiina  <br>郑苡娜女士  <br>Member  <br>董事  | Mr Chern Chee Song, James  <br>陈其颂先生  <br>Member  <br>董事  | Mr Chua Kee Thiam  <br>蔡其添先生  <br>Member  <br>董事  | Mr Kwok Wei Woon, Joseph  <br>郭伟文先生  <br>Member  <br>董事  |
 |   |   |   |   |
+
+<img align="left" style="width:22%;margin-right:15px;" src="/images/member5.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/member6.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/member7.jpg">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/member8.jpg">
+<br clear="left">
+
+|   |   |   |   |
+|:-:|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
