@@ -48,3 +48,8 @@ description: ""
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member11.jpg">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member12.jpg">
 <br clear="left">
+
+|   |   |   |   |
+|:-:|---|---|---|
+| Dr Loh Poey Ling  <br>罗佩玲医生  <br>Member  <br>董事  | Mr Sim Choon Siong  <br>沈俊雄先生  <br>Member  <br>董事  | Dr Soon Kong Ann  <br>孙广安博士  <br>Member  <br>董事  | Prof Tan Kim Seng  <br>郑金城教授  <br>Member  <br>董事  |
+|   |   |   |   |
