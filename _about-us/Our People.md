@@ -47,3 +47,18 @@ I was really blessed when MOE posted me to The Chinese High School as my first s
 
 <img align="left" style="width:30%" src="/images/people9.jpg">
 <br clear="left">
+
+<img align="left" style="width:30%" src="/images/people10.jpg">
+
+I was really blessed when MOE posted me to The Chinese High School as my first school after graduation in 1984. That was the beginning of my career immersed in a community of people with immense talent and who care for others. Hwa Chong was both a home and a playing field for me to do purposeful and meaningful work.
+<br clear="left">
+
+<img align="left" style="width:30%" src="/images/people11.jpg">
+
+Hwa Chong is a home for discovery, hope and possibility where lifelong friendships and meaningful memories are made. We nurture a grounded sense of identity with a vision of purpose for the wellness of community and nation.
+<br clear="left">
+
+<img align="left" style="width:30%" src="/images/people12.jpg">
+
+Hwa Chong symbolises the dare to be innovative and entrepreneurial while it leads in charting and pushing educational frontiers. Because of Hwa Chong’s strong Chinese culture and values, many generations of students and teachers call this school our home where strong friendships are built on trust, excellence and compassion.
+<br clear="left">
