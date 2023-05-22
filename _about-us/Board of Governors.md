@@ -51,5 +51,5 @@ description: ""
 
 |   |   |   |   |
 |:-:|---|---|---|
-|   |   |   |   |
+| Mr Kwok Wei Woon, Joseph  <br>郭伟文先生  <br>Member  <br>委员  | Mr Ng Wei Fang  <br>黄卫防先生  <br>Member  <br>委员  | Mr Ng Yeau Chong  <br>黄耀宗先生  <br>Member  <br>委员  | Dr Phua Ghee Chee  <br>潘宜志医生  <br>Member  <br>委员  |
 |   |   |   |   |
