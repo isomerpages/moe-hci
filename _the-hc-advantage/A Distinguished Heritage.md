@@ -29,3 +29,8 @@ description: ""
 
 <img align="right" style="width:30%" src="/images/1979image.png">
 <br clear="right">
+
+<p align="left"><b>1981</b><br>Hwa Chong Junior College pioneered the prestigious<br> Humanities Programme. This programme <br>became renowned for its success in sending students<br> to Oxbridge and other top universities in the world.</p>
+
+<img align="left" style="width:49%" src="/images/1981image.png">
+<br clear="left">
