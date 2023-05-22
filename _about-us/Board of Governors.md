@@ -61,5 +61,5 @@ description: ""
 
 |   |   |   |
 |:-:|---|---|
-|   |   |   |
+| Mr Eugene Aw Jia Ming  <br>胡家洺先生  <br>Member  <br>委员  | Ms Evelyn Tan Yuan Yuan  <br>陈圆圆女士  <br>Member  <br>委员  | Mr Tay Boon Hwee Ronald  <br>郑文辉先生  <br>Member  <br>委员  |
 |   |   |   |
