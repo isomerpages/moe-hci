@@ -49,3 +49,8 @@ description: ""
 
 <img align="right" style="width:49%" src="/images/2005image.png">
 <br clear="right">
+
+<p align="left"><b>2019</b><br>Hwa Chong Centennial Celebrations In 2019,<br> Hwa Chong Institution celebrated a hundred years<br> of excellence in teaching and learning. <br>The celebrations coincided with Singapore’s <br>bicentennial commemorations, clearly <br>demonstrating the intertwining of the two histories.</p>
+
+<img align="left" style="width:49%" src="/images/2019image.png">
+<br clear="left">
