@@ -21,3 +21,5 @@ The main features of the Centre are:
 4 \. Student-centered Project rooms and Work Resource rooms for active interaction between students as well as their teacher and external expert mentors. A multitude of teaching and learning resources and aids will be made available to stimulate innovative thinking and creativity.
 
 5 \. Supporting facilities include preparations rooms for technicians, storage space for chemicals and equipment as well as a computer network system. These are located in strategic areas at the Centre and will provide the necessary support for research activities.
+
+<img style="width:85%" src="/images/sciresearchcentre2.jpg">
