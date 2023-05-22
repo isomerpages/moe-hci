@@ -79,8 +79,11 @@ Hwa Chong is a heart-warming home where Teachers, EAS, students and alumni serve
 Hwa Chong is a family and a home, a place where all students can live, learn and grow to become the best persons they can be. We hope that 自强不息 will become their motto in life, that they will establish win-win partnerships with others and they will allow 饮水思源 to guide their hearts and actions.
 <br clear="left">
 
-<img align="left" style="width:30%" src="/images/people17.jpg">
+<img align="left" style="width:30%;margin-left:px;" src="/images/people17.jpg">
+<img align="left" style="width:30%;margin-left:13px;" src="/images/people18.jpg">
 <br clear="left">
 
-<img align="left" style="width:30%" src="/images/people18.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/people19.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/people20.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/people21.jpg">
 <br clear="left">
