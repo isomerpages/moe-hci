@@ -37,3 +37,8 @@ description: ""
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member18.png">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member19.jpg">
 <br clear="left">
+
+|   |   |   |   |
+|:-:|---|---|---|
+| Mr Ang Kiam Meng  <br>黄建铭先生  <br>Member  <br>委员  | Mr Appa Durai Shunmugam  <br>Member  <br>委员  | Mr Jimmy Ng Leng Kim  <br>黄龙金先生  <br>Member  <br>委员  | Dr Loh Boon Kwang  <br>罗文光医生  <br>Member  <br>委员  |
+|   |   |   |   |
