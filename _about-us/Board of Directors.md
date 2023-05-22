@@ -53,3 +53,13 @@ description: ""
 |:-:|---|---|---|
 | Dr Loh Poey Ling  <br>罗佩玲医生  <br>Member  <br>董事  | Mr Sim Choon Siong  <br>沈俊雄先生  <br>Member  <br>董事  | Dr Soon Kong Ann  <br>孙广安博士  <br>Member  <br>董事  | Prof Tan Kim Seng  <br>郑金城教授  <br>Member  <br>董事  |
 |   |   |   |   |
+
+<img align="left" style="width:22%;margin-left:15px;" src="/images/member13.jpg">
+<img align="left" style="width:22%;margin-left:70px;" src="/images/member14.jpg">
+<img align="left" style="width:22%;margin-left:70px;" src="/images/member15.jpg">
+<br clear="left">
+
+|   |   |   |
+|:-:|---|---|
+| Mr Tan Yinglan  <br>陈映岚先生  <br>Member  <br>董事  | Mr Wang Yingyang, Jack  <br>王迎阳先生  <br>Member  <br>董事  | Dr Yim Heng Boon  <br>严兴文医生  <br>Member  <br>董事  |
+|   |   |   |
