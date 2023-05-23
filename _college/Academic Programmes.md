@@ -281,3 +281,19 @@ Students can apply for H3 subjects offered by
 **a. &nbsp;University-taught H3 programmes**&nbsp;(NUS, NTU and SMU) <br>
 **b. &nbsp;Extended, in-depth research**&nbsp;(SRP, NRP, NTU-A\*STAR-HCI&nbsp;and&nbsp;HSSR)<br>
 **c.&nbsp; MOE-CAMBRIDGE H3,**&nbsp;taught in-house in Hwa Chong Institution (HCI)
+
+**(A) &nbsp; UNIVERSITY-TAUGHT H3 MODULE**
+
+**1 \. NUS H3 Programme**<br>
+NUS H3 modules is taught by NUS lecturers. These are regular NUS module which is pitched at undergraduate year one level. H3 students will be equally treated vis a vis all regular undergraduates in all assessment and in the marking (raw scores) of the assessment.&nbsp; Lessons are held in&nbsp;<u>Semester 1</u>&nbsp;(for JC2 H3 students) at NUS and examinations are held at the end of the semester.
+
+**Period: January to April 2022 (Exam: 26 April 2023)**
+
+Application starts from&nbsp;_**03 October 2022 to 4 November 2022 (noon**_). Selection is done by NUS and&nbsp;_**successful applicants will be notified by &nbsp;18 November 2022**_.
+
+Selection is based on good JC1 overall results, at least 'B' grade in the respective H2 subjects.
+
+| **No**  | **NUS Module Title**  |  **NUS Course Code** | **Subject Code**  | **Faculty**  | **Associated H2**  |
+|:-:|---|---|---|---|---|
+| 1  | Geopolitics: Geographies of  <br>War &amp; Peace  | GEC1007  | U501  | Arts &amp; Social Sciences (FASS)  | History or Geography  |
+|   |   |   |   |   |   |
