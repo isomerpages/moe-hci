@@ -168,3 +168,17 @@ Income Criteria <br>
 **^ No separate application is required; please refer to**&nbsp;[**MOE’s website**](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)&nbsp;**for more details.**
 
 **Click to download the 2023 ISB Application Form** **[Here](/files/moe_isb_application_form_95db207e8f.pdf)**
+
+Students need only satisfy either the monthly Gross Household Income (GHI) or the PCI criterion to qualify for ISB. More information can be found in the Annex I of the ISB Application Form.
+
+Completed ISB Application Form, together with required supporting documents are to be submitted to High School or College Reception Office.
+
+##### Student Insurance Matters
+
+All students are automatically covered under the school’s&nbsp;**Students’ Accident Protection (PA) Insurance Scheme**&nbsp;and&nbsp;**Group Overseas Travel Insurance Plan**.
+
+The policies offer&nbsp;<u>basic</u>&nbsp;coverage to help defray&nbsp;<u>partially</u>&nbsp;the costs incurred by the students due to accidents and claimable events in the case of overseas travel insurance.
+
+While students need not pay for PA policy; the premium for Travel Insurance is chargeable on a per trip basis and included in the overseas trip cost.
+
+**(I) Students’ Accident Protection Scheme**
