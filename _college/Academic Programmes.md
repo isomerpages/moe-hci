@@ -362,14 +362,14 @@ Online application (via ISP) starts on&nbsp;**26 October 2022 to**&nbsp;**28 Oct
 
 | **No**  | **MOE-Cambridge**  <br>**H3 subject**  |**Subject Code**   | **Associated MOE-Cambridge**  <br>**H2 Subject**  |
 |:-:|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| 1  | Literature in English  | 9805  | Literature in English  |
+| 2  | Economics  | 9809  | Economics  |
+| 3  | Chemistry  | 9813  | Chemistry  |
+| 4  | Physics  | 9914  | Physics  |
+| 5  | Biology  | 9816  |Biology   |
+| 6  | Art  | 9818  | Art  |
+| 7  | Mathematics  | 9820  | Mathematics  |
+| 8  | Geography  |9822   | Geography  |
+| 9  | History  | 9823  | History  |
+| 10  | Chinese Language &amp; Literature  | 9901  | Chinese Language &amp; Literature  |
 |   |   |   |   |
