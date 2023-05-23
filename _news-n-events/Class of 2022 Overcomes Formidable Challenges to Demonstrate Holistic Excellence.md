@@ -50,4 +50,3 @@ Heartiest congratulations to the Class of 2022! They have displayed tremendous r
 **Hwa Chong Celebrates Holistic Excellence**
 
 The Hwa Chong experience goes well beyond academic excellence. All students undergo a holistic education programme which empowers students to pursue their passion and serve the community. We would like to celebrate the achievements of a few of our students who especially embody the Hwa Chong vision for her students to ‘Live with Passion, Lead with compassion’.
-
