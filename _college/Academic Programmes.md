@@ -26,3 +26,6 @@ Click&nbsp;**[here](https://www.seab.gov.sg/home/examinations/gce-a-level/a-leve
 
 **[Indicative Grade point for NUS](http://www.nus.edu.sg/oam/gradeprofile/sprogramme-igp.html)**<br>  **[Indicative Grade point for NTU](https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile)**<br> 
 **[Indicative Grade point for SMU](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)**
+
+**[Subjects Information &amp; Pre-requisities for 2023 JC 1](/files/a_level_subjects_info_for_2023_jc_1_final_16_sep22_c094b530ad.pdf)** Updated Info&nbsp;Sep 2022! <br>
+**[Information on Special Programmes in Hwa Chong](/files/special_programme_2023_jan_2b1fa41cce.pdf)** Updated Info&nbsp;Jan 2023!
