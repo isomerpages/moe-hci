@@ -373,3 +373,30 @@ Online application (via ISP) starts on&nbsp;**26 October 2022 to**&nbsp;**28 Oct
 | 9  | History  | 9823  | History  |
 | 10  | Chinese Language &amp; Literature  | 9901  | Chinese Language &amp; Literature  |
 |   |   |   |   |
+
+**Selection Criteria for MOE-CAMBRIDGE H3 Subjects**
+
+a.&nbsp;**Mean Subject Grade (MSG) 2.8 or better for content based subjects**
+
+MSG is calculated for all H1, H2 content based subjects after C1 Overall Results are released.&nbsp;**Annex**&nbsp;shows the scoring points system and the formula used in computing the MSG. This criterion ensures that only students of the right calibre are selected. Prospective H3 students must be able to cope well in all subjects that are offered.
+
+b.&nbsp;_**Within top 20th percentile ranking for the intended subject at H2 level**_
+
+**Remarks**
+
+Listed in the table below are the recommended number of H3 subjects that can be offered for the various subject combinations taken by JC2 students. The intent is to ensure that students are given ample time and space to pursue their interest and passion in one or more H3 subjects while developing themselves holistically in non-academic areas.
+
+| **Subject Combinations**  | **Recommended no. of H3 offered**  |
+|:-:|---|
+| 3 H2, 1 H1  | Up to 2 H3  |
+| 4 H2 (no KI)  | Up to 1 H3<br> Up to 2 H3 for H2 CLL students  |
+| 4 H2 (with KI)  | Up to 2 H3  |
+| 4 H2 (with KI), 1 H1  | Up to 1 H3  |
+|   |   |
+
+Students can appeal to read an MOE-Cambridge H3 subject if they do not meet the selection criteria. Decisions will be made on a case-by-case basis by HCI H3 Selection Committee. The student eligibility list for MOE-Cambridge H3 will be released on&nbsp;**26 Oct 2022, 2pm**&nbsp;via ISP. Students who are not eligible can make an appeal by submitting the appeal form through ISP from&nbsp;**26 Oct 2022, 2pm to 28 Oct 2022, 12 noon**.
+
+**ANNEX**
+
+**(A) Mean Subject Grade**<br>
+The grades of H1 and H2 subjects are assigned an equivalent point according to the table below:
