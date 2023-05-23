@@ -22,3 +22,8 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 <b><u>4 May 2023, 11 am</u></b>&nbsp;to&nbsp;<b><u>31 May 2023, 3 pm.</u></b>
 
 For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+
+----
+<br>
+
+<img style="width:85%" src="/images/DSA_2023_Timeline_ecf7efdc78.png">
