@@ -446,3 +446,25 @@ MSG = (1+ 2+ 3+ 4) / 4 = 2.5.
 
 ##### Assessment &amp; Promotion Criteria
 
+<center><b>Assessment Structures</b></center>
+
+The table below shows the weighting and period of assessment:
+
+_Assessment weighting of JC1_
+
+| **Type of assessment**  | **Continual Assessment**  | **Block Test**  | **Promotional Examination**  |
+|:-:|---|---|---|
+| **Weighting**  | 0%  |  25% | 75%  |
+| **Timeframe**  | ongoing  | Term 3&nbsp;Week 1  | Term 4 Week 3-4  |
+|   |   |   |   |
+
+_Assessment weighting of JC2 (only for 2019)_
+
+| **Type of assessment**  | **Block Test**  | **Preliminary Examination**  |
+|:-:|---|---|
+| **Weighting**  | BT1&nbsp;- 0%;<br><br>BT2&nbsp;- 20%  | <br>80%  |
+| **Timeframe**  | BT1 -- Term 1 Week 10 &amp; Term 2 Week 1;  <br>BT2 – Term 3 Weeks 1 &amp; 2  | Term 3 Weeks 9 &amp; 10 to  <br>Term 4 Week 1  |
+|   |   |   |
+
+**Grading scheme** <br>
+Grade Scheme for H1 and H2 content- based subjects
