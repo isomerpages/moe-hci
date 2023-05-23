@@ -337,3 +337,9 @@ This course provides an introduction to Game Theory. Game theory deals with deci
 The SMU Game Theory application period will open on&nbsp;**3 October 2022 to 04 November 2022 (noon)**. Please note that&nbsp;**HCI’s internal deadline is**&nbsp;**04 November 2022, 10am @ College Reception**.
 
 Please access the following :
+* [Application form 2023](/files/smu_h3_application_form_2023_0862340015.pdf)
+
+**(B)**&nbsp;**H3 Research Programme**
+
+The following table shows the various modules offered for H3 research programme by NUS and NTU.
+
