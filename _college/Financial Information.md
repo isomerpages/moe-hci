@@ -167,3 +167,20 @@ Income Criteria <br>
 | <br><br><br>$7,501 - $10,000  | <br><br><br>$1,876 - $2,500  | *   School fee rate per month:<br><br><u>Pre-university level</u><br>MOE Scholar: $34.50<br>Non-MOE Scholar: $234.50<br><br><u>Secondary level</u><br>MOE Scholar: $1.00 (Sec 1 &amp; 2); $34.50 (Sec 3 &amp; 4)<br>Non-MOE Scholar: $201.00 (Sec 1 &amp; 2); $234.50 (Sec&nbsp; 3 &amp; 4)  |
 |   |   |   |
 
+**^ No separate application is required; please refer to**&nbsp;**[MOE’s website](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)**&nbsp;**for more details.**
+
+**Click to download the 2023 ISB Application Form** **[Here](/files/moe_isb_application_form_oct_2022_07425c7cfa.pdf)**
+
+Students need only satisfy either the monthly Gross Household Income (GHI) or the PCI criterion to qualify for ISB. More information can be found in the Annex I of the ISB Application Form.
+
+Completed ISB Application Form, together with required supporting documents are to be submitted to High School or College Reception Office.
+
+##### Student Insurance Matters
+
+All students are automatically covered under the school’s&nbsp;**Students’ Accident Protection (PA) Insurance Scheme**&nbsp;and&nbsp;**Group Overseas Travel Insurance Plan**.
+
+The policies offer&nbsp;<u>basic</u>&nbsp;coverage to help defray&nbsp;<u>partially</u>&nbsp;the costs incurred by the students due to accidents and claimable events in the case of overseas travel insurance.
+
+While students need not pay for PA policy; the premium for Travel Insurance is chargeable on a per trip basis and included in the overseas trip cost.
+
+**(I) Students’ Accident Protection Scheme**
