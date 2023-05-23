@@ -187,8 +187,8 @@ While students need not pay for PA policy; the premium for Travel Insurance is c
 |:-:|---|
 | Insurer  | Lonpac Insurance Bhd  |
 | Insurance Broker  | AB Lim Pte Ltd  |
-| Coverage  | 24 hours coverage for all school activities and/or CCAs both in and out of school.  |
-| Claim Procedure  |   |
+| Coverage  | 24 hours coverage for all school activities and/or CCAs both in and out of school. <br><br> **[Click here](/files/travel_insurance_student_fact_sheet_2023_845292dcb5.pdf)** to download the Travel Insurance Benefit Summary. Note that this summary is to provide an outline of the coverage only and is not a policy document. The terms and conditions of the Insurer's policy document shall prevail at all times. |
+| Claim Procedure  | a.  Insurance claims involving&nbsp;**recovering of trip costs**&nbsp;(eg airfare in the case of cancelled trip)&nbsp;**for school’s subsidized trips**&nbsp;are to be handled and submitted by the school if co-payments have been made by students. The school will submit an insurance claim for the affected group as the settlement is to be allocated between the students and the school. The teacher in charge is to contact Finance Department to arrange for the claim submission. <br><br> b.  **Personal insurance claims**&nbsp;such as medical expenses/benefits or baggage loss/damage (where 100% of the settlements are to be paid to the individual claimants) are be submitted directly by the claimants to the insurer via the its Claim Submission Portal, URL as follow:&nbsp;[https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client\_portal&amp;GCOID=200800](https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client_portal&amp;GCOID=200800) |
 |   |   |
 |   |   |
 |   |   |
