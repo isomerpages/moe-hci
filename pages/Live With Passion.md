@@ -28,3 +28,62 @@ The Hwa Chong Science &amp; Mathematics Talent Programme aims to provide an inte
 As the first institution chosen by the Ministry of Education in 1980 for the HSP, Hwa Chong has established and maintained its position as a leading centre for successful applications to top universities around the world. One of the key sources of this success are the HSP tutors who are specialists in their fields and are also experienced in providing advice on university placement and scholarships. Through an informal yet rigorous teaching style, our tutors encourage open discussions and intellectual exploration beyond the confines of the syllabus so that individuals become independent and driven self-directed learners. Each year, our Scholars gain admission to top universities in the United Kingdom, the United States and around the world including France, Germany, Australia, Canada, Japan and China. To date, well over 400 alumni have graduated from Oxford and Cambridge alone. Closer to home, we see increased enrolments in Yale-NUS, NUS, SMU and NTU. Over half of the students gain scholarships to study overseas or in Singapore.
 
 At the High School section, the Hwa Chong Humanities Programme (HP) attracts top talents who are curious thinkers, avid readers, and persuasive communicators.&nbsp; Through the study of the three Humanities subjects—Geography, History, and Literature—students are able to appreciate complex global issues from multiple perspectives.&nbsp; Interdisciplinary modules, involving the Humanities, Languages, Mathematics, and Sciences, are also a key feature of our curriculum.&nbsp; Through these authentic projects, students appreciate the resonance between disciplines, as well as the constructive potential of harnessing differences.&nbsp; Beyond the classroom, learning comes alive for our HP students when they work in senior-junior teams to organise integrated activities, such as symposia, mock conferences, field studies, and drama, among others.&nbsp; Beyond attaining academic excellence, our HP students and alumni alike are actively involved in service projects which uplift the community.&nbsp; We are proud of our HP students—past and present—who embody our vision of being engaged citizens of the world, and empathetic leaders of Singapore.
+
+<u>Bicultural Studies Programme</u>
+
+Hwa Chong Institution was one of the pioneer schools in Singapore to offer the Bicultural Studies Programme back in 2005. Students in the programme not only acquire an in-depth understanding of China-related topics, but also attend immersion trips that hone their bicultural sensibility and equip them with the necessary skills sets to traverse Chinese and Western cultures. The Bicultural Studies Programme (BSP) aims to produce a pipeline of future Singapore leaders who are not only effectively bilingual, but also possess cultural nous, allowing them to continue building bridges and forge opportunities for Singapore’s advancement on the global scene. Its curriculum anchors Hwa Chongians in the Singaporean Perspective, while developing their ability to develop cutting-edge insights on the relationships between China, the West and Southeast Asia. Students develop their thinking skills and capacities as they make connections between past and present global trends from the East and West.
+
+The BSP curriculum in secondary school requires students to study Chinese history and contemporary Chinese society. After entering Junior College, while it is compulsory for BSP scholars selected at Secondary 3 entry point to study H2 China Studies in Chinese, non-BSP scholars can also choose to apply for the Bicultural Studies Programme at the Junior College entry point and study the subject. Students who study H2 China Studies in Chinese will study contemporary China’s economy, politics, society and diplomacy. They are also required to write a 4000-word Independent Study research paper on a China-related topic in Year 4 and JC2. Outstanding research papers from Year 4 students are conferred awards by MOE. In addition, the Ministry of Education also arranges Bicultural Studies Seminars for both secondary and JC students to participate every year.
+
+Overall, the BSP curriculum aims to give students:
+
+*   A deepened understanding and appreciation of our local culture;
+*   An all-round knowledge and a multi-faceted understanding of China;
+*   A passion and life-long interest in the cultures of the East and West;
+*   Opportunities to become adept at bicultural knowledge and its relevant applications;
+*   A concrete mastery of 21st Century Competencies and a strong global outlook.
+
+<u>Chinese Language Elective Programme</u>
+
+Since its inception in 1990, the Chinese Language Elective Programme (CLEP) at Hwa Chong Institution has dedicated itself to nurturing the nation’s next generation of bilingual talents and cultural ambassadors, well-versed in the intricacies of the Chinese Language, Literature, and Culture. In 2020, we became one of the 9 schools in Singapore to offer CLEP to Upper Secondary students. Overall, the CLEP curriculum aims to:&nbsp;
+
+*   Nurture students into open-minded scholars of Chinese Literature;
+*   Provide guidance for their endeavours in the humanities under the Chinese Literary domain;
+*   Develop a generation of students with empathy, values and a dedication to bettering the human condition;
+*   Develop future leaders who are effectively bilingual with a strong global outlook.
+
+##### English Language and Literature
+
+The goal of the Hwa Chong English Language Programme is to develop independent thinkers, who can see the connection between language study and its application to life.&nbsp; An inquiry-based approach ensures that students are given the freedom to research widely; probe deeply; collaborate productively; and apply thoughtfully to authentic tasks.&nbsp; This is done through a theme-based reading and writing programme, comprising topics such as education, science and technology, leadership and governance, crime and punishment, culture, news and media, and citizenship in Singapore.&nbsp; The core modules span all the key components of linguistic skills that students must master, in order to thrive in the 21st century. Students are also given the opportunity to employ multi-modality to explore and present new knowledge through termly interdisciplinary research tasks. Where the core elements embody the rigour and breadth of the skills, knowledge, and concepts that students need to know, the research tasks offer students the opportunity to extend their learning beyond the English Language curriculum.
+
+The Literature in English Programme in HCI aims to develop in students a love for reading and a critical appreciation of Literature spanning different genres, time periods, and cultures.&nbsp; In particular, we encourage students to explore diverse voices, beyond the western-centric canon, including translated World Literature texts.&nbsp; Students who read the subject would be equipped with literary skills to understand the complex political, cultural, and social contexts as well as diverse methodologies of literary study and analysis. Adopting a differentiated approach to learning that goes beyond the classroom, the programme provides students with opportunities to experience Literature through activities like symposia, creative writing, project work, and independent study.&nbsp; Such activities not only expand students' horizons, but also help them explore the intersections, interactions, and interweaving of Literature, History and Sociology in a rich study of key themes and concepts.&nbsp; The Literature programme in HCI is challenging and rewarding in equal parts.&nbsp; If you are interested in exploring some of the “big questions” about life and the world, then this programme is bound to satisfy your curiosity!
+
+##### Humanities
+
+As the world becomes increasingly more interconnected with rapid socio-economic, technological and political changes, the study of the Humanities equips our students with an understanding of their heritage, values and exceptional analytical skills to be well-rounded and globally aware citizens.
+
+The teaching and learning of the Humanities features a wide variety of learning experiences designed to spark curiosity and the spirit of inquiry - where students demonstrate their ability to identify present and future challenges and to seek appropriate innovative solutions with a sense of respect, empathy and understanding.
+
+Students have the opportunity to gain valuable experience in real-world learning by applying academic skills in their investigations, fieldwork and participation in local and overseas Model United Nations conferences.
+
+##### Chinese Language
+
+中学华文部以培养学生学习华文的热忱为目标，通过多元的课程营造富有文化内涵的学习氛围，培养学生对华文华语的兴趣与文化情感，乐学善用。华文部开设了高级华文、双文化、华文文学、戏剧等学科课程。其中，华文文学与双文化课程是培养华文精英和双语双文化人才的课程。除了培养人文素养，双文化课程的中国通识课及书法课，旨在培养双文化优势，让学生游刃于双语文化之间，提升语文能力，深化文化底蕴。同时，我们也以戏剧课程为旗舰课程，通过趣味性的戏剧表演课培养低年级学生学习华文的兴趣，以及通过大型戏剧演出培养华中学生的语言艺术鉴赏能力以及灌输华中核心价值观。华文部希望通过以上课程为学生奠定牢固的语文基础，加深语文学习的热忱，提升语文能力，让学生在生活中以及将来的学习和事业上终身受用。
+
+##### Sciences&nbsp;
+
+The Hwa Chong Integrated Programme for Science is implemented across 6 years. Our integrated framework provides a dynamic learning environment for students with an aptitude and interest in Mathematics and Science.&nbsp; Special emphasis is placed on the mastery of fundamental knowledge and experimental skills.&nbsp; Our plan is to further integrate the Mathematics and Science disciplines to foster an appreciation of how they work together and form a whole.
+
+In a tripartite collaboration with A\*STAR and NTU, Hwa Chong also offers research electives based on the H3 module to encourage new and independent modes of learning and exploration.&nbsp; Each JC student is matched with a mentor depending on interest, and engages in collaborative research with leading scientists and researchers working on real-world scientific problems.
+
+The aim of our Science programme is to broaden students' interests in Science by providing a stimulating environment that will enrich their basic Science training.&nbsp; Besides exposure to major advances in the life sciences and new technologies, students will be trained to think critically and independently.
+
+##### Mathematics
+
+The Hwa Chong Mathematics Department sees the subject as an excellent means for the development of an individual's intellectual ability in logical reasoning, spatial visualisation, and abstract thought. It is our belief that a strong foundation in Mathematics is crucial to the development of not only a highly skilled but scientifically- and technologically- competent workforce that can meet the challenges of the 21st century. From Years 1 to 4, we focus on developing students’ critical and creative skills and their ability to communicate and reason mathematically, through the use of an inquiry based approach with ICT infusion. We also foster a conducive environment that provides students with opportunities to use Mathematics in solving real-world problems and doing in-depth research in projects. In moving learning beyond the classroom, we hope to instill in students the spirit of perseverance and inquiry learning and an appreciation of the beauty and value of mathematics.
+
+##### Thinking Programme
+
+“_The unexamined life is not worth living._” - Socrates
+
+As a subject, the Thinking Programme nurtures all Lower Secondary students to think critically and creatively (with a consistent and overt emphasis on caring thinking) across disciplines and cultures. At Secondary One, students learn to analyse and evaluate existing tomes of knowledge with thinking frameworks like Design Thinking and Paul’s Wheel of Reasoning. They then critically explore and examine Eastern and Western philosophies in both the English and Chinese language at Secondary Two. Students inquire into the meaning of their own lives and identities, using ideas like the allegory of Plato’s cave and various Confucian concepts, and build on each other’s musings through dialogue. This opportunity to be immersed in cross cultural philosophical inquiry and connect perspectives from the East and West, is what gives the Hwa Chongian the cross-cultural disposition of a true, future leader.
