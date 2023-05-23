@@ -60,3 +60,10 @@ Note:&nbsp;There are some exceptions to the above academic assessment structure,
 |:-:|---|---|---|
 | 15%  | 10%  | 15%  | 60%  |
 |   |   |   |   |
+
+<center><b><u>Sec 1&nbsp;History and Sec 2 Geography Assessment Structure</u></b></center>
+
+| Common Test  | Alternative Assessment  | Historical /Geographical Investigation  |  Examination  |
+|:-:|---|---|---|
+| 15%  | 15%  | 2 X 15%  | 40%  |
+|   |   |   |   |
