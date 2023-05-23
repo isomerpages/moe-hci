@@ -2,5 +2,6 @@ collections:
   college:
     output: true
     order:
+      - Financial Information.md
       - Academic Programmes.md
       - Admission Paths.md
