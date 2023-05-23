@@ -71,3 +71,21 @@ For <b><u>enquiries with regard to Special Programmes,</u></b> please email:
 • Mr Ng Say Tiong:&nbsp;[ngst@hci.edu.sg](mailto:ngst@hci.edu.sg)&nbsp;or Ms Yu Qian:&nbsp;[yuqian@hci.edu.sg](mailto:yuqian@hci.edu.sg)&nbsp;for Computing Talent Programme (CTP)
 
 For <b><u>enquiries with regard to specific subjects,</u></b> please email:
+
+|   |   |   |
+|:-:|---|---|
+| General Paper / English Literature  |   |   |
+| Project Work  |   |   |
+| Chinese (CL, CLL, CSC, TRC)  |   |   |
+| Mathematics  |   |   |
+| Economics  |   |   |
+| Biology  |   |   |
+| Chemistry  |   |   |
+| Physics  |   |   |
+| Knowledge &amp; Inquiry (KI)  |   |   |
+| English Language &amp; Linguistics (ELL)  |   |   |
+| Geography  |   |   |
+| History  |   |   |
+| Art  |   |   |
+| Computing  |   |   |
+|   |   |   |
