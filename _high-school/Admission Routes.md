@@ -26,4 +26,49 @@ For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](
 ----
 <br>
 
-<img style="width:85%" src="/images/DSA_2023_Timeline_ecf7efdc78.png">
+<img style="width:85%" src="/images/dsa2023timeline.png">
+
+----
+
+<center><b>DSA Categories</b></center>
+
+Students may apply to HCI through the following DSA categories:
+
+**Academic**<br>
+We welcome students who demonstrate deep interest and talents in the following domains:
+
+Language and Humanities
+*   Chinese Language
+*   Humanities
+
+Science, Technology, Engineering and Mathematics
+*   Infocomm (Programming and/ or Robotics)
+*   Mathematics
+*   Science
+
+**Bilingualism**<br>
+We welcome Bilingual Talents who demonstrate any or all of the following:
+*   Passion and creativity in learning both the Chinese and English language, as well as appreciation for the cultures of the East and the West
+*   Written and spoken proficiency in both languages
+
+**Leadership**<br>
+We welcome Leadership Talents who possess any or all of the following:
+*   Passion for serving the community
+*   Experience in leading student organisations (e.g. school body, CCA, etc).
+
+**Sports and Games**<br>
+We welcome students with passion and strengths OR a strong record of achievement at the zonal, national, or international level, in any of these sports and games:
+*   Badminton
+*   Basketball
+*   Canoeing
+*   Chinese Weiqi
+*   Cross Country
+*   Fencing
+*   Judo
+*   Shooting
+*   Table Tennis
+*   Track and Field
+*   Volleyball
+*   Water Polo
+*   Wushu
+
