@@ -105,3 +105,10 @@ No Singaporean student will be denied a place in Hwa Chong Institution because o
 \- For Singapore Citizen, to fund overseas study trips, enrichment programme
 
 Students who require financial assistance&nbsp;<b><u>at any point of time</u></b>&nbsp;can approach either their Civic Tutor or Education Consultant of their Faculty for advice on the application for the above.
+
+**4 \.&nbsp; Trip for Internationalization Experience (TIE)**<br>
+\- For Singapore Citizens, provides subsidy for overseas learning journeys to Asia with a focus on ASEAN countries, school immersion programmes and student exchange programmes with a cultural focus. TIE fund needs no application and is granted to all Singaporean students who are going on eligible overseas trips.
+
+**5 \.**&nbsp;&nbsp;**[IDA’s NEU PC Plus Programme](https://www.imda.gov.sg/programme-listing/neu-pc-plus)**
+
+<b><u>(C)&nbsp; Other Bursary and Scholarship schemes:</u></b>
