@@ -400,3 +400,27 @@ Students can appeal to read an MOE-Cambridge H3 subject if they do not meet the 
 
 **(A) Mean Subject Grade**<br>
 The grades of H1 and H2 subjects are assigned an equivalent point according to the table below:
+
+| **H1/H2 Grade**  | **Equivalent Points**  |
+|:-:|---|
+| **A**  | 1  |
+| **B**  | 2  |
+| **C**  | 3  |
+| **D**  | 4  |
+| **E**  | 5  |
+| **S**  | 6  |
+| **UNGRADED**  | 7  |
+|   |   |
+
+**(B) Computation of Points**
+
+Mean Subject Grade&nbsp;is calculated based on the following formula:
+
+2 (Sum of all H2 grades) + (Sum of all H1 content-based subject grades)  
+2(No. of H2 subjects) + (No. of H1 content subjects)
+
+**Examples**
+
+Student A takes 3 H2 and 1 H1 subjects.
+											 
+											 
