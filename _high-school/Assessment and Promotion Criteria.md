@@ -42,7 +42,21 @@ Note:&nbsp;There are some exceptions to the above academic assessment structure,
 
 <center><b><u>Sec 1-2 Science Assessment Structure</u></b></center>
 
-| Common Test  | Alternative Assessment  | Examination  |
-|:-:|---|---|
-| 20%  | 10%  | 70%  |
-|   |   |   |
+| Common Test  | Alternative Assessment  | Practical Test  | Theory Examination  |
+|:-:|---|---|---|
+| 15%  | 10%  | 5%  | 70%  |
+|   |   |   |   |
+
+<center><b><u>Sec 3 Science Assessment Structure</u></b></center>
+
+| Common Test  | Alternative Assessment  | Practical Test  | Theory Examination  |
+|:-:|---|---|---|
+| 15%  | 10%  | 5%  | 70%  |
+|   |   |   |   |
+
+<center><b><u>Sec 4 Science Assessment Structure</u></b></center>
+
+| Common Test  | Alternative Assessment  | Practical Test  | Theory Examination  |
+|:-:|---|---|---|
+| 15%  | 10%  | 15%  | 60%  |
+|   |   |   |   |
