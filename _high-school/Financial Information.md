@@ -153,3 +153,21 @@ Newly admitted students are to submit their ISB application latest by end Feb 20
 **Income Criteria and Benefits**
 
 The income limits and benefits for Year 2023 are as shown in the tables below:
+
+Income Criteria <br>
+(Meet one of the following criteria)
+
+|   |   |   |
+|:-:|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
