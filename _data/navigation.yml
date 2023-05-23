@@ -10,3 +10,5 @@ links:
     collection: college
   - title: SCHOOL PORTALS
     collection: school-portals
+  - title: CONTACT US
+    url: /hci-contact-us/
