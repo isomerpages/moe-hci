@@ -37,7 +37,7 @@ The school fees payable is structured by spreading an annual fee over 12 months 
 
 School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each month; or the next working day if the 15th day of the month falls on a weekend or Public Holiday, unless otherwise advised.
 
-<b><u>Giro Collection Dates For JC 1 school fees</u></b><br>
+<b><u>Giro Collection Dates For JC 1 school fees</u></b>
 
 |   |   |
 |:-:|---|
@@ -50,7 +50,7 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 | Dec-23  | 01 Nov 2023  |
 |   |   |
 
-<b><u>Giro Collection Dates For JC 2 school fees</u></b><br>
+<b><u>Giro Collection Dates For JC 2 school fees</u></b>
 
 |   |   |
 |:-:|---|
@@ -61,7 +61,7 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 | Dec-23  | 01 Nov 2023  |
 |   |   |
 
-<b><u>Interbank Giro Application Form</u></b><br>
+<b><u>Interbank Giro Application Form</u></b>
 
 It is compulsory for all students to take part in the Inter-bank Giro scheme. Parents / guardians are to submit the Interbank Giro Application form for the scheme upon admission of their child/ward to HCI.This is to facilitate the school to collect school fees and any other fees as may be required from time to time.
 
@@ -69,3 +69,28 @@ The application form is available **[here](/files/jc_interbank_giro_application_
 
 ##### Financial Assistance
 
+<b><u>Financial Assistance / Awards</u></b>
+
+No Singaporean student will be denied a place in Hwa Chong Institution because of financial reasons. A range of financial assistance schemes, scholarships and awards are available to support our students.
+
+<b><u>(A)&nbsp;&nbsp; Awards and scholarships offered by MOE:</u></b>
+
+**1 \.**&nbsp;&nbsp;**[MOE Edusave Scholarships for Students of Independent Schools (ESIS)](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent)**
+
+**2 \.**&nbsp;&nbsp;**[MOE Edusave Awards](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards)**
+*   Edusave Merit Bursary (EMB)
+*   Good Progress Awards (GPA)
+*   Edusave Awards for Achievement, Good Leadership and Service (EAGLES)
+*   Edusave Character Awards (ECHA)
+
+**3 \.&nbsp; MOE Scholarships**
+
+**a.**&nbsp;**[MOE Pre-University Scholarship](https://www.moe.gov.sg/financial-matters/awards-scholarships/moe-pre-u-scholarship)**
+
+**b.**&nbsp;**[Programme-Based Scholarships](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u)**
+*   Bicultural Studies Programme (BSP) Scholarship
+*   Language Elective Scholarship
+*   Art Elective Scholarship
+*   Humanities Scholarship
+
+<b><u>(B)&nbsp; Financial Assistance Schemes:</u></b>
