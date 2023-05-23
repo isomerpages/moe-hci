@@ -159,7 +159,7 @@ Income Criteria <br>
 
 | Monthly Gross Household Income <br>(GHI)  | Monthly Gross Per Capita Income<br> (PCI)  | Benefits  |
 |:-:|---|---|
-|   |   |   |
+| <br><br><br><br><br><br>Not exceeding $3,000  | <br><br><br><br><br><br>Not exceeding $750  | *   100%&nbsp;subsidy&nbsp;of&nbsp;school fees<br>*   Free textbooks and&nbsp;school&nbsp;attire&nbsp;at Secondary&nbsp;level;&nbsp;Annual bursary&nbsp;of&nbsp;$1,200 at&nbsp;Pre-university&nbsp;level<br>*   Transport&nbsp;Subsidy (for students taking public transport):&nbsp;$17 per&nbsp;month&nbsp;from the month of&nbsp;approval, up to $204&nbsp;per annum,&nbsp;to be paid quarterly on end Apr, Jun, Sep and Dec.<br>*   School&nbsp;meal subsidies&nbsp;of&nbsp;$3.50&nbsp;per meal&nbsp;for 10 meals&nbsp;per school week&nbsp;for Secondary level, to be paid quarterly on end Apr, Jun, Sep and Dec.<br>*   UPLIFT Scholarship^ of $1,000 cash award per annum for students admitted via DSA and/or ESIS recipients  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
