@@ -66,3 +66,9 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 It is compulsory for all students to take part in the Inter-bank Giro scheme. Parents / guardians are to submit the Interbank Giro application form for the scheme upon admission of their child/ward to HCI.This is to facilitate the school to collect school fees and any other fees as may be required from time to time.
 
 The application form is available **[here](/files/hs_interbank_giro_application_form_jan_22_57d33efd75.pdf)** for download.
+
+##### <u>Financial Assistance / Awards</u>
+
+No Singaporean student will be denied a place in Hwa Chong Institution because of financial reasons. A range of financial assistance schemes, scholarships and awards are available to support our students.
+
+
