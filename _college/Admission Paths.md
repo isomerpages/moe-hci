@@ -29,3 +29,18 @@ Click **[here](/files/direct_school_admission_info_attachment_admission_year_202
 
 ##### Joint Admission Exercise
 
+The JAE is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE ‘O’ Level certificate holders to apply for admission to courses offered by:
+
+*   Junior Colleges (JC)
+*   The Millennia Institute (MI)
+*   Polytechnics (Poly)
+*   Institute of Technical Education
+
+For Joint Admissions Exercise, the following candidates were eligible to participate except those who had been successfully admitted through the Direct School Admission-Junior Colleges (DSA-JC) or Direct Polytechnic Admission (DPA):
+
+*   All Singapore Citizens (SC) or Permanent Residents (SPR) with valid Singapore-Cambridge GCE ‘O’ Level Examinations results from any year.
+*   International students studying in a Government School, Government-Aided School or Independent School in Singapore with valid Singapore-Cambridge GCE ‘O’ Level Examination results
+
+For more information, please visit the MOE website at&nbsp;[https://www.moe.gov.sg/admissions/jae](https://www.moe.gov.sg/post-secondary/admissions/jae).
+
+For more information on&nbsp;**JAE Appeal Exercise**, please click&nbsp;[here](https://www.hci.edu.sg/news/hci-college-jae-appeal-exercise-2023).
