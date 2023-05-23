@@ -129,3 +129,39 @@ One key area that has gained prominence is the adoption of fieldwork in the stud
 The syllabus for H1 and H2 Geography can be found below:<br>
 [H1 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/8813_2018.pdf) **PAGE NOT FOUND**<br>
 [H2 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/9751_2018.pdf) **PAGE NOT FOUND**
+
+----
+
+**History**
+
+In an era where national boundaries are fast disappearing in an increasingly globalised world, the need to understand the world around us has become more imperative. Towards this end, one key objective of the History Unit is to foster a keen interest among students in past and current affairs and understanding them with critical depth. Besides nurturing a passion for the subject, the Unit is also committed to developing critical thinking and analytical skills in our students. Students are encouraged to read widely and do independent research.
+
+Under the Hwa Chong Integrated Humanities Framework, Years 1-2 constitute the Exploration phase where students offer both History and Geography. Upon Entering the Development Phase in Years 3-4, students may further develop their passion by offering History either as one of the Integrated Humanities Electives or HP History under the Humanities Programme @ High School. During the Consolidation phase of Years 5-6, students are expected to be independent learners within and outside the classroom. They are exposed to the rigours of the GCE 'A' Level curriculum which demands more in-depth and considered written responses.
+
+In order to pursue our objectives, the Unit provides a myriad of opportunities for our students. Lectures are building blocks for knowledge acquisition while tutorials provide the platform for them to consolidate their knowledge and discuss issues. Students are also given opportunities to hone their examination techniques through term assignments, essay tests and examinations.
+
+Of course, the subject is not just about tomes and the dreaded examinations. A wide spectrum of co-curricular activities is available to students to pursue their passion in the subject. These include the annual model UN Conferences and various competitions organised by local varsities such as the NUS Arts Quiz and NTU Current Affairs Quiz. Attending seminars on various topics of interest also help students stay in touch with the subject in the real world context. Volunteer opportunities in local museums are also open to our students.
+
+In recent years, the Unit has taken students on overseas field trips to places of historical interest and significance. In 2005, students caught a glimpse of life after the fall of the Berlin Wall and end of the Cold War in a trip to Germany and Czech Republic. Last year, students visited the Cold War behemoth, the ex-Soviet Union in a whirlwind tour which took them to Moscow and St. Petersburg. More recently, History students visited the United States on an Integrated Humanities trip and caught a glimpse of what makes the world's remaining superpower tick. This year, we made our way to Vietnam and were marvelled at the strides this communist country has made since the introduction of reforms in the late 1980s and the resilience that Vietnamese people displayed during the Vietnam War.
+
+So, what are you waiting for? Get in here for an exciting journey through time and space.
+
+----
+
+**English Language/General Paper**
+
+The goal of the English Language Programme at HCI is to develop independent thinkers who can see the connection between language study and its application to life. A holistic educational approach ensures that students are given the freedom to intellectually grasp these relationships and apply them to authentic tasks.
+
+Adopting a multi-pronged approach, the Hwa Chong H1 General Paper curriculum comprises a broad variety of stimulating modules designed to develop all-round individuals.&nbsp; A theme-based reading and writing programme is offered at the College level, and the topics covered include the mass media, environment, science and technology, culture and tradition, politics and government, conflicts and violence, and citizenship in Singapore.
+
+Knowledge &amp; Inquiry (KI) is a multi-disciplinary H2 A-Level subject that explores the different fields of knowledge and applies various modes of inquiry to a range of issues and ideas.&nbsp; The subject aims to develop students' ability to critically evaluate arguments and engage in independent research.&nbsp; Students can offer KI as a contrasting subject.&nbsp; As the 4th H2 subject, KI will be offered by students who are academically able to cope with 4 H2 subjects on top of other H1 subjects.&nbsp; KI is also taken in lieu of General Paper.&nbsp; In Hwa Chong, we are looking for bright students who are linguistically competent and have an inquiring mind.&nbsp; KI students are expected to read widely and they must be highly proficient in written English as well as independent learners.
+
+Literature in English aims to develop in students an informed appreciation of literature and a love of reading. Students who read the subject would be equipped with literary skills to understand the nature and methods of literary study and analysis. The Literature in English programme in HCI, entails a rigorous study of the three main literary genres (Poetry, Prose, Drama), in-depth analysis of award-winning literary writers and their works, and an annual enrichment component.
+
+H2 English Language and Linguistics (ELL) exposes students to a range of linguistic concepts and methods appropriate for the analysis and study of the English language, so as to understand the contexts in which the language operates, think about the issues and debates that surround its usage, and respond critically to them. Through the study of the English language, students will develop their competence as users of English. The H2 English Language and Linguistics (ELL) programme at HCI is seminar-styled, and focuses on mastering fundamental linguistic concepts before moving on to using these concepts to explore language issues related to wider societal concerns. Independent reading and essay writing are characteristic of the subject.
+
+----
+
+**Project Work**
+
+PW is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, and critically and creatively apply it to real life situations. This process, which enhances students' knowledge and enables them to acquire skills like collaboration, communication and independent learning, prepares them for lifelong learning and the challenges ahead.
