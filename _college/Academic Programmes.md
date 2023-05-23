@@ -217,3 +217,44 @@ The aim of our Science programme is to broaden students' interests in Science by
 
 ----
 
+**Computing / Infocomm Studies**
+
+H2 Computing is designed with a focus on the disciplinarity of the subject that largely evolves around problem solving and computational thinking. It serves to provide a foundation for further study in computing-related disciplines and fields involving computer technologies and applications.
+
+As a subject in the curriculum, H2 Computing also creates opportunities for students to develop 21st Century competencies through the way students learn. These include focusing on computational thinking, project management skills, and an understanding of the ethical issues associated with the use of information communications technology.
+
+Computing students are expected to participate in computing seminars and learning journeys as part of and an extension of their learning. These aim to provide students with the latest and exciting developments in the Information communications industry and computing fields, and seek to expand students’ learning and imagination about the possibilities in Computing.
+
+----
+
+**Physical Education**
+
+**Introduction**
+
+The PE &amp; CCA Department aims to empower our young adults for the challenges ahead by providing a holistic education that encompasses health, social and mental wellbeing, engagement in lifelong learning, aesthetic appreciation, civic-mindedness and leadership development through its programs.
+
+**Our programs serve to:**
+
+1 \.  Enhance students' learning process and performance;<br>
+2 \.  Inculcate good values to our students through Character, Moral and Citizenship Education.<br>
+3 \.  Inspire the students to reach their full potential during the National School Games, Singapore Youth Festival Arts Presentation and Celebrations, as well as other Co-Curricular Activities and competitions.<br>
+4 \.  Promote healthy lifestyle and physical activity among students via the Sports For All Program.<br>
+5 \.  Promote Arts appreciation among students via the Arts For All Program.<br>
+6 \.  Inculcate the Olympic values of Friendship, Respect, and Excellence in all students.
+
+**Programs**
+
+a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE Programs
+
+Students will be furnished with the knowledge and skills in fitness management, sports and games, and health management. These are achieved via activities like dance, badminton, basketball, floorball, golf, handball, netball, soccer, softball, squash, swimming, table tennis, tennis, ultimate frisbee, volleyball, and outdoor education etc. Students will be able to apply the skills they learnt when participating in various intra-school sports events.
+
+b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership and enrichment courses
+
+The CCA committee will plan and organise various CCA leaders training program and enrichment courses&nbsp; to equip our students with relevant skills to be effective and resilient leaders.
+
+c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intra school tournaments
+
+The PE &amp; CCA Department seeks to provide all students with the opportunity to compete and excel in sports. Events such as Track and Field Meet, Sports Education Program, and the Festival of Sports (FOS) are held annually to meet the objectives of promoting healthy lifestyle activities and enhancing our&nbsp; Hwa Chong family spirit.
+
+----
+
