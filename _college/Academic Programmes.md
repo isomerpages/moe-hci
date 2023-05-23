@@ -306,3 +306,13 @@ Please access the following:<br>
 Please apply for admission via the&nbsp;[_NUS Online Application Portal_](https://myapplications.nus.edu.sg/). Submission of hardcopy documents and referee letters to NUS will no longer be required. Students are reminded to upload the necessary documents in their online applications in order for their application to be considered complete.
 
 Kindly refer to the [user guide](/files/userguide_for_local_ng_application_system_233fc435b4.pdf) for more details.
+
+**2.&nbsp;NTU-Higher 3 (H3) Taught Modules**<br>
+NTU H3 Taught Modules are by NTU lecturers and customised for JC students who have a keen interest in Molecular Biology and Semiconductor Physics &amp; Devices. Assessment in these two modules are different from the undergraduate modules.&nbsp;Lessons for Molecular Biology will be held at Nanyang Technological University (NTU), while lessons for Semiconductor Physics &amp; Devices will be held at NTU, as well as the hosting JC, Hwa Chong Institution. Examinations for both subjects will be held at the end&nbsp;of semester 1.
+
+**Period: January to May 2023**<br>
+**(Exam: Molecular Biology - 12 May 2023; Semiconductor Physics &amp; Devices - 12 May 2022)**
+
+The application period for the 2022-run of NTU-H3 Taught Modules will open&nbsp;from&nbsp;**3 October 2022**&nbsp;to&nbsp;**4 November 2022 (2359h)**.
+
+All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;&nbsp;**18 November 2022 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
