@@ -41,3 +41,20 @@ Click&nbsp;**[here](https://www.seab.gov.sg/home/examinations/gce-a-level/a-leve
 *   Gifted And Talented Education Programme (GATE)
 *   Computing Talent Programme (CTP)
 
+**[Proposed List of Standard Subject Combinations for 2023 JC 1](/files/hci_college_standard_subject_combinations_for_2023_jan_jc_1_final_ee1e16480e.pdf)** Updated Info&nbsp;Jan 2023!
+
+Please note that the list of subject combinations above is subjected to change. The list is NOT indicative of subject combinations that would be offered.
+
+During selection, JC 1 students will be able to indicate two choices of subject combinations from the standard list. Students are allowed to replace any subject offered in the combinations above with H2 Art or H2 Foreign Language, provided that two conditions are met.
+
+The two conditions are:<br>
+1 ) one of the content subjects is contrasting and; <br>
+2 ) the respective subject requirements / pre-requisites are satisfied.
+
+In addition, students can also put in an Odd Subject Combination choice (i.e. for subject combination not found in the standard list).
+
+Note: In addition to taking the above subjects, ALL students are required to take H1 General Paper (GP) and Project Work (PW). H2 Knowledge &amp; Inquiry (KI) is taken in lieu of GP.
+
+JAE students are only allowed to offer subject combinations in the stream they are posted.
+
+<b><u>Contact Us</u></b>
