@@ -62,3 +62,12 @@ JAE students are only allowed to offer subject combinations in the stream they a
 For&nbsp;<b><u>general enquiries with regard to subjects and subject combinations (for 2023 JC 1 (Yr 5)</u></b>, please email:&nbsp;[enquiryC1@hci.edu.sg](mailto:enquiryC1@hci.edu.sg)
 
 For <b><u>enquiries with regard to Special Programmes,</u></b> please email:
+
+• Mr Benjamin Hathaway:&nbsp;[benjaminhw@hci.edu.sg](mailto:benjaminhw@hci.edu.sg)&nbsp;for Humanities Programme (HP)  
+• Mr Hong Wee Seng Jeffrey:&nbsp;[hongws@hci.edu.sg](mailto:hongws@hci.edu.sg)&nbsp;for Language Elective Programme (LEP)  
+• Mr Lim Jun Hong:&nbsp;[limjh@hci.edu.sg](mailto:limjh@hci.edu.sg)&nbsp;&nbsp;for Art Elective Programme (AEP)  
+•&nbsp;Mr Hong Wee Seng Jeffrey:&nbsp;[hongws@hci.edu.sg](mailto:hongws@hci.edu.sg)&nbsp;for Bicultural Studies Programme (BSP)  
+• Mrs Phee-Tan Peh Ling:&nbsp;[tanpl@hci.edu.sg](mailto:tanpl@hci.edu.sg)&nbsp;or Ms Wang Yitian:&nbsp;[wangyt@hci.edu.sg](mailto:wangyt@hci.edu.sg)&nbsp;for Science and Mathematics Talent Programme (SMTP) and for Gifted And Talented Education Programme (GATE)  
+• Mr Ng Say Tiong:&nbsp;[ngst@hci.edu.sg](mailto:ngst@hci.edu.sg)&nbsp;or Ms Yu Qian:&nbsp;[yuqian@hci.edu.sg](mailto:yuqian@hci.edu.sg)&nbsp;for Computing Talent Programme (CTP)
+
+For <b><u>enquiries with regard to specific subjects,</u></b> please email:
