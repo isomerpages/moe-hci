@@ -87,3 +87,47 @@ The Hwa Chong Mathematics Department sees the subject as an excellent means for 
 “_The unexamined life is not worth living._” - Socrates
 
 As a subject, the Thinking Programme nurtures all Lower Secondary students to think critically and creatively (with a consistent and overt emphasis on caring thinking) across disciplines and cultures. At Secondary One, students learn to analyse and evaluate existing tomes of knowledge with thinking frameworks like Design Thinking and Paul’s Wheel of Reasoning. They then critically explore and examine Eastern and Western philosophies in both the English and Chinese language at Secondary Two. Students inquire into the meaning of their own lives and identities, using ideas like the allegory of Plato’s cave and various Confucian concepts, and build on each other’s musings through dialogue. This opportunity to be immersed in cross cultural philosophical inquiry and connect perspectives from the East and West, is what gives the Hwa Chongian the cross-cultural disposition of a true, future leader.
+
+##### Physical Education
+
+The PE &amp; CCA Department aims to prepare our young adults for the challenges ahead by cultivating lifelong recreational involvement, aesthetic appreciation, civics mindedness and leadership qualities in our students through the PE and CCA programs.
+
+Our programmes serve to:
+
+*   Enhance students' learning process and performance
+*   Provide opportunities for developing values such as sportsmanship, celebrating victories, handling defeat graciously and building self-esteem
+*   Promote a healthy lifestyle among students by attaining balance physically, physiologically, emotionally, mentally and socially
+
+Through our Sports For All Program, we aim to:
+
+1 \.  Engage students in 1 or 2 sports which they can eventually play when they leave HCI.<br>
+2 \.  Provide opportunities for students to gain an in-depth knowledge of 1 to 2 sports that they are interested in.<br>
+3 \.  Provide an avenue for students to engage in competition at inter-class and inter-cca level through internal competitions such as the SHAW League and FOSHA (Festival of Sports, Health and Arts)
+
+CCAs or Co-Curricular Activities are also an integral part of every student’s life in Hwa Chong. We offer a wide range of CCAs over four main categories: Sports &amp; Games, Performing Arts, Clubs &amp; Societies and Uniformed Groups.&nbsp;
+
+Various CCA activities aim to provide avenues for students to discover their interests and develop their talents. In time, we hope that the skills and lessons learnt will encourage all Hwa Chong students to lead a balanced and purposeful life, anchored in our values of 自强不息，饮水思源and Win-Win (己立立人，己达达人）.
+
+##### Infocomm Studies
+
+The HCI Infocomm Programme is a 4-year programme aimed at broadening and deepening students’ understanding in the field of Info-Communications. It provides a seamless integration with Computing at Years 5 and 6. This programme develops important skills such as computational thinking and analytical thinking. These skill sets are essential when it comes to nurturing a pipeline of ICT talents for Singapore as Singapore gears towards a Smart Nation.
+
+The lower secondary curriculum provides a broad-based education that lays the necessary foundation for subsequent rigours at upper secondary level. As a compulsory subject for lower secondary students, the termly modules expose the students to programming languages such as C++ and Python, Java scripting and Artificial Intelligence. Students with a deep interest, passion and ability can also choose to further study the subject of Computing at upper secondary level. Computing at Upper Secondary is designed to focus on the core aspect of problem solving. There is also a strong focus on the use of the computer and its associated applications. Hence, this subject exposes students to the hardware, technology and related devices and peripherals so that they are prepared for full challenges awaiting them in the real world setting.
+
+##### Sabbatical Programme
+
+A unique feature of the Hwa Chong Integrated Programme, the Hwa Chong Sabbatical Programme enables students from Sec. 1 to Sec. 4 to go on sabbatical courses for one week per term, in Term 1 and Term 2. The school organizes Sabbaticals with the aim of creating space for students to pursue their respective areas of passion. During the Sabbaticals, formal lessons are replaced by enrichment programmes.
+
+There are various areas of programmes for students to select from each term, the broad categories comprise the following - Arts &amp; Aesthetics, Chinese Studies, Humanities, English Language &amp; Literature, Leadership, Technology, Science and Math, Leadership Camps and Student Exchanges. All students are engaged in a range of activities beyond the curriculum to further broaden their educational experiences. This allows them to explore their diverse interests and have fun all at once.
+
+Students will bid for their sabbatical courses every term, using the&nbsp;[i-ComP](http://spop.hci.edu.sg/). **SITE CANT REACH**
+
+##### Project Work
+
+Project Work (PW) is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, and critically and creatively apply it to real life situations. This process, which enhances students' knowledge and enables them to acquire skills like collaboration, communication and independent learning, prepares them for lifelong learning and the future challenges ahead.&nbsp;&nbsp;
+
+Under the Project Work (PW) programme, students are able to work collaboratively on any area of interest, be it contribution to the community, conducting scientific, humanities or linguistic research and shedding light on an academic topic or solving a current societal issue and more. Students take charge of their learning from Secondary One, and embark on a year-long journey of imaginative and innovative inquiry with the guidance of teacher- or expert-mentors. Indeed, the PW programme often forms a springboard for Hwa Chongians’ stellar achievements on the national and international fronts, with projects obtaining recognition at highly competitive Future Problem Solving competitions, Intelligent Ironman Creativity Contests, International Science &amp; Engineering Fairs and the Gifted Education Branch’s Humanities and Social Sciences Research Programme Symposium, to name a few.
+
+##### Malay Special Programme
+
+The Malay Special Programme (MSP) contributes to Hwa Chong students’ cross-cultural leadership and perspectives in multiple ways. Firstly, it ensures that every Hwa Chong student will graduate with basic proficiency in Malay. This is because all Hwa Chongians learn the language, as well as the accompanying Malay culture and customs, at Secondary Two. Secondly, students interested in pursuing the Malay language further can study it as a Third Language with our in-house&nbsp;_cikgus_. It is an experience that goes beyond the classroom, as MSP students are able to enjoy a myriad of opportunities for sustained, meaningful interaction with the language and culture. These include Scrabble challenges, cultural immersions, oratorical competitions, and chances to lead the MSP student community in inter-school activities that enable them to share their love for the language.
