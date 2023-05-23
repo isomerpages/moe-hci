@@ -1,4 +1,5 @@
 collections:
   school-portals:
     output: true
-    order: []
+    order:
+      - Student/.keep
