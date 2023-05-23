@@ -58,3 +58,7 @@ Note: In addition to taking the above subjects, ALL students are required to tak
 JAE students are only allowed to offer subject combinations in the stream they are posted.
 
 <b><u>Contact Us</u></b>
+
+For&nbsp;<b><u>general enquiries with regard to subjects and subject combinations (for 2023 JC 1 (Yr 5)</u></b>, please email:&nbsp;[enquiryC1@hci.edu.sg](mailto:enquiryC1@hci.edu.sg)
+
+For <b><u>enquiries with regard to Special Programmes,</u></b> please email:
