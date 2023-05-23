@@ -297,3 +297,12 @@ Selection is based on good JC1 overall results, at least 'B' grade in the respec
 |:-:|---|---|---|---|---|
 | 1  | Geopolitics: Geographies of  <br>War &amp; Peace  | GEC1007  | U501  | Arts &amp; Social Sciences (FASS)  | History or Geography  |
 |   |   |   |   |   |   |
+
+Please access the following:<br>
+[NUS 2023 H3 Programme Synopses](/files/nus_h3_programme_synopsis_sem_2_ay_2022_23_53a39e855d.pdf)<br>
+[Details of 2023 NUS H3 Timetable and Test/Exam Schedule](/files/nus_h3_programme_timetable_sem_2_ay_2022_23_a483190893.pdf)
+
+**Application Procedures for NUS H3 modules**<br>
+Please apply for admission via the&nbsp;[_NUS Online Application Portal_](https://myapplications.nus.edu.sg/). Submission of hardcopy documents and referee letters to NUS will no longer be required. Students are reminded to upload the necessary documents in their online applications in order for their application to be considered complete.
+
+Kindly refer to the [user guide](/files/userguide_for_local_ng_application_system_233fc435b4.pdf) for more details.
