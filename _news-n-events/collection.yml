@@ -2,6 +2,6 @@ collections:
   news-n-events:
     output: true
     order:
-      - 20th Hwa Chong Model Asean Summit @ Hwa Chong.md
       - News & Events.md
       - HCI (College)  DSA JC exercise 2023.md
+      - 20th Hwa Chong Model Asean Summit @ Hwa Chong.md
