@@ -55,4 +55,4 @@ There are various areas of programmes for students to select from each term, nam
 
 <img style="width:85%" src="/images/sabbaticalprog.jpg">
 
-Students will bid for their sabbatical courses every term, using the&nbsp;[i-ComP](http://spop.hci.edu.sg/). **SITE NOT FOUND***
+Students will bid for their sabbatical courses every term, using the&nbsp;[i-ComP](http://spop.hci.edu.sg/). **SITE NOT FOUND**
