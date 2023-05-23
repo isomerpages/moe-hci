@@ -74,3 +74,5 @@ Note:&nbsp;There are some exceptions to the above academic assessment structure,
 |:-:|---|---|---|
 | 15%  | 15%  | 15%  | 55%  |
 |   |   |   |   |
+
+<center><b><u>Promotion Criteria<br>Secondary 1 to 4</u></b></center>
