@@ -74,18 +74,18 @@ For <b><u>enquiries with regard to specific subjects,</u></b> please email:
 
 |   |   |   |
 |:-:|---|---|
-| General Paper / English Literature  |   |   |
-| Project Work  |   |   |
-| Chinese (CL, CLL, CSC, TRC)  |   |   |
-| Mathematics  |   |   |
-| Economics  |   |   |
-| Biology  |   |   |
-| Chemistry  |   |   |
-| Physics  |   |   |
-| Knowledge &amp; Inquiry (KI)  |   |   |
-| English Language &amp; Linguistics (ELL)  |   |   |
-| Geography  |   |   |
-| History  |   |   |
-| Art  |   |   |
-| Computing  |   |   |
+| General Paper / English Literature  | Mrs Chan-Lim Yin Shin  |   |
+| Project Work  | Mdm Tan Keng Hwee  |   |
+| Chinese (CL, CLL, CSC, TRC)  | Mr Hong Wee Seng Jeffrey  |   |
+| Mathematics  | Mr Ng Say Tiong  |   |
+| Economics  | Ms Lee Qing Fen Cheryl  |   |
+| Biology  | Mrs Foo-Lam Woon Keat  |   |
+| Chemistry  | Mrs Cheng-Liau Ming Lee  |   |
+| Physics  | Mr Tang Koon Loon  |   |
+| Knowledge &amp; Inquiry (KI)  | Mr Tan Wah Jiam  |   |
+| English Language &amp; Linguistics (ELL)  | Mdm Madihah Bte Mahmood  |   |
+| Geography  | Mrs Chua-Ngui Li Young  |   |
+| History  | Mr Ong Hong Chin Ian  |   |
+| Art  | Mr Lim Jun Hong  |   |
+| Computing  | Ms Yu Qian  |   |
 |   |   |   |
