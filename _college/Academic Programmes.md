@@ -351,3 +351,25 @@ The following table shows the various modules offered for H3 research programme 
 | 4  | NTU-MOE Nanyang Research Programme (NTU-MOE NRP)  | T001  | NTU labs  | Starts in JC1 Term 2 (March) and expect to complete research by JC2 Term 2 (April)  | Science subject(s) and Math  |
 |   |   |   |   |   |   |
 
+**(C)&nbsp;MOE-CAMBRIDGE H3 Subjects**<br>
+These subjects are developed by MOE in collaboration with the University of Cambridge Local Examinations Syndicate, taught by HCI lecturers and examined by Cambridge International Examinations (CIE), UK. Students will sit for a written examination that includes the GCE A-level subject papers in the year-end written examination at the end of JC2. For students who are required to submit independent research essays, the final submission to SEAB is in early Term 4, 2023.&nbsp;
+
+Online application (via ISP) starts on&nbsp;**26 October 2022 to**&nbsp;**28 October 2022**. Selection is done by HCI H3 Selection Committee and the eligibility list of students will be released via ISP by&nbsp;**18**&nbsp;**November 2022 (12pm onwards)**.
+
+[GCE A-Level Syllabuses Examined in 2023: H3 Subjects (MOE-Cambridge)](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2022) **PAGE NOT FOUND**
+
+**Note: All H3 lessons start in 2023 Term 1 Week 1 (from Monday**&nbsp;**09**&nbsp;**Jan 2023).**&nbsp;_However, some of H3 subjects (for instance, H3 Biology) may have lessons in Nov 2022. You will be informed through the subject coordinators._
+
+| **No**  | **MOE-Cambridge**  <br>**H3 subject**  |**Subject Code**   | **Associated MOE-Cambridge**  <br>**H2 Subject**  |
+|:-:|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
