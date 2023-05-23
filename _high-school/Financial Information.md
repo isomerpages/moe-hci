@@ -71,4 +71,33 @@ The application form is available **[here](/files/hs_interbank_giro_application_
 
 No Singaporean student will be denied a place in Hwa Chong Institution because of financial reasons. A range of financial assistance schemes, scholarships and awards are available to support our students.
 
+<b><u>(A)&nbsp;&nbsp; Awards and scholarships offered by MOE:</u></b>
 
+1 \. **[MOE Edusave Scholarships for Students of Independent Schools (ESIS)](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent)**<br>
+2 \. **[MOE Edusave Awards](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards)**
+*   Edusave Merit Bursary (EMB)
+*   Good Progress Awards (GPA)
+*   Edusave Awards for Achievement, Good Leadership and Service (EAGLES)
+*   Edusave Character Awards (ECHA)
+
+3 \. **MOE Special Programme Scholarships**
+*   [Art Elective Programme (AEP)](https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Art%20Programmes&amp;subterm=Art%20Elective%20Programme%20(AEP))
+*   [Programme-Based Scholarships](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships)
+*   [Bicultural Studies Programme (BSP) Scholarships](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships)
+*   [Language Elective Scholarships](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships)
+
+<b><u>(B)&nbsp; Financial Assistance Schemes:</u></b>
+
+1 \.&nbsp;**Independent Schools Bursary Scheme (ISB)**<br>
+\- For Singaporean Citizens only (details please refer to ISB Section)
+
+2 \. **Hwa Chong Institution Needy Pupils Fund**<br>
+\- For all students
+
+3 \. **Opportunity Fund (OF) / MOE Discretionary School-Based FAS**<br>
+\- For Singapore Citizen, to fund overseas study trips, enrichment programme
+
+Students who require financial assistance at any point of time can approach either their Form teachers or Education Consultant of their Consortium for advice on the application for the above.
+
+4 \. **Trip for Internationalization Experience (TIE)**<br>
+&nbsp;\- For Singapore Citizens, provides subsidy for overseas learning journeys to Asia with a focus on ASEAN countries, school immersion programmes and student exchange programmes with a cultural focus. TIE fund needs no application and is granted to all Singaporean students who are going on eligible overseas trips.
