@@ -76,3 +76,12 @@ Note:&nbsp;There are some exceptions to the above academic assessment structure,
 |   |   |   |   |
 
 <center><b><u>Promotion Criteria<br>Secondary 1 to 4</u></b></center>
+
+| Level  | Promotion Criteria  | Promotion Criteria  | Placement  |
+|:-:|---|---|---|
+|   | Mean Subject Grade (MSG)  | Languages<br>\[English and&nbsp;<br>Higher Chinese\]  |   |
+| Sec 1  | \*MSG&nbsp;&lt;&nbsp;6  | C6  | MSG ≤6.00&nbsp;®S2-IP  |
+| Sec 2  | \*\*MSG&nbsp;&lt;&nbsp;4  | C6  | MSG ≤4.00&nbsp;®S3-IP  |
+| Sec 3  | \*\*\*MSG&nbsp;&lt;&nbsp;3  | C6  | MSG ≤3.00&nbsp;® S4-IP<br><br>MSG &gt; 3.00&nbsp;® O-Level Class#  |
+| Sec 4  | \*\*\*MSG&nbsp;&lt;&nbsp;3  | C6  | MSG ≤3.00&nbsp;® College 1<br><br>(%MSG ≤2.5 can take 4H2)  |
+|   |   |   |   |
