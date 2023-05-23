@@ -112,3 +112,27 @@ Students who require financial assistance&nbsp;<b><u>at any point of time</u></b
 **5 \.**&nbsp;&nbsp;**[IDA’s NEU PC Plus Programme](https://www.imda.gov.sg/programme-listing/neu-pc-plus)**
 
 <b><u>(C)&nbsp; Other Bursary and Scholarship schemes:</u></b>
+*   HCJC Alumni Bursary
+*   The Straits Times School Pocket Money Fund
+*   Singapore Buddhist Lodge Bursary
+*   Loo Geok Eng Foundation Scholarship
+*   Tan Sri Dr Tan Chin Tuan Scholarship
+*   Seah Boon Thong Book Prize
+*   Lin Hsiang Scholarship
+*   Singapore Buddhist Youth Mission Bursary Award
+*   Youth Empowering and Aspiration Programme (YEAP)
+
+Students and parents will be notified of application times on IEMB, ISP and other communication channels used by the School.
+
+<b><u>(D)&nbsp; Awards (Only through nomination by school):</u></b>
+*   Hwa Chong Ang Wee Hiong All-Round Excellence Award
+*   Hon Chiew Weng Science Research Award
+*   SCCCI Academic Excellence Award
+*   Lim Nan Tian Community Service Award
+*   Ong Teng Cheong Outstanding Leadership Award
+*   Model Student Councilor Award
+*   Annie Tan Bilingual Award
+*   Tan Keong Choon Award
+*   Computing @ SMU Award
+*   HCI ECHA Award
+
