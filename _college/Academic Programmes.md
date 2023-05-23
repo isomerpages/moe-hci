@@ -94,7 +94,8 @@ Note: Responses to enquiries in the month of December may be delayed due to the 
 
 ##### Subjects Offered
 
-**Economics**<br>
+**Economics**
+
 The Economics Unit in Hwa Chong comprises a team of dynamic professionals dedicated to the teaching of Economics as a life subject. Economics is not just a collection of facts but a unified approach to thinking about the world. The theory of Economics is an apparatus of the mind or a technique of thinking which helps us make rational decisions. With these requirements in mind, the Economics Unit provides a rigorous course to equip students with the skills necessary for economics awareness and competence. This course imparts both intellectual as well as citizenship training through a well-planned syllabus to promote understanding of the very processes and issues that affect their lives as citizens and students. In addition, Economics Exco was set up to expose students to a range of enriching experiences such as participation in nation-wide competitions, publication of newsletters and trips to overseas to EU and Universities for Summer Programmes. The greatest reward of this course is a better understanding of how the world works.
 
 ----
@@ -165,3 +166,54 @@ H2 English Language and Linguistics (ELL) exposes students to a range of linguis
 **Project Work**
 
 PW is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, and critically and creatively apply it to real life situations. This process, which enhances students' knowledge and enables them to acquire skills like collaboration, communication and independent learning, prepares them for lifelong learning and the challenges ahead.
+
+In summary, PW teaches students about:
+*   thinking
+*   research
+*   problem-solving
+*   public presentation
+
+----
+
+**Chinese Language**
+
+中国的改革开放带动了神州大地各行各业的蓬勃发展，市场经济的欣欣向荣，也带动了全球多个国家对中华语言文化的探讨与学习。在全球化的时代背景下，学习中华语言文化已不再仅仅是炎黄子孙的自家事，而是让我们“睁眼看世界”的一把钥匙。江水滔滔，势不可当，我们惟有奋起直追，才能免于落后。
+
+在华中，我们一向注重栽培精通中英双语文双文化的人才。近年来，我们的毕业生也凭借着自身双语文双文化的优势，在公共服务、教育、文化、传播、商业、企业等领域表现杰出，为国家的长远发展做出贡献。
+
+高中母语部就以此为目的，开设了语文特选课程、双文化课程、H2/H3华文与文学、H2中国通识、H1理解与写作与H1华文等以中文为媒介语的特别课程与学科。其中，我们的语文特选课程和双文化课程的目标就是为我国培养精通双语而且学贯中西的人才，进一步巩固与加强我国作为东西方文化枢纽的地位，并奠定国家长远的发展基础。
+
+----
+
+**Art**
+
+At Hwa Chong, the philosophy of art education is to encourage students to develop their creative identity. The Art Elective Programme (AEP) is offered to selected students demonstrating a talent for the Visual Arts and prepares them in art appreciation, theory of art (Theory) and in practice (Studio) over the span of two years.&nbsp; The course develops students not only for practical aspects of art production but also a theoretical and critical understanding of the context of its making. AEP Students will take H2 Art and H3 Art.
+
+----
+
+**Humanities Programme**
+
+As the first institution chosen by the Ministry of Education for the Humanities Scholarship Programme Hwa Chong has established and maintained its position as a leading centre for successful applications to top universities around the world.
+
+Since the Programme’s inception in 1981 more than 300 alumni have graduated from Oxford and Cambridge alone, and in recent years an impressive record of admissions has been built up with the Ivy League institutions of the USA as well.
+
+Undoubtedly, the source of this success lies with the Programme’s tutors who are not only unrivalled in their specialist subject skills but also in the university placement and scholarship advice that they have to offer.
+
+----
+
+**Mathematics**
+
+The Hwa Chong Mathematics Department sees the subject as an excellent means for the development of an individual's intellectual ability in logical reasoning, spatial visualisation, and abstract thought. It is our belief that a strong foundation in Mathematics is crucial to the development of not only a highly skilled but scientifically- and technologically- competent workforce that can meet the challenges of the 21st century. From Years 1 to 4, we focus on developing students’ critical and creative skills and their ability to communicate and reason mathematically, through the use of an inquiry based approach with ICT infusion. We also foster a conducive environment that provides students with opportunities to use Mathematics in solving real-world problems and doing in-depth research in projects. In moving learning beyond the classroom, we hope to instill in students the spirit of continual and inquiry learning and an appreciation of the beauty and value of mathematics.
+
+----
+
+**Science**
+
+The Hwa Chong Integrated Programme for Science is implemented across 6 years.&nbsp; Our integrated framework provides a dynamic learning environment for students with an aptitude and interest in Mathematics and Science.&nbsp; Special emphasis is placed on the mastery of fundamental knowledge and experimental skills.&nbsp; Our plan is to further integrate the Mathematics and Science disciplines to foster an appreciation of how they work together and form a whole.
+
+In a tripartite collaboration with A\*STAR and NTU, Hwa Chong also offers research electives based on the H3 module to encourage new and independent modes of learning and exploration.&nbsp; Each JC student is matched with a mentor depending on interest, and engages in collaborative research with leading scientists and researchers working on real-world scientific problems.
+
+The aim of our Science programme is to broaden students' interests in Science by providing a stimulating environment that will enrich their basic Science training.&nbsp; Besides exposure to major advances in the life sciences and new technologies, students will be trained to think critically and independently.
+
+----
+
