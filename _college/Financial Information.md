@@ -184,3 +184,12 @@ The policies offer&nbsp;<u>basic</u>&nbsp;coverage to help defray&nbsp;<u>partia
 While students need not pay for PA policy; the premium for Travel Insurance is chargeable on a per trip basis and included in the overseas trip cost.
 
 **(I) Students’ Accident Protection Scheme**
+
+|   |   |
+|:-:|---|
+| Insurer  | Lonpac Insurance Bhd  |
+|Insurance Broker  | AB Lim Pte Ltd  |
+| Coverage  | 24 hours coverage for all school activities and/or CCAs both in and out of school.  |
+| Claim Procedure  | 1 \.  Report to AB Lim (via online reporting at&nbsp;[www.ablim.com.sg](http://www.ablim.com.sg/), email, fax or phone) within 31 days from date of accident.<br>2 \. Details on the insurance coverage; claim procedure and AB Lim’s contacts can be found together with the Claim form, downloadable **[here](/files/students_pa_2023_benefits_and_claim_form_fea615995c.pdf)**<br>3 \. The required supporting documents are as follow:   |
+|   |   |
+|   |   |
