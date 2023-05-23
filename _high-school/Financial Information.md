@@ -101,3 +101,16 @@ Students who require financial assistance at any point of time can approach eith
 
 4 \. **Trip for Internationalization Experience (TIE)**<br>
 &nbsp;\- For Singapore Citizens, provides subsidy for overseas learning journeys to Asia with a focus on ASEAN countries, school immersion programmes and student exchange programmes with a cultural focus. TIE fund needs no application and is granted to all Singaporean students who are going on eligible overseas trips.
+
+<b><u>(C)&nbsp; Other Bursary and Scholarship schemes:</u></b>
+
+1 \.  Singapore Buddhist Lodge Bursary<br>
+2 \.  CDAC-SFCCA Bursary<br>
+3 \.  The Straits Times School Pocket Money Fund<br>
+4 \.  Koh Brothers Scholarship<br>
+5 \.  Koh Choon Joo Scholarship<br>
+6 \.  Tan Sri Dr Tan Chin Tuan Scholarship<br>
+7 \.  Irene Tan Liang Kheng Scholarship (from Yr 2020)<br>
+8 \.  Hwa Chong Institution Motivation Award<br>
+9 \.  Popular Bookshop Text Books Vouchers<br>
+10 \.  Singapore Buddhist Youth Mission Bursary Award
