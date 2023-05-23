@@ -89,3 +89,14 @@ For <b><u>enquiries with regard to specific subjects,</u></b> please email:
 | Art  | Mr Lim Jun Hong  | [limjh@hci.edu.sg](mailto:limjh@hci.edu.sg)  |
 | Computing  | Ms Yu Qian  | [yuqian@hci.edu.sg](mailto:yuqian@hci.edu.sg)  |
 |   |   |   |
+
+Note: Responses to enquiries in the month of December may be delayed due to the school holidays.
+
+##### Subjects Offered
+
+**Economics**<br>
+The Economics Unit in Hwa Chong comprises a team of dynamic professionals dedicated to the teaching of Economics as a life subject. Economics is not just a collection of facts but a unified approach to thinking about the world. The theory of Economics is an apparatus of the mind or a technique of thinking which helps us make rational decisions. With these requirements in mind, the Economics Unit provides a rigorous course to equip students with the skills necessary for economics awareness and competence. This course imparts both intellectual as well as citizenship training through a well-planned syllabus to promote understanding of the very processes and issues that affect their lives as citizens and students. In addition, Economics Exco was set up to expose students to a range of enriching experiences such as participation in nation-wide competitions, publication of newsletters and trips to overseas to EU and Universities for Summer Programmes. The greatest reward of this course is a better understanding of how the world works.
+
+----
+
+**Geography**
