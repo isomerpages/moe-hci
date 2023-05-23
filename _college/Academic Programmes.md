@@ -545,3 +545,9 @@ _(ii) A General Paper pass (A to E grade) is also equivalent to a H2 sub-pass (S
 (i.e. more than 3 H2 and 1 H1 subjects \[10 academic units\])
 
 Students are allowed to offer the expanded curriculum in JC 2 provided the following minimum criteria, based on the overall JC1 results, are met. Otherwise, they will have to abide by the corresponding actions recommended.
+
+| No  | Curriculum taken in JC 1  | Minimum criteria  | Action recommended if criteria are not met  | Recommended curriculum in JC 2  |
+|:-:|---|---|---|---|
+| 1  | 4 H2 + 1 H1 <br>(12 units)  | Pass in three H2 subjects  | Drop one non-contrasting subject.  | 4 H2 (11 units) or&nbsp;&nbsp; 3 H2 + 1 H1&nbsp; (10 units)  |
+| 2  |  4 H2&nbsp;&nbsp;<br>(11 units) | Pass in three H2 subjects  | Down-grade one H2 subject to H1  | 3 H2 + 1 H1&nbsp; (10 units)  |
+|   |   |   |   |   |
