@@ -2,6 +2,7 @@ collections:
   college:
     output: true
     order:
+      - CCAS.md
       - Academic Programmes.md
       - Admission Paths.md
       - Financial Information.md
