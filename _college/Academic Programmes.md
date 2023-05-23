@@ -316,3 +316,24 @@ NTU H3 Taught Modules are by NTU lecturers and customised for JC students who ha
 The application period for the 2022-run of NTU-H3 Taught Modules will open&nbsp;from&nbsp;**3 October 2022**&nbsp;to&nbsp;**4 November 2022 (2359h)**.
 
 All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;&nbsp;**18 November 2022 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
+
+| **No**  | **NTU H3 Module Title**  | **Subject Code**  | **Hosting School**  | **Associated H2**  |
+|:-:|---|---|---|---|
+| 1  | Molecular Biology  | T101  | NTU  | Biology  |
+| 2  | Semiconductor Physics &amp; Devices  | T302  | NTU &amp; HCI  | Physics  |
+|   |   |   |   |   |
+
+*   The module overview for the NTU-H3 Taught Modules on offer in 2023 can be accessed here:&nbsp;[https://www.ntu.edu.sg/education/talent-outreach/h3-taught/application](https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications)
+*   Before applying for the NTU-H3 Taught Modules, you should go to&nbsp;[Applying for an NTU-H3 Taught Module](https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications)&nbsp;to watch the video and go through the relevant information to understand more about the NTU-H3 Taught Modules before you proceed with the application.
+*   The online e-application portal can be accessed here:&nbsp;[**https://tinyurl.com/NTUH3-2023**](https://tinyurl.com/NTUH3-2023)
+
+----
+
+**3 \. SMU H3 Game Theory Module**<br>
+This course provides an introduction to Game Theory. Game theory deals with decisions of conflict and cooperation between equally intelligent individuals. In such a context each party needs to take into account the decision that the other will take, before choosing the best plan of action.
+
+**Period: January to April 2023 (Exam: 15 April 2023)**
+
+The SMU Game Theory application period will open on&nbsp;**3 October 2022 to 04 November 2022 (noon)**. Please note that&nbsp;**HCI’s internal deadline is**&nbsp;**04 November 2022, 10am @ College Reception**.
+
+Please access the following :
