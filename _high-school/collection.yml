@@ -2,8 +2,8 @@ collections:
   high-school:
     output: true
     order:
-      - CCA.md
       - Academic Programmes.md
       - Assessment and Promotion Criteria.md
       - Admission Routes.md
       - Financial Information.md
+      - CCA.md
