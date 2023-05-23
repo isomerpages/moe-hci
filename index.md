@@ -14,4 +14,6 @@ sections:
         options:
           - title: EXPLORE LIVE WITH PASSION
             url: /explore-livewithpassion/
+          - title: NEWS & EVENTS
+            url: ""
 ---
