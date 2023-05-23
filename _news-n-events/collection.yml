@@ -2,6 +2,8 @@ collections:
   news-n-events:
     output: true
     order:
+      - Class of 2022 Overcomes Formidable Challenges to Demonstrate Holistic
+        Excellence.md
       - News & Events.md
       - HCI (College)  DSA JC exercise 2023.md
       - 20th Hwa Chong Model Asean Summit @ Hwa Chong.md
