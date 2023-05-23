@@ -523,3 +523,25 @@ The following reasons may be considered&nbsp;**valid**&nbsp;for exemption.
 | (iii) Compassionate Grounds<br><br>(e.g. death of NOK)  | Students should inform their Civics Tutors as soon as possible and submit the relevant documents upon return to college.  |
 |   |   |
 
+Students who are absent from Block tests with valid reasons&nbsp;<u>are required to attempt the paper as an exercise</u>&nbsp;and submit to teachers for grading. The marks will not be counted towards the final grade.
+
+Students who absent without a valid reason will be given&nbsp;**zero**&nbsp;mark for that paper followed by disciplinary actions.
+
+**Promotional Criteria for JC1**
+
+Students will be promoted to JC 2 if they meet the following&nbsp;_**minimum criteria**_&nbsp;based on the Overall JC1 results:-
+
+*   Two H2 pass (E-grade)
+
+OR
+
+*   One H2 pass (E-grade) and two H2 sub-pass (S-grade)
+
+_**Note:**_ <br>
+_(i)&nbsp; A H1 content subject pass (A to E grade) is equivalent to a H2 sub-pass (S-grade)_<br>
+_(ii) A General Paper pass (A to E grade) is also equivalent to a H2 sub-pass (S-grade)_
+
+**Criteria to continue taking the expanded curriculum**&nbsp; <br>
+(i.e. more than 3 H2 and 1 H1 subjects \[10 academic units\])
+
+Students are allowed to offer the expanded curriculum in JC 2 provided the following minimum criteria, based on the overall JC1 results, are met. Otherwise, they will have to abide by the corresponding actions recommended.
