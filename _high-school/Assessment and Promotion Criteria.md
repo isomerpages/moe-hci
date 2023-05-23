@@ -67,3 +67,10 @@ Note:&nbsp;There are some exceptions to the above academic assessment structure,
 |:-:|---|---|---|
 | 15%  | 15%  | 2 X 15%  | 40%  |
 |   |   |   |   |
+
+<center><b><u>Sec 3 &amp; 4 Social Studies Assessment Structure</u></b></center>
+
+| Common Test  | Alternative Assessment  | Issue Investigation  |  Examination  |
+|:-:|---|---|---|
+| 15%  | 15%  | 15%  | 55%  |
+|   |   |   |   |
