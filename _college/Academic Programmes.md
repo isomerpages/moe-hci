@@ -118,3 +118,14 @@ Theme 3 : Sustainable Development <br>
 Theme 4 : Geographical Investigation
 
 At Hwa Chong, we also aim to develop students with a global perspective, imbued with the spirit of inquiry and empathy which would enable them to respond to on-going changes. Tutors actively integrate critical thinking and problem-solving skills into content learning. They facilitate experiential learning to promote creativity and make Geography come alive. IT is also employed to enhance learning.&nbsp; These emphases are in line with the&nbsp;**Desired Outcomes of Education (DOE)**. Upon completion of their formal education, Geography students should emerge as a/an:
+
+1 \.&nbsp;**confident person**&nbsp;who has a strong sense of right and wrong, is adaptable and resilient, knows himself/herself, is discerning in judgement, thinks independently and critically, and communicates effectively; <br>
+2 \.&nbsp;**self-directed learner**&nbsp;who questions, reflects, perseveres and takes responsibility for his/her own learning;<br> 
+3 \.&nbsp;**active contributor**&nbsp;who is able to work effectively in teams, is innovative, exercises initiative, takes calculated risks and strives for excellence; and <br>
+4 \.&nbsp;**concerned citizen**&nbsp;who is rooted to Singapore, has a strong sense of civic responsibility, is informed about Singapore and the world, and takes an active part in bettering the lives of others around him/her.
+
+One key area that has gained prominence is the adoption of fieldwork in the study of Geography. Local field studies and overseas field trips are conducted each year in connection with topics covered during the course.&nbsp; These are efforts made to address the requirements of the theme on Geographical Investigation.&nbsp; All students will embark on detailed studies of both physical and human phenomena such as flooding and activities involving transnational corporations.&nbsp;
+
+The syllabus for H1 and H2 Geography can be found below:<br>
+[H1 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/8813_2018.pdf) **PAGE NOT FOUND**<br>
+[H2 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/9751_2018.pdf) **PAGE NOT FOUND**
