@@ -21,3 +21,5 @@ Singapore S(269734)
 Tel: 6468 3955<br>
 Fax: 6769 5857<br>
 Email: [admin@hci.edu.sg](mailto:admin@hci.edu.sg)
+
+<img style="width:85%" src="/images/hcimap.jpg">
