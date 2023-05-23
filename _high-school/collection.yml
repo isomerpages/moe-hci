@@ -2,6 +2,7 @@ collections:
   high-school:
     output: true
     order:
+      - Financial Information.md
       - Academic Programmes.md
       - Assessment and Promotion Criteria.md
       - Admission Routes.md
