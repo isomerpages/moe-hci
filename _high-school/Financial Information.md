@@ -41,7 +41,7 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 
 |   |   |
 |:-:|---|
-| Month  | Date of Giro Collection  |
+| **Month**  | **Date of Giro Collection**  |
 | Jan-Feb-23  | 30 Mar 2023  |
 | Mar-Apr-23  | 27 Apr 2023  |
 | May till Sep-23  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
@@ -51,3 +51,18 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 |   |   |
 
 <b><u>Giro Collection Dates For Sec 2 to 4 school fees</u></b><br>
+
+|   |   |
+|:-:|---|
+| **Month**  | **Date of Giro Collection**  |
+| Jan till Sep-23  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
+| Oct-23  | 02 Oct 2023  |
+| Nov-23  | 16 Oct 2023  |
+| Dec-23  | 01 Nov 2023  |
+|   |   |
+
+<b><u>Interbank Giro Application Form</u></b><br>
+
+It is compulsory for all students to take part in the Inter-bank Giro scheme. Parents / guardians are to submit the Interbank Giro application form for the scheme upon admission of their child/ward to HCI.This is to facilitate the school to collect school fees and any other fees as may be required from time to time.
+
+The application form is available **[here](/files/hs_interbank_giro_application_form_jan_22_57d33efd75.pdf)** for download.
