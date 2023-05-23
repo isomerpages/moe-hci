@@ -19,3 +19,10 @@ Click&nbsp;**[here](https://www.seab.gov.sg/home/examinations/gce-a-level/a-leve
 **[NTU's Courses Pre-requisites](http://admissions.ntu.edu.sg/UndergraduateAdmissions/Pages/ALevel.aspx)** **PAGE NOT FOUUND**<br>
 **[SMU's Courses Pre-requisites](http://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-a-level)**<br>
 **[SUTD's Admission Requirements](http://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admissions-Requirements/Singapore-Cambridge-GCE-A-Level)**
+
+**\* Students considering an overseas education may use the local university pre-requisites as a guide or check the respective overseas universities’ websites for admission information.**
+
+**Links to the 'indicative grade point' for admission to courses in NUS, NTU and SMU are provided below. Based on 3H2 and 1H1 with GP and PW set at grade C.**
+
+**[Indicative Grade point for NUS](http://www.nus.edu.sg/oam/gradeprofile/sprogramme-igp.html)**<br>  **[Indicative Grade point for NTU](https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile)**<br> 
+**[Indicative Grade point for SMU](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)**
