@@ -468,3 +468,24 @@ _Assessment weighting of JC2 (only for 2019)_
 
 **Grading scheme** <br>
 Grade Scheme for H1 and H2 content- based subjects
+
+| **Achievement Grades**  | **Mark Range**  |  **Remarks** |
+|:-:|---|---|
+| A  | 70 - 100  | Excellent  |
+| B  | 60&nbsp;- 69  | Very Good  |
+|  C | 55&nbsp;- 59  | Good  |
+| D  | 50&nbsp;- 54  | Satisfactory  |
+|  E | 45&nbsp;- 49  |  Pass |
+| S  | 40&nbsp;- 44  | Sub&nbsp;- pass  |
+| U  | 0&nbsp;- 39  | Ungraded  |
+|   |   |   |
+
+Grade Scheme for H3 subjects
+
+| **Achievement Grades**  | **Mark Range**  |  **Remarks** |
+|:-:|---|---|
+| D  | 70 - 100  | Distinction  |
+| M  | 55&nbsp;- 69  | Merit  |
+|  P | 45&nbsp;- 54  | Pass  |
+| U  | 0&nbsp;- 44  | Ungraded  |
+|   |   |   |
