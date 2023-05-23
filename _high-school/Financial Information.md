@@ -182,3 +182,17 @@ The policies offer&nbsp;<u>basic</u>&nbsp;coverage to help defray&nbsp;<u>partia
 While students need not pay for PA policy; the premium for Travel Insurance is chargeable on a per trip basis and included in the overseas trip cost.
 
 **(I) Students’ Accident Protection Scheme**
+
+|   |   |
+|:-:|---|
+| Insurer  | Lonpac Insurance Bhd  |
+| Insurance Broker  | AB Lim Pte Ltd  |
+| Coverage  | 24 hours coverage for all school activities and/or CCAs both in and out of school.  |
+| Claim Procedure  |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
