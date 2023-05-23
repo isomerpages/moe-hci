@@ -44,3 +44,21 @@ For Joint Admissions Exercise, the following candidates were eligible to partici
 For more information, please visit the MOE website at&nbsp;[https://www.moe.gov.sg/admissions/jae](https://www.moe.gov.sg/post-secondary/admissions/jae).
 
 For more information on&nbsp;**JAE Appeal Exercise**, please click&nbsp;[here](https://www.hci.edu.sg/news/hci-college-jae-appeal-exercise-2023).
+
+##### Returning Singaporeans
+
+All&nbsp;**Returning Singaporeans**&nbsp;(RS) children who wish to apply to Hwa Chong Institution (HCI) for a place in the&nbsp;**JC 1**&nbsp;can take part through Direct School Admission (DSA-JC) or participate in the School Placement Exercise for Returning Singaporeans (SPERS- JC/MI) conducted by Ministry of Education.
+
+Interested candidates are advised to visit the following MOE RS website for the details of the SPERS-JC/MI exercise:&nbsp;[https://www.moe.gov.sg/admissions/returning-singaporeans/admission-to-post-secondary-institutions/admission-to-jc-mi/spers-jc-mi](https://www.moe.gov.sg/admissions/returning-singaporeans/admission-to-post-secondary-institutions/admission-to-jc-mi/spers-jc-mi/) **PAGE NOT FOUND**
+
+Applicants who are&nbsp;<u>eligible</u>&nbsp;to apply to HCI can approach the school for admission. Applicants are required to submit the following documents for the school's consideration.
+
+1 \.  School Eligibility list<br>
+2 \.  Academic transcripts (GCE 'O' levels results or equivalent)<br>
+3 \.  Testimonials/references<br>
+4 \.  Achievements and awards<br>
+5 \.  Identification card/passport
+
+Applicants may need to sit for tests on certain subjects and attend an interview to decide on the subject combination. Eligible applicants must submit the application latest by&nbsp;<b><u>31 Dec 2021</u></b>&nbsp;to
+
+<center>To:&nbsp;<b>SPERS-JC Application<br>c/o Ms Karen Ng<br>Hwa Chong Institution (College Section)<br>661 Bukit Timah Road  <br>Singapore 269734</b></center>
