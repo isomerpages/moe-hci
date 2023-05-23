@@ -29,3 +29,15 @@ Click&nbsp;**[here](https://www.seab.gov.sg/home/examinations/gce-a-level/a-leve
 
 **[Subjects Information &amp; Pre-requisities for 2023 JC 1](/files/a_level_subjects_info_for_2023_jc_1_final_16_sep22_c094b530ad.pdf)** Updated Info&nbsp;Sep 2022! <br>
 **[Information on Special Programmes in Hwa Chong](/files/special_programme_2023_jan_2b1fa41cce.pdf)** Updated Info&nbsp;Jan 2023!
+
+**A)&nbsp;&nbsp;&nbsp; MOE Special Programmes**
+*   Humanities Programme (HP)
+*   Language Elective Programme (Chinese) (LEP)
+*   Art Elective Programme (AEP)
+*   Bicultural Studies Programme (Chinese) (BSP)
+
+**B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programme**
+*   Science &amp; Math Talent Programme (SMTP)
+*   Gifted And Talented Education Programme (GATE)
+*   Computing Talent Programme (CTP)
+
