@@ -2,4 +2,5 @@ collections:
   news-n-events:
     output: true
     order:
+      - HCI (College)  DSA JC exercise 2023.md
       - News & Events.md
