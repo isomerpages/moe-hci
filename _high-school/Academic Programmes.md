@@ -52,3 +52,7 @@ The iSpark Consortium also hosts talent development programmes within the Centre
 A unique feature of the Hwa Chong Integrated Programme, Hwa Chong Sabbatical Programme allows students from Sec. 1 to Sec. 4 to go on sabbatical courses for one week, from Term 1 to Term 2. The school organizes Sabbaticals with the aim of creating space for students to develop passion for what they do. During Sabbaticals, formal lessons are replaced by enrichment programmes.
 
 There are various areas of programmes for students to select from each term, namely, Arts &amp; Aesthetics, Chinese Studies, Humanities, English &amp; Literature, Leadership, Technology, Science and Math, Camps and Student Exchange. All students are engaged in activities outside the classroom during term time to further broaden their educational experience. This allows them to explore their diverse interests and have fun all at once.
+
+<img style="width:85%" src="/images/sabbaticalprog.jpg">
+
+Students will bid for their sabbatical courses every term, using the&nbsp;[i-ComP](http://spop.hci.edu.sg/). **SITE NOT FOUND***
