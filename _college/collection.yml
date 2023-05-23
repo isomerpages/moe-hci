@@ -2,4 +2,5 @@ collections:
   college:
     output: true
     order:
+      - Admission Paths.md
       - Academic Programmes.md
