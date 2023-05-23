@@ -26,3 +26,23 @@ Note:&nbsp;There are some exceptions to the above academic assessment structure,
 | 2 X 10%  | 10%  | 70%  |
 |   |   |   |
 
+<center><b><u>Sec 3 &amp; 4 English and Higher Chinese</u></b></center>
+
+| Common Test  | Alternative Assessment  | Examination  |
+|:-:|---|---|
+| 2 X 15%  | NA  | 70%  |
+|   |   |   |
+
+<center><b><u>Sec 3 &amp; 4 Integrated Mathematics</u></b></center>
+
+| Common Test  | Alternative Assessment  | Examination  |
+|:-:|---|---|
+| 20%  | 10%  | 70%  |
+|   |   |   |
+
+<center><b><u>Sec 1-2 Science Assessment Structure</u></b></center>
+
+| Common Test  | Alternative Assessment  | Examination  |
+|:-:|---|---|
+| 20%  | 10%  | 70%  |
+|   |   |   |
