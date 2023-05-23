@@ -94,3 +94,14 @@ No Singaporean student will be denied a place in Hwa Chong Institution because o
 *   Humanities Scholarship
 
 <b><u>(B)&nbsp; Financial Assistance Schemes:</u></b>
+
+**1 \.&nbsp; Independent Schools Bursary Scheme (ISB)**<br>
+\- For Singaporean Citizens only (details please refer to ISB Section)
+
+**2 \.&nbsp; Hwa Chong Institution Needy Pupils Fund**<br>
+\- For all students
+
+**3 \.&nbsp; Opportunity Fund (OF) / MOE Discretionary School-Based FAS**<br>
+\- For Singapore Citizen, to fund overseas study trips, enrichment programme
+
+Students who require financial assistance&nbsp;<b><u>at any point of time</u></b>&nbsp;can approach either their Civic Tutor or Education Consultant of their Faculty for advice on the application for the above.
