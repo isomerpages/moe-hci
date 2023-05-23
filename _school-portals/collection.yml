@@ -2,4 +2,5 @@ collections:
   school-portals:
     output: true
     order:
+      - Student/General Sites.md
       - Student/.keep
