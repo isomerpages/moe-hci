@@ -422,5 +422,27 @@ Mean Subject Grade&nbsp;is calculated based on the following formula:
 **Examples**
 
 Student A takes 3 H2 and 1 H1 subjects.
-											 
-											 
+
+|   | **Mathematics**<br>**(H2)**  | **Physics**<br>**(H2)**  | **Chemistry**<br>**(H2)**  | **Economics**<br>**(H1)**  |
+|:-:|---|---|---|---|
+| Grade  | A  |B   |C   | D  |
+| Points  | 1  | 2  | 3  | 4  |
+|   |   |   |   |   |
+
+MSG =&nbsp;2(1+ 2+ 3) + 4&nbsp;\= 2.29  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2(3) + 1
+
+Student B takes 4 H2 subjects.
+
+|   | **Mathematics**<br>**(H2)**  | **Physics**<br>**(H2)**  | **Chemistry**<br>**(H2)**  | **Economics**<br>**(H2)**  |
+|:-:|---|---|---|---|
+| Grade  | A  |B   |C   | D  |
+| Points  | 1  | 2  | 3  | 4  |
+|   |   |   |   |   |
+
+MSG = (1+ 2+ 3+ 4) / 4 = 2.5.
+
+----
+
+##### Assessment &amp; Promotion Criteria
+
