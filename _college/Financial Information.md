@@ -136,3 +136,22 @@ Students and parents will be notified of application times on IEMB, ISP and othe
 *   Computing @ SMU Award
 *   HCI ECHA Award
 
+##### MOE Independent Schools Bursary (ISB) Scheme
+
+<b><u>Eligibility Criteria And Benefits</u></b>
+
+Student is a Singapore Citizen, and meets one of the income criteria shown in the table below.
+
+**Tenure of Bursary**
+
+All IS Bursary cases approved will be valid till Dec of the year. Fresh applications will have to be submitted for each academic year.
+
+**Effective Month**
+
+Student can apply for MOE ISB at any time of the year. It will take effect in the month the application is approved. There will be no backdating of the effective month.
+
+Newly admitted students are to submit their ISB application latest by end Feb 2023 for ISB subsidy to take effect from Jan 2023.
+
+**Income Criteria and Benefits**
+
+The income limits and benefits for Year 2023 are as shown in the tables below:
