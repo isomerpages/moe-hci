@@ -13,5 +13,5 @@ sections:
         title: FIND OUT MORE
         options:
           - title: EXPLORE LIVE WITH PASSION
-            url: ""
+            url: /explore-livewithpassion/
 ---
