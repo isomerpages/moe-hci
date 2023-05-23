@@ -1,0 +1,4 @@
+collections:
+  college:
+    output: true
+    order: []
