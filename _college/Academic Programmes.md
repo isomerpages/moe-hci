@@ -489,3 +489,37 @@ Grade Scheme for H3 subjects
 |  P | 45&nbsp;- 54  | Pass  |
 | U  | 0&nbsp;- 44  | Ungraded  |
 |   |   |   |
+
+**Reporting**
+
+There are 2 main methods of reporting student progress to parents:
+
+1 \.  Through progress report in end March, mid year (both JC 1 and 2) and at the end of the school year (for JC1). Aformal transcript for JC2 students will be issued after the school's Preliminary examination in October. <br>
+2 \.  Through Parent' teacher meeting.
+
+_Reporting Timetable_&nbsp;is as follows:
+
+|  **Month** | **Types of Report**  |
+|:-:|---|
+| April  | Progress Report for JC1 and JC2  |
+| End July  | Mid Year Report for JC1 and JC2  |
+| Oct  | Prelim Exam Report for JC2  |
+| Early Nov  | Overall Report for JC1  |
+|   |   |
+
+_April, July and Nov student reports are forwarded to parents/guardians by post but the Prelim Exam Report for JC2 will be handed to the student on the last day of school._
+
+**Absence from assessments** <br>
+All students who miss any major internal examinations must be covered by&nbsp;**a medical certificate (MC)**&nbsp;or be given&nbsp;**exemption by DP / Studies with valid reason(s) (EX/VR)**.
+
+**Exemption from Block Tests/ Examinations**
+
+The following reasons may be considered&nbsp;**valid**&nbsp;for exemption.
+
+| **Reason**  | **Remarks**  |
+|:-:|---|
+| (i) Competition and Performance<br><br>(National &amp; International Level)  | Teacher-in-charge must apply on behalf of students.&nbsp; The application form for exemption must be submitted to College Exams Committee for approval&nbsp;<u>2 weeks</u>&nbsp;before the commencement of Block Test or examinations.  |
+| (ii) Medical Grounds  | Students must submit their medical certificates (MC) to their Civics Tutors immediately upon return to college.  |
+| (iii) Compassionate Grounds<br><br>(e.g. death of NOK)  | Students should inform their Civics Tutors as soon as possible and submit the relevant documents upon return to college.  |
+|   |   |
+
