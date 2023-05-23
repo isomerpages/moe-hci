@@ -114,3 +114,22 @@ Students who require financial assistance at any point of time can approach eith
 8 \.  Hwa Chong Institution Motivation Award<br>
 9 \.  Popular Bookshop Text Books Vouchers<br>
 10 \.  Singapore Buddhist Youth Mission Bursary Award
+
+Students and parents will be notified of application times on IEMB, ISP and other communication channels used by the School.
+
+<b><u>(D)&nbsp; HCI Awards (through nomination by school):</u></b>
+
+1 \.  Annie Tan (Mrs Wan Boo Sow) Bilingual Award<br>
+2 \.  Trilingual Award<br>
+3 \.  Hwang Fu Award<br>
+4 \.  Chew Hean Swee Award<br>
+5 \.  Xue Yong Shu Model Student Award<br>
+6 \.  Zheng An Lun Model Student Award<br>
+7 \.  Tooh Fee San All-Round Excellence Award<br>
+8 \.  Leong Heng Keng Venture Scouts Award<br>
+9 \.  Leong Heng Keng Boy Scouts Award<br>
+10 \.  Lee Tai Hui Boy Scouts Award<br>
+11 \.  Lee Tai Huo Venture Scouts Award<br>
+12 \.  Top Students Award<br>
+13 \.  HCI EAGLE Award<br>
+14 \.  HCI ECHA Award
