@@ -6,6 +6,6 @@ collections:
       - Student/General Sites.md
       - Student/High School.md
       - Student/College.md
-      - Staff/High School.md
-      - Staff/General Sites.md
       - Staff/.keep
+      - Staff/General Sites.md
+      - Staff/High School.md
