@@ -164,3 +164,7 @@ Income Criteria <br>
 | <br><br><br>$4,401 - $7,500  | <br><br><br>$1,101 - $1,875  | *   School fee rate per month:<br><br><u>Pre-university level</u><br>MOE Scholar: $0.00<br>&nbsp;Non-MOE Scholar: $49.50<br><br><u>Secondary level</u><br>MOE Scholar: $0.00<br>Non-MOE Scholar: $37.50  |
 | <br><br><br><br>$7,501 - $10,000  | <br><br><br><br>$1,876 - $2,500  | *   School fee rate per month:<br><br><u>Pre-university level</u><br>MOE Scholar: $34.50<br>Non-MOE Scholar: $234.50<br><br><u>Secondary level</u><br>MOE Scholar: $1.00 (Sec 1 &amp; 2); $34.50 (Sec 3 &amp; 4)<br>Non-MOE Scholar: $201.00 (Sec 1 &amp; 2); $234.50 (Sec&nbsp; 3 &amp; 4)  |
 |   |   |   |
+
+**^ No separate application is required; please refer to**&nbsp;[**MOE’s website**](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)&nbsp;**for more details.**
+
+**Click to download the 2023 ISB Application Form** **[Here](/files/moe_isb_application_form_95db207e8f.pdf)**
