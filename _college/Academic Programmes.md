@@ -258,3 +258,26 @@ The PE &amp; CCA Department seeks to provide all students with the opportunity t
 
 ----
 
+**Literature in English**
+
+With our seamless 6-year Integrated Programme, the Literature course in Hwa Chong covers 3 major phases: the Sec 1 &amp; 2 Exploration phase; Sec 3 &amp; 4 Development phase, and the JC1 &amp; 2 Consolidation phase.&nbsp; In each phase, students are exposed to a wide variety of texts, genre exposition, and diverse methodologies.
+
+Adopting a differentiated approach to learning that goes beyond the classroom, the course provides students with opportunities to experience Literature through activities like symposiums, debates, mock conferences, field studies, project work, independent study and drama.&nbsp; Such activities not only expand students' horizons, but also help them look at issues from a broader perspective, apply knowledge, and contest the arbitrary divisions that separate subjects.
+
+----
+
+##### HIGHER 3 (H3) PROGRAMMES
+
+The revised JC curriculum introduces a set of subjects at H3 level to target the top 10% to 15% of the GCE A-level cohort of students each year who have exceptional interest and ability in a particular subject. The intention is to further stretch these students to achieve&nbsp;<u>peaks of excellence</u>&nbsp;within the context of a broad-based education. It also allows students to engage in different forms of learning and research work.
+
+Thus, H3 subjects should be offered by students who are&nbsp;**academically able**&nbsp;to cope with additional subject(s) on top of their minimum subject requirement. The approach adopted by H3 subjects is one in which it is an extension of what is covered in H2 subject but in a more specialised area where students will be stretched further with substantial deep learning.
+
+**Note**<br>
+1 \. The&nbsp;**maximum number of H3 subjects**&nbsp;allowed is&nbsp;<b><u>TWO</u></b>. <br>
+2 \. The&nbsp;**total number of academic units**&nbsp;offered by students (inclusive of H3 subjects)&nbsp;<u>cannot exceed 12.</u>
+
+Students can apply for H3 subjects offered by
+
+**a. &nbsp;University-taught H3 programmes**&nbsp;(NUS, NTU and SMU) <br>
+**b. &nbsp;Extended, in-depth research**&nbsp;(SRP, NRP, NTU-A\*STAR-HCI&nbsp;and&nbsp;HSSR)<br>
+**c.&nbsp; MOE-CAMBRIDGE H3,**&nbsp;taught in-house in Hwa Chong Institution (HCI)
