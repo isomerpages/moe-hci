@@ -103,3 +103,18 @@ The Economics Unit in Hwa Chong comprises a team of dynamic professionals dedica
 
 <center>Geography is the study of Earth’s landscapes, peoples, places and environments...<br>bridging the social sciences with the natural sciences... and puts \[the\]  <br>understanding of social and physical processes within the context of places<br>and regions... \[Geography\] helps us all to be more socially and environmentally  <br>sensitive, informed and responsible citizens...  <br><b>Royal Geographical Society (with the Institute of British Geographers)</b></center>
 
+The approach to Geography teaching and learning in Hwa Chong has evolved through the years due to the changing demands of the syllabus and the growing interest amongst the students in the subject. As Geography is an applied discipline, praticisng geographers should be able to make direct contributions to society. Being highly dynamic, the subject constantly seeks to heighten our awareness of the world. It introduces the processes operative in physical and human geography and draws links to how these are relevant to the current social, economic, political and environmental situation.&nbsp; Hence, with these attributes in mind, the syllabus seeks to encourage students to:
+
+1 \. be inspired by the splendour of natural environments and human ingenuity;<br>
+2 \. care for delicate ecosystems and understand the importance of environmentally sustainable lifestyles;  <br>
+3 \. develop as global citizens, seek harmony and respect others in a culturally diverse world;  <br>
+4 \. contribute responsibly towards the building of a robust and inclusive society; and  <br>
+5 \. have the integrity to uphold ethical principles and be resilient in their pursuit for a better world.
+
+These aims are achieved through the study of the main Themes in the H2 Geography syllabus:  
+Theme 1 : Tropical Environments <br>
+Theme 2 : Development, economy and the Environment <br>
+Theme 3 : Sustainable Development <br>
+Theme 4 : Geographical Investigation
+
+At Hwa Chong, we also aim to develop students with a global perspective, imbued with the spirit of inquiry and empathy which would enable them to respond to on-going changes. Tutors actively integrate critical thinking and problem-solving skills into content learning. They facilitate experiential learning to promote creativity and make Geography come alive. IT is also employed to enhance learning.&nbsp; These emphases are in line with the&nbsp;**Desired Outcomes of Education (DOE)**. Upon completion of their formal education, Geography students should emerge as a/an:
