@@ -157,7 +157,7 @@ The income limits and benefits for Year 2023 are as shown in the tables below:
 Income Criteria <br>
 (Meet one of the following criteria)
 
-|   |   |   |
+| Monthly Gross Household Income <br>(GHI)  | Monthly Gross Per Capita Income<br> (PCI)  | Benefits  |
 |:-:|---|---|
 |   |   |   |
 |   |   |   |
