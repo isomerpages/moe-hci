@@ -2,9 +2,6 @@ collections:
   school-portals:
     output: true
     order:
-      - Parents/.keep
-      - Parents/High School.md
-      - Parents/College.md
       - Student/.keep
       - Student/General Sites.md
       - Student/High School.md
@@ -13,3 +10,6 @@ collections:
       - Staff/General Sites.md
       - Staff/High School.md
       - Staff/College.md
+      - Parents/.keep
+      - Parents/High School.md
+      - Parents/College.md
