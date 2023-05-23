@@ -72,3 +72,18 @@ We welcome students with passion and strengths OR a strong record of achievement
 *   Water Polo
 *   Wushu
 
+For more information about the different DSA categories, please click&nbsp;[here](https://www.admissions.hci.edu.sg/direct-school-admission)
+
+----
+
+<center><b>Direct School Admissions Selection Process</b></center>
+
+Applicants will be shortlisted based on available information from MOE and from applicants’ submitted information via the application process.&nbsp;
+
+HCI will be conducting in-person selection for all DSA talent areas for 2023 DSA-Sec.&nbsp;Applicants who are successfully shortlisted will be informed between 4 July to 10 July and they will be required to attend an interview and/or selection tests on&nbsp;<b><u>22 July 2023</u></b>.&nbsp;Due to the large number of applicants and the limited number of DSA places, not all students who meet the criteria will be shortlisted for an interview.&nbsp;
+
+Please note that applicants should attend the in-person selection only if they are well. For students who are unwell (e.g. tested COVID-19 positive) during the selection period, re-scheduling the in-person selection will be done where possible.&nbsp;
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school for the duration of the 6-year Integrated Programme, and participate in the activities related to the talent area they are selected for from year 1-4.
+
+Please direct any queries about DSA to Hwa Chong Institution to&nbsp;[dsa@hci.edu.sg](mailto:dsa@hci.edu.sg).
