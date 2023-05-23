@@ -74,18 +74,18 @@ For <b><u>enquiries with regard to specific subjects,</u></b> please email:
 
 |   |   |   |
 |:-:|---|---|
-| General Paper / English Literature  | Mrs Chan-Lim Yin Shin  |   |
-| Project Work  | Mdm Tan Keng Hwee  |   |
-| Chinese (CL, CLL, CSC, TRC)  | Mr Hong Wee Seng Jeffrey  |   |
-| Mathematics  | Mr Ng Say Tiong  |   |
-| Economics  | Ms Lee Qing Fen Cheryl  |   |
-| Biology  | Mrs Foo-Lam Woon Keat  |   |
-| Chemistry  | Mrs Cheng-Liau Ming Lee  |   |
-| Physics  | Mr Tang Koon Loon  |   |
-| Knowledge &amp; Inquiry (KI)  | Mr Tan Wah Jiam  |   |
-| English Language &amp; Linguistics (ELL)  | Mdm Madihah Bte Mahmood  |   |
-| Geography  | Mrs Chua-Ngui Li Young  |   |
-| History  | Mr Ong Hong Chin Ian  |   |
-| Art  | Mr Lim Jun Hong  |   |
-| Computing  | Ms Yu Qian  |   |
+| General Paper / English Literature  | Mrs Chan-Lim Yin Shin  | [limys@hci.edu.sg](mailto:limys@hci.edu.sg)  |
+| Project Work  | Mdm Tan Keng Hwee  | [tankh@hci.edu.sg](mailto:eileen@hci.edu.sg)  |
+| Chinese (CL, CLL, CSC, TRC)  | Mr Hong Wee Seng Jeffrey  | [hongws@hci.edu.sg](mailto:lowyy@hci.edu.sg)  |
+| Mathematics  | Mr Ng Say Tiong  | [ngst@hci.edu.sg](mailto:ngst@hci.edu.sg)  |
+| Economics  | Ms Lee Qing Fen Cheryl  | [leeqf@hci.edu.sg](mailto:deborah@hci.edu.sg)  |
+| Biology  | Mrs Foo-Lam Woon Keat  | [foowk@hci.edu.sg](mailto:foowk@hci.edu.sg)  |
+| Chemistry  | Mrs Cheng-Liau Ming Lee  | [liauml@hci.edu.sg](mailto:benjaminchan@hci.edu.sg)  |
+| Physics  | Mr Tang Koon Loon  | [tangkl@hci.edu.sg](mailto:tangkl@hci.edu.sg)  |
+| Knowledge &amp; Inquiry (KI)  | Mr Tan Wah Jiam  | [tanwj@hci.edu.sg](mailto:tanwj@hci.edu.sg)  |
+| English Language &amp; Linguistics (ELL)  | Mdm Madihah Bte Mahmood  | [madihah@hci.edu.sg](mailto:madihah@hci.edu.sg)  |
+| Geography  | Mrs Chua-Ngui Li Young  | [nguily@hci.edu.sg](mailto:nguily@hci.edu.sg)  |
+| History  | Mr Ong Hong Chin Ian  | [ianong@hci.edu.sg](mailto:ianong@hci.edu.sg)  |
+| Art  | Mr Lim Jun Hong  | [limjh@hci.edu.sg](mailto:limjh@hci.edu.sg)  |
+| Computing  | Ms Yu Qian  | [yuqian@hci.edu.sg](mailto:yuqian@hci.edu.sg)  |
 |   |   |   |
