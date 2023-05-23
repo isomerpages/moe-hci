@@ -18,7 +18,7 @@ HCMAS indeed was an eye-opening and engaging experience for both organisers and 
 </figure>
 
 <figure>
-<img style="width:90%" src="/images/cce4.jpeg">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<img style="width:90%" src="/images/modelasian2.jpg">
+<figcaption>  Professor Joseph Liow (third from left) at the Closing Ceremony of the 20th&nbsp;Hwa Chong Model ASEAN Summit. Image credit: Tristan Lock
  </figcaption>
 </figure>
