@@ -21,4 +21,22 @@ Note: <br>
 1)&nbsp; School fees will be adjusted accordingly for pupils under Scholarships or Special Programmes. <br>
 2)&nbsp; School fees may be subject to review and revision by the school.
 
-<b><u>School fees payable by Singaporean students on MOE Scholarship</u></b><br>
+<b><u>School fees payable by Singaporean students on MOE Scholarship</u></b>
+
+Please note that the annual award quantum cap of $2,400 for all MOE scholarships will apply to all students.
+
+The Edusave or any other MOE Scholarships will cover the school fees of $200 per month and the student needs to pay the balance of the monthly school fees to HCI unless the student is also a recipient of MOE Independent School Bursary (ISB).
+
+<b><u>School fees payable by Singaporean students on MOE Independent School Bursary (ISB)</u></b>
+
+Please refer to below for more details on ISB scheme and school fee rates.
+
+<b><u>School fees payment</u></b>
+
+The school fees payable is structured by spreading an annual fee over 12 months of the academic year.&nbsp; As such, students who join in February have to pay fees for January; and those who leave after 5th&nbsp;October will have to pay fees for November and December.
+
+School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each month; or the next working day if the 15th day of the month falls on a weekend or Public Holiday, unless otherwise advised.
+
+<b><u>Giro Collection Dates For Sec 1 school fees</u></b><br>
+
+
