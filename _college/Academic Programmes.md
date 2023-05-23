@@ -343,3 +343,11 @@ Please access the following :
 
 The following table shows the various modules offered for H3 research programme by NUS and NTU.
 
+| No  | Title  | Subject Code  | Faculty/Labs  | Period of course  | Associated H2 subjects  |
+|:-:|---|---|---|---|---|
+| 1  | NUS-MOE Science Research Programme (NUS-MOE SRP)  | U001  | FOS  | Starts in JC1 Term 2 (March) and expect to complete research by JC2 Term 2 (April)  | Math &amp; Science subject(s)  |
+| 2  | NUS-MOE Humanities&nbsp; and Social Sciences Research (NUS-MOE HSSR)  | U601  | FASS  | Jan – May in JC2 (**Requires an approximate 120 hours of independent research**)  | Chinese Language and Literature, Economics, Geography, History, Literature in English, and Malay Language and Literature  |
+| 3  | NTU-A\*STAR-HCI H3 Science Research Programme  | T050  | A\*STAR Labs  | Starts in JC1 Term 2 (March) and expect to complete research by JC2 Term 1 (April)  | Science subject(s) and Math  |
+| 4  | NTU-MOE Nanyang Research Programme (NTU-MOE NRP)  | T001  | NTU labs  | Starts in JC1 Term 2 (March) and expect to complete research by JC2 Term 2 (April)  | Science subject(s) and Math  |
+|   |   |   |   |   |   |
+
