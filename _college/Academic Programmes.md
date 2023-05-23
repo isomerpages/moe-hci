@@ -100,3 +100,6 @@ The Economics Unit in Hwa Chong comprises a team of dynamic professionals dedica
 ----
 
 **Geography**
+
+<center>Geography is the study of Earth’s landscapes, peoples, places and environments...<br>bridging the social sciences with the natural sciences... and puts \[the\]  <br>understanding of social and physical processes within the context of places<br>and regions... \[Geography\] helps us all to be more socially and environmentally  <br>sensitive, informed and responsible citizens...  <br><b>Royal Geographical Society (with the Institute of British Geographers)</b></center>
+
