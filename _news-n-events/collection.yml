@@ -1,0 +1,4 @@
+collections:
+  news-n-events:
+    output: true
+    order: []
