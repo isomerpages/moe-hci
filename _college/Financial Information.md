@@ -162,9 +162,8 @@ Income Criteria <br>
 | Monthly Gross Household Income <br>(GHI)  | Monthly Gross Per Capita Income <br>(PCI)  | Benefits  |
 |:-:|---|---|
 | <br><br><br><br><br>Not exceeding $3,000  | <br><br><br><br><br>Not exceeding $750  | *   100%&nbsp;subsidy&nbsp;of&nbsp;school fees<br>*   Free textbooks and&nbsp;school&nbsp;attire&nbsp;at Secondary&nbsp;level;&nbsp;Annual bursary&nbsp;of&nbsp;$1,200 at&nbsp;Pre-university&nbsp;level<br>*   Transport&nbsp;Subsidy (for students taking public transport):&nbsp;$17 per&nbsp;month&nbsp;from the month of&nbsp;approval, up to $204&nbsp;per annum,&nbsp;to be paid quarterly on end Apr, Jun, Sep and Dec.<br>*   School&nbsp;meal subsidies&nbsp;of&nbsp;$3.50&nbsp;per meal&nbsp;for 10 meals&nbsp;per school week&nbsp;for Secondary level, to be paid quarterly on end Apr, Jun, Sep and Dec.<br>*   UPLIFT Scholarship^ of $1,000 cash award per annum for students admitted via DSA and/or ESIS recipients  |
-| $3,001 - $4,400  | $751 - $1,100  |   |
+| <br><br><br><br><br>$3,001 - $4,400  | <br><br><br><br><br>$751 - $1,100  | *   School fee rate per month:<br><br><u>Pre-university level</u><br>MOE Scholar: $0.00<br>Non-MOE Scholar: $33.00 to be funded by MOE’s School Based Financial Assistance Scheme, no fee payable this year.&nbsp;<br><br><u>Secondary level</u><br>MOE Scholar: $0.00<br>&nbsp;Non-MOE Scholar: $25.00 to be funded by MOE’s School Based Financial Assistance Scheme, no fee payable this year.&nbsp;<br><br>*   UPLIFT Scholarship^ of $1,000 cash award per annum for students admitted via DSA and/or ESIS recipients  |
+| <br><br>$4,401 - $7,500  |<br><br>$1,101 - $1,875   |  *   School fee rate per month:<br><br><u>Pre-university level</u><br>MOE Scholar: $0.00<br>Non-MOE Scholar: $49.50<br><br><u>Secondary level</u><br>MOE Scholar: $0.00<br>Non-MOE Scholar: $37.50 |
+| <br><br><br>$7,501 - $10,000  | <br><br><br>$1,876 - $2,500  | *   School fee rate per month:<br><br><u>Pre-university level</u><br>MOE Scholar: $34.50<br>Non-MOE Scholar: $234.50<br><br><u>Secondary level</u><br>MOE Scholar: $1.00 (Sec 1 &amp; 2); $34.50 (Sec 3 &amp; 4)<br>Non-MOE Scholar: $201.00 (Sec 1 &amp; 2); $234.50 (Sec&nbsp; 3 &amp; 4)  |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+
