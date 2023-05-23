@@ -39,4 +39,15 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 
 <b><u>Giro Collection Dates For Sec 1 school fees</u></b><br>
 
+|   |   |
+|:-:|---|
+| Month  | Date of Giro Collection  |
+| Jan-Feb-23  | 30 Mar 2023  |
+| Mar-Apr-23  | 27 Apr 2023  |
+| May till Sep-23  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
+| Oct-23  | 02 Oct 2023  |
+| Nov-23  | 16 Oct 2023  |
+| Dec-23  | 01 Nov 2023  |
+|   |   |
 
+<b><u>Giro Collection Dates For Sec 2 to 4 school fees</u></b><br>
