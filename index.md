@@ -16,4 +16,6 @@ sections:
             url: /explore-livewithpassion/
           - title: NEWS & EVENTS
             url: /homepage-news-n-events/
+          - title: THE HWACHONG ADVANTAGE
+            url: ""
 ---
