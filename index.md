@@ -22,5 +22,10 @@ sections:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
       button: LEARN MORE
-      url: d
+      url: /high-school/academic-prog/
+  - infobar:
+      title: ADMISSION & STUDIES
+      description: COLLEGE
+      button: LEARN MORE
+      url: a
 ---
