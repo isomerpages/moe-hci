@@ -16,49 +16,49 @@ The Chief Commissioner’s Award is conferred to the most outstanding and distin
 We would like to congratulate the following awardees:
 
 <figure>
-<img style="width:90%" src="/images/cce4.jpeg">
+<img style="width:70%" src="/images/honour1.jpg">
 <figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
 
 <figure>
-<img style="width:90%" src="/images/cce4.jpeg">
+<img style="width:70%" src="/images/honour2.jpg">
 <figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
 
 <figure>
-<img style="width:90%" src="/images/cce4.jpeg">
+<img style="width:70%" src="/images/honour3.jpg">
 <figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
 
 <figure>
-<img style="width:90%" src="/images/cce4.jpeg">
+<img style="width:70%" src="/images/honour4.jpg">
 <figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
 
 <figure>
-<img style="width:90%" src="/images/cce4.jpeg">
+<img style="width:70%" src="/images/honour5.jpg">
 <figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
 
 <figure>
-<img style="width:90%" src="/images/cce4.jpeg">
+<img style="width:70%" src="/images/honour6.jpg">
 <figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
 
 <figure>
-<img style="width:90%" src="/images/cce4.jpeg">
+<img style="width:70%" src="/images/honour7.jpg">
 <figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
 
 <figure>
-<img style="width:90%" src="/images/cce4.jpeg">
+<img style="width:70%" src="/images/honour8.jpg">
 <figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
