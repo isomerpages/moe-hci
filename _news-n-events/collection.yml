@@ -2,7 +2,6 @@ collections:
   news-n-events:
     output: true
     order:
-      - "Huangcheng 2023: An Evening of Drama.md"
       - News & Events.md
       - HCI (College)  DSA JC exercise 2023.md
       - 20th Hwa Chong Model Asean Summit @ Hwa Chong.md
@@ -12,3 +11,4 @@ collections:
       - Hwa Chong Educator Named Outstanding Economics Teacher.md
       - Hwa Chongians Receive CSIT Computing Scholarship 2022.md
       - Hwa Chong Athletes Achieve Top Title at Colours Award 2022.md
+      - "Huangcheng 2023: An Evening of Drama.md"
