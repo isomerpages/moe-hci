@@ -2,6 +2,7 @@ collections:
   news-n-events:
     output: true
     order:
+      - Hwa Chong Alumni Excel at SUTD Commencement Ceremonies 2022.md
       - News & Events.md
       - HCI (College)  DSA JC exercise 2023.md
       - 20th Hwa Chong Model Asean Summit @ Hwa Chong.md
