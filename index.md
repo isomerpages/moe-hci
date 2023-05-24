@@ -27,5 +27,5 @@ sections:
       title: ADMISSION & STUDIES
       description: COLLEGE
       button: LEARN MORE
-      url: a
+      url: /college/academic-prog/
 ---
