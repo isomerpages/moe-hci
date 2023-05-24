@@ -16,11 +16,11 @@ description: ""
 </a></p>
 <br clear="left">
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-n-events/news4/">
 <img src="/images/newsnevents4.jpg" align="left" style="width:33%">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-n-events/news5/">
 <img src="/images/newsnevents5.jpg" align="left" style="width:33%">
 </a></p>
 
