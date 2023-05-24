@@ -70,3 +70,32 @@ _“I would like to thank Mr Benjamin Hathaway, my Civics Tutor, for the endless
 ●&nbsp; &nbsp;Team 2nd&nbsp;Placing at NUS Political Association Debating Competition 2021
 
 _“I will forever be grateful to 21S7J’s subject tutors, Athena Faculty teachers, and ELDDFS teachers and coach. Thank you Mr Wee Chorng Shin especially, for being a constant source of emotional support and advice, and for aiding my applications and following up on me after graduation. Have a great 2023!”_
+
+<img align="right" style="width:40%" src="/images/leanne.png">
+<b>Chia Leanne</b>
+
+●&nbsp; &nbsp; &nbsp;College Students’ Councillor (Secretary-Treasurer of the Student Engagement and Culture Committee)<br>
+●&nbsp; &nbsp; &nbsp; Team Gold Award at 2022 SSEF (Examined the 3D Design and Construction of a Microbubble Generator)<br>
+●&nbsp; &nbsp; &nbsp; Commendation Award at 2022 National STEM Talent Search
+
+_“I am grateful to my subject tutors and council teachers for their unwavering support and for motivating me to scale greater heights. I especially thank Mr Cheong Ray Rin for always guiding me; Mr Kenny Tan for his patience and dedication; Dr Edwin Lim for his warm words of advice.”_
+
+<img align="right" style="width:40%" src="/images/evelyne.png">
+<b>Evelyne Chua</b>
+
+●&nbsp; &nbsp; &nbsp; College Students’ Council Vice-President<br>
+●&nbsp; &nbsp; &nbsp; Achieved Team 6th&nbsp;Placing at International History Bee and Bowl (Asia)<br>
+●&nbsp; &nbsp; &nbsp; Taught literacy classes for underprivileged children at Ulu Pandan Stars<br>
+●&nbsp; &nbsp; &nbsp; EAGLES Award 2021 and 2022
+
+_“I would like to thank Mr Tan Wah Jiam, Mr Benjamin Hathaway, Mr Ian Ong, Dr He Jiawen and_&nbsp;_Ms Ho Jia Yuan_&nbsp;_for believing in me even when I did not always believe in myself. The life advice they imparted, teaching me to set goals and seize the day, still guide me today.”_
+
+<img align="right" style="width:40%" src="/images/fangyi.png">
+<b>Fang Yi</b>
+
+●&nbsp; &nbsp; &nbsp;Mind Sports Secretary-Quartermaster<br>
+●&nbsp; &nbsp; &nbsp; Team Silver Award at China Studies Model United Nations Debate 2022<br>
+●&nbsp; &nbsp; &nbsp; Third Prize at Singapore-China Virtual Youth Forum 2021<br>
+●&nbsp; &nbsp; &nbsp;&nbsp;Team 3rd&nbsp;Placing at Singapore Contract Bridge Association Student Online League 2021
+
+_“I would like to thank all my CSC (China Studies in Chinese) teachers for supporting us through the 2 years of JC, with their specially collated notes, repeated “naggings”, long consults (because we ask too many questions) and words of encouragement.&nbsp;辛苦了！”_
