@@ -149,3 +149,23 @@ _“I’d like to thank Mrs Charlene Chua - my J1 GP teacher. Thank you Mrs Chua
 ●&nbsp; &nbsp; &nbsp; Second Prize at Competition and Consumer Commission of Singapore-Economics Society of Singapore Essay Competition 2022
 
 _“I would like to thank Mr Yong Yuen Cheng who pushed me to overcome my adversity of eczema during my beginning years of canoeing.”_
+
+<img align="right" style="width:40%" src="/images/kaijie.png">
+<b>Phua Kai Jie</b>
+
+●&nbsp; &nbsp; &nbsp;Artemis Faculty Head<br>
+●&nbsp; &nbsp; &nbsp; Track &amp; Field Team Captain (High School)<br>
+●&nbsp; &nbsp; &nbsp; 2022 SAF Young Leader Award<br>
+●&nbsp; &nbsp; &nbsp; 2021 Lee Kuan Yew All-Round Excellence Awards (Secondary)
+
+_“I would like to thank my Civics Tutor Mrs Phee-Tan Peh Ling, my subject teachers, and my council and faculty teachers for their invaluable guidance throughout the highs and lows of my JC journey. I also wish to thank my football coach, Coach Ho Ann, for believing in me and supporting me.”_
+
+<img align="right" style="width:40%" src="/images/dylantoh.png">
+<b>Toh En Yu Dylan</b>
+
+●&nbsp; &nbsp; &nbsp;College Students’ Council General Secretary<br>
+●&nbsp; &nbsp; &nbsp; Org Team Member of 2021 HC-APYLS<br>
+●&nbsp; &nbsp; &nbsp; 1st&nbsp;Placing at National Economics and Financial Management Challenge organized by NUS<br>
+●&nbsp; &nbsp; &nbsp; Best Delegate at International Model United Nations Conference 2020 (High School)
+
+_“Mrs Anuradha Boyanapalli, thank you for treating us with respect and love. Though I never sat in any of your lessons, I learnt a lot about life and being human from you. My time in HCI is deeply shaped by you. You believed in me, especially when I could not believe in myself.&nbsp;”_
