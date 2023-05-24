@@ -24,12 +24,12 @@ description: ""
 <img src="/images/newsnevents5.jpg" align="left" style="width:33%">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-n-events/news6/">
 <img src="/images/newsnevents6.jpg" align="left" style="width:33%">
 </a></p>
 <br clear="left">
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-n-events/news7/">
 <img src="/images/newsnevents7.jpg" align="left" style="width:33%">
 </a></p>
 
