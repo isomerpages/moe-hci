@@ -17,5 +17,5 @@ sections:
           - title: NEWS & EVENTS
             url: /homepage-news-n-events/
           - title: THE HWACHONG ADVANTAGE
-            url: ""
+            url: /homepage-hwchong-advantage/
 ---
