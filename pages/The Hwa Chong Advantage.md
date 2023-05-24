@@ -8,7 +8,7 @@ description: ""
 </a></p>
 
 <p><a href="/the-hc-advantage/ldrship-centric-experience/">
-<img src="/images/advantage2.jpg" align="left" style="width:35%">
+<img src="/images/advantage9.jpg" align="left" style="width:40%">
 </a></p>
 <br clear="left">
 
