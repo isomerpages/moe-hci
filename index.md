@@ -18,4 +18,9 @@ sections:
             url: /homepage-news-n-events/
           - title: THE HWACHONG ADVANTAGE
             url: /homepage-hwchong-advantage/
+  - infobar:
+      title: ADMISSION & STUDIES
+      description: HIGH SCHOOL
+      button: LEARN MORE
+      url: d
 ---
