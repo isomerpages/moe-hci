@@ -37,7 +37,7 @@ description: ""
 <img src="/images/newsnevents11.jpg" align="left" style="width:33%">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-n-events/news9/">
 <img src="/images/newsnevents12.jpg" align="left" style="width:33%">
 </a></p>
 <br clear="left">
