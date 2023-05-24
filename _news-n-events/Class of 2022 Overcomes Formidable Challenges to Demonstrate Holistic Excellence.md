@@ -99,3 +99,23 @@ _“I would like to thank Mr Tan Wah Jiam, Mr Benjamin Hathaway, Mr Ian Ong, Dr 
 ●&nbsp; &nbsp; &nbsp;&nbsp;Team 3rd&nbsp;Placing at Singapore Contract Bridge Association Student Online League 2021
 
 _“I would like to thank all my CSC (China Studies in Chinese) teachers for supporting us through the 2 years of JC, with their specially collated notes, repeated “naggings”, long consults (because we ask too many questions) and words of encouragement.&nbsp;辛苦了！”_
+
+<img align="right" style="width:40%" src="/images/gaoshan.png">
+<b>Gao Shan</b>
+
+●&nbsp; &nbsp; &nbsp;CCA Council President<br>
+●&nbsp; &nbsp;&nbsp;Led the Organisation of the CCA Leaders’ Camp<br>
+●&nbsp; &nbsp; &nbsp; Basketball Boys’ Captain<br>
+●&nbsp; &nbsp; &nbsp; Team 2nd&nbsp;Placing at National School Games ‘A’ Division Basketball Championships 2022
+
+_“I would like to thank all my subject tutors, CCA/CCA Council teachers in charge and my basketball coach for their constant guidance and unwavering support, for teaching me valuable lessons that helped me grow and improve as a person, I deeply appreciate everything they’ve done for me.”_
+
+<img align="right" style="width:40%" src="/images/banseng.png">
+<b>Gaw Ban Seng</b>
+
+●&nbsp; &nbsp; &nbsp;Ultimate Frisbee Member Quartermaster<br>
+●&nbsp; &nbsp; &nbsp; International Biomedical Quiz 2022 Gold Award and Overall Champion Team Award<br>
+●&nbsp; &nbsp; &nbsp; Chief Commissioners’ Badge (St John Brigade Corps) (High School)<br>
+●&nbsp; &nbsp; &nbsp;Frisbee CIP Project Leader (Outing with Beneficiaries from TAVA by Talent Beacon)
+
+_“I would like to thank Mr Justin Heng and Mrs Foo-Lam Woon Keat for their invaluable guidance and support during my most difficult days in school. I am also appreciative of Ms Christine Chen for the countless leadership opportunities which helped me grow into the confident leader I am today.”_
