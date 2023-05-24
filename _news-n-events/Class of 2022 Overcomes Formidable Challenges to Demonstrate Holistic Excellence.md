@@ -50,3 +50,23 @@ Heartiest congratulations to the Class of 2022! They have displayed tremendous r
 **Hwa Chong Celebrates Holistic Excellence**
 
 The Hwa Chong experience goes well beyond academic excellence. All students undergo a holistic education programme which empowers students to pursue their passion and serve the community. We would like to celebrate the achievements of a few of our students who especially embody the Hwa Chong vision for her students to ‘Live with Passion, Lead with compassion’.
+
+<img align="right" style="width:40%" src="/images/amelia.png">
+<b>Amelia Neo Rui Min</b>
+
+●&nbsp; &nbsp; &nbsp;Symphonic Band President<br>
+●&nbsp; &nbsp; &nbsp;Contributed to&nbsp;&nbsp;SYF Arts Presentation 2021 Certificate of Distinction<br>
+●&nbsp; &nbsp; &nbsp; Performed at Concert Rewind and HCI National Day Celebrations (2022)<br>
+●&nbsp; &nbsp; &nbsp; Organising Team Member of Christmas with Hwa Chong Symphonic Band (CIP Project)
+
+_“I would like to thank Mr Benjamin Hathaway, my Civics Tutor, for the endless support and encouragement that he has given us. Thank you for all the care and love and for your unyielding presence which grounds us and reminds us of our worth, especially during the most trying of times.”_
+
+<img align="right" style="width:40%" src="/images/cjiaqi.png">
+<b>Chen Jiaqi</b>
+
+●&nbsp; &nbsp; &nbsp;Athena Faculty Committee Activities I/C<br>
+●&nbsp; &nbsp; &nbsp; Debater with ELDDFS<br>
+●&nbsp; &nbsp; &nbsp; Individual 1st&nbsp;Placing at MOE-ACJC Intercollegiate Debating Championships 2022<br>
+●&nbsp; &nbsp;Team 2nd&nbsp;Placing at NUS Political Association Debating Competition 2021
+
+_“I will forever be grateful to 21S7J’s subject tutors, Athena Faculty teachers, and ELDDFS teachers and coach. Thank you Mr Wee Chorng Shin especially, for being a constant source of emotional support and advice, and for aiding my applications and following up on me after graduation. Have a great 2023!”_
