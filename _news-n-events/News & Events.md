@@ -34,15 +34,15 @@ description: ""
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img src="/images/newsnevents8.jpg" align="left" style="width:33%">
+<img src="/images/newsnevents11.jpg" align="left" style="width:33%">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img src="/images/newsnevents9.jpg" align="left" style="width:33%">
+<img src="/images/newsnevents12.jpg" align="left" style="width:33%">
 </a></p>
 <br clear="left">
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img src="/images/newsnevents10.jpg" align="left" style="width:33%">
+<img src="/images/newsnevents13.jpg" align="left" style="width:33%">
 </a></p>
 <br clear="left">
