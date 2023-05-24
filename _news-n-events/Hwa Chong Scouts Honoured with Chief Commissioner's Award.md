@@ -17,48 +17,52 @@ We would like to congratulate the following awardees:
 
 <figure>
 <img style="width:70%" src="/images/honour1.jpg">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  JONAS NG ZHEN YANG 4I2
  </figcaption>
 </figure>
 
 <figure>
 <img style="width:70%" src="/images/honour2.jpg">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  ETHAN LEE EN JIE 4I4
  </figcaption>
 </figure>
 
 <figure>
 <img style="width:70%" src="/images/honour3.jpg">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  KEON TAN KAI EIK 4I4
  </figcaption>
 </figure>
 
 <figure>
 <img style="width:70%" src="/images/honour4.jpg">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  LIM YIK SUAN, RYAN 4O3
  </figcaption>
 </figure>
 
 <figure>
 <img style="width:70%" src="/images/honour5.jpg">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  SIM XUE HAO 4O3
  </figcaption>
 </figure>
 
 <figure>
 <img style="width:70%" src="/images/honour6.jpg">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  LEE ZONG HONG ANTHONY 4P2
  </figcaption>
 </figure>
 
 <figure>
 <img style="width:70%" src="/images/honour7.jpg">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  NG SHI YU &nbsp;4P3
  </figcaption>
 </figure>
 
 <figure>
 <img style="width:70%" src="/images/honour8.jpg">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  YEH SHIH PERNG 4P3
  </figcaption>
 </figure>
+
+_“On the journey towards obtaining the Chief Commissioner's Award, I gained many valuable experiences that taught me a lot on leadership, teamwork, adaptability and perseverance to shape me to become the person I am today. The values which I have learnt during this process will be something that I will uphold in my daily life with great pride.”_
+
+<p align="right">-&nbsp;Cheah Han Sen Glendon (4A2)</p>
