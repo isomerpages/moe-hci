@@ -119,3 +119,33 @@ _“I would like to thank all my subject tutors, CCA/CCA Council teachers in cha
 ●&nbsp; &nbsp; &nbsp;Frisbee CIP Project Leader (Outing with Beneficiaries from TAVA by Talent Beacon)
 
 _“I would like to thank Mr Justin Heng and Mrs Foo-Lam Woon Keat for their invaluable guidance and support during my most difficult days in school. I am also appreciative of Ms Christine Chen for the countless leadership opportunities which helped me grow into the confident leader I am today.”_
+
+<img align="right" style="width:40%" src="/images/justin.png">
+<b>Javen Justin Suki</b>
+
+●&nbsp; &nbsp; &nbsp; College Students’ Council President<br>
+●&nbsp; &nbsp; &nbsp; High School Council President<br>
+●&nbsp; &nbsp; &nbsp; High School English Drama Chairperson<br>
+●&nbsp; &nbsp; &nbsp; Ong Teng Cheong Leadership Award
+
+_“To Mrs Anuradha Boyanapalli: you were the first person who saw my potential as a leader and convinced me to run for President. Thank you for always believing in me, and for being such a wonderful mentor, in every sense of the word.”_
+
+<img align="right" style="width:40%" src="/images/heerlin.png">
+<b>Koh Heer Lin</b>
+
+●&nbsp; &nbsp; &nbsp;Chinese Orchestra and Interact Club Member<br>
+●&nbsp; &nbsp; &nbsp; Overall-IC of the Inaugural Service Learning Summit 2021<br>
+●&nbsp; &nbsp; &nbsp; Volunteered weekly at the Tembusu Senior Activity Centre and Dementia Singapore<br>
+●&nbsp; &nbsp; &nbsp; Loo Geok Eng Foundation Scholarship 2022
+
+_“I’d like to thank Mrs Charlene Chua - my J1 GP teacher. Thank you Mrs Chua for being really patient with my bad essays, and for making class so much more enjoyable. Thank you, also, for reminding us to take care of ourselves amidst difficult times.”_
+
+<img align="right" style="width:40%" src="/images/matthew.png">
+<b>Matthew Tan Yee Keat</b>
+
+●&nbsp; &nbsp; &nbsp;Canoeing Treasurer<br>
+●&nbsp; &nbsp; &nbsp; Individual 1st&nbsp;Placing at 2022 National School Games Canoeing (A-Division) K2 500m<br>
+●&nbsp; &nbsp; &nbsp; Contributed to Overall Team Championship, 2022 National School Games Canoeing (A-Division)<br>
+●&nbsp; &nbsp; &nbsp; Second Prize at Competition and Consumer Commission of Singapore-Economics Society of Singapore Essay Competition 2022
+
+_“I would like to thank Mr Yong Yuen Cheng who pushed me to overcome my adversity of eczema during my beginning years of canoeing.”_
