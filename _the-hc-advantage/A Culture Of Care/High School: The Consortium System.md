@@ -24,24 +24,35 @@ The unique set up provides a more holistic, supportive and customised curriculum
 
 Click on each of the following links to find out more:
 
-<p><a href="https://aphelion.hci.edu.sg/">
-<img src="/images/aphelion.jpg" align="left" style="width:25%">
-</a></p>
-
-<p><a href="https://sites.google.com/hci.edu.sg/ispark/home">
-<img src="/images/ispark.jpg" align="left" style="width:25%">
-</a></p>
-
-<p><a href="https://sites.google.com/hci.edu.sg/ortus">
-<img src="/images/ortuslink.jpg" align="left" style="width:13%">
-</a></p>
-
-<p><a href="http://www.hci.sg/proed/index.html">
-<img src="/images/proedlink.jpg" align="left" style="width:25%">
-</a></p>
-<br clear="left">
-
-|   |   |   |   |
-|:-:|---|---|---|
-| [Aphelion](http://aphelion.hci.edu.sg/)  | [iSpark](https://sites.google.com/hci.edu.sg/ispark/home)  | [Ortus](https://sites.google.com/hci.edu.sg/ortus)  | [ProEd](http://www.hci.sg/proed/index.html)  |
-|   |   |   |   |
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 25%;">
+        <a href="https://aphelion.hci.edu.sg/">
+          <img src="/images/aphelion.jpg" style="width:100%">
+        </a>
+      </td>
+      <td style="width: 25%;">
+        <a href="https://sites.google.com/hci.edu.sg/ispark/home">
+          <img src="/images/ispark.jpg" style="width:100%">
+        </a>
+      </td>
+      <td style="width: 15%;">
+        <a href="https://sites.google.com/hci.edu.sg/ortus">
+          <img src="/images/ortuslink.jpg" style="width:100%">
+        </a>
+      </td>
+      <td style="width: 25%;">
+        <a href="http://www.hci.sg/proed/index.html">
+          <img src="/images/proedlink.jpg" style="width:100%">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://aphelion.hci.edu.sg/"><strong>Aphelion</strong></a></td>
+      <td align="center"><a href="https://sites.google.com/hci.edu.sg/ispark/home"><strong>iSpark</strong></a></td>
+      <td align="center"><a href="https://sites.google.com/hci.edu.sg/ortus"><strong>Ortus</strong></a></td>
+      <td align="center"><a href="http://www.hci.sg/proed/index.html"><strong>ProEd</strong></a></td>
+    </tr>
+  </tbody>
+</table>
