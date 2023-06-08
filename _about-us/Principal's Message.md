@@ -6,7 +6,7 @@ description: ""
 ##### Welcome to Hwa Chong Institution!
 
 <div style="width:40%; float:left; margin-right: 10px;">
-  <img style="width:100%" src="/images/prinimg.jpg">
+  <img style="width:80%" src="/images/prinimg.jpg">
 </div>
 
 
