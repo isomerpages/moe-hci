@@ -39,4 +39,4 @@ May the year of the Rabbit bring you much joy, peace and fulfilment!
 
 Pang Choon How<br>
 Principal<br>
-Hwa Chong Institution<p></p>
+Hwa Chong Institution
