@@ -35,16 +35,30 @@ description: ""
 </table>
 
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/finance.png">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/secretary1.png">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/excomem1.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/excomem2.jpg">
-<br clear="left">
-
-|   |   |   |   |
-|:-:|---|---|---|
-| Mrs Elaine Ng-Neo Poh Choo  <br>梁宝珠女士  <br>Treasurer/BOG,  <br>Chair/Finance Sub-Committee  <br>财政，财务组主席  | Mr Tan Chin Hwee  <br>陈竞辉先生  <br>Secretary  <br>秘书  | Prof Tan Kim Seng  <br>郑金城教授  <br>EXCO Member  <br>执行委员  | Ms Theodora Tan Peck Hiang  <br>陈碧娴女士  <br>EXCO Member  <br>执行委员  |
-|   |   |   |   |
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/finance.png">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/secretary1.png">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/excomem1.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/excomem2.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Mrs Elaine Ng-Neo Poh Choo<br>梁宝珠女士<br>Treasurer/BOG, Chair/Finance Sub-Committee<br>财政，财务组主席</strong></td>
+      <td align="center"><strong>Mr Tan Chin Hwee<br>陈竞辉先生<br>Secretary<br>秘书</strong></td>
+      <td align="center"><strong>Prof Tan Kim Seng<br>郑金城教授<br>EXCO Member<br>执行委员</strong></td>
+      <td align="center"><strong>Ms Theodora Tan Peck Hiang<br>陈碧娴女士<br>EXCO Member<br>执行委员</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member16.jpg">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member17.jpg">
