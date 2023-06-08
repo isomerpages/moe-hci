@@ -55,16 +55,31 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 </table>
 
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition9.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition10.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition11.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition12.jpg">
-<br clear="left">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition9.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition10.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition11.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/tradition12.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Ang Kiam Meng<br>CEO and Executive Director of JUMBO Group</strong></td>
+      <td align="center"><strong>Ronald Tay<br>CEO of CapitaLand Singapore</strong></td>
+      <td align="center"><strong>Professor Ho Teck Hua<br>Senior Deputy President and Provost of the National University of Singapore</strong></td>
+      <td align="center"><strong>Professor Ling San<br>Provost and Vice-President (Academic) of the Nanyang Technological University</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-|   |   |   |   |
-|:-:|---|---|---|
-| **Ang Kiam Meng**  <br>CEO and Executive Director of JUMBO Group  | **Ronald Tay**  <br>CEO of CapitaLand Singapore  | **Professor Ho Teck Hua**  <br>Senior Deputy President and Provost of the National University of Singapore  | **Professor Ling San**  <br>Provost and Vice-President (Academic) of the Nanyang Technological University  |
-|   |   |   |   |
 
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tradition13.jpg">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tradition14.jpg">
