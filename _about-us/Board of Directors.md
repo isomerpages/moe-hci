@@ -44,7 +44,6 @@ description: ""
 </table>
 
 
-<br>
 
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
@@ -74,34 +73,54 @@ description: ""
 </table>
 
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member5.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member6.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member7.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member8.jpg">
-<br clear="left">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member5.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member6.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member7.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/member8.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Dr Liew Kian Heng<br>柳 健 兴 博 士<br>Member<br>董事</strong></td>
+      <td align="center"><strong>Mr Lim Chee Kong<br>林志光先生<br>Member<br>董事</strong></td>
+      <td align="center"><strong>Mr Lim Der Shing<br>林德兴先生<br>Member<br>董事</strong></td>
+      <td align="center"><strong>Dr Loh Boon Kwang<br>罗文光医生<br>Member<br>董事</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-|   |   |   |   |
-|:-:|---|---|---|
-| Dr Liew Kian Heng  <br>柳 健 兴 博 士  <br>Member  <br>董事  | Mr Lim Chee Kong  <br>林志光先生  <br>Member  <br>董事  | Mr Lim Der Shing  <br>林德兴先生  <br>Member  <br>董事  | Dr Loh Boon Kwang  <br>罗文光医生  <br>Member  <br>董事  |
-|   |   |   |   |
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member9.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member10.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member11.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member12.jpg">
-<br clear="left">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member9.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member10.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member11.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/member12.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Dr Loh Poey Ling<br>罗佩玲医生<br>Member<br>董事</strong></td>
+      <td align="center"><strong>Mr Sim Choon Siong<br>沈俊雄先生<br>Member<br>董事</strong></td>
+      <td align="center"><strong>Dr Soon Kong Ann<br>孙广安博士<br>Member<br>董事</strong></td>
+      <td align="center"><strong>Prof Tan Kim Seng<br>郑金城教授<br>Member<br>董事</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-|   |   |   |   |
-|:-:|---|---|---|
-| Dr Loh Poey Ling  <br>罗佩玲医生  <br>Member  <br>董事  | Mr Sim Choon Siong  <br>沈俊雄先生  <br>Member  <br>董事  | Dr Soon Kong Ann  <br>孙广安博士  <br>Member  <br>董事  | Prof Tan Kim Seng  <br>郑金城教授  <br>Member  <br>董事  |
-|   |   |   |   |
-
-<img align="left" style="width:22%;margin-left:15px;" src="/images/member13.jpg">
-<img align="left" style="width:22%;margin-left:70px;" src="/images/member14.jpg">
-<img align="left" style="width:22%;margin-left:70px;" src="/images/member15.jpg">
-<br clear="left">
-
-|   |   |   |
-|:-:|---|---|
-| Mr Tan Yinglan  <br>陈映岚先生  <br>Member  <br>董事  | Mr Wang Yingyang, Jack  <br>王迎阳先生  <br>Member  <br>董事  | Dr Yim Heng Boon  <br>严兴文医生  <br>Member  <br>董事  |
-|   |   |   |
