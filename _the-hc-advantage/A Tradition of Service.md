@@ -107,16 +107,16 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 </table>
 
 
-<table style="table-layout: fixed; width: 100%;">
+<table style="table-layout: fixed; width: 50%;">
   <tbody>
     <tr>
       <td style="width: 33%; margin-left: 15px; text-align: center;">
-        <img style="width: 50%;" src="/images/tradition17.jpg">
+        <img style="width: 100%;" src="/images/tradition17.jpg">
         <br>
         <strong>Tan Swie Hian<br>Multi-disciplinary artist</strong>
       </td>
       <td style="width: 33%; margin-left: 15px; text-align: center;">
-        <img style="width: 50%;" src="/images/tradition18.jpg">
+        <img style="width: 100%;" src="/images/tradition18.jpg">
         <br>
         <strong>Gentle Bones (Joel Tan)<br>Singer-songwriter, and Forbes Asia 30 under 30 member</strong>
       </td>
