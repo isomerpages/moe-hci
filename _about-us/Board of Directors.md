@@ -124,3 +124,23 @@ description: ""
   </tbody>
 </table>
 
+<table style="table-layout: fixed; width: 75%;">
+  <tbody>
+    <tr>
+      <td style="width: 12%; margin-left: 15px;">
+        <img style="width: 100%;" src="/images/member13.jpg">
+      </td>
+      <td style="width: 12%; margin-left: 15x;">
+        <img style="width: 100%;" src="/images/member14.jpg">
+      </td>
+      <td style="width: 12%; margin-left: 70px;">
+        <img style="width: 100%;" src="/images/member15.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Mr Tan Yinglan<br>陈映岚先生<br>Member<br>董事</strong></td>
+      <td align="center"><strong>Mr Wang Yingyang, Jack<br>王迎阳先生<br>Member<br>董事</strong></td>
+      <td align="center"><strong>Dr Yim Heng Boon<br>严兴文医生<br>Member<br>董事</strong></td>
+    </tr>
+  </tbody>
+</table>
