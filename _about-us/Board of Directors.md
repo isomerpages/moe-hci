@@ -3,12 +3,18 @@ title: Board of Directors
 permalink: /about-us/board-of-directors/
 description: ""
 ---
-<img style="width:22%" src="/images/chairman.jpg">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; text-align: center;">
+        <img style="width: 22%;" src="/images/chairman.jpg">
+        <br>
+        <strong>Dr Sia Nam Chie<br>谢南极博士<br>Chairman<br>董事长</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-|   |
-|:-:|
-| Dr Sia Nam Chie  <br>谢南极博士  <br>Chairman  <br>董事长  |
-|   |
 
 <img align="left" style="width:22%;margin-right:15px;" src="/images/vicechair1.jpg">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/vicechair2.jpg">
