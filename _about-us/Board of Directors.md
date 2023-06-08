@@ -16,16 +16,35 @@ description: ""
 </table>
 
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/vicechair1.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/vicechair2.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/secretary.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/treasurer.jpg">
-<br clear="left">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/vicechair1.jpg">
+        <br>
+        <strong>Mr Kho Choon Keng<br>高泉庆先生<br>Vice-Chairman<br>副董事长</strong>
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/vicechair2.jpg">
+        <br>
+        <strong>Mr Kho Yue Sern<br>许喻胜先生<br>Vice-Chairman<br>副董事长</strong>
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/secretary.jpg">
+        <br>
+        <strong>Mr Ng Kit Kiew<br>吴杰翘先生<br>Secretary<br>秘书</strong>
+      </td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/treasurer.jpg">
+        <br>
+        <strong>Mr Ang Ming Hong<br>洪铭逢先生<br>Treasurer<br>财政</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-|   |   |   |   |
-|:-:|---|---|---|
-| Mr Kho Choon Keng <br>高泉庆先生  <br>Vice-Chairman  <br>副董事长  | Mr Kho Yue Sern  <br>许喻胜先生  <br>Vice-Chairman  <br>副董事长  | Mr Ng Kit Kiew  <br>吴杰翘先生  <br>Secretary  <br>秘书  | Mr Ang Ming Hong  <br>洪铭逢先生  <br>Treasurer  <br>财政  |
-|   |   |   |   |
+
+<br>
 
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member1.jpg">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member2.jpg">
