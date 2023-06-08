@@ -5,9 +5,15 @@ description: ""
 ---
 ##### Welcome to Hwa Chong Institution!
 
-<img align="left" style="width:40%" src="/images/prinimg.jpg">
+<div style="width:40%; float:left; margin-right: 10px;">
+  <img style="width:100%" src="/images/prinimg.jpg">
+</div>
 
-Welcome to Hwa Chong Institution!<br>Whenever I meet a Hwa Chong alumnus, each one of them never fails to speak fondly of his/her school experience and how Hwa Chong has made him/her into who he/she is today. Indeed, the Hwa Chong experience is a unique one, and every student who passes through the Hwa Chong gate has encountered episodes in school that are endearing and even life-transforming.<br>It is therefore most heartening to see that the friendships and bonds that Hwa Chongians have forged through different generations remain strong. Many Hwa Chongians continue to serve the school and community long after they have left this campus, while inspiring their juniors by role modelling the value of “饮水思源” (remembering our roots and honouring our benefactors). This is a hallmark of an institution that embraces a strong family culture and a distinctive school spirit that generations of Hwa Chongians take pride in.
+<div style="text-align: justify;">
+  <p>Welcome to Hwa Chong Institution!<br>Whenever I meet a Hwa Chong alumnus, each one of them never fails to speak fondly of his/her school experience and how Hwa Chong has made him/her into who he/she is today. Indeed, the Hwa Chong experience is a unique one, and every student who passes through the Hwa Chong gate has encountered episodes in school that are endearing and even life-transforming.</p>
+
+<p>It is therefore most heartening to see that the friendships and bonds that Hwa Chongians have forged through different generations remain strong. Many Hwa Chongians continue to serve the school and community long after they have left this campus, while inspiring their
+
 
 So, what constitutes the Hwa Chong Spirit?
 
@@ -33,4 +39,4 @@ May the year of the Rabbit bring you much joy, peace and fulfilment!
 
 Pang Choon How<br>
 Principal<br>
-Hwa Chong Institution
+Hwa Chong Institution</p></div>
