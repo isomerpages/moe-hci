@@ -7,7 +7,7 @@ description: ""
 
 Hwa Chongians are empowered to excel not just Academically, but also in all other areas like Leadership, Sports and Games, Co-curricular Activities (CCAs), Research, and Service to the Community. After graduating, Hwa Chongians continue to distinguish themselves in a variety of fields.
 
-<br clear="right"><table style="table-layout: fixed; width: 100%;">
+<table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
@@ -23,7 +23,6 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
         <img style="width: 100%;" src="/images/tradition4.jpg">
       </td>
     </tr>
-
     <tr>
       <td align="center"><strong>Ong Teng Cheong<br>Singapore’s first popularly elected President</strong></td>
       <td align="center"><strong>Jek Yeun Thong<br>Minister of the founding Singapore cabinet</strong></td>
