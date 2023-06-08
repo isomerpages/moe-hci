@@ -112,7 +112,7 @@ description: ""
 </table>
 
 
-<table style="table-layout: fixed; width: 100%;">
+<table style="table-layout: fixed; width: 75%;">
   <tbody>
     <tr>
       <td style="width: 22%; margin-left: 40px;">
@@ -132,3 +132,4 @@ description: ""
     </tr>
   </tbody>
 </table>
+
