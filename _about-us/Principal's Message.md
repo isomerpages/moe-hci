@@ -16,9 +16,9 @@ description: ""
 <p>It is therefore most heartening to see that the friendships and bonds that Hwa Chongians have forged through different generations remain strong. Many Hwa Chongians continue to serve the school and community long after they have left this campus, while inspiring their</p>
 
 
-So, what constitutes the Hwa Chong Spirit?
+<p>So, what constitutes the Hwa Chong Spirit?</p>
 
-Firstly, it is the undaunted spirit of strength, resilience and tenacity, as espoused in the school value of “自强不息”. Guided by the continual quest for excellence and continual self-improvement, it is manifested by an innate entrepreneurial dare and the determination to persevere and never give up. Indeed, “自强不息” has its roots from the ancient Book of Changes or I-Ching (《易经》), and describes a philosophy of life derived from the Qian (乾) hexagram, depicting the ceaseless evolution of nature and flow of the universe. (天行健，君子以自强不息。)
+<p>Firstly, it is the undaunted spirit of strength, resilience and tenacity, as espoused in the school value of “自强不息”. Guided by the continual quest for excellence and continual self-improvement, it is manifested by an innate entrepreneurial dare and the determination to persevere and never give up. Indeed, “自强不息” has its roots from the ancient Book of Changes or I-Ching (《易经》), and describes a philosophy of life derived from the Qian (乾) hexagram, depicting the ceaseless evolution of nature and flow of the universe. (天行健，君子以自强不息。)</p>
 
 Secondly, it is the enduring spirit of community and service to others, as expressed in the school value of WIN-WIN or “己立立人，己达达人”. Guided by a deep sense of humility and gratitude to others who have nurtured or developed us (饮水思源)，it is to consciously seek a virtuous and meaningful cause larger than oneself, with an innate understanding that the greatest self-worth that one can achieve is the selfless and wholehearted contribution to the greater “I” (大我), by bestowing self-worth and success to others and the community. I-Ching also offers a similar worldview as captured in the&nbsp;_Kun_&nbsp;(坤) hexagram which depicts how nature nurtures life and supports growth. (地势坤，君子以厚德载物。)
 
