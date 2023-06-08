@@ -86,23 +86,49 @@ description: ""
 </table>
 
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member20.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member21.png">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member22.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member23.png">
-<br clear="left">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member20.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member21.png">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member22.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member23.png">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Mr Kwok Wei Woon, Joseph<br>郭伟文先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Mr Ng Wei Fang<br>黄卫防先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Mr Ng Yeau Chong<br>黄耀宗先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Dr Phua Ghee Chee<br>潘宜志医生<br>Member<br>委员</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-|   |   |   |   |
-|:-:|---|---|---|
-| Mr Kwok Wei Woon, Joseph  <br>郭伟文先生  <br>Member  <br>委员  | Mr Ng Wei Fang  <br>黄卫防先生  <br>Member  <br>委员  | Mr Ng Yeau Chong  <br>黄耀宗先生  <br>Member  <br>委员  | Dr Phua Ghee Chee  <br>潘宜志医生  <br>Member  <br>委员  |
-|   |   |   |   |
 
-<img align="left" style="width:22%;margin-left:40px;" src="/images/member24.jpg">
-<img align="left" style="width:22%;margin-left:50px;" src="/images/member25.jpg">
-<img align="left" style="width:22%;margin-left:60px;" src="/images/member26.png">
-<br clear="left">
-
-|   |   |   |
-|:-:|---|---|
-| Mr Eugene Aw Jia Ming  <br>胡家洺先生  <br>Member  <br>委员  | Ms Evelyn Tan Yuan Yuan  <br>陈圆圆女士  <br>Member  <br>委员  | Mr Tay Boon Hwee Ronald  <br>郑文辉先生  <br>Member  <br>委员  |
-|   |   |   |
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-left: 40px;">
+        <img style="width: 100%;" src="/images/member24.jpg">
+      </td>
+      <td style="width: 22%; margin-left: 50px;">
+        <img style="width: 100%;" src="/images/member25.jpg">
+      </td>
+      <td style="width: 22%; margin-left: 60px;">
+        <img style="width: 100%;" src="/images/member26.png">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Mr Eugene Aw Jia Ming<br>胡家洺先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Ms Evelyn Tan Yuan Yuan<br>陈圆圆女士<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Mr Tay Boon Hwee Ronald<br>郑文辉先生<br>Member<br>委员</strong></td>
+    </tr>
+  </tbody>
+</table>
