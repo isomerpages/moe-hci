@@ -34,16 +34,31 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 
 
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition5.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition6.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition7.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition8.jpg">
-<br clear="left">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition5.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition6.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition7.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/tradition8.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Kelvin Khong<br>Chief of Air Force</strong></td>
+      <td align="center"><strong>Goh Si Hou<br>Former Chief of Army. CEO, Public Utilities Board</strong></td>
+      <td align="center"><strong>Aaron Beng<br>Chief of Defense Force</strong></td>
+      <td align="center"><strong>Ye Gang<br>Co-founder of Sea, consumer internet company</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-|   |   |   |   |
-|:-:|---|---|---|
-| **Kelvin Khong**  <br>Chief of Air Force  |  **Goh Si Hou**  <br>Former Chief of Army. CEO, Public Utilities Board | **Aaron Beng**  <br>Chief of Defense Force  | **Ye Gang**  <br>Co-founder of Sea, consumer internet company  |
-|   |   |   |   |
 
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tradition9.jpg">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tradition10.jpg">
