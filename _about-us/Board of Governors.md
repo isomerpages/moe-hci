@@ -28,11 +28,16 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>Dr Liew Kian Heng<br>柳健兴博士<br>Vice-Chair/BOG, Chair/Building and Infrastructure Sub-Committee<br>副主席，基础建设组主席</strong></td>
-      <td align="center"><strong>Dr Loh Poey Ling<br>罗佩玲医生<br>Vice-Chair/BOG, Chair/Personnel Sub-Committee<br>副主席，人事组主席</strong></td>
+      <td align="center">
+        <strong>Dr Liew Kian Heng<br>柳健兴博士<br>Vice-Chair/BOG, Chair/Building and Infrastructure Sub-Committee<br>副主席，基础建设组主席</strong>
+      </td>
+      <td align="center">
+        <strong>Dr Loh Poey Ling<br>罗佩玲医生<br>Vice-Chair/BOG, Chair/Personnel Sub-Committee<br>副主席，人事组主席</strong>
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 
 <table style="table-layout: fixed; width: 100%;">
@@ -132,4 +137,3 @@ description: ""
     </tr>
   </tbody>
 </table>
-
