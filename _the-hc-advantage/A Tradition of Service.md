@@ -13,10 +13,15 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tradition4.jpg">
 <br clear="left">
 
-|   |   |   |   |
-|:-:|---|---|---|
-| **Ong Teng Cheong**  <br>Singapore’s first popularly elected President  | **Jek Yeun Thong**  <br>Minister of the founding Singapore cabinet  | **Ng Chee Meng**  <br>Minister in the Prime Minister’s Office, and Secretary-General of the National Trades Union Congress (NTUC)  | **Dr Koh Poh Koon**  <br>Senior Minister of State in the Ministry of Trade &amp; Industry  |
-|   |   |   |   |
+<table>
+  <tbody><tr>
+    <td align="center"><strong>Ong Teng Cheong<br>Singapore’s first popularly elected President</strong></td>
+    <td align="center"><strong>Jek Yeun Thong<br>Minister of the founding Singapore cabinet</strong></td>
+    <td align="center"><strong>Ng Chee Meng<br>Minister in the Prime Minister’s Office, and Secretary-General of the National Trades Union Congress (NTUC)</strong></td>
+    <td align="center"><strong>Dr Koh Poh Koon<br>Senior Minister of State in the Ministry of Trade &amp; Industry</strong></td>
+  </tr>
+</tbody></table>
+
 
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tradition5.jpg">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tradition6.jpg">
