@@ -7,20 +7,30 @@ description: ""
 
 Hwa Chongians are empowered to excel not just Academically, but also in all other areas like Leadership, Sports and Games, Co-curricular Activities (CCAs), Research, and Service to the Community. After graduating, Hwa Chongians continue to distinguish themselves in a variety of fields.
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition1.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition2.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition3.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition4.jpg">
+<div style="width:22%;margin-right:15px;float:left;">
+  <img style="width:100%" src="/images/tradition1.jpg">
+</div>
+<div style="width:22%;margin-right:15px;float:left;">
+  <img style="width:100%" src="/images/tradition2.jpg">
+</div>
+<div style="width:22%;margin-right:15px;float:left;">
+  <img style="width:100%" src="/images/tradition3.jpg">
+</div>
+<div style="width:22%;margin-right:15px;float:left;">
+  <img style="width:100%" src="/images/tradition4.jpg">
+</div>
 <br clear="left">
 
 <table>
-  <tbody><tr>
-    <td align="center"><strong>Ong Teng Cheong<br>Singapore’s first popularly elected President</strong></td>
-    <td align="center"><strong>Jek Yeun Thong<br>Minister of the founding Singapore cabinet</strong></td>
-    <td align="center"><strong>Ng Chee Meng<br>Minister in the Prime Minister’s Office, and Secretary-General of the National Trades Union Congress (NTUC)</strong></td>
-    <td align="center"><strong>Dr Koh Poh Koon<br>Senior Minister of State in the Ministry of Trade &amp; Industry</strong></td>
-  </tr>
-</tbody></table>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Ong Teng Cheong<br>Singapore’s first popularly elected President</strong></td>
+      <td align="right"><strong>Jek Yeun Thong<br>Minister of the founding Singapore cabinet</strong></td>
+      <td align="center"><strong>Ng Chee Meng<br>Minister in the Prime Minister’s Office, and Secretary-General of the National Trades Union Congress (NTUC)</strong></td>
+      <td align="left"><strong>Dr Koh Poh Koon<br>Senior Minister of State in the Ministry of Trade &amp; Industry</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tradition5.jpg">
