@@ -9,7 +9,6 @@ description: ""
   <img style="width:100%" src="/images/prinimg.jpg">
 </div>
 
-<div style="text-align: justify;">
 
 <p>Welcome to Hwa Chong Institution!<br>Whenever I meet a Hwa Chong alumnus, each one of them never fails to speak fondly of his/her school experience and how Hwa Chong has made him/her into who he/she is today. Indeed, the Hwa Chong experience is a unique one, and every student who passes through the Hwa Chong gate has encountered episodes in school that are endearing and even life-transforming.</p>
 
@@ -40,4 +39,4 @@ May the year of the Rabbit bring you much joy, peace and fulfilment!
 
 Pang Choon How<br>
 Principal<br>
-Hwa Chong Institution<p></p></div>
+Hwa Chong Institution<p></p>
