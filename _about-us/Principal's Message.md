@@ -12,7 +12,7 @@ description: ""
 <div style="text-align: justify;">
   <p>Welcome to Hwa Chong Institution!<br>Whenever I meet a Hwa Chong alumnus, each one of them never fails to speak fondly of his/her school experience and how Hwa Chong has made him/her into who he/she is today. Indeed, the Hwa Chong experience is a unique one, and every student who passes through the Hwa Chong gate has encountered episodes in school that are endearing and even life-transforming.</p>
 
-<p>It is therefore most heartening to see that the friendships and bonds that Hwa Chongians have forged through different generations remain strong. Many Hwa Chongians continue to serve the school and community long after they have left this campus, while inspiring their
+<p>It is therefore most heartening to see that the friendships and bonds that Hwa Chongians have forged through different generations remain strong. Many Hwa Chongians continue to serve the school and community long after they have left this campus, while inspiring their</p>
 
 
 So, what constitutes the Hwa Chong Spirit?
@@ -39,4 +39,4 @@ May the year of the Rabbit bring you much joy, peace and fulfilment!
 
 Pang Choon How<br>
 Principal<br>
-Hwa Chong Institution</p></div>
+Hwa Chong Institution<p></p></div>
