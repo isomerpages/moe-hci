@@ -81,22 +81,48 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 </table>
 
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition13.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition14.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition15.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/tradition16.jpg">
-<br clear="left">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition13.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition14.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition15.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/tradition16.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Professor Phua Kok Khoo<br>Founding Director of the Institute of Advanced Studies at Nanyang Technological University, and Founder of World Scientific Publishing</strong></td>
+      <td align="center"><strong>Anthony Chen<br>Director of films like Ilo Ilo, winner of the Camera d’Or at the Cannes Film Festival 2013</strong></td>
+      <td align="center"><strong>Kuo Pao Kun<br>Pioneer of Singapore theatre</strong></td>
+      <td align="center"><strong>Liu Kang<br>Pioneering Singapore artist and ‘father’ of the Nanyang style</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-|   |   |   |   |
-|:-:|---|---|---|
-| **Professor Phua Kok Khoo**  <br>Founding Director of the Institute of Advanced Studies at Nanyang Technological University, and Founder of World Scientific Publishing  | **Anthony Chen**  <br>Director of films like Ilo Ilo, winner of the Camera d’Or at the Cannes Film Festival 2013  | **Kuo Pao Kun**  <br>Pioneer of Singapore theatre  | **Liu Kang**  <br>Pioneering Singapore artist and ‘father’ of the Nanyang style  |
-|   |   |   |   |
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 33%; margin-left: 15px;">
+        <img style="width: 50%;" src="/images/tradition17.jpg">
+      </td>
+      <td style="width: 33%; margin-left: 15px;">
+        <img style="width: 50%;" src="/images/tradition18.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tan Swie Hian<br>Multi-disciplinary artist</strong></td>
+      <td align="center"><strong>Gentle Bones (Joel Tan)<br>Singer-songwriter, and Forbes Asia 30 under 30 member</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-<img align="left" style="width:22%;margin-left:60px;" src="/images/tradition17.jpg">
-<img align="left" style="width:22%;margin-left:80px;" src="/images/tradition18.jpg">
-<br clear="left">
 
-|   |   |
-|:-:|---|
-|  **Tan Swie Hian**  <br>Multi-disciplinary artist | **Gentle Bones (Joel Tan)**  <br>Singer-songwriter, <br>and Forbes Asia 30 under 30 member  |
-|   |   |
+
+
