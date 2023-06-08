@@ -60,16 +60,31 @@ description: ""
   </tbody>
 </table>
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member16.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member17.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member18.png">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/member19.jpg">
-<br clear="left">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member16.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member17.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member18.png">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/member19.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Mr Ang Kiam Meng<br>黄建铭先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Mr Appa Durai Shunmugam<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Mr Jimmy Ng Leng Kim<br>黄龙金先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Dr Loh Boon Kwang<br>罗文光医生<br>Member<br>委员</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-|   |   |   |   |
-|:-:|---|---|---|
-| Mr Ang Kiam Meng  <br>黄建铭先生  <br>Member  <br>委员  | Mr Appa Durai Shunmugam  <br>Member  <br>委员  | Mr Jimmy Ng Leng Kim  <br>黄龙金先生  <br>Member  <br>委员  | Dr Loh Boon Kwang  <br>罗文光医生  <br>Member  <br>委员  |
-|   |   |   |   |
 
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member20.jpg">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/member21.png">
