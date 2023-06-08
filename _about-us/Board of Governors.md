@@ -5,21 +5,35 @@ description: ""
 ---
 ##### Board of Governors
 
-<img style="width:22%" src="/images/chairman1.jpg">
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; text-align: center;">
+        <img style="width: 22%;" src="/images/chairman1.jpg">
+        <br>
+        <strong>Dr Sia Nam Chie<br>谢南极博士<br>Chairman<br>董事长</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-|   |
-|:-:|
-| Mr Tai Wei Shyong  <br>戴伟雄先生  <br>Chairman  <br>主席  |
-|   |
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-left: 110px;">
+        <img style="width: 40%;" src="/images/vicechair3.jpg">
+      </td>
+      <td style="width: 22%; margin-left: 145px;">
+        <img style="width: 40%;" src="/images/vicechair4.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Dr Liew Kian Heng<br>柳健兴博士<br>Vice-Chair/BOG, Chair/Building and Infrastructure Sub-Committee<br>副主席，基础建设组主席</strong></td>
+      <td align="center"><strong>Dr Loh Poey Ling<br>罗佩玲医生<br>Vice-Chair/BOG, Chair/Personnel Sub-Committee<br>副主席，人事组主席</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-<img align="left" style="width:22%;margin-left:110px;" src="/images/vicechair3.jpg">
-<img align="left" style="width:22%;margin-left:145px;" src="/images/vicechair4.jpg">
-<br clear="left">
-
-|   |   |
-|:-:|---|
-| Dr Liew Kian Heng  <br>柳健兴博士  <br>Vice-Chair/BOG,  <br>Chair/Building and Infrastructure Sub-Committee  <br>副主席，基础建设组主席  | Dr Loh Poey Ling  <br>罗佩玲医生  <br>Vice-Chair/BOG,  <br>Chair/Personnel Sub-Committee  <br>副主席，人事组主席  |
-|   |   |
 
 <img align="left" style="width:22%;margin-right:15px;" src="/images/finance.png">
 <img align="left" style="width:22%;margin-right:15px;" src="/images/secretary1.png">
