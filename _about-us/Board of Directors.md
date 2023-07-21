@@ -64,9 +64,9 @@ description: ""
         <strong>Mr Chua Kee Thiam<br>蔡其添先生<br>Member<br>董事</strong>
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member4.jpg">
+        <img style="width: 100%;" src="/images/member5.jpg">
         <br>
-        <strong>Mr Kwok Wei Woon, Joseph<br>郭伟文先生<br>Member<br>董事</strong>
+        <strong>Dr Liew Kian Heng<br>柳 健 兴 博 士<br>Member<br>董事</strong>
       </td>
     </tr>
   </tbody>
@@ -77,23 +77,25 @@ description: ""
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member5.jpg">
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/member6.jpg">
+        <br>
+        <strong>Mr Lim Chee Kong<br>林志光先生<br>Member<br>董事</strong>
       </td>
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/member7.jpg">
+        <br>
+        <strong>Mr Lim Der Shing<br>林德兴先生<br>Member<br>董事</strong>
       </td>
       <td style="width: 22%; margin-right: 0;">
         <img style="width: 100%;" src="/images/member8.jpg">
+        <br>
+        <strong>Dr Loh Boon Kwang<br>罗文光医生<br>Member<br>董事</strong>
       </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Dr Liew Kian Heng<br>柳 健 兴 博 士<br>Member<br>董事</strong></td>
-      <td align="center"><strong>Mr Lim Chee Kong<br>林志光先生<br>Member<br>董事</strong></td>
-      <td align="center"><strong>Mr Lim Der Shing<br>林德兴先生<br>Member<br>董事</strong></td>
-      <td align="center"><strong>Dr Loh Boon Kwang<br>罗文光医生<br>Member<br>董事</strong></td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/member9.jpg">
+        <br>
+        <strong>Dr Loh Poey Ling<br>罗佩玲医生<br>Member<br>董事</strong>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -103,44 +105,44 @@ description: ""
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member9.jpg">
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/member10.jpg">
+        <br>
+        <strong>Mr Sim Choon Siong<br>沈俊雄先生<br>Member<br>董事</strong>
       </td>
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/member11.jpg">
+        <br>
+        <strong>Dr Soon Kong Ann<br>孙广安博士<br>Member<br>董事</strong>
       </td>
       <td style="width: 22%; margin-right: 0;">
         <img style="width: 100%;" src="/images/member12.jpg">
+        <br>
+        <strong>Prof Tan Kim Seng<br>郑金城教授<br>Member<br>董事</strong>
       </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Dr Loh Poey Ling<br>罗佩玲医生<br>Member<br>董事</strong></td>
-      <td align="center"><strong>Mr Sim Choon Siong<br>沈俊雄先生<br>Member<br>董事</strong></td>
-      <td align="center"><strong>Dr Soon Kong Ann<br>孙广安博士<br>Member<br>董事</strong></td>
-      <td align="center"><strong>Prof Tan Kim Seng<br>郑金城教授<br>Member<br>董事</strong></td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/member13.jpg">
+        <br>
+        <strong>Mr Tan Yinglan<br>陈映岚先生<br>Member<br>董事</strong>
+      </td>
     </tr>
   </tbody>
 </table>
 
-<table style="table-layout: fixed; width: 75%;">
+
+<table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
-      <td style="width: 12%; margin-left: 15px;">
-        <img style="width: 100%;" src="/images/member13.jpg">
-      </td>
-      <td style="width: 12%; margin-left: 15x;">
+      <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/member14.jpg">
+        <br>
+        <strong>Mr Wang Yingyang, Jack<br>王迎阳先生<br>Member<br>董事</strong>
       </td>
-      <td style="width: 12%; margin-left: 70px;">
+      <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/member15.jpg">
+        <br>
+        <strong>Dr Yim Heng Boon<br>严兴文医生<br>Member<br>董事</strong>
       </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Mr Tan Yinglan<br>陈映岚先生<br>Member<br>董事</strong></td>
-      <td align="center"><strong>Mr Wang Yingyang, Jack<br>王迎阳先生<br>Member<br>董事</strong></td>
-      <td align="center"><strong>Dr Yim Heng Boon<br>严兴文医生<br>Member<br>董事</strong></td>
+      <td style="width: 44%;" colspan="2"></td>
     </tr>
   </tbody>
 </table>
