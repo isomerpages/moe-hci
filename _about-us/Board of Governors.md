@@ -11,7 +11,7 @@ description: ""
       <td style="width: 22%; text-align: center;">
         <img style="width: 22%;" src="/images/chairman1.jpg">
         <br>
-        <strong>Dr Sia Nam Chie<br>谢南极博士<br>Chairman<br>董事长</strong>
+        <strong>Mr Tai Wei Shyong<br>戴伟雄先生<br>Chairman<br>主席</strong>
       </td>
     </tr>
   </tbody>
