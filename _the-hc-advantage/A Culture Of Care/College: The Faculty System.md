@@ -16,10 +16,10 @@ The faculty personnel take on multiple roles. In dealing with the affective aspe
 
 | Name in&nbsp;_Greek_  | Pronunciation  | Who Am I?  |
 |:-:|---|---|
-| [_Apollo_](http://yellowisforapollo.blogspot.com/)  | a-pol'- o  | God of the Sun  |
-| [_Ares_](http://aresfaculty.com/) **SITE NOT FOUUND** | air'- reez  | God of War  |
-| [_Artemis_](http://coolblueartemis.blogspot.com/) **BLOG NOT FOUND** | ahr'-tuh- mis  | Goddess of the Hunt  |
-| [_Athena_](http://www.athenafaculty.com/)  | a-thee'- na  | Goddess of Wisdom  |
+| Apollo  | a-pol'- o  | God of the Sun  |
+| Ares | air'- reez  | God of War  |
+| Artemis | ahr'-tuh- mis  | Goddess of the Hunt  |
+| Athena  | a-thee'- na  | Goddess of Wisdom  |
 |   |   |   |
 
 ##### The Faculty Committee
