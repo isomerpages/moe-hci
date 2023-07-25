@@ -45,14 +45,14 @@ The Hwa Chong school-based Gifted Education programme, hosted by the iSpark Cons
 
 In-class enrichment and curriculum differentiation, including interdisciplinary studies, leadership development and individualised research projects, are key features of this programme.
 
-The iSpark Consortium also hosts talent development programmes within the Centre for Scholastic Excellence, so that each student is academically stretched to his fullest potential. In addition he receives an equally enriching and meaningful character education which encourages him to work with the community through the global community outreach and the service-learning initiative.
+The iSpark Consortium also hosts the Science and Mathematics and the Humanities talent programmes, to stretch each student to his fullest potential. In addition he receives an equally enriching and meaningful character education which encourages him to serve and contribute to the community.
 
 ##### Sabbatical Programme
 
-A unique feature of the Hwa Chong Integrated Programme, Hwa Chong Sabbatical Programme allows students from Sec. 1 to Sec. 4 to go on sabbatical courses for one week, from Term 1 to Term 2. The school organizes Sabbaticals with the aim of creating space for students to develop passion for what they do. During Sabbaticals, formal lessons are replaced by enrichment programmes.
+A unique feature of the Hwa Chong Integrated Programme, Hwa Chong Sabbatical Programme allows students from Sec. 1 to Sec. 4 to go on sabbatical courses for one week, in Terms 1 and 2. The school organizes courses with the aim of creating space for students to develop passion for what they do. During Sabbaticals, formal lessons are replaced by enrichment programmes that students opt for.
 
-There are various areas of programmes for students to select from each term, namely, Arts &amp; Aesthetics, Chinese Studies, Humanities, English &amp; Literature, Leadership, Technology, Science and Math, Camps and Student Exchange. All students are engaged in activities outside the classroom during term time to further broaden their educational experience. This allows them to explore their diverse interests and have fun all at once.
+There are various types of programmes for students to select  each term, such as Arts, Aesthetics, Chinese Studies, Humanities, English; Literature, Leadership, Technology, Science and Math, Sports, Camps and Student Exchange. Courses may be conducted on or outside the school campus. Students are engaged in activities that enable them to learn beyond the classroom and broaden their educational experience. They also get to explore their diverse interests and have fun all at once.
 
 <img style="width:85%" src="/images/sabbaticalprog.jpg">
 
-Students will bid for their sabbatical courses every term, using the&nbsp; i-ComP.
+Students will bid for their sabbatical courses every term on the ISP.
