@@ -83,21 +83,29 @@ Note:&nbsp;There are some exceptions to the above academic assessment structure,
 | Sec 1  | \*MSG&nbsp;&lt;&nbsp;6  | C6  | MSG ≤6.00&nbsp;®S2-IP  |
 | Sec 2  | \*\*MSG&nbsp;&lt;&nbsp;4  | C6  | MSG ≤4.00&nbsp;®S3-IP  |
 | Sec 3  | \*\*\*MSG&nbsp;&lt;&nbsp;3  | C6  | MSG ≤3.00&nbsp;® S4-IP<br><br>MSG &gt; 3.00&nbsp;® O-Level Class#  |
-| Sec 4  | \*\*\*MSG&nbsp;&lt;&nbsp;3  | C6  | MSG ≤3.00&nbsp;® College 1<br><br>(%MSG ≤2.5 can take 4H2)  |
+| Sec 4  | \*\*\*MSG&nbsp;&lt;&nbsp;3  | C6  | MSG ≤3.00&nbsp;® College 1<br><br>(MSG ≤2.5 can take 4H2#)  |
 |   |   |   |   |
 
-Legend: IP - Integrated Programme,&nbsp;\*Ave. of all subjects and Project Work,\*\*Ave. of all subjects (Project Work grade will be included only if student obtains A1) \*\*\*Ave. of L2R5 (see below for L2R5)
+
+Legend: IP - Integrated Programme,&nbsp;\*Ave. of all subjects and Project Work,\*\*Ave. of all subjects (Project Work grade will be included only if student obtains A1) \*\*\*Ave. of L2R5 (see below for L2R5)                                                                 
+#Sec 4 students who obtain MSG 2.5 or better are eligible to take the expanded curriculum (i.e. 4 H2 subjects) at College 1.
 
 L2R5:
 
-*   L2 = English &amp; Higher Chinese&nbsp;
-*   R1 = Humanities /Higher Art /Higher Music /Malay Special Programme/ Bahasa Indonesia
-*   R2 = Mathematics/Science
-*   R3 = Humanities /Science/Mathematics/Higher Art /Higher Music /Malay Special Programme / Bahasa Indonesia&nbsp;
-*   R4 = Any other remaining subject, including Project Work
-*   R5 = Any other remaining subject, including Project Work
-*   #Every Hwa Chong student is important. The school provides a caring environment that is intellectually stimulating and secure. Students who require more support may be placed in a structured learning environment, under the care of highly experienced teachers.&nbsp; Where it is in the best interest of the students, these individuals may embark on the academic route and take the Singapore–Cambridge GCE O-Level Examinations. This is to broaden their academic options beyond secondary school.
-* %Sec 4 students who obtain MSG&nbsp;&lt;&nbsp;2.5 are eligible to take the expanded curriculum (i.e. 4 H2 subjects) at College 1.
+L2 = English &amp; Higher Chinese&nbsp;
+
+R1 = Humanities /Higher Art /Higher Music /Malay Special Programme/ Bahasa Indonesia
+
+R2 = Mathematics/Science
+
+R3 = Humanities /Science/Mathematics/Higher Art /Higher Music /Malay Special Programme / Bahasa Indonesia&nbsp;
+
+R4 = Any other remaining subject, including Project Work
+
+R5 = Any other remaining subject, including Project Work
+
+Every Hwa Chong student is important. The school provides a caring environment that is intellectually stimulating and secure. Students who require more support may be placed in a structured learning environment, under the care of highly experienced teachers.&nbsp; Where it is in the best interest of the students, these individuals may embark on the academic route and take the Singapore–Cambridge GCE O-Level Examinations. This is to broaden their academic options beyond secondary school.
+
 
 ##### S1- 4 ORAL PARTICIPATION RUBRICS
 
