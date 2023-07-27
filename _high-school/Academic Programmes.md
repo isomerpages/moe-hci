@@ -139,7 +139,7 @@ The Hwa Chong Mathematics Department sees the subject as an excellent means for 
 
 ##### Thinking Programme
 
-&gt; “_The unexamined life is not worth living._” - Socrates
+ “_The unexamined life is not worth living._” - Socrates
 
 As a subject, the Thinking Programme nurtures all Lower Secondary students to think critically and creatively (with a consistent and overt emphasis on caring thinking) across disciplines and cultures. At Secondary One, students learn to analyse and evaluate existing tomes of knowledge with thinking frameworks like Design Thinking and Paul’s Wheel of Reasoning. They then critically explore and examine Eastern and Western philosophies in both the English and Chinese language at Secondary Two. Students inquire into the meaning of their own lives and identities, using ideas like the allegory of Plato’s cave and various Confucian concepts, and build on each other’s musings through dialogue. This opportunity to be immersed in cross cultural philosophical inquiry and connect perspectives from the East and West, is what gives the Hwa Chongian the cross-cultural disposition of a true, future leader.
 
