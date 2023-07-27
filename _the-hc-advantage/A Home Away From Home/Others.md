@@ -6,6 +6,8 @@ third_nav_title: A Home Away From Home
 ---
 ##### Others
 
+A number of other facilities and open spaces provide every Hwa Chong student with opportunities to explore their passions.
+
 <img style="width:70%" src="/images/other1.jpeg"><br>
 <img style="width:70%" src="/images/other2.jpeg"><br>
 <img style="width:70%" src="/images/other3.jpeg"><br>
