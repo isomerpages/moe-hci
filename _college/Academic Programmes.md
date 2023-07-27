@@ -356,7 +356,7 @@ These subjects are developed by MOE in collaboration with the University of Camb
 
 Online application (via ISP) starts on&nbsp;**26 October 2022 to**&nbsp;**28 October 2022**. Selection is done by HCI H3 Selection Committee and the eligibility list of students will be released via ISP by&nbsp;**18**&nbsp;**November 2022 (12pm onwards)**.
 
-[GCE A-Level Syllabuses Examined in 2023: H3 Subjects (MOE-Cambridge)](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2022) **PAGE NOT FOUND**
+[GCE A-Level Syllabuses Examined in 2023: H3 Subjects (MOE-Cambridge)](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2022) 
 
 **Note: All H3 lessons start in 2023 Term 1 Week 1 (from Monday**&nbsp;**09**&nbsp;**Jan 2023).**&nbsp;_However, some of H3 subjects (for instance, H3 Biology) may have lessons in Nov 2022. You will be informed through the subject coordinators._
 
