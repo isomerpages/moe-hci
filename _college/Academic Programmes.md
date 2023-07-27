@@ -16,7 +16,7 @@ Click&nbsp;**[here](https://www.seab.gov.sg/home/examinations/gce-a-level/a-leve
 **The links below provide a summary of pre-requisites for the various courses / admission requirements at the local universities (NUS, NTU, SMU &amp; SUTD)**
 
 **[NUS's Courses Pre-requisites](http://www.nus.edu.sg/oam/apply-to-nus/A-levels-admissions-req-to-NUS.html)**<br>
-**[NTU's Courses Pre-requisites](http://admissions.ntu.edu.sg/UndergraduateAdmissions/Pages/ALevel.aspx)** **PAGE NOT FOUUND**<br>
+**[NTU's Courses Pre-requisites](https://www3.ntu.edu.sg/oad2/website_files/alevel/min_subject_requirements.pdf)**<br>
 **[SMU's Courses Pre-requisites](http://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-a-level)**<br>
 **[SUTD's Admission Requirements](http://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admissions-Requirements/Singapore-Cambridge-GCE-A-Level)**
 
