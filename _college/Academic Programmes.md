@@ -7,7 +7,7 @@ description: ""
 
 The Revised JC curriculum was implemented in 2006. Click&nbsp;**[here](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)**&nbsp;to find out more about the revised A-Level curriculum framework (H1, H2 &amp; H3) and subject requirements.
 
-Click&nbsp;**[here](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2022)** **PAGE NOT FOUND**&nbsp;to find out the syllabus for different subjects.
+Click&nbsp;**[here](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2022)** &nbsp;to find out the syllabus for different subjects.
 
 **When choosing subject combination, you should consider the following:**
 *   **Aptitude &amp; Strength (Arts or Science?)**
@@ -128,8 +128,8 @@ At Hwa Chong, we also aim to develop students with a global perspective, imbued 
 One key area that has gained prominence is the adoption of fieldwork in the study of Geography. Local field studies and overseas field trips are conducted each year in connection with topics covered during the course.&nbsp; These are efforts made to address the requirements of the theme on Geographical Investigation.&nbsp; All students will embark on detailed studies of both physical and human phenomena such as flooding and activities involving transnational corporations.&nbsp;
 
 The syllabus for H1 and H2 Geography can be found below:<br>
-[H1 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/8813_2018.pdf) **PAGE NOT FOUND**<br>
-[H2 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/9751_2018.pdf) **PAGE NOT FOUND**
+[H1 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/8813_2018.pdf) <br>
+[H2 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/9751_2018.pdf) 
 
 ----
 
