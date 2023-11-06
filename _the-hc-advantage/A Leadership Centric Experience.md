@@ -2,12 +2,13 @@
 title: A Leadership Centric Experience
 permalink: /the-hc-advantage/ldrship-centric-experience/
 description: ""
+variant: markdown
 ---
 ##### The Ong Teng Cheong Leadership Development Model:
 
 <img style="width:60%" src="/images/ldrshipmodel.png">
 
-The Hwa Chongian as a servant leader is one who has people at the core of his being. He is&nbsp; therefore one whose primary purpose for leading is to serve others, by enabling others to&nbsp; accomplish their tasks and realize their potential. He is also someone who is grounded in&nbsp; strong fundamental moral values. Hence the emphasis on 4 orientations of Servant&nbsp; Leadership:
+The Hwa Chongian as a servant leader is one who has people at the core of his being. He is&nbsp; therefore one whose primary purpose for leading is to serve others, by enabling others to&nbsp; accomplish their tasks and realize their potential. He is also someone who is grounded in&nbsp; strong fundamental moral values. Hence the emphasis on 4 orientations of Servant&nbsp;Leadership:
 
 *   Character Orientation&nbsp;
 *   People Orientation&nbsp;&nbsp;
