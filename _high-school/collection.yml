@@ -2,6 +2,7 @@ collections:
   high-school:
     output: true
     order:
+      - Example TitleTest.md
       - Academic Programmes.md
       - Assessment and Promotion Criteria.md
       - Admission Routes.md
