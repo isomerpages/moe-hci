@@ -2,6 +2,7 @@
 title: Assessment and Promotion Criteria
 permalink: /high-school/assessment-n-promotion/
 description: ""
+variant: markdown
 ---
 ##### <center>ASSESSMENT &amp; PROMOTION CRITERIA<br>Updated 16 Jan 2023</center>
 
@@ -82,8 +83,8 @@ Note:&nbsp;There are some exceptions to the above academic assessment structure,
 |   | Mean Subject Grade (MSG)  | Languages<br>\[English and&nbsp;<br>Higher Chinese\]  |   |
 | Sec 1  | \*MSG&nbsp;&lt;&nbsp;6  | C6  | MSG ≤6.00&nbsp;®S2-IP  |
 | Sec 2  | \*\*MSG&nbsp;&lt;&nbsp;4  | C6  | MSG ≤4.00&nbsp;®S3-IP  |
-| Sec 3  | \*\*\*MSG&nbsp;&lt;&nbsp;3  | C6  | MSG ≤3.00&nbsp;® S4-IP<br><br>MSG &gt; 3.00&nbsp;® O-Level Class#  |
-| Sec 4  | \*\*\*MSG&nbsp;&lt;&nbsp;3  | C6  | MSG ≤3.00&nbsp;® College 1<br><br>(MSG ≤2.5 can take 4H2#)  |
+| Sec 3  | \*\*\*MSG&nbsp;&lt;&nbsp;3  | C6  | MSG ≤3.00&nbsp;® S4-IP<br><br>MSG &gt; 3.00&nbsp;® O-Level Class<sub>#</sub>  |
+| Sec 4  | \*\*\*MSG&nbsp;&lt;&nbsp;3  | C6  | MSG ≤3.00&nbsp;® College 1<br><br>(MSG ≤2.5 can take 4H2<sub>#</sub>)  |
 |   |   |   |   |
 
 
