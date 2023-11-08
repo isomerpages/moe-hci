@@ -26,4 +26,8 @@ sections:
       description: COLLEGE
       button: LEARN MORE
       url: /college/academic-prog/
+  - resources:
+      title: News & Events
+      id: resources
+      button: Find Out More
 ---
