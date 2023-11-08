@@ -2,7 +2,47 @@
 title: Admission Routes
 permalink: /high-school/admission-route/
 description: ""
+variant: markdown
 ---
+<center><b>
+HWA CHONG INSTITUTION (HIGH SCHOOL) ENTRANCE EXAMINATION: ADMISSION YEAR 2024</b></center>
+
+Our entrance examination is only open to candidates who are interested to be admitted into&nbsp;**Secondary Three**&nbsp;in&nbsp;**Academic Year 2024**. There are no vacancies for the other levels in High School.
+
+<u>**Eligibility criteria**</u><br>
+Candidates must meet either of the two criteria listed below. 
+
+1.Students who are currently studying in a&nbsp;**local mainstream secondary school.**<br>
+**Please note that&nbsp;students who have been admitted to their current school via DSA-Sec or AEIS exercise are&nbsp;NOT&nbsp;eligible for school transfer.**&nbsp;**Transferring out of the IP is strongly discouraged, as it could disrupt the quality of the student’s educational experience.**
+
+2.&nbsp;**Returning Singaporeans (RS).**&nbsp;RS may&nbsp;also&nbsp;participate in the Ministry of Education’s (MOE) School Placement Exercise for Returning Singaporean (SPERS). For more information on SPERS, please refer to MOE website at&nbsp;[https://www.moe.gov.sg/returning-singaporeans](https://www.moe.gov.sg/returning-singaporeans)
+
+<u>**Closing date for application**</u>
+
+The closing date for application is&nbsp;**Sunday,**&nbsp;**22 October 2023**. The examination will be held at the High School Section on&nbsp;**Tuesday, 7 November 2023.**
+
+Candidates will have to sit for three tests:
+
+
+| **Subject Name** | **Duration** |**Tested On** |**Remarks** |
+| -------- | -------- | -------- | ------------------------ |
+| English Language   | 2 hours| Section A: Essay <br> Section B: Comprehension     | NA|
+| Chinese Language | 1 hour| 入学语文能力鉴定测验:&nbsp;作文     | The use of dictionary or electronic dictionary that is approved by the Singapore Ministry of Education |
+| Mathematics | 2 hours | Structured Questions: Topics<br>&nbsp;[**click here**](https://admindev.hci.edu.sg/uploads/AY_2024_Maths_Topics_for_Sec_3_Entrance_Exam_f2ccc6d150.jpg)    | The use of electronic calculator is permitted |
+
+**Important notes**
+*   Hwa Chong Institution is a Special Assistance Plan school (SAP). All students must study English and Higher Chinese at first language level.
+*   Hwa Chong Institution (High School) is an All-Boys school.
+*   School fee rates are available on our website&nbsp;[School Fee Structure](https://www.hci.edu.sg/admissions/admissions-and-studies-high-school/financial-information)
+
+Applicants must&nbsp;complete and submit an online application by&nbsp;**Sunday, 22 October 2023**. Please click&nbsp;[here](https://form.gov.sg/6503e07c27ff0e0011f7828e)&nbsp;for the e-application. Incomplete and late applications will be rendered as void.
+
+Shortlisted candidate will receive notification on the exam details through email by&nbsp;**Friday, 27 Oct 2023**. Please ensure that the email address provided in the application form is correct.
+
+Shortlisted candidates&nbsp;<u>**may be**</u>&nbsp;invited for an interview in the last week of November 2023.&nbsp;
+
+**All candidates will receive notification on the outcome of the application on&nbsp;Friday, 1 December 2023 through email and post.**&nbsp;Details of the results will&nbsp;**NOT**&nbsp;be disclosed. The school’s decision on the outcome of the entrance examination is final.
+
 <center><b>DIRECT SCHOOL ADMISSION EXERCISE 2023</b></center>
 
 Primary 6 students who are keen to join HCI in 2024 may apply to the school via the Direct School Admission (DSA) Exercise.
@@ -78,11 +118,11 @@ For more information about the different DSA categories, please click&nbsp;[here
 
 <center><b>Direct School Admissions Selection Process</b></center>
 
-Applicants will be shortlisted based on available information from MOE and from applicants’ submitted information via the application process.&nbsp;
+Applicants will be shortlisted based on available information from MOE and from applicants’ submitted information via the application process.
 
-HCI will be conducting in-person selection for all DSA talent areas for 2023 DSA-Sec.&nbsp;Applicants who are successfully shortlisted will be informed between 4 July to 10 July and they will be required to attend an interview and/or selection tests on&nbsp;<b><u>22 July 2023</u></b>.&nbsp;Due to the large number of applicants and the limited number of DSA places, not all students who meet the criteria will be shortlisted for an interview.&nbsp;
+HCI will be conducting in-person selection for all DSA talent areas for 2023 DSA-Sec.&nbsp;Applicants who are successfully shortlisted will be informed between 4 July to 10 July and they will be required to attend an interview and/or selection tests on <u>**22 July 2023.**</u> Due to the large number of applicants and the limited number of DSA places, not all students who meet the criteria will be shortlisted for an interview.&nbsp;
 
-Please note that applicants should attend the in-person selection only if they are well. For students who are unwell (e.g. tested COVID-19 positive) during the selection period, re-scheduling the in-person selection will be done where possible.&nbsp;
+Please note that applicants should attend the in-person selection only if they are well. For students who are unwell (e.g. tested COVID-19 positive) during the selection period, re-scheduling the in-person selection will be done where possible.
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school for the duration of the 6-year Integrated Programme, and participate in the activities related to the talent area they are selected for from year 1-4.
 
