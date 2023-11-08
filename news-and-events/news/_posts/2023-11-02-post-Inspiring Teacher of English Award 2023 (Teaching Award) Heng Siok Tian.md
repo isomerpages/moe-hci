@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-A big congratulations to Hwa Chong Institution (college) teacher, Ms Heng Siok Tian, for being conferred this year’s Inspiring Teacher of English Award. Out of 120 nominations received this year, only five recipients were awarded for the teaching of English, and Ms Heng was one of them.
+A big congratulations to Hwa Chong Institution (College) teacher, Ms Heng Siok Tian, for being conferred this year’s Inspiring Teacher of English Award. Out of 120 nominations received this year, only five recipients were awarded for the teaching of English, and Ms Heng was one of them.
 
 ![](https://admindev.hci.edu.sg/uploads/ITEA_2023_P2_220e052bd3.jpg)
 
