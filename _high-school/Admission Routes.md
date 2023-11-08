@@ -9,7 +9,7 @@ HWA CHONG INSTITUTION (HIGH SCHOOL) ENTRANCE EXAMINATION: ADMISSION YEAR 2024</b
 
 Our entrance examination is only open to candidates who are interested to be admitted into&nbsp;**Secondary Three**&nbsp;in&nbsp;**Academic Year 2024**. There are no vacancies for the other levels in High School.
 
-<u> **Eligibility criteria** </u><br>
+<u><b>Eligibility criteria</b></u><br>
 Candidates must meet either of the two criteria listed below. 
 
 1.Students who are currently studying in a&nbsp;**local mainstream secondary school.**<br>
@@ -17,7 +17,7 @@ Candidates must meet either of the two criteria listed below.
 
 2.&nbsp;**Returning Singaporeans (RS).**&nbsp;RS may&nbsp;also&nbsp;participate in the Ministry of Education’s (MOE) School Placement Exercise for Returning Singaporean (SPERS). For more information on SPERS, please refer to MOE website at&nbsp;[https://www.moe.gov.sg/returning-singaporeans](https://www.moe.gov.sg/returning-singaporeans)
 
-<u>**Closing date for application**</u>
+<u><b>Closing date for application</b></u>
 
 The closing date for application is&nbsp;**Sunday,**&nbsp;**22 October 2023**. The examination will be held at the High School Section on&nbsp;**Tuesday, 7 November 2023.**
 
