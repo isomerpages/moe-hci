@@ -9,7 +9,7 @@ HWA CHONG INSTITUTION (HIGH SCHOOL) ENTRANCE EXAMINATION: ADMISSION YEAR 2024</b
 
 Our entrance examination is only open to candidates who are interested to be admitted into&nbsp;**Secondary Three**&nbsp;in&nbsp;**Academic Year 2024**. There are no vacancies for the other levels in High School.
 
-<u>**Eligibility criteria**</u><br>
+<u> **Eligibility criteria** </u><br>
 Candidates must meet either of the two criteria listed below. 
 
 1.Students who are currently studying in a&nbsp;**local mainstream secondary school.**<br>
