@@ -2,6 +2,7 @@
 title: Board of Directors
 permalink: /about-us/board-of-directors/
 description: ""
+variant: markdown
 ---
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
