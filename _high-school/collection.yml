@@ -2,7 +2,6 @@ collections:
   high-school:
     output: true
     order:
-      - Test.md
       - Academic Programmes.md
       - Assessment and Promotion Criteria.md
       - Admission Routes.md
