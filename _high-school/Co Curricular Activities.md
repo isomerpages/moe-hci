@@ -31,6 +31,4 @@ A list of CCAs can be found below:
 |||Wushu||
 
 
-
-
 Click&nbsp;**[here](https://admissions.hci.edu.sg/cca)**&nbsp;to see the list of available CCAs.
