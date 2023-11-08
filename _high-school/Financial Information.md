@@ -16,7 +16,7 @@ variant: markdown
 | **Singapore Permanent Resident**  | $800  | $850  | $930  |
 | **International Student (ASEAN)**  | $1,200  | $1,260  | $1,460  |
 | **International Student (Other Countries)**  | $2,050  | $2,100  | $2,450  |
-|   |   |   |   |
+
 
 Note: <br>
 1)&nbsp; School fees will be adjusted accordingly for pupils under Scholarships or Special Programmes. <br>
