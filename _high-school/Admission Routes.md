@@ -25,8 +25,8 @@ Candidates will have to sit for three tests:
 
 
 | **Subject Name** | **Duration** |**Tested On** |**Remarks** |
-| -------- | -------- | -------- | ------------------------ |
-| English Language   | 2 hours| Section A: Essay <br> Section B: Comprehension     | NA|
+| - | - | - | :-: |
+| English Language   |2 hours| Section A: Essay <br> Section B: Comprehension     | NA|
 | Chinese Language | 1 hour| 入学语文能力鉴定测验:&nbsp;作文     | The use of dictionary or electronic dictionary that is approved by the Singapore Ministry of Education |
 | Mathematics | 2 hours | Structured Questions: Topics<br>&nbsp;[**click here**](https://admindev.hci.edu.sg/uploads/AY_2024_Maths_Topics_for_Sec_3_Entrance_Exam_f2ccc6d150.jpg)    | The use of electronic calculator is permitted |
 
