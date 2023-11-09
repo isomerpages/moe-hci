@@ -7,15 +7,21 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: HWA CHONG INSTITUTION
-      background: /images/homepage.jpg
-      dropdown:
-        title: FIND OUT MORE
-        options:
-          - title: NEWS & EVENTS
-            url: /homepage-news-n-events/
-          - title: THE HWACHONG ADVANTAGE
-            url: /homepage-hwchong-advantage/
+      background: /images/homepage banner.gif
+      variant: center
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
