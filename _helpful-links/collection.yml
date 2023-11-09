@@ -1,4 +1,5 @@
 collections:
   helpful-links:
     output: true
-    order: []
+    order:
+      - About Us.md
