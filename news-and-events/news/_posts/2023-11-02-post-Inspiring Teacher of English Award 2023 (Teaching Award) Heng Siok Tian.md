@@ -9,7 +9,7 @@ variant: markdown
 ---
 A big congratulations to Hwa Chong Institution (College) teacher, Ms Heng Siok Tian, for being conferred this year’s Inspiring Teacher of English Award. Out of 120 nominations received this year, only five recipients were awarded for the teaching of English, and Ms Heng was one of them.
 
-![](/images/News%20and%20Events/ITEA_2023_P1.jpg)
+![](/images/News%20and%20Events/ITEA%202023%202%20Nov%202023/ITEA_2023_P1.jpg)
 
 The Inspiring Teacher of English Award is a national award for English teachers who ignite a love for the English language in their students. This award is presented by the Speak Good English Movement and The Straits Times, with support from the Ministry of Education.
 
@@ -19,6 +19,6 @@ On Ms Heng’s passion for teaching, she has this to say: “It is indeed a priv
 
 For more of Ms Heng’s thoughts on teaching, watch this video: [https://www.youtube.com/watch?v=ktj2k6VGPHw](https://www.youtube.com/watch?v=ktj2k6VGPHw)
 
-![](/images/News%20and%20Events/ITEA_2023_P2.jpg)
+![](/images/News%20and%20Events/ITEA%202023%202%20Nov%202023/ITEA_2023_P2.jpg)
 
 _Ms Heng Siok Tian_
