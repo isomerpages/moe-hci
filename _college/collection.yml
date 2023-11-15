@@ -2,7 +2,7 @@ collections:
   college:
     output: true
     order:
-      - Academic Programmes.md
+      - Academic Programmes (Old).md
       - Admission Paths.md
       - Financial Information.md
       - Co Curricular Activities.md
