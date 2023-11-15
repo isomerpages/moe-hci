@@ -3,6 +3,7 @@ title: "College: The Faculty System"
 permalink: /the-hc-advantage/a-culture-of-care/faculty-sys/
 description: ""
 third_nav_title: A Culture Of Care
+variant: markdown
 ---
 ##### College: The Faculty System
 
@@ -32,10 +33,5 @@ The Faculty Committee provides a highly enriching experience for its members. It
 
 The Faculty Committees collate and communicate feedback on student morale, problems faced, suggestions for improvement and overall well-being to the faculty teachers-in-charge. Feedback channels and sharing sessions are instituted. Meetings as a faculty of students and teachers are held termly to define strategic direction, ways to strengthen collegiality, and areas for collaboration be in within or across faculties.
 
-<img style="width:70%" src="/images/faculty1.png">
+![](/images/College_Faculties_O1.JPG)
 
-<img style="width:70%" src="/images/faculty2.png">
-
-<img style="width:70%" src="/images/faculty3.png">
-
-<img style="width:70%" src="/images/faculty4.png">
