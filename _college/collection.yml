@@ -2,7 +2,6 @@ collections:
   college:
     output: true
     order:
-      - Academic Programmes New.md
       - Academic Programmes.md
       - Admission Paths.md
       - Financial Information.md
