@@ -2,6 +2,7 @@ collections:
   college:
     output: true
     order:
+      - Academic Programmes/Special Programmes.md
       - Academic Programmes/Subjects.md
       - Academic Programmes/Academics.md
       - Academic Programmes/.keep
