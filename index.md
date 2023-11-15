@@ -9,19 +9,9 @@ sections:
   - hero:
       background: /images/homepage banner.gif
       variant: center
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+      dropdown:
+        title: ""
+        options: []
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
