@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/homepage banner.gif
       variant: center
-      dropdown:
-        title: ""
-        options: []
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
