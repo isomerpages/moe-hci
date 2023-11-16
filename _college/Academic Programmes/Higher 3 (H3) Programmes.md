@@ -92,3 +92,48 @@ The following table shows the various modules offered for H3 research programme 
 |2|NUS-MOE Humanities&nbsp; and Social Sciences Research (NUS-MOE HSSR)|U601|FASS|Jan – May in JC2 (Requires an approximate 120 hours of independent research)|Chinese Language and Literature, Economics, Geography, History, Literature in English, and Malay Language and Literature
 |3|NTU-A*STAR-HCI H3 Science Research Programme|T050|A*STAR Labs|Starts in JC1 Term 2 (March) and expect to complete research by JC2 Term 1 (April)|Science subject(s) and Math|
 |4|NTU-MOE Nanyang Research Programme (NTU-MOE NRP)|T001|NTU Labs|Starts in JC1 Term 2 (March) and expect to complete research by JC2 Term 2 (April))|Science subject(s) and Math|
+
+### **(C)&nbsp;MOE-CAMBRIDGE H3 Subjects**
+
+These subjects are developed by MOE in collaboration with the University of Cambridge Local Examinations Syndicate, taught by HCI lecturers and examined by Cambridge International Examinations (CIE), UK. Students will sit for a written examination that includes the GCE A-level subject papers in the year-end written examination at the end of JC2. For students who are required to submit independent research essays, the final submission to SEAB is in early Term 4, 2023.&nbsp;
+
+Online application (via ISP) starts on&nbsp;**25 October 2023 to**&nbsp;**27 October 2023**. Selection is done by HCI H3 Selection Committee and the eligibility list of students will be released via ISP by&nbsp;**17**&nbsp;**November 2023**.&nbsp;
+
+ [**GCE A-Level Syllabuses Examined: &nbsp;H3 Subjects (MOE-Cambridge)**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)
+
+**Note: All H3 lessons start in 2024 Term 1 Week 1 (from Monday**&nbsp;**08**&nbsp;**Jan 2024).**&nbsp;_However, some of H3 subjects (for instance, H3 Biology) may have lessons in Nov 2023. You will be informed through the subject coordinators._
+
+
+
+|No|MOE-Cambridge H3 subject|Subject Code|Associated MOE-Cambridge H2 Subject|
+| -------- | -------- | -------- | -------- |
+|1|Literature in English|9805|Literature in English|
+|2|Economics|9809|Economics|
+|3|Chemistry|9813|Chemistry|
+|4|Physics|9914|Physics|
+|5|Biology|9816|Biology|
+|6|Art|9818|Art|
+|7|Mathematics|9820|Mathematics|
+|8|Geography|9822|Geography|
+|9|History|9823|History|
+|10|Chinese Language &amp; Literature|9901|Chinese Language &amp; Literature|
+
+#### **Selection Criteria for MOE-CAMBRIDGE H3 Subjects**
+
+a.&nbsp;**Mean Subject Grade (MSG) 2.8 or better for content based subjects**
+
+MSG is calculated for all H1, H2 content based subjects after C1 Overall Results are released.&nbsp;**Annex**&nbsp;shows the scoring points system and the formula used in computing the MSG. This criterion ensures that only students of the right calibre are selected. Prospective H3 students must be able to cope well in all subjects that are offered.
+
+b.&nbsp;_**Within top 20th percentile ranking for the intended subject at H2 level**_
+
+**Remarks**
+
+Listed in the table below are the recommended number of H3 subjects that can be offered for the various subject combinations taken by JC2 students. The intent is to ensure that students are given ample time and space to pursue their interest and passion in one or more H3 subjects while developing themselves holistically in non-academic areas.
+|Subject Combinations|Recommended No. of H3 offered|
+| -------- | -------- |
+|3 H2, 1 H1|Up TO 2 H3|
+|4H2 (No KI)|Up to 1 H3 / Up to 2 H3 for H2 CLL students|
+|4H2 (With KI)|Up TO 2 H3|
+|4H2 (With KI), 1 H1|Up TO 1 H3|
+
+Students can appeal to read an MOE-Cambridge H3 subject if they do not meet the selection criteria. Decisions will be made on a case-by-case basis by HCI H3 Selection Committee. The student eligibility list for MOE-Cambridge H3 will be released on&nbsp;**25 Oct 2023**&nbsp;via ISP. Students who are not eligible can make an appeal by submitting the appeal form through ISP from&nbsp;**25 Oct 2023 to 27 Oct 2023**.
