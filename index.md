@@ -8,7 +8,10 @@ notification: This is a sample announcement!
 sections:
   - hero:
       background: /images/homepage banner.gif
-      variant: center
+      variant: image
+      dropdown:
+        title: ""
+        options: []
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
