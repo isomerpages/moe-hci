@@ -79,7 +79,7 @@ For&nbsp;**enquiries with regard to Special Programmes**, please email:
 |Language Elective Programme (LEP)|Mr Hong Wee Seng Jeffrey|[hongws@hci.edu.sg](mailto:hongws@hci.edu.sg)|
 |Art Elective Programme (AEP)|Mr Tan Chiew Sern|[chiewsern@hci.edu.sg](mailto:chiewsern@hci.edu.sg)
 |Bicultural Studies Programme (BSP)|Mr Hong Wee Seng Jeffrey|[hongws@hci.edu.sg](mailto:hongws@hci.edu.sg)|
-|Science and Math Talent Programme (SMTP-GATE)|Ms Wang Yitian|[wangyt@hci.edu.sg](mailto:wangyt@hci.edu.sg)|
+|Science and Math Talent Programme (SMTP)|Ms Wang Yitian|[wangyt@hci.edu.sg](mailto:wangyt@hci.edu.sg)|
 |Computing Talent Programme (CTP)|Mr Ng Say Tiong|[ngst@hci.edu.sg](mailto:ngst@hci.edu.sg)|
 
 For&nbsp;**enquiries with regard to specific subjects**, please email:
@@ -104,9 +104,3 @@ For&nbsp;**enquiries with regard to specific subjects**, please email:
 |Computing|Ms Yu Qian|[yuqian@hci.edu.sg](mailto:yuqian@hci.edu.sg)|
 
 Note: Responses to enquiries in the month of December may be delayed due to the school holidays.
-
-
-
-
-
-
