@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Non Teaching Positions.md
-      - Teaching Positions.md
       - Professional Development.md
