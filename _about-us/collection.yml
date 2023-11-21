@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Careers.md
       - Principal's Message.md
       - Mission and Vision.md
       - Board of Directors.md
