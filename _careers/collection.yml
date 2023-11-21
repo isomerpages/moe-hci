@@ -1,5 +1,0 @@
-collections:
-  careers:
-    output: true
-    order:
-      - Professional Development.md
