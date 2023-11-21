@@ -46,7 +46,7 @@ Links to the 'indicative grade point' for admission to courses in NUS, NTU and S
 
  **B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programmes**
 
-*   Science and Math Talent Programme (SMTP-GATE)
+*   Science and Math Talent Programme (SMTP)
 *   Computing Talent Programme (CTP)
 
  [**Proposed List of Standard Subject Combinations for 2024 JC1**](https://admindev.hci.edu.sg/uploads/HCI_College_Standard_Subject_Combinations_for_2023_Jan_JC_1_final_ee1e16480e.pdf)&nbsp;[](https://admindev.hci.edu.sg/uploads/HCI_College_Standard_Subject_Combinations_for_2021_JC_1_FINAL_a6b5dba4b1.pdf)<br>Updated Info&nbsp;Sep 2023!
