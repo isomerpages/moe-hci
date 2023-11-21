@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Academic Programmes
 ---
-# Information for 2024 JC1 students 
-**(updated Sep 2023)**
-
-
+# General Information
+**(updated Sep 2023)** <br>
 The Revised JC curriculum was implemented in 2006. Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;to find out more about the revised A-Level curriculum framework (H1, H2 &amp; H3) and subject requirements.
 
 Click&nbsp;[**here**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)&nbsp;to find out the syllabus for different subjects.
