@@ -4,9 +4,9 @@ permalink: /high-school/cca/
 description: ""
 variant: markdown
 ---
-Co-Curricular Activities (CCAs) are an integral part of every Hwa Chongian's life. We offer a wide and diverse range of CCAs across 4 main groups; <b>Aesthetics, Clubs &amp; Societies, Sports, and Uniformed Groups</b>
+Co-Curricular Activities (CCAs) are an integral part of every Hwa Chongian's life. We offer a wide and diverse range of CCAs across 4 main groups; <b>Aesthetics, Clubs &amp; Societies, Sports and Uniformed Groups</b>
 
-Our CCAs are at the forefront of their respective fields, with some winning championships at the National level, and some Hwa Chongians representing Singapore on an international stage.
+Our CCAs are at the forefront of their respective fields, achieving excellence at the National level, with some Hwa Chongians representing Singapore on an international stage.
 
 Various CCA activities aim to provide avenues for students to discover their interests and develop their talents. In time, we hope that the skills and lessons learnt will encourage all Hwa Chong students to lead a balanced and purposeful life.
 
