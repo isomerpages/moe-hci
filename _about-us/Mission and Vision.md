@@ -14,6 +14,7 @@ variant: markdown
 **We nurture leaders in Research, Industry and Government to serve the nation**
 
 # Our Core Values <br> 
+![](/images/mission_and_vision_new.JPG)
 
 &gt; Teachers and students are encouraged to maximise the opportunities in HCI when exploring their interests. They should seek to develop these interests into life-long passions. The HCI research-based curriculum hones students’ Disciplined Minds to further develop their passions. The pre-requisites of a Creating Mind are curiosity, innovation and a quest for excellence. Teachers and students should learn to explore possibilities and create platforms to forge breakthroughs in a knowledge-based economy. Both Passion and Innovation lead to constant self-renewal and improvement, which is essentially the spirit of 自强不息.<h5> 自强不息 <br> 
 Tireless self - improvement with tenacity, innovation and passion</h5>
