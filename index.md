@@ -7,7 +7,7 @@ permalink: /
 notification: This is a sample announcement!
 sections:
   - hero:
-      background: /images/homepage banner.gif
+      background: /images/homepage_banner_v2.gif
       variant: image
   - infobar:
       title: ADMISSION & STUDIES
