@@ -3,6 +3,7 @@ title: "High School: The Consortium System"
 permalink: /the-hc-advantage/a-culture-of-care/consortium-sys/
 description: ""
 third_nav_title: A Culture Of Care
+variant: markdown
 ---
 ##### High School: The Consortium System
 
@@ -29,22 +30,22 @@ Click on each of the following links to find out more:
     <tr>
       <td style="width: 25%;">
         <a href="https://aphelion.hci.edu.sg/">
-          <img src="/images/aphelion.jpg" style="width:100%">
+          <img src="/images/Aphelion.jpg" style="width:100%">
+        </a>
+      </td>
+      <td style="width: 28%;">
+        <a href="https://sites.google.com/hci.edu.sg/ispark/home">
+          <img src="/images/iSpark.jpg" style="width:100%">
         </a>
       </td>
       <td style="width: 25%;">
-        <a href="https://sites.google.com/hci.edu.sg/ispark/home">
-          <img src="/images/ispark.jpg" style="width:100%">
-        </a>
-      </td>
-      <td style="width: 15%;">
         <a href="https://sites.google.com/hci.edu.sg/ortus">
-          <img src="/images/ortuslink.jpg" style="width:100%">
+          <img src="/images/Ortus.jpg" style="width:100%">
         </a>
       </td>
       <td style="width: 25%;">
         <a href="http://www.hci.sg/proed/index.html">
-          <img src="/images/proedlink.jpg" style="width:100%">
+          <img src="/images/ProEd.jpg" style="width:100%">
         </a>
       </td>
     </tr>
