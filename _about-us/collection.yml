@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Careers/Non Teaching Positions.md
-      - Careers/Teaching Positions.md
-      - Careers/.keep
       - Principal's Message.md
       - Mission and Vision.md
       - Board of Directors.md
@@ -15,3 +12,6 @@ collections:
       - Our Principals.md
       - Hwa Chong Alumni Association.md
       - Hwa Chong Junior College Alumni.md
+      - Careers/.keep
+      - Careers/Non Teaching Positions.md
+      - Careers/Teaching Positions.md
