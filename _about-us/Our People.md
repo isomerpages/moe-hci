@@ -9,7 +9,7 @@ variant: markdown
 
 |  |  |  |
 | :-:| :-: |:-: |
-|<img style="width:100%" src="/images/Lee_Peck_Ping.jpeg">|<img style="width:100%" src="/images/peoplev2_2.png">| <img style="width:100%" src="/images/peoplev2_3.png">|
+|<img style="width:100%" src="/images/peoplev2_1.jpg">|<img style="width:100%" src="/images/peoplev2_2.png">| <img style="width:100%" src="/images/peoplev2_3.png">|
 |Mr Lee Peck Ping <br> Principal <br> 2024 - Present|Mr Chan Kwok Leong<br> Deputy Principal / Studies <br> Executive Director (College) <br> 1995 - Present| Mrs&nbsp;Chin-Leow Bee Kuan <br>Deputy Principal / High School <br> 2002 - Present|
 |<img style="width:100%" src="/images/peoplev2_4.png">|<img style="width:100%" src="/images/peoplev2_5.png">| <img style="width:100%" src="/images/peoplev2_6.png">|
 |Dr Melvyn Lim <br> Deputy&nbsp;Principal <br> / Student Development <br>(College) <br> 2004 - Present|Ms Grace Ho Ping Ping <br> Deputy Principal / High School <br> 2022 - Present|Ms Lim Miau Teng Cheryl <br> Deputy&nbsp;Principal / Admin <br> 2022 - Present|
