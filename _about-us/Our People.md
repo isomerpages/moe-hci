@@ -12,7 +12,7 @@ variant: markdown
 |<img style="width:100%" src="/images/Lee_Peck_Ping.jpeg">|<img style="width:100%" src="/images/peoplev2_2.png">| <img style="width:100%" src="/images/peoplev2_3.png">|
 |Mr Lee Peck Ping <br> Principal <br> 2024 - Present|Mr Chan Kwok Leong<br> Deputy Principal / Studies <br> Executive Director (College) <br> 1995 - Present| Mrs&nbsp;Chin-Leow Bee Kuan <br>Deputy Principal / High School <br> 2002 - Present|
 |<img style="width:100%" src="/images/peoplev2_4.png">|<img style="width:100%" src="/images/peoplev2_5.png">| <img style="width:100%" src="/images/peoplev2_6.png">|
-|Dr Melvyn Lim <br> Deputy&nbsp;Principal / Student Development (College) <br> 2004 - Present|Ms Grace Ho Ping Ping <br> Deputy Principal / High School <br> 2022 - Present|Ms Lim Miau Teng Cheryl <br> Deputy&nbsp;Principal / Admin <br> 2022 - Present|
+|Dr Melvyn Lim <br> Deputy&nbsp;Principal <br> / Student Development <br>(College) <br> 2004 - Present|Ms Grace Ho Ping Ping <br> Deputy Principal / High School <br> 2022 - Present|Ms Lim Miau Teng Cheryl <br> Deputy&nbsp;Principal / Admin <br> 2022 - Present|
 |<img style="width:100%" src="/images/peoplev2_7.png">|<img style="width:100%" src="/images/peoplev2_8.png">| <img style="width:100%" src="/images/peoplev2_9.png">|
 |Dr Chia Hui Peng <br> Dean / Research Studies <br> 1997 - Present|Dr Chung Wen Chee <br> Dean / Organisational Development &amp; Strategic Programmes <br> 1984 - Present|Mr Tan Pheng Tiong <br> Dean / Special&nbsp;Projects <br> 1997 - Present|
 |<img style="width:100%" src="/images/peoplev2_10.png">|<img style="width:100%" src="/images/peoplev2_11.png">| <img style="width:100%" src="/images/peoplev2_12.png">|
