@@ -13,9 +13,10 @@ The Economics Unit in Hwa Chong comprises a team of dynamic professionals dedica
 
 ---
 #### **Geography**
-&gt; Geography is the study of Earth’s landscapes, peoples, places and environments... 
-&gt; bridging the social sciences with the natural sciences... and puts [the]  understanding of social and physical processes within the context of places and regions... <b>[Geography]</b> helps us all to be more socially and environmentally sensitive, informed and responsible citizens...  <br>
-&gt; <b>Royal Geographical Society (with the Institute of British Geographers)</b>
+<q>Geography is the study of Earth’s landscapes, peoples, places and environments... <b>
+bridging the social sciences with the natural sciences... and puts [the]  understanding of social and physical processes within the context of places and regions... <b>[Geography]</b> helps us all to be more socially and environmentally sensitive, informed and responsible citizens...  </b></q><b><br>
+	
+<b>Royal Geographical Society (with the Institute of British Geographers)</b>
 
 The approach to Geography teaching and learning in Hwa Chong has evolved through the years due to the changing demands of the syllabus and the growing interest amongst the students in the subject. As Geography is an applied discipline, practicing geographers should be able to make direct contributions to society. Being highly dynamic, the subject constantly seeks to heighten our awareness of the world. It introduces the processes operative in physical and human geography and draws links to how these are relevant to the current social, economic, political and environmental situation.&nbsp; Hence, with these attributes in mind, the syllabus seeks to encourage students to:
 
@@ -167,4 +168,4 @@ The PE &amp; CCA Department seeks to provide all students with the opportunity t
 
 With our seamless 6-year Integrated Programme, the Literature course in Hwa Chong covers 3 major phases: the Sec 1 &amp; 2 Exploration phase; Sec 3 &amp; 4 Development phase, and the JC1 &amp; 2 Consolidation phase.&nbsp; In each phase, students are exposed to a wide variety of texts, genre exposition, and diverse methodologies.
 
-Adopting a differentiated approach to learning that goes beyond the classroom, the course provides students with opportunities to experience Literature through activities like symposiums, debates, mock conferences, field studies, project work, independent study and drama.&nbsp; Such activities not only expand students' horizons, but also help them look at issues from a broader perspective, apply knowledge, and contest the arbitrary divisions that separate subjects.
+Adopting a differentiated approach to learning that goes beyond the classroom, the course provides students with opportunities to experience Literature through activities like symposiums, debates, mock conferences, field studies, project work, independent study and drama.&nbsp; Such activities not only expand students' horizons, but also help them look at issues from a broader perspective, apply knowledge, and contest the arbitrary divisions that separate subjects.</b>
