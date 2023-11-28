@@ -12,12 +12,12 @@ The Revised JC curriculum was implemented in 2006. <br>Click&nbsp;[**here**](htt
 
 Click&nbsp;[**here**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)&nbsp;to find out the syllabus for different subjects.
 
-#### Subjects &amp; Special Programmes offered in HCI
+#### Subjects &amp; Subject Combinations offered in HCI
 
-For Information about Subjects offered in HCI, click [here](/files/A_Level_Subjects_info_for_2024_JC1__final_24_Nov_2023_.pdf) <br>
-For information about Special Programmes offered in HCI, click [here](/files/Special_programme_info_for_2024_JC_1__final_23_Nov_2023_.pdf)
+For Information about <b>Subjects offered in HCI</b>, click [here](/files/A_Level_Subjects_info_for_2024_JC1__final_24_Nov_2023_.pdf) <br>
 
-For the proposed list of Subject Combinations for 2024, click [here](/files/HCI_College_Standard_Subject_Combinations_for_2024_JC_1__final_24_Nov_2023_.pdf)
+
+For the proposed list of <b>Subject Combinations for 2024</b>, click [here](/files/HCI_College_Standard_Subject_Combinations_for_2024_JC_1__final_24_Nov_2023_.pdf)
 
 Please note that the list of subject combinations above is subjected to change. The list is NOT indicative of subject combinations that would be offered.
 
@@ -56,15 +56,16 @@ Links to the 'indicative grade point' for admission to courses in NUS, NTU and S
 [**Indicative Grade point for NTU**](https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile)  
 [**Indicative Grade point for SMU**](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
 
- 
- #### A)&nbsp;&nbsp;&nbsp; MOE Special Programmes
+#### Special Programmes offered in HCI
+For information about <b>Special Programmes offered in HCI</b>, click [here](/files/Special_programme_info_for_2024_JC_1__final_23_Nov_2023_.pdf)
+ ##### A)&nbsp;&nbsp;&nbsp; MOE Special Programmes
 
 *   Humanities Programme (HP)
 *   Language Elective Programme (Chinese) (LEP)
 *   Art Elective Programme (AEP)
 *   Bicultural Studies Programme (Chinese) (BSP)
 
- #### B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programmes**
+ ##### B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programmes
 
 *   Science and Math Talent Programme (SMTP)
 *   Computing Talent Programme (CTP)
