@@ -2,6 +2,7 @@ collections:
   high-school:
     output: true
     order:
+      - Assessment and Promotion Criteria.md
       - Academic Programmes.md
       - Assessment and Promotion Criteria (Old).md
       - Admission Routes.md
