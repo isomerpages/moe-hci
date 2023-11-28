@@ -6,11 +6,36 @@ description: ""
 third_nav_title: Academic Programmes
 ---
 # General Information
-**(updated Sep 2023)** <br>
-The Revised JC curriculum was implemented in 2006. Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;to find out more about the revised A-Level curriculum framework (H1, H2 &amp; H3) and subject requirements.
+
+#### Information from SEAB
+The Revised JC curriculum was implemented in 2006. <br>Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;to find out more about the revised A-Level curriculum framework (H1, H2 &amp; H3) and subject requirements.
 
 Click&nbsp;[**here**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)&nbsp;to find out the syllabus for different subjects.
 
+#### Subjects &amp; Special Programmes offered in HCI
+
+For Information about Subjects offered in HCI, click [here](/files/A_Level_Subjects_info_for_2024_JC1__final_24_Nov_2023_.pdf) <br>
+For information about Special Programmes offered in HCI, click [here](/files/Special_programme_info_for_2024_JC_1__final_23_Nov_2023_.pdf)
+
+For the proposed list of Subject Combinations for 2024, click [here](/files/HCI_College_Standard_Subject_Combinations_for_2024_JC_1__final_24_Nov_2023_.pdf)
+
+Please note that the list of subject combinations above is subjected to change. The list is NOT indicative of subject combinations that would be offered.
+
+During selection, JC 1 students will be able to indicate their choice of subject combination from the standard list. Students are allowed to replace any subject offered in the combinations above with H2 Art or H2 Foreign Language, provided that two conditions are met.
+
+The two conditions are:
+
+1\. One of the content subjects is contrasting and;  
+2\. The respective subject requirements / pre-requisites are satisfied.
+
+In addition, students can also put in an Odd Subject Combination choice (i.e. for subject combination not found in the standard list).
+
+Note: In addition to taking the above subjects, ALL students are required to take H1 General Paper (GP) and Project Work (PW).&nbsp;
+
+JAE students are only allowed to offer subject combinations in the stream they are posted.
+
+
+#### Choosing your Subject Combination
 When choosing subject combination, you should consider the following:
 
 *   Aptitude &amp; Strength (Arts or Science?)
@@ -31,38 +56,19 @@ Links to the 'indicative grade point' for admission to courses in NUS, NTU and S
 [**Indicative Grade point for NTU**](https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile)  
 [**Indicative Grade point for SMU**](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
 
- [**Subjects Information &amp; Pre-requisities for 2024 JC 1**](https://admindev.hci.edu.sg/uploads/A_Level_Subjects_info_for_2023_JC_1_final_16_Sep22_c094b530ad.pdf)&nbsp;[](https://admindev.hci.edu.sg/uploads/A_Level_Subjects_info_for_2021_JC_1_FINAL_43373c9c3b.pdf) <br> Updated Info&nbsp;Sep 2023! <br>
-
- [**Information on Special Programmes in Hwa Chong**](https://admindev.hci.edu.sg/uploads/Special_programme_2023_Jan_2b1fa41cce.pdf)&nbsp;[](https://admindev.hci.edu.sg/uploads/Special_programme_info_for_2021_JC_1_FINAL_be5174970a.pdf)<br>Updated Info&nbsp;Sep 2023!
  
- **A)&nbsp;&nbsp;&nbsp; MOE Special Programmes**
+ #### A)&nbsp;&nbsp;&nbsp; MOE Special Programmes
 
 *   Humanities Programme (HP)
 *   Language Elective Programme (Chinese) (LEP)
 *   Art Elective Programme (AEP)
 *   Bicultural Studies Programme (Chinese) (BSP)
 
- **B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programmes**
+ #### B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programmes**
 
 *   Science and Math Talent Programme (SMTP)
 *   Computing Talent Programme (CTP)
 
- [**Proposed List of Standard Subject Combinations for 2024 JC1**](https://admindev.hci.edu.sg/uploads/HCI_College_Standard_Subject_Combinations_for_2023_Jan_JC_1_final_ee1e16480e.pdf)&nbsp;[](https://admindev.hci.edu.sg/uploads/HCI_College_Standard_Subject_Combinations_for_2021_JC_1_FINAL_a6b5dba4b1.pdf)<br>Updated Info&nbsp;Sep 2023!
-
-Please note that the list of subject combinations above is subjected to change. The list is NOT indicative of subject combinations that would be offered.
-
-During selection, JC 1 students will be able to indicate their choice of subject combination from the standard list. Students are allowed to replace any subject offered in the combinations above with H2 Art or H2 Foreign Language, provided that two conditions are met.
-
-The two conditions are:
-
-1\. One of the content subjects is contrasting and;  
-2\. The respective subject requirements / pre-requisites are satisfied.
-
-In addition, students can also put in an Odd Subject Combination choice (i.e. for subject combination not found in the standard list).
-
-Note: In addition to taking the above subjects, ALL students are required to take H1 General Paper (GP) and Project Work (PW).&nbsp;
-
-JAE students are only allowed to offer subject combinations in the stream they are posted.
 
 <b><u>Contact Us</u></b>
 
