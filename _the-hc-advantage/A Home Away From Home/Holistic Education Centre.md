@@ -16,4 +16,4 @@ A three-storey high Indoor Sports Hall, located within the HEC, was also opened 
 
 <img style="width:85%" src="/images/holistic3.jpg">
 
-With a direct link-bridge connecting the HEC to Tan Kah Kee MRT Station, HCI is easily accessible via the Downtown Line. Infused with environmentally-friendly technology, it promises a dynamic tomorrow for Hwa Chong.
+With a direct connection between the HEC and Tan Kah Kee MRT Station, HCI is easily accessible via the Downtown Line. Infused with environmentally-friendly technology, it promises a dynamic and sustainable tomorrow for Hwa Chong.
