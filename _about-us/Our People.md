@@ -7,6 +7,15 @@ variant: markdown
 ##### Our People
 
 
+
+
+|||||
+| :-:| :-: |:-: |:-: |
+<img style="width:100%" src="/images/peoplev2_1.jpg">|<img style="width:100%" src="/images/peoplev2_2.png">| <img style="width:100%" src="/images/peoplev2_3.png">|<img style="width:100%" src="/images/peoplev2_4.png">|
+Mr Lee Peck Ping <br> Principal <br> 2024 - Present|Mr Chan Kwok Leong<br> Deputy Principal / Studies <br> Executive Director (College) <br> 1995 - Present| Mrs Chin-Leow Bee Kuan <br>Deputy Principal / High School <br> 2002 - Present|Dr Melvyn Lim <br> Deputy Principal <br> / SD <br>(College) <br> 2004 - Present|
+
+
+
 |  |  |  |
 | :-:| :-: |:-: |
 |<img style="width:100%" src="/images/peoplev2_1.jpg">|<img style="width:100%" src="/images/peoplev2_2.png">| <img style="width:100%" src="/images/peoplev2_3.png">|
