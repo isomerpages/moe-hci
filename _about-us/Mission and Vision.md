@@ -4,7 +4,7 @@ permalink: /about-us/mission-n-vision/
 description: ""
 variant: markdown
 ---
-![](/images/missionvision.png)
+![](/images/Clock_Tower_Original.JPG)
 
 # Our Vision <br>
 **Empowering our students to Live with Passion and Lead with Compassion**
@@ -25,4 +25,4 @@ Win–Win</h5>
 
 <h5> 饮水思源 <br> 
 Remembering our roots and honouring our benefactors</h5>
-<q><i>Society has given ample opportunities for our students to flourish. Thus, much is also expected. Hwa Chong students have a social responsibility and duty to serve the community and nation. Social responsibility is not confined to serving only the disadvantaged. Teachers and students must also anticipate, and be accountable for, the consequences of their actions on self, community and the environment. In the 21st-century, it is vital for them to develop a Synthesising Mind, i.e. to draw, process and transform salient and reliable information from different sources—both offline and online—into practical knowledge that benefits the larger community.</i></q> 
+<q><i>Society has given ample opportunities for our students to flourish. Thus, much is also expected. Hwa Chong students have a social responsibility and duty to serve the community and nation. Social responsibility is not confined to serving only the disadvantaged. Teachers and students must also anticipate, and be accountable for, the consequences of their actions on self, community and the environment. In the 21st-century, it is vital for them to develop a Synthesising Mind, i.e. to draw, process and transform salient and reliable information from different sources—both offline and online—into practical knowledge that benefits the larger community.</i></q>
