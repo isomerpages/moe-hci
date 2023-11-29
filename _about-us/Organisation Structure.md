@@ -40,46 +40,38 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_2.png">
-        <br>
-        <strong>Mr Chan Kwok Leong<br> Deputy Principal / Studies <br> Executive Director (College) <br> 1995 - Present</strong>
+        <strong>Directors</strong><br>Education Technology<br>Staff Development<br>Strategic Communications &amp; Engagement<br>Student Development<br>Studies<br>Well-Being
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_3.png">
-        <br>
-        <strong>Mrs Chin-Leow Bee Kuan <br>Deputy Principal / High School <br> 2002 - Present</strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_4.png">
-        <br>
-        <strong>Dr Melvyn Lim <br> Deputy Principal <br> / Student Development <br>(College) <br> 2004 - Present</strong>
+        <strong>EAS Directors</strong><br>Boarding School<br>Estate<br>Finance<br>Human Resource
       </td>
     </tr>
   </tbody>
 </table>
 
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <strong>Heads (Consortiums and Faculties)</strong><br>Heads of Department<br>Lead Teachers
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <strong>Principal Managers</strong><br>Assistant Directors
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-|Principal |
-| -------- |
-|Mr Lee Peck Ping (2024 - Present)|
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <strong>Senior Consultants &amp; Senior Teachers</strong><br>Education Consultants<br>Teachers
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <strong>Senior Managers &amp; Managers</strong><br>Senior Officers &amp; Officers<br>Operations Support Staff
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<br>
-
-| Deputy Principals (HS &amp; College)|
-| -------- |
-|Corporate Services|
-|Student Development|
-|Studies|
-
-<br>
-
-|Deans|
-| -------- |
-|Leadership &amp; Strategic Programmes|
-|Research Studies|
-|Special Programmes|
-
-
-<img style="width:85%" src="/images/structure1.jpg">
-
-<img style="width:85%" src="/images/structure2.jpg">
