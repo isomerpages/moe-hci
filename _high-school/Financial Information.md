@@ -7,15 +7,15 @@ variant: markdown
 ##### School Fees Structure
 
 <b><u>School fee rates</u></b><br>
-**Year 2023 Monthly School Fees**
+**Year 2024 Monthly School Fees**
 
 |   |   |   |   |
 |:-:|---|---|---|
 | **Category**  | **Sec 1 to Sec 2**  | **Sec 3 to Sec 4**  | **JC1 to JC 2**  |
 | **Singapore Citizen**  | $300  | $350  | $350  |
-| **Singapore Permanent Resident**  | $800  | $850  | $930  |
-| **International Student (ASEAN)**  | $1,200  | $1,260  | $1,460  |
-| **International Student (Other Countries)**  | $2,050  | $2,100  | $2,450  |
+| **Singapore Permanent Resident**  | $860  | $910  | $990  |
+| **International Student (ASEAN)**  | $1,308  | $1,374  | $1,592  |
+| **International Student (Other Countries)**  | $2,235  | $2,289  | $2,671  |
 
 
 Note: <br>
@@ -43,12 +43,12 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 |   |   |
 |:-:|---|
 | **Month**  | **Date of Giro Collection**  |
-| Jan-Feb-23  | 30 Mar 2023  |
-| Mar-Apr-23  | 27 Apr 2023  |
-| May till Sep-23  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
-| Oct-23  | 02 Oct 2023  |
-| Nov-23  | 16 Oct 2023  |
-| Dec-23  | 01 Nov 2023  |
+| Jan-Feb-24  | 28 Mar 2024  |
+| Mar-Apr-24  | 29 Apr 2024  |
+| May till Sep-24  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
+| Oct-24  | 01 Oct 2024  |
+| Nov-24  | 15 Oct 2024  |
+| Dec-24  | 01 Nov 2024  |
 |   |   |
 
 <b><u>Giro Collection Dates For Sec 2 to 4 school fees</u></b><br>
@@ -56,10 +56,10 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 |   |   |
 |:-:|---|
 | **Month**  | **Date of Giro Collection**  |
-| Jan till Sep-23  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
-| Oct-23  | 02 Oct 2023  |
-| Nov-23  | 16 Oct 2023  |
-| Dec-23  | 01 Nov 2023  |
+| Jan till Sep-24  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
+| Oct-24  | 01 Oct 2024  |
+| Nov-24  | 15 Oct 2024  |
+| Dec-24  | 01 Nov 2024  |
 |   |   |
 
 <b><u>Interbank Giro Application Form</u></b><br>
