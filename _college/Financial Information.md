@@ -2,19 +2,20 @@
 title: Financial Information
 permalink: /college/financial-info/
 description: ""
+variant: markdown
 ---
 ##### School Fees Structure
 
 <b><u>School fee rates</u></b><br>
-**Year 2023 Monthly School Fees**
+**Year 2024 Monthly School Fees**
 
 |   |   |   |   |
 |:-:|---|---|---|
 | **Category**  | **Sec 1 to Sec 2**  | **Sec 3 to Sec 4**  | **JC1 to JC 2**  |
 | **Singapore Citizen**  | $300  | $350  | $350  |
-| **Singapore Permanent Resident**  | $800  | $850  | $930  |
-| **International Student (ASEAN)**  | $1,200  | $1,260  | $1,460  |
-| **International Student (Other Countries)**  | $2,050  | $2,100  | $2,450  |
+| **Singapore Permanent Resident**  | $860  | $910  | $990  |
+| **International Student (ASEAN)**  | $1,308  | $1,374  | $1,592  |
+| **International Student (Other Countries)**  | $2,235  | $2,289  | $2,671  |
 |   |   |   |   |
 
 Note: <br>
@@ -42,12 +43,12 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 |   |   |
 |:-:|---|
 | **Month**  | **Date of Giro Collection**  |
-| Jan-Feb-23  | 30 Mar 2023  |
-| Mar-Apr-23  | 27 Apr 2023  |
-| May till Sep-23  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
-| Oct-23  | 02 Oct 2023  |
-| Nov-23  | 16 Oct 2023  |
-| Dec-23  | 01 Nov 2023  |
+| Jan-Feb-24  | 28 Mar 2024  |
+| Mar-Apr-24  | 30 Apr 2024  |
+| May till Sep-24  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
+| Oct-24  | 01Oct 2024  |
+| Nov-24  | 15 Oct 2024  |
+| Dec-24  | 01 Nov 2024  |
 |   |   |
 
 <b><u>Giro Collection Dates For JC 2 school fees</u></b>
@@ -56,9 +57,9 @@ School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of each mo
 |:-:|---|
 | **Month**  | **Date of Giro Collection**  |
 | Jan till Sep-23  | 15th day of each month or the next working day if the 15th<br> day of the month falls on a weekend or Public Holiday  |
-| Oct-23  | 02 Oct 2023  |
-| Nov-23  | 16 Oct 2023  |
-| Dec-23  | 01 Nov 2023  |
+| Oct-24  | 01 Oct 2024  |
+| Nov-24  | 15 Oct 2024  |
+| Dec-24  | 01 Nov 2024  |
 |   |   |
 
 <b><u>Interbank Giro Application Form</u></b>
@@ -202,4 +203,3 @@ While students need not pay for PA policy; the premium for Travel Insurance is c
 |<br><br> Coverage  | 24 hours coverage for all overseas school trips. <br><br> **[Click here](/files/travel_insurance_student_fact_sheet_2023_845292dcb5.pdf)** to download the Travel Insurance Benefit Summary. Note that this summary is to provide an outline of the coverage only and is not a policy document. The terms and conditions of the Insurer's policy document shall prevail at all times.   |
 |<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> Claim Procedure  | a.  Insurance claims involving&nbsp;**recovering of trip costs**&nbsp;(eg airfare in the case of cancelled trip)&nbsp;**for school’s subsidized trips**&nbsp;are to be handled and submitted by the school if co-payments have been made by students. The school will submit an insurance claim for the affected group as the settlement is to be allocated between the students and the school. The teacher in charge is to contact Finance Department to arrange for the claim submission.<br><br>b.  **Personal insurance claims**&nbsp;such as medical expenses/benefits or baggage loss/damage (where 100% of the settlements are to be paid to the individual claimants) are be submitted directly by the claimants to the insurer via the its Claim Submission Portal, URL as follow:&nbsp;[https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client\_portal&amp;GCOID=200800](https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client_portal&amp;GCOID=200800) <br><br> Steps:<br><br>1 \. Read the “Checklist” to understand and obtain the required supporting documents<br>2 \. Select “Submit a Claim”, and then “Travel (Policy No Starting with TTT, TAT or TZT)”<br>3 \. Select “Claim Type”<br>4 \. Input “**Hwa Chong Institution**” as Policyholder’s Name<br>5 \. Input “**TTT8000233SN**” as Policy Number<br>6 \. Enter Claimant’s Personal Information<br>7 \. Enter Claim Information<br>8 \. Upload Documents<br>9 \. Confirm, declare and submit<br>10 \. A Notification No. will be generated. Claimant will also receive an acknowledgement email sent to the email address entered at the Personal Information section <br><br> Claimants can also check the claim status via Zurich’s Claim Submission Portal. <br><br> Please refer to the&nbsp;**Claim Portal User Guide** **[here](/files/user_guide_zurich_claim_submission_portal_703baa5cb3.pdf)** for the detail instructions. <br><br> If encounter problem with the Claim Portal, please email to&nbsp;[sg-support@merimen.com](mailto:sg-support@merimen.com)&nbsp;for technical support.<br><br>For claim related queries on travel insurance claims, please email the queries to the broker’s Claim Team at&nbsp;[EH&amp;B@mercermarshbenefits.com](mailto:EH&amp;B@mercermarshbenefits.com), together with the settlement letter and/or the copy of the paid itemized invoice or any other supporting documents surrounding the claims (where applicable) so that the claim team can review and analyse the claim before providing advice. |
 |   |   |
-
