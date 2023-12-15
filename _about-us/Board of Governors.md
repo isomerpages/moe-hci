@@ -2,6 +2,7 @@
 title: Board of Governors
 permalink: /about-us/board-of-governors/
 description: ""
+variant: markdown
 ---
 ##### Board of Governors
 
@@ -127,7 +128,7 @@ description: ""
         <img style="width: 100%;" src="/images/member25.jpg">
       </td>
       <td style="width: 22%; margin-left: 60px;">
-        <img style="width: 100%;" src="/images/member26.png">
+        <img style="width: 100%;" src="/images/member26.jpg">
       </td>
     </tr>
     <tr>
