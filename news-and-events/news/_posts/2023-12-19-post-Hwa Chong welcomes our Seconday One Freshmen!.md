@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Secondary 1 registration link</strong></p><p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1reg2024</a></p><p></p><p><strong>Secondary 1 Appeal link</strong></p><p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hci-appeal-2024</a></p>
+<p>Hwa Chong welcome our Secondary One Freshmen! Please click [here] for information on registration and purchase pf school supplies.</p><p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1reg2024</a></p><p>Secondary 1 students who wish to appeal for a place at HCI should complete this online [form].</p><p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hci-appeal-2024</a></p>
