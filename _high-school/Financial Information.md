@@ -168,7 +168,7 @@ Income Criteria <br>
 
 **^ No separate application is required; please refer to**&nbsp;[**MOE’s website**](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)&nbsp;**for more details.**
 
-**Click to download the 2023 ISB Application Form** **[Here](/files/moe_isb_application_form_95db207e8f.pdf)**
+**Click to download the 2023 ISB Application Form** **[Here](/files/Appendix_B1___MOE_ISB_Application_Form_2024_final2)**
 
 Students need only satisfy either the monthly Gross Household Income (GHI) or the PCI criterion to qualify for ISB. More information can be found in the Annex I of the ISB Application Form.
 
