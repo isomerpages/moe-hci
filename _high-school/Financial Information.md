@@ -149,7 +149,7 @@ All IS Bursary cases approved will be valid till Dec of the year. Fresh applicat
 
 Student can apply for MOE ISB at any time of the year. It will take effect in the month the application is approved. There will be no backdating of the effective month.
 
-Newly admitted students are to submit their ISB application latest by end Feb 2023 for ISB subsidy to take effect from Jan 2023.
+Newly admitted students are to submit their ISB application latest by end Feb 2024 for ISB subsidy to take effect from Jan 2024.
 
 **Income Criteria and Benefits**
 
@@ -168,7 +168,7 @@ Income Criteria <br>
 
 **^ No separate application is required; please refer to**&nbsp;[**MOE’s website**](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)&nbsp;**for more details.**
 
-**Click to download the 2023 ISB Application Form** **[Here](/files/Appendix_B1___MOE_ISB_Application_Form_2024_final2)**
+**Click to download the 2024 ISB Application Form** **[Here](/files/Appendix_B1___MOE_ISB_Application_Form_2024_final2.pdf)**
 
 Students need only satisfy either the monthly Gross Household Income (GHI) or the PCI criterion to qualify for ISB. More information can be found in the Annex I of the ISB Application Form.
 
