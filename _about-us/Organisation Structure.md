@@ -20,7 +20,7 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; text-align: center;">
-        <strong>Deputy Principals</strong><br>Corporate Services<br>Student Development<br>Studies
+        <strong>Deputy Principals</strong><br>Adminstration<br>Student Development<br>Studies
       </td>
     </tr>
   </tbody>
@@ -30,7 +30,7 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; text-align: center;">
-        <strong>Deans</strong><br>Leadership &amp; Strategic Programmes<br>Research Studies<br>Special Programmes
+        <strong>Deans</strong><br>Organisational Development &amp; Strategic Programmes<br>Research Studies<br>Special Programmes
       </td>
     </tr>
   </tbody>
@@ -40,7 +40,7 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
-        <strong>Directors</strong><br>Education Technology<br>Staff Development<br>Strategic Communications &amp; Engagement<br>Student Development<br>Studies<br>Well-Being
+        <strong>Directors</strong><br>Education Technology<br>Professional Development<br>Strategic Communications &amp; Engagement<br>Student Development<br>Studies<br>Well-Being
       </td>
       <td style="width: 22%; margin-right: 15px;">
         <strong>EAS Directors</strong><br>Boarding School<br>Estate<br>Finance<br>Human Resource
@@ -74,4 +74,3 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-
