@@ -12,45 +12,62 @@ third_nav_title: Careers
 Education is at the heart of the Hwa Chong experience. The Institution is seeking high achieving individuals who are excited about education to join our team. We are looking for individuals with passion, purpose and drive. If you thrive on working in an innovative and dynamic environment, we would love to hear from you.
 
 
-**Position: &nbsp;Manager of Higher Education**
+**Position: &nbsp;Boarding Executive / Senior Boarding Executive**
 
-**DUTIES &amp; RESPONSIBILITIES:**
+**(Student Well-Being and Care)**
 
-**Area 1: Build and maintain positive relationships with university partners.**
+As members of the boarding school community, the Boarding Executive will work with the boarding management closely to run daily boarding operations.<br>
+• As a disciplinarian to instill self-discipline and good time management of each boarder
+• As a caregiver, to nurture the social – emotional development of each boarder<br>
+• Create and maintain a supportive atmosphere for student learning and development within the boarding community<br>
+• Assist boarders in transitions, learn life-skills in resolving conflicts, supporting their academic and non-academic pursuits, building of character and independence. To guide boarders develop a sense of community through supervision and participation of programs and activities.<br>
 
-1.  Meet with university admissions representatives who visit our campus and facilitate meetings between these representatives and our staff and students.
-2.  Keep abreast of issues and trends in university admissions, higher education, testing, as well as keeping up-to-date about specific universities, including but not limited to participation in educational conferences locally and abroad, as well as networking events.
-3.  Maintain a network of alumni from specific universities.
+**Job Description**
 
-**Area 2: Monitor and make recommendations to staff and management on guidance systems.**
+•	Work with the Boarding Mentors &amp; develop a professional relationship with boarders so as to better attend to their needs and issues<br>
+•	Manage discipline of boarders including safety and security of boarders<br>
+•	Contact point with parents and teachers of boarders assigned<br>
+•	Develop and conduct boarding programs and activities<br>
+•	Perform all administrative work related to the role<br>
+•	Perform Duty Boarding Executive duties on Weekends, School Holidays and Public Holidays<br>
+•	Perform room and hygiene checks and follow up with the boarder involved<br>
+•	Assist reception duties as and when assigned<br>
+•	Provide administrative, operational support or any other miscellaneous tasks as assigned by the Reporting Officer<br>
 
-1.  Keep track of admission decisions, statistics, and make reports to the School Leaders.
-2.  Compile an annual Profile of the School.
+**Requirements**
 
-**Area 3: Lead, develop and enact guidance-related practices**&nbsp;
+•	Minimum diploma holder, preferably in education, counselling, social sciences or psychology related fields<br>
+•	Experience with boarding services and working with youth in a formal employment or as a volunteer capacity.<br>
+•	Possess appropriate dispositions such as empathy towards students and to manage the demands of the job.<br>
+•	Good verbal and written communication skills especially in English and Mandarin to handle queries and concerns from Mandarin speaking associates in regards with the programs and activities matter.<br>
+•	Organised, meticulous and able to multitask.<br>
+•	Additional skill sets like first-aid and mentoring students would be an added advantage.<br>
+•	Must be willing to stay-in at Boarding School and be able to perform night shifts during weekdays and weekends.
 
-1.  Lead the Higher Education Office, including maintaining records on former students, sharing information on universities, university guides, scholarships, financial aid.
-2.  Coordinate the use of My Skills Future Portal for staff and students.
-3.  Organise fairs, workshops, information sessions to educate students and stakeholders about universities, admissions processes, trends, procedures, and testing.
-4.  Collaborating with teaching staff to provide holistic guidance to students.
-5.  Provide university and career counselling (including US and UK essay feedback) to students individually and in groups.
-6.  Sending of documents for local and overseas applications where required
+<br><br>
+**Position: &nbsp;Procurement Officer**
 
-**REQUIREMENTS**
+**Duties &amp; Responsibilities**
 
-Qualification: At least a Bachelor's degree
+1.	Researching and identifying potential suppliers or vendors 
+2.	Evaluating supplier bids and proposals and negotiating contracts and prices 
+3.	Maintaining and updating procurement records and documentation 
+4.	Managing inventory levels and ensuring timely delivery of goods and services 
+5.	Monitoring vendor performance and addressing any issues or concerns 
+6.	Developing and implementing procurement policies and procedures 
+7.	Ensuring compliance with relevant laws and regulations 
+8.	Collaborating with other departments and stakeholders to identify and meet procurement needs
+9.	Providing guidance and support to other team members involved in procurement activities.
 
-Knowledge &amp; Skills required:
+**Requirements**
 
-1.&nbsp; Prior experience in a managerial or leadership role within an educational setting, with relevant work experience in providing academic counselling and career guidance to students.&nbsp;
-
-2.&nbsp; Experience in a junior college or a similar educational institution may be preferred.
-
-3\. Proficiency in organizational and project management skills to efficiently coordinate higher education guidance programs and activities.
-
-4\. A student-focused mind-set, with the ability to understand and address the unique needs and aspirations of students.
-
-5\. Excellent written and verbal communication skills to effectively advise and mentor students, as well as to liaise with colleagues and external partners.
+1.	Diploma degree in business, supply chain management, or a related field.
+2.	2 years of experience in procurement 
+3.	Experience with procurement software and tools including GeBIZ
+4.	Strong analytical, problem-solving skills and meticulous 
+5.	Excellent communication and interpersonal skills, with the ability to build relationships and influence stakeholders at all levels of the organization.
+6.	Knowledge of procurement regulations, policies, and procedures.
+7.	Experience with procurement software and tools.
 
 <br><br>
 **Position: &nbsp;Physics Laboratory Technician**
