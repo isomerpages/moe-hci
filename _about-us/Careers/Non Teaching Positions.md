@@ -45,6 +45,31 @@ As members of the boarding school community, the Boarding Executive will work wi
 •	Must be willing to stay-in at Boarding School and be able to perform night shifts during weekdays and weekends.
 
 <br><br>
+**Position: &nbsp;Procurement Officer**
+
+**Duties &amp; Responsibilities**
+
+1.	Researching and identifying potential suppliers or vendors 
+2.	Evaluating supplier bids and proposals and negotiating contracts and prices 
+3.	Maintaining and updating procurement records and documentation 
+4.	Managing inventory levels and ensuring timely delivery of goods and services 
+5.	Monitoring vendor performance and addressing any issues or concerns 
+6.	Developing and implementing procurement policies and procedures 
+7.	Ensuring compliance with relevant laws and regulations 
+8.	Collaborating with other departments and stakeholders to identify and meet procurement needs
+9.	Providing guidance and support to other team members involved in procurement activities.
+
+**Requirements**
+
+1.	Diploma degree in business, supply chain management, or a related field.
+2.	2 years of experience in procurement 
+3.	Experience with procurement software and tools including GeBIZ
+4.	Strong analytical, problem-solving skills and meticulous 
+5.	Excellent communication and interpersonal skills, with the ability to build relationships and influence stakeholders at all levels of the organization.
+6.	Knowledge of procurement regulations, policies, and procedures.
+7.	Experience with procurement software and tools.
+
+<br><br>
 **Position: &nbsp;Physics Laboratory Technician**
 
 Job Descriptions:
