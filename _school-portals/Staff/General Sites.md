@@ -3,6 +3,7 @@ title: General Sites
 permalink: /school-portals/staff/general-site/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ##### General Sites
 
@@ -16,3 +17,4 @@ third_nav_title: Staff
 **[Integrated Electronic Message Board (iEMB)](https://iemb.hci.edu.sg/)**<br>
 **[Student Learning Space](https://learning.moe.edu.sg/)**<br>
 **[HCI Library Website](https://library.hci.edu.sg/)**<br>
+**[HCI HR System](https://sg.quickhr.co/)**<br>
