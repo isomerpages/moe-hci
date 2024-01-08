@@ -13,8 +13,7 @@ variant: markdown
 **[HCI Procurement Notices Management Portal (For Staff Only)](http://itq.hci.edu.sg/)**<br>
 **[HCI Ed Tech](https://sites.google.com/hci.edu.sg/edtech/home)**<br>
 **[HCI Finance Website](https://finance.hci.edu.sg/)**<br>
-**[HCI HR Website](https://hrdept.hci.edu.sg/)** <br>
+**[HCI HR Website](https://hrdept.hci.edu.sg/)** /   **[HCI HR System](https://sg.quickhr.co/)**<br>
 **[Integrated Electronic Message Board (iEMB)](https://iemb.hci.edu.sg/)**<br>
 **[Student Learning Space](https://learning.moe.edu.sg/)**<br>
 **[HCI Library Website](https://library.hci.edu.sg/)**<br>
-**[HCI HR System](https://sg.quickhr.co/)**<br>
