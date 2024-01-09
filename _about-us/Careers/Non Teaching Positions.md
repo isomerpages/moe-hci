@@ -12,6 +12,25 @@ third_nav_title: Careers
 Education is at the heart of the Hwa Chong experience. The Institution is seeking high achieving individuals who are excited about education to join our team. We are looking for individuals with passion, purpose and drive. If you thrive on working in an innovative and dynamic environment, we would love to hear from you.
 
 
+**Position: &nbsp;Laboratory Attendant**
+
+**Job Description**
+
+•	Prepare laboratory/workshop sessions/tests/examinations by setting up necessary equipment/apparatus and preparing the necessary materials, guided by TSO<br>
+•	Perform basic logistics support for meetings and events (e.g. booking of venues, setting up of venue etc) when needed<br>
+•	Support teaching staff, Admin Manager, Operations Manager and CSOs to provide logistic support for special events and daily activities, ensuring the venue/room is properly set up in advance<br>
+•	Assisting in matters relating to vendors such as escorting vendors and ensuring the quality of products/services delivered is satisfactory<br>
+•	Provide student support e.g.attending to students in the sickbay while waiting for parents to bring the student home or assisting TSO/OM in administering basic first aid<br>
+•	Perform any other duties as and when assigned by the School Leaders and supervisor<br>
+
+**Requirements**
+
+•	Work experience in school or research laboratories, or related laboratory work is an advantage<br>
+•	Team player, who can work independently.<br>
+
+<br><br>
+
+
 **Position: &nbsp;Boarding Executive / Senior Boarding Executive**
 
 **(Student Well-Being and Care)**
