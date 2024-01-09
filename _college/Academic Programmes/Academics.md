@@ -57,15 +57,16 @@ Links to the 'indicative grade point' for admission to courses in NUS, NTU and S
 [**Indicative Grade point for SMU**](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
 
 #### Special Programmes offered in HCI
-For information about <b>Special Programmes offered in HCI</b>, click [here](/files/Special_programme_info_for_2024_JC_1__final_23_Nov_2023_.pdf)
- ##### A)&nbsp;&nbsp;&nbsp; MOE Special Programmes
+For information about <b>Special Programmes offered in HCI</b>, click [here](/files/Special_programme_info_for_2024_JC_1__final_23_Nov_2023_.pdf)<br>
+
+ <b> A)&nbsp;&nbsp;&nbsp; MOE Special Programmes</b>
 
 *   Humanities Programme (HP)
 *   Language Elective Programme (Chinese) (LEP)
 *   Art Elective Programme (AEP)
 *   Bicultural Studies Programme (Chinese) (BSP)
 
- ##### B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programmes
+<b> B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programmes</b>
 
 *   Science and Math Talent Programme (SMTP)
 *   Computing Talent Programme (CTP)
@@ -98,7 +99,7 @@ For&nbsp;**enquiries with regard to specific subjects**, please email:
 |Chinese (CL, CLL, CSC, TRC)|Mr Hong Wee Seng Jeffrey|[hongws@hci.edu.sg](mailto:hongws@hci.edu.sg)|
 |Mathematics|Mr Ng Say Tiong|[ngst@hci.edu.sg](mailto:ngst@hci.edu.sg)|
 |Economics|Ms Lee Qing Fen Cheryl|[leeqf@hci.edu.sg](mailto:deborah@hci.edu.sg)|
-|Biology|Mrs Foo-Lam Woon Keat|[foowk@hci.edu.sg](mailto:foowk@hci.edu.sg)|
+|Biology|Mr Tang Koon Loon|[tangkl@hci.edu.sg](mailto:foowk@hci.edu.sg)|
 |Chemistry|Mrs Cheng-Liau Ming Lee|[liauml@hci.edu.sg](mailto:benjaminchan@hci.edu.sg)|
 |Physics|Mr Tang Koon Loon|[tangkl@hci.edu.sg](mailto:tangkl@hci.edu.sg)|
 |Knowledge &amp; Inquiry (KI)|Mr Tan Wah Jiam|[tanwj@hci.edu.sg](mailto:tanwj@hci.edu.sg)|
