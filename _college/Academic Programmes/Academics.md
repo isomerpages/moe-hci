@@ -57,15 +57,16 @@ Links to the 'indicative grade point' for admission to courses in NUS, NTU and S
 [**Indicative Grade point for SMU**](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
 
 #### Special Programmes offered in HCI
-For information about <b>Special Programmes offered in HCI</b>, click [here](/files/Special_programme_info_for_2024_JC_1__final_23_Nov_2023_.pdf)
- ##### A)&nbsp;&nbsp;&nbsp; MOE Special Programmes
+For information about <b>Special Programmes offered in HCI</b>, click [here](/files/Special_programme_info_for_2024_JC_1__final_23_Nov_2023_.pdf)<br>
+
+ <b> A)&nbsp;&nbsp;&nbsp; MOE Special Programmes</b>
 
 *   Humanities Programme (HP)
 *   Language Elective Programme (Chinese) (LEP)
 *   Art Elective Programme (AEP)
 *   Bicultural Studies Programme (Chinese) (BSP)
 
- ##### B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programmes
+<b> B)&nbsp;&nbsp;&nbsp; Hwa Chong Special Programmes</b>
 
 *   Science and Math Talent Programme (SMTP)
 *   Computing Talent Programme (CTP)
