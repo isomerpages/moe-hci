@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/homepage_banner_v2.gif
       variant: image
+      url: /news-and-events/news/collegeopenhouse
+      button: HCI Open House 2024
+      key_highlights:
+        - title: HCI Open House 2024
+          description: College Section
+          url: /news-and-events/news/collegeopenhouse
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
