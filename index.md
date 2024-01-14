@@ -22,7 +22,7 @@ sections:
       title: ADMISSION & STUDIES
       description: COLLEGE
       button: LEARN MORE
-      url: /college/academic-prog/
+      url: /college/academic-programmes/academics/
   - resources:
       title: News & Events
       id: resources
