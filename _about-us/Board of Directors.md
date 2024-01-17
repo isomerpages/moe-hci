@@ -108,7 +108,7 @@ variant: markdown
         <strong>Mr Lim Der Shing<br>林德兴先生<br>Member<br>董事</strong>
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member10.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member10_cropped.jpg">
         <br>
         <strong>Mr Lim Sing Siong Charles BBM/PBM<br>林欣雄先生<br>Member<br>董事</strong>
       </td>
