@@ -113,7 +113,7 @@ variant: markdown
         <strong>Mr Lim Sing Siong Charles BBM/PBM<br>林欣雄先生<br>Member<br>董事</strong>
       </td>
       <td style="width: 22%; margin-right: 0;">
-        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member11.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member11.png">
         <br>
         <strong>Dr Loh Boon Kwang<br>罗文光医生<br>Member<br>董事</strong>
       </td>
