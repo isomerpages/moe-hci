@@ -4,7 +4,7 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: Join us at the Hwa Chong Open House on Mon 15 Jan 2024, 12 to 4pm!
+notification: ""
 sections:
   - hero:
       background: /images/homepage_banner_v2.gif
