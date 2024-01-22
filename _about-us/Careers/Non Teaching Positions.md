@@ -12,6 +12,99 @@ third_nav_title: Careers
 Education is at the heart of the Hwa Chong experience. The Institution is seeking high achieving individuals who are excited about education to join our team. We are looking for individuals with passion, purpose and drive. If you thrive on working in an innovative and dynamic environment, we would love to hear from you.
 
 
+**Position: &nbsp;ART STUDIO TECHNICIAN**
+
+**DUTIES &amp; RESPONSIBILITIES:**
+
+1.	Art Studios and Storerooms <br>
+•	Liaise with Estate for removal of trash, cleanup of major spaces<br>
+•	Organize storage space and dejunk the unnecessary<br>
+•	Report breakdown of equipment/facilities to IT and Estate, oversee repairs<br>
+
+2.	Administrative and Office Work<br>
+•	Manage SRC Art Gallery (On spotlights, air-con and screenings for visits), Open and Close Gallery (within office hours only)<br>
+•	Liaise between art suppliers, art teachers and Finance – Processing of invoice payments and documentation<br>
+•	Updating art materials inventory list <br>
+•	Liaise with IT and AV with checks and updating of inventory list <br>
+•	Booking of transport for external gallery and museum visits<br>
+
+3.	Supervision of Teaching and Learning <br>
+•	Keeping updated stock list (be it liaising with art teachers or physical checks)<br>
+•	Assist in sourcing of materials, ordering of materials, liaising with delivery and packing<br>
+•	Archiving of artworks on display in school, keeping track of inventory list of artworks on digital platform <br>
+•	Packing and organizing of delivered art materials into the respective storerooms and studios <br>
+•	To provide close supervision when students are handling machines or engage in dangerous activities <br>
+•	To check that all students vacate art room at the end of each day, all doors are secured and ensure that no student is able to assess freely. <br>
+
+4.	Materials &amp; Equipment  <br>
+•	Oversee loan of equipment to students, keeping an updated inventory of equipment movement<br>
+•	Keep an updated inventory, labeling equipment, coming up with instructional/ safety labels<br>
+•	Accountable for usage and returning of tools and equipment during activities<br>
+•	Accountable for maintenance of equipment such as cameras and lenses <br>
+
+5.	Digital archival/ Resource preparation <br>
+•	Simple documentation/ photographing of art works <br>
+•	Archiving photographs/ artworks / articles digitally <br>
+•	Maintenance of AEP website<br>
+•	Assist in the production of art learning resources. E.g. scanning<br>
+
+6.	Installation &amp; Display<br>
+•	Assist in setup of student’s works for exhibitions (Painting / construction of walls, liaising with the IT, AV and Estate for the wiring of electrical cables, spotlights and installation of works)<br>
+•	Oversee framing and installation of artworks in the SRC Art Gallery and within school compound (Liaise with external vendor)<br>
+•	Artist Statement Labels <br>
+
+7.	Safety Officer <br>
+•	Assist Safety Committee and EC/ Aesthetics in the role as safety officer for all art studios.<br>
+•	Maintenance of First Aid Kit in all art studios <br>
+•	Work with Estate on checking of all fire extinguishers <br>
+•	Maintenance of Kiln and Printing Press (Liaise with external vendor)<br>
+•	Maintenance of cleanliness in all art studios and gallery
+<br>
+
+**REQUIREMENTS**
+
+•	A Diploma in Fine Arts is preferred.<br>
+•	Career Opportunity for Beginners - Entry level is welcomed.<br>
+•	Familiar with art materials and equipment, managing inventory, good organisational skills.<br>
+•	Proficiency in website design.<br>
+
+<br><br>
+
+
+
+**Position: &nbsp;Safety and Security Officer**
+
+**Duties and Responsibilities**
+
+•	To be alert and aware of all occurrences within the assigned premises<br>
+•	Foot Patrol and static post duty (as and when required only)<br>
+•	Securing and opening of multiple facilities<br>
+•	To control the traffic within the school premise (min. 2 hours per shift)<br>
+•	Computer literate<br>
+•	Assist to manage Events Security traffic control, ground execution, and rotation<br>
+•	Assisting to escort VIPs/Guests and direct them to stipulated parking locations on ad hoc basis<br>
+•	Enforcing SOP and compliance to the external ground officers<br>
+•	To standby and response to emergencies or requests<br>
+•	To do basic troubleshooting for security equipment (before engaging contractors for repair)<br>
+•	Any other security related work as required by the Reporting officer
+<br>
+
+**Job Qualifications and Requirements**
+
+•	Minimum GCE ‘O’ level, 'N' level, A level, ITE<br>
+•	Security License Holder<br>
+•	At least 1 year(s) of working experience in the related field is required for this position<br>
+•	Physically fit for long hours of duty on foot (min. 6 hours per shift)<br>
+•	A mature, warm and energetic team worker with a pleasant disposition<br>
+•	Able to work on three rotating shifts including weekends and public holidays<br>
+•	Possess situational awareness, able to multi-task and response to activation messages (within 5 minutes)<br>
+•	Excellent customer service skills. Able to communicate with people of different nationalities. Good people skills<br>
+•	Possess class 3/3A/2B/2A/2 license would be advantageous<br>
+•	Any other security related certifications would be advantageous<br>
+
+<br><br>
+
+
 **Position: &nbsp;Laboratory Attendant**
 
 **Job Description**
