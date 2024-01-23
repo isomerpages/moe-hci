@@ -10,7 +10,7 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; text-align: center;">
-        <img style="width: 22%;" src="/images/chairman1.jpg">
+        <img style="width: 22%;" src="/images/About%20Us/BOG/bog_chairman.jpg">
         <br>
         <strong>Mr Tai Wei Shyong<br>戴伟雄先生<br>Chairman<br>主席</strong>
       </td>
@@ -22,10 +22,10 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; margin-left: 110px;">
-        <img style="width: 40%;" src="/images/vicechair3.jpg">
+        <img style="width: 44%;" src="/images/About%20Us/BOG/bog_vicechair1.jpg">
       </td>
       <td style="width: 22%; margin-left: 145px;">
-        <img style="width: 40%;" src="/images/vicechair4.jpg">
+        <img style="width: 44%;" src="/images/About%20Us/BOG/bog_vicechair2.jpg">
       </td>
     </tr>
     <tr>
@@ -45,16 +45,16 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/finance.png">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_treasurer.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/secretary1.png">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_secretary.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/excomem1.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_exco1.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/excomem2.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_exco2.jpg">
       </td>
     </tr>
     <tr>
@@ -70,16 +70,16 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member16.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member1.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member17.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member2.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member18.png">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member3.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member19.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member4.jpg">
       </td>
     </tr>
     <tr>
@@ -96,16 +96,16 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member20.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member5.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member21.png">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member6.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member22.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member7.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/member23.png">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member8.jpg">
       </td>
     </tr>
     <tr>
@@ -122,13 +122,13 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; margin-left: 40px;">
-        <img style="width: 100%;" src="/images/member24.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member9.jpg">
       </td>
       <td style="width: 22%; margin-left: 50px;">
-        <img style="width: 100%;" src="/images/member25.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member10.jpg">
       </td>
       <td style="width: 22%; margin-left: 60px;">
-        <img style="width: 100%;" src="/images/member26.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member11.jpg">
       </td>
     </tr>
     <tr>
@@ -138,4 +138,3 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-
