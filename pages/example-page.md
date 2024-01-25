@@ -5,18 +5,23 @@ variant: markdown
 ---
 <table id="pics">
         <tbody><tr>
-          <td><img src="blogPics/battleship.JPG"></td>
-          <td><img src="blogPics/PHMemorial.JPG"></td>
-          <td><img src="blogPics/roadToHana.JPG"></td>
+          <td><img src="/images/About%20Us/BOD/bod_member11.png"></td>
+          <td><img src="/images/About%20Us/BOD/bod_member12.png"></td>
+          <td><img src="/images/About%20Us/BOD/bod_member13.png"></td>
         </tr>
         <tr>
-          <td><img src="blogPics/hawaiiTree.jpg"></td>
-          <td><img src="blogPics/hawaiiOcean.JPG"></td>
-          <td><img src="blogPics/planeHawaii.JPG"></td>
+          <td><img src="/images/About%20Us/BOD/bod_member16.png"></td>
+          <td><img src="/images/About%20Us/BOD/bod_member16.png"></td>
+          <td><img src="/images/About%20Us/BOD/bod_member16.png"></td>
         </tr>
         <tr>
         </tr>
       </tbody></table>
 			
 
-![](/images/Clock_Tower_Original.JPG)
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+Mr ABC | ![](/images/About%20Us/BOD/bod_member16.png)
+Mr 123
+
