@@ -29,7 +29,7 @@ variant: markdown
         <br>
         <strong>Mr Kho Yue Sern Vincent<br>许喻胜先生<br>Vice-Chairman<br>副董事长</strong>
       </td>
-      <td style="width: 22%; margin-right: 15px;">
+      <td style="width: 22%; height: 30%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/BOD/bod_secretary.png">
         <br>
         <strong>Mr Ang Ming Hong<br>洪铭逢先生<br>Secretary<br>秘书</strong>
