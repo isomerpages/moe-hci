@@ -29,7 +29,7 @@ variant: markdown
         <br>
         <strong>Mr Kho Yue Sern Vincent<br>许喻胜先生<br>Vice-Chairman<br>副董事长</strong>
       </td>
-      <td style="width: 22%; margin-right: 15px;">
+      <td style="width: 22%; height: 30%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/BOD/bod_secretary.png">
         <br>
         <strong>Mr Ang Ming Hong<br>洪铭逢先生<br>Secretary<br>秘书</strong>
@@ -118,7 +118,7 @@ variant: markdown
         <strong>Dr Loh Boon Kwang<br>罗文光医生<br>Member<br>董事</strong>
       </td>
       <td style="width: 22%; margin-right: 0;">
-        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member12.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member12.png">
         <br>
         <strong>Dr Loh Poey Ling<br>罗佩玲医生<br>Member<br>董事</strong>
       </td>
@@ -141,7 +141,7 @@ variant: markdown
         <strong>Mr Sim Choon Siong<br>沈俊雄先生<br>Member<br>董事</strong>
       </td>
       <td style="width: 22%; margin-right: 0;">
-        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member15JPG.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member15.png">
         <br>
         <strong>Mr Teo Zhu-En Joel<br>张主恩先生<br>Member<br>董事</strong>
       </td>
