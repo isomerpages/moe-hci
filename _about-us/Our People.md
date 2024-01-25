@@ -9,7 +9,7 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; text-align: center;">
-        <img style="width: 33%;" src="/images/About%20Us/Our%20People/peoplev2_1.jpg">
+        <img style="width: 33%;" src="/images/About%20Us/Our%20People/peoplev2_1.png">
         <br>
         <strong>Mr Lee Peck Ping <br> Principal </strong>
       </td>
