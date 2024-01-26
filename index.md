@@ -12,7 +12,7 @@ sections:
       dropdown:
         title: Welcome 2024 C1 Students
         options:
-          - title: Arrangement for 2 - 6 Feb 2024
+          - title: Arrangements for 2-6 Feb 2024
             url: /news-and-events/news/c12024/
   - infobar:
       title: ADMISSION & STUDIES
