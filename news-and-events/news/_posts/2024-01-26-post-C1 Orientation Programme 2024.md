@@ -17,6 +17,6 @@ variant: markdown
 <p></p>
 <p><strong><a href="/files/College/orientation_schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">C1 Students Orientation Schedule &lt;Click Here&gt;</a></strong>
 </p>
-<p></p>
+<p><strong>C1 Students Orientation Schedule <a target="_blank" href="/files/College/orientation_schedule_2024.pdf">Click Here</a></strong></p>
 <h1></h1>
 <p></p>
