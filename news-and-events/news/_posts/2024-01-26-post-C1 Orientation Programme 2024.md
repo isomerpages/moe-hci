@@ -15,7 +15,7 @@ variant: tiptap
 <p>Please check the chat group prior to reporting to school on 2 Feb. See
     you on 2 Feb.</p>
 <p></p>
-<p><strong>C1 Students Orientation Schedule Click [Here] (files/college/orientation_schedule_2024.pdf)</strong>
+<p><strong><a href="/files/College/orientation_schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">C1 Students Orientation Schedule &lt;Click Here&gt;</a></strong>
 </p>
 <p></p>
 <p></p>
