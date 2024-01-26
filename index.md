@@ -4,15 +4,14 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: Dear C1 students, Welcome to our Hwa Chong family! Please click
-  here for Day 1 arrangement.
+notification: Dear C1 students, Welcome to our Hwa Chong family!
 sections:
   - hero:
       background: /images/homepage_banner_v2.gif
       variant: image
       key_highlights:
         - title: Arrangement for 2 – 6 Feb 2024
-          description: for C1 student (Click Here)
+          description: Click here Day 1 arrangement
           url: /news-and-events/news/c12024/
   - infobar:
       title: ADMISSION & STUDIES
