@@ -17,6 +17,8 @@ variant: markdown
     you on 2 Feb.</p>
 <p></p>
 
-<p><strong>C1 Orientation Schedule (partial)  [](https://drive.google.com/file/d/1bs8gMB2fx6Pajufi-eTDCYNWZDBtnN7d/view?usp=drive_link)Click Here</strong></p>
+<p>C1 Orientation Schedule (partial) [Click Here](https://isp.hci.edu.sg)
+
+</p><p><strong>C1 Orientation Schedule (partial)  [](https://drive.google.com/file/d/1bs8gMB2fx6Pajufi-eTDCYNWZDBtnN7d/view?usp=drive_link)Click Here</strong></p>
 <h1></h1>
 <p></p>
