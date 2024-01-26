@@ -16,6 +16,6 @@ variant: markdown
     you on 2 Feb.</p>
 <p></p>
 
-<p><strong>C1 Students Orientation Schedule <a target="_blank" rel="noopener noreferrer nofollow" href="/files/College/orientation_schedule_2024.pdf">Click Here</a></strong></p>
+<p><strong>C1 Orientation Schedule (partial) <a target="_blank" rel="noopener noreferrer nofollow" href="/files/College/orientation_schedule_2024.pdf">Click Here</a></strong></p>
 <h1></h1>
 <p></p>
