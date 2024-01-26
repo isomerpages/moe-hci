@@ -8,6 +8,7 @@ image: ""
 variant: markdown
 ---
 <h4><strong>Arrangement for 2 – 6 Feb 2024 for C1 students</strong></h4>
+<p>Welcome to our Hwa Chong family!</p>
 <p>Please find the details on some information for 2 Feb and the schedule
     of the first few days of Orientation in the attached document.</p>
 <p>Your Orientation Group Leader (OGL) will communicate with you via your
@@ -16,6 +17,4 @@ variant: markdown
     you on 2 Feb.</p>
 <p></p>
 
-<p><strong>C1 Orientation Schedule (partial) <a target="_blank" rel="noopener noreferrer nofollow" href="/files/College/orientation_schedule_2024.pdf">Click Here</a></strong></p>
-<h1></h1>
-<p></p>
+<p><strong>C1 Orientation Schedule (partial) </strong></p>
