@@ -12,7 +12,7 @@ sections:
       variant: image
       key_highlights:
         - title: Arrangement for 2 – 6 Feb 2024
-          description: "for C1 student "
+          description: for C1 student (Click Here)
           url: Orientation_schedule_for_Students__2___6_Feb_.pdf
   - infobar:
       title: ADMISSION & STUDIES
