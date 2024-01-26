@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<h4><strong>Arrangement for 2 – 6 Feb 2024 for C1 students</strong></h4>
+<h4><strong>Arrangements for 2 – 6 Feb 2024 for C1 students</strong></h4>
 <p>Welcome to our Hwa Chong family!</p>
 <p>Please find the details on some information for 2 Feb and the schedule
     of the first few days of Orientation in the attached document.</p>
@@ -17,4 +17,6 @@ variant: markdown
     you on 2 Feb.</p>
 <p></p>
 
-<p><strong>C1 Orientation Schedule (partial) </strong></p>
+<p><strong>C1 Orientation Schedule (partial)  [](https://drive.google.com/file/d/1bs8gMB2fx6Pajufi-eTDCYNWZDBtnN7d/view?usp=drive_link)Click Here</strong></p>
+<h1></h1>
+<p></p>
