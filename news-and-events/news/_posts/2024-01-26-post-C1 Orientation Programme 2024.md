@@ -16,7 +16,5 @@ variant: tiptap
     you on 2 Feb.</p>
 <p></p>
 <p><strong><a href="/files/College/orientation_schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">C1 Students Orientation Schedule &lt;Click Here&gt;</a></strong>
-</p>
-<p></p>
-<p></p>
+</p><pre><code>&lt;p&gt;C1 Students Orientation Schedule &lt;/p&gt; Click Here &lt;a herf="/files/college/orientation_schedule_2024.pdf" target="_blank"&gt; &lt;/a&gt;</code></pre>
 <p></p>
