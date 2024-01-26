@@ -9,10 +9,11 @@ sections:
   - hero:
       background: /images/homepage_banner_v2.gif
       variant: image
-      key_highlights:
-        - title: Arrangement for 2 – 6 Feb 2024
-          description: Click here Day 1 arrangement
-          url: /news-and-events/news/c12024/
+      dropdown:
+        title: Welcome 2024 C1 Students
+        options:
+          - title: Arrangement for 2 - 6 Feb 2024
+            url: /f
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
