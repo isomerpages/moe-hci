@@ -3,7 +3,10 @@ title: Example Page
 permalink: /example-page/
 variant: markdown
 ---
-| Column 1 | Column 2 | Column 3 |
+
+| |  |  | 
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
- ![](/images/About%20Us/BOD/bod_member5.png)Mr 123 Bord of director <br> Mr 123 Bord of director <br> Mr 123 Bord of director<br>Mr 123 Bord of director |![](/images/About%20Us/BOD/bod_member5.png) Mr 123 Bord of director <br>Mr 123 Bord of director <br> Mr 123 Bord of director <br> Mr 123 Bord of director<br>Mr 123 Bord of director | ![](/images/About%20Us/BOD/bod_member5.png) Mr 123 Bord of director
+|**Dr Sia Nam Chie**<br>**谢南极博士**<br>![](/images/Clock_Tower_Original.JPG)**Chairman** <br> **董事长** <br> | **Dr Sia Nam Chie**<br>**谢南极博士**<br>![](/images/Clock_Tower_Original.JPG)**Chairman** <br> **董事长** <br>     |**Dr Sia Nam Chie**<br>**谢南极博士**<br>![](/images/Clock_Tower_Original.JPG)**Chairman** <br> **董事长** <br><br><br>
+ |**Dr Sia Nam Chie**<br>**谢南极博士**<br>![](/images/Clock_Tower_Original.JPG)**Chairman** <br> **董事长** <br> | **Dr Sia Nam Chie**<br>**谢南极博士**<br>![](/images/Clock_Tower_Original.JPG)**Chairman** <br> **董事长** <br>     |**Dr Sia Nam Chie**<br>**谢南极博士**<br>![](/images/Clock_Tower_Original.JPG)**Chairman** <br> **董事长** <br>    |
+
+
