@@ -14,6 +14,8 @@ sections:
         options:
           - title: Arrangements for 2-6 Feb 2024
             url: /news-and-events/news/c12024/
+          - title: 2024 JAE Appeal
+            url: ""
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
