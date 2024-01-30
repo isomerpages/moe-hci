@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 关怀文化.md
       - 完善的设施.md
       - 校长献词.md
       - 愿景和使命.md
