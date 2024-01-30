@@ -128,33 +128,35 @@ Education is at the heart of the Hwa Chong experience. The Institution is seekin
 
 **(Student Well-Being and Care)**
 
+**Roles:**
+
 As members of the boarding school community, the Boarding Executive will work with the boarding management closely to run daily boarding operations.<br>
 • As a disciplinarian to instill self-discipline and good time management of each boarder
 • As a caregiver, to nurture the social – emotional development of each boarder<br>
 • Create and maintain a supportive atmosphere for student learning and development within the boarding community<br>
-• Assist boarders in transitions, learn life-skills in resolving conflicts, supporting their academic and non-academic pursuits, building of character and independence. To guide boarders develop a sense of community through supervision and participation of programs and activities.<br>
+• Assist boarders in transitions, learn life-skills in resolving conflicts, supporting their academic and non-academic pursuits, and build character and independence. To guide boarders develop a sense of community through supervision and participation of programs and activities.<br>
 
 **Job Description**
 
-•	Work with the Boarding Mentors &amp; develop a professional relationship with boarders so as to better attend to their needs and issues<br>
+•	Work with the Boarding Mentors &amp; develop a professional relationship with boarders to better attend to their needs and issues<br>
 •	Manage discipline of boarders including safety and security of boarders<br>
 •	Contact point with parents and teachers of boarders assigned<br>
 •	Develop and conduct boarding programs and activities<br>
-•	Perform all administrative work related to the role<br>
-•	Perform Duty Boarding Executive duties on Weekends, School Holidays and Public Holidays<br>
+•	Able to work on late evenings, weekends, and Public Holidays to support the boarders' after-school programs and events<br>
+•	Perform all administrative work, operational support or any other miscellaneous tasks related to the role<br>
 •	Perform room and hygiene checks and follow up with the boarder involved<br>
-•	Assist reception duties as and when assigned<br>
-•	Provide administrative, operational support or any other miscellaneous tasks as assigned by the Reporting Officer<br>
+•	Assist with reception duties as and when required.<br>
+<br>
 
 **Requirements**
 
-•	Minimum diploma holder, preferably in education, counselling, social sciences or psychology related fields<br>
+•	Minimum diploma holder, preferably in education, counselling, social sciences or psychology related fields.<br>
 •	Experience with boarding services and working with youth in a formal employment or as a volunteer capacity.<br>
 •	Possess appropriate dispositions such as empathy towards students and to manage the demands of the job.<br>
-•	Good verbal and written communication skills especially in English and Mandarin to handle queries and concerns from Mandarin speaking associates in regards with the programs and activities matter.<br>
+•	Good verbal and written communication skills especially in English and Mandarin to handle queries and concerns from Mandarin-speaking associates in regard with the programs and activities matter.<br>
 •	Organised, meticulous and able to multitask.<br>
 •	Additional skill sets like first-aid and mentoring students would be an added advantage.<br>
-•	Must be willing to stay-in at Boarding School and be able to perform night shifts during weekdays and weekends.
+•	Must be willing to stay in at Boarding School.
 
 <br><br>
 **Position: &nbsp;Procurement Officer**
