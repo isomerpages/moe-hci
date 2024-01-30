@@ -2,5 +2,6 @@ collections:
   chinese:
     output: true
     order:
+      - 愿景和使命.md
       - 校长献词.md
       - 华中历史.md
