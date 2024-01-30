@@ -14,10 +14,11 @@ Chong under JAE Posting Exercise.</p>
 for this exercise.</p>
 <p>To be considered for JAE Appeal, students must have met our net aggregate
 L1R5 cut-off point for this year.</p>
-<p></p><center>Cut-off Point: <u>**4**</u> (Science); <u>**5**</u> (Arts)<p></p></center>
+<p></p><center>Cut-off Point: <u><b>4</b></u> (Science); <u><b>5</b></u> (Arts)<p></p></center>
 <p>All applications are given due consideration, subject to availability
 of vacancies and school’s admission criteria.</p>
-<p>Online Appeal Application</p>Click here to begin your application.[undefined](https://isp.hci.edu.sg/appeal/)<p>Application Period<br>
+<p></p><h3>Online Appeal Application<p></p></h3>[Click here to begin your application.](https://isp.hci.edu.sg/appeal/)
+<p>Application Period<br>
 <span style="background-color: #FFFF00">1 February (Thursday) 9.00 am – 2 February (Friday) 2.00 pm</span></p>
 <p>Please prepare a single PDF document (of no more than 128 MB) containing
 scanned copies of the following 4 supporting documents for uploading:</p>
