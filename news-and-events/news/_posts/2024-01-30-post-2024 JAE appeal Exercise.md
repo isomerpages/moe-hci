@@ -30,8 +30,11 @@ scanned copies of the following 4 supporting documents for uploading:</p>
 </p><p>Please name your PDF document as &lt;Applicant’s Name_Last 4 Characters
 of NRIC&gt;. Example: AndrewTan_234B</p>
 <p></p>
-We may contact you to provide more if we need further verification.
-Outcomes of Appeal
-Successful applicants will be informed by call or SMS by 5 February (Monday) evening. Successful applicants accepting the offer must report to College Reception on 6 February (Tuesday) 8.30 am.
-For enquiries on admission matters, kindly contact College Reception @ Tel: 64683956 during office hours (8 am to 5 pm) or email: admin@hci.edu.sg.
-For technical assistance on online appeal application, kindly email: it@hci.edu.sg.
+We may contact you to provide more if we need further verification.<br>
+
+<h3>Outcomes of Appeal</h3>
+<u>Successful applicants</u> will be informed by call or SMS by <b>5 February (Monday) evening.</b> Successful applicants accepting the offer must report to College Reception on <b>6 February (Tuesday) 8.30 am.</b><br><br>
+For enquiries on admission matters, kindly contact College Reception @ Tel: 64683956 during office hours (8 am to 5 pm) or email:
+<a href="mailto:admin@hci.edu.sg">admin@hci.edu.sg</a><br><br>
+For technical assistance on online appeal application, kindly email: 
+<a href="mailto:it@hci.edu.sg">it@hci.edu.sg</a>
