@@ -2,4 +2,5 @@ collections:
   chinese:
     output: true
     order:
+      - 校长献词.md
       - 华中历史.md
