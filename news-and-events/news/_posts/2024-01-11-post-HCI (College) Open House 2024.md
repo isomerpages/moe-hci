@@ -7,4 +7,39 @@ description: ""
 image: /images/News and Events/HCI_Open_House_2024.jpeg
 variant: tiptap
 ---
-<p>Join us for our Open House on Mon 15 Jan 2024, 12 - 4pm! We will have a series of talks, academic booths, CCA booths &amp; showcases and Senior-Junior Tea sessions.&nbsp;</p><p>More details can be found on our Open House microsite: <a href="https://hc-oh.com" rel="noopener noreferrer nofollow" target="_blank">https://hc-oh.com</a>.</p><p></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/HCI_Open_House_2024.jpeg"></div><p></p>
+<p>Hwa Chong Institution (College) opened its doors to prospective JC1 students
+and their parents on 15 Jan 2024.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COH_2024_Cover_photo.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COH_2024_P1.jpg">
+</div>
+<p>The open house offered a spectrum of opportunities for exploration and
+discovery. The academic booths at Jing Xian Library, Principal’s address
+and special programme talks shed light on the exciting opportunities that
+are on offer at HCI.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COH_2024_P2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COH_2024_P3.jpg">
+</div>
+<p>CCA and faculty showcases and performances also demonstrated the vibrancy
+of our community’s talents.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COH_2024_P4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COH_2024_P5.jpg">
+</div>
+<p></p>
+<p>Campus tours and senior-junior tea sessions provided the valuable opportunity
+for prospective students to find out more about what makes the Hwa Chong
+experience unique.</p>
+<p></p>
