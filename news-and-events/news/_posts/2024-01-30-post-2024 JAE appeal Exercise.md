@@ -14,7 +14,7 @@ Chong under JAE Posting Exercise.</p>
 for this exercise.</p>
 <p>To be considered for JAE Appeal, students must have met our net aggregate
 L1R5 cut-off point for this year.</p>
-<p>&lt;center&gt;Cut-off Point: 4 (Science); 5 (Arts)</p>
+<p></p><center>Cut-off Point: <u>**4**</u> (Science); <u>**5**</u> (Arts)<p></p></center>
 <p>All applications are given due consideration, subject to availability
 of vacancies and school’s admission criteria.</p>
 <p>Online Appeal Application</p>
