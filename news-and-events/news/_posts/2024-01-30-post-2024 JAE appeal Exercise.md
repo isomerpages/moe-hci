@@ -21,10 +21,10 @@ of vacancies and school’s admission criteria.</p>
 <span style="background-color: #FFFF00">1 February (Thursday) 9.00 am – 2 February (Friday) 2.00 pm</span></p>
 <p>Please prepare a single PDF document (of no more than 128 MB) containing
 scanned copies of the following 4 supporting documents for uploading:</p>
-<p>i)  JAE verification slip (Form A)</p>
-<p>ii) GCE O-level examination results slip</p>
-<p>iii) Sec 4 School Preliminary Examination result slip</p>
-<p>iv) Awards/scholarships (if any)</p>
-<p>Please name your PDF document as &lt;Applicant’s Name_Last 4 Characters
+<p>i)  JAE verification slip (Form A)<br>
+			ii) GCE O-level examination results slip<br>
+			iii) Sec 4 School Preliminary Examination result slip<br>
+			iv) Awards/scholarships (if any)
+</p><p>Please name your PDF document as &lt;Applicant’s Name_Last 4 Characters
 of NRIC&gt;. Example: AndrewTan_234B</p>
 <p></p>
