@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 世界级学府.md
       - 关怀文化.md
       - 完善的设施.md
       - 校长献词.md
