@@ -18,7 +18,7 @@ L1R5 cut-off point for this year.</p>
 <p>All applications are given due consideration, subject to availability
 of vacancies and school’s admission criteria.</p>
 <p></p><h3>Online Appeal Application</h3>
-[Click here to begin your application.](https://isp.hci.edu.sg/appeal/)<p></p>
+[Click here to begin your application.](https://isp.hci.edu.sg/appeal/)
 <p>Application Period<br>
 <span style="background-color: #FFFF00">1 February (Thursday) 9.00 am – 2 February (Friday) 2.00 pm</span></p>
 <p>Please prepare a single PDF document (of no more than 128 MB) containing
