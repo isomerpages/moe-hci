@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h5>School Fees Structure</h5>
-<p><strong><u>School fee rates</u></strong>
+<p><strong><u>School fee rates</u></strong> 
 <br><strong>Year 2024 Monthly School Fees</strong>
 </p>
 <table>
@@ -128,7 +128,7 @@ will have to pay fees for November and December.</p>
 <p>School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of
 each month; or the next working day if the 15th day of the month falls
 on a weekend or Public Holiday, unless otherwise advised.</p>
-<p><strong><u>Giro Collection Dates For Sec 1 school fees</u></strong>
+<p><strong><u>Giro Collection Dates For Sec 1 school fees</u></strong> 
 <br>
 </p>
 <table>
@@ -210,7 +210,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Giro Collection Dates For Sec 2 to 4 school fees</u></strong>
+<p><strong><u>Giro Collection Dates For Sec 2 to 4 school fees</u></strong> 
 <br>
 </p>
 <table>
@@ -276,7 +276,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Interbank Giro Application Form</u></strong>
+<p><strong><u>Interbank Giro Application Form</u></strong> 
 <br>
 </p>
 <p>It is compulsory for all students to take part in the Inter-bank Giro
@@ -292,7 +292,7 @@ because of financial reasons. A range of financial assistance schemes,
 scholarships and awards are available to support our students.</p>
 <p><strong><u>(A)&nbsp;&nbsp; Awards and scholarships offered by MOE:</u></strong>
 </p>
-<p>1 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Scholarships for Students of Independent Schools (ESIS)</a></strong>
+<p>1 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Scholarships for Students of Independent Schools (ESIS)</a></strong> 
 <br>2 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards</a></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -331,17 +331,17 @@ scholarships and awards are available to support our students.</p>
 </ul>
 <p><strong><u>(B)&nbsp; Financial Assistance Schemes:</u></strong>
 </p>
-<p>1 .&nbsp;<strong>Independent Schools Bursary Scheme (ISB)</strong>
+<p>1 .&nbsp;<strong>Independent Schools Bursary Scheme (ISB)</strong> 
 <br>- For Singaporean Citizens only (details please refer to ISB Section)</p>
-<p>2 . <strong>Hwa Chong Institution Needy Pupils Fund</strong>
+<p>2 . <strong>Hwa Chong Institution Needy Pupils Fund</strong> 
 <br>- For all students</p>
-<p>3 . <strong>Opportunity Fund (OF) / MOE Discretionary School-Based FAS</strong>
+<p>3 . <strong>Opportunity Fund (OF) / MOE Discretionary School-Based FAS</strong> 
 <br>- For Singaporean Citizens to fund overseas study trips and enrichment
 programmes</p>
 <p>Students who require financial assistance at any point of time can approach
 either their Form teachers or Head of Consortium for advice on the application
 for the above funds.</p>
-<p>4 . <strong>Trip for Internationalization Experience (TIE)</strong>
+<p>4 . <strong>Trip for Internationalization Experience (TIE)</strong> 
 <br>&nbsp;- For Singapore Citizens, the TIE provides a subsidy for overseas
 learning journeys to Asia with a focus on ASEAN countries, school immersion
 programmes and student exchange programmes with a cultural focus. The TIE
@@ -473,12 +473,12 @@ via DSA and/or ESIS recipients</p>
 <td rowspan="1" colspan="1">
 <p>* School fee rate per month:
 <br>
-<br><u>Pre-university level</u>
+<br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
 <br>&nbsp;Non-MOE Scholar: $33.00 to be funded by MOE’s School Based Financial
 Assistance Scheme, no fee payable this year.&nbsp;
 <br>
-<br><u>Secondary level</u>
+<br><u>Secondary level</u> 
 <br>MOE Scholar: $0.00
 <br>Non-MOE Scholar: $25.00 to be funded by MOE’s School Based Financial Assistance
 Scheme, no fee payable this year.&nbsp;
@@ -503,11 +503,11 @@ via DSA and/or ESIS recipients</p>
 <td rowspan="1" colspan="1">
 <p>* School fee rate per month:
 <br>
-<br><u>Pre-university level</u>
+<br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
 <br>&nbsp;Non-MOE Scholar: $49.50
 <br>
-<br><u>Secondary level</u>
+<br><u>Secondary level</u> 
 <br>MOE Scholar: $0.00
 <br>Non-MOE Scholar: $37.50</p>
 </td>
@@ -530,11 +530,11 @@ via DSA and/or ESIS recipients</p>
 <td rowspan="1" colspan="1">
 <p>* School fee rate per month:
 <br>
-<br><u>Pre-university level</u>
+<br><u>Pre-university level</u> 
 <br>MOE Scholar: $34.50
 <br>Non-MOE Scholar: $234.50
 <br>
-<br><u>Secondary level</u>
+<br><u>Secondary level</u> 
 <br>MOE Scholar: $1.00 (Sec 1 &amp; 2); $34.50 (Sec 3 &amp; 4)
 <br>Non-MOE Scholar: $201.00 (Sec 1 &amp; 2); $234.50 (Sec&nbsp; 3 &amp; 4)</p>
 </td>
@@ -613,7 +613,7 @@ of school.</p>
 <p>1 . Report to AB Lim (via online reporting at&nbsp;<a href="http://www.ablim.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.ablim.com.sg</a>,
 email, fax or phone) within 31 days from date of accident.
 <br>2 . Details on the insurance coverage; claim procedure and AB Lim’s contacts
-can be found together with the Claim form, downloadable&nbsp;<strong><em><a href="https://admindev.hci.edu.sg/uploads/Students_PA_2023_Benefits_and_Claim_Form_fea615995c.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></em></strong>
+can be found together with the Claim form, downloadable&nbsp;<strong><em><a href="https://admindev.hci.edu.sg/uploads/Students_PA_2023_Benefits_and_Claim_Form_fea615995c.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></em></strong> 
 <br>3. The required supporting documents are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -715,7 +715,7 @@ for the claim submission.
 <br>b. <strong>Personal insurance claims</strong> such as medical expenses/benefits
 or baggage loss/damage (where 100% of the settlements are to be paid to
 the individual claimants) are be submitted directly by the claimants to
-the insurer via the its Claim Submission Portal, URL as follow: <a href="https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client_portal&amp;GCOID=200800" rel="noopener noreferrer nofollow" target="_blank">https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client_portal&amp;GCOID=200800</a>
+the insurer via the its Claim Submission Portal, URL as follow: <a href="https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client_portal&amp;GCOID=200800" rel="noopener noreferrer nofollow" target="_blank">https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client_portal&amp;GCOID=200800</a> 
 <br>
 <br>Steps:
 <br>1. Read the “Checklist” to understand and obtain the required supporting
@@ -723,7 +723,7 @@ documents
 <br>2. Select “Submit a Claim”, and then “Travel (Policy No Starting with
 TTT, TAT or TZT)”
 <br>3. Select “Claim Type”
-<br>4. Input <strong>“Hwa Chong Institution” as Policyholder’s Name</strong>
+<br>4. Input <strong>“Hwa Chong Institution” as Policyholder’s Name</strong> 
 <br>5. Input <strong>“TTT8000233SN”</strong> as Policy Number
 <br>6. Enter Claimant’s Personal Information
 <br>7. Enter Claim Information
