@@ -660,7 +660,7 @@ qualifications</p>
 <br>
 <br><strong>Position: Estate Management Officer</strong>
 </p>
-<p><strong>Roles:</strong>
+<p><strong>Roles:</strong> 
 <br>As an Estate Management Officer, you will be provided support in the area
 of Estate &amp; Facilities Management, Safety &amp;
 <br>Security, and Logistics.</p>
@@ -865,8 +865,8 @@ institution or similar non-profit setting.</p>
 </ol>
 <p><strong>If you thrive on working in a dynamic and innovative environment, please submit your detailed CV, supporting documents and expected remuneration to</strong>
 </p>
-<p><strong>The Recruitment Officer</strong>
-<br><strong>Hwa Chong Institution</strong>
+<p><strong>The Recruitment Officer</strong> 
+<br><strong>Hwa Chong Institution</strong> 
 <br><strong>661 Bukit Timah Road S 269734</strong>
 </p>
 <p>Email:&nbsp;<a href="mailto:recruit@hci.edu.sg" rel="noopener noreferrer nofollow" target="_blank">recruit@hci.edu.sg</a>
