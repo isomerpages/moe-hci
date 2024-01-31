@@ -11,10 +11,9 @@ variant: tiptap
 <p>Welcome to our Hwa Chong family!</p>
 <p>Please find the details on some information for 2 Feb and the schedule
 of the first few days of Orientation in the attached document.</p>
-<p>An email will be sent from the school on 1 Feb afternoon to the email
-address that you provided to MOE in your school application to JC. It will
-include the log-in details to the HCI online platforms. Please check your
-spam/junk folder as well.</p>
+<p>A SMS will be sent from the school on 1 Feb afternoon to your handphone
+number that you provided to MOE in your school application to JC. It will
+include the log-in details to the HCI online platforms.</p>
 <p>Therafter, your Orientation Group Leader (OGL) will communicate with you
 via your HCI Gmail Google Chat on 1 Feb in the late afternoon.</p>
 <p>Please check the chat group prior to reporting to school on 2 Feb. See
