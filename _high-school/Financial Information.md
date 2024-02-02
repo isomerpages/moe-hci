@@ -613,7 +613,7 @@ of school.</p>
 <p>1 . Report to AB Lim (via online reporting at&nbsp;<a href="http://www.ablim.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.ablim.com.sg</a>,
 email, fax or phone) within 31 days from date of accident.
 <br>2 . Details on the insurance coverage; claim procedure and AB Lim’s contacts
-can be found together with the Claim form, downloadable&nbsp;<strong><a href="/files/High School/students_pa_insurance_benefits_summary_claim_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
+can be found together with the Claim form, downloadable&nbsp;<strong><a href="/files/High School/students_pa_insurance_benefits_summary_claim_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong> 
 <br>3. The required supporting documents are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -691,10 +691,11 @@ Ms Stella Teo at 62722277).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24 hours coverage for all overseas school trips.
-<br>Click here to download the Travel Insurance Benefit Summary. Note that
-this summary is to provide an outline of the coverage only and is not a
-policy document. The terms and conditions of the Insurer's policy document
-shall prevail at all times.</p>
+<br>Click <a href="/files/High School/Travel_Insurance_Fact_Sheet_2024_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the Travel Insurance Benefit Summary. Note that this summary is
+to provide an outline of the coverage only and is not a policy document.
+The terms and conditions of the Insurer's policy document shall prevail
+at all times.</p>
 </td>
 </tr>
 <tr>
