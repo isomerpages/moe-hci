@@ -613,7 +613,7 @@ of school.</p>
 <p>1 . Report to AB Lim (via online reporting at&nbsp;<a href="http://www.ablim.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.ablim.com.sg</a>,
 email, fax or phone) within 31 days from date of accident.
 <br>2 . Details on the insurance coverage; claim procedure and AB Lim’s contacts
-can be found together with the Claim form, downloadable&nbsp;<strong><em><a href="High School/Students_PA_Insurance_Benefits_Summary_Claim_Form_2024" rel="noopener noreferrer nofollow" target="_blank">here</a></em></strong> 
+can be found together with the Claim form, downloadable&nbsp;<strong><a href="/files/High School/students_pa_insurance_benefits_summary_claim_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
 <br>3. The required supporting documents are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
