@@ -9,11 +9,6 @@ sections:
   - hero:
       background: /images/homepage_banner_v2.gif
       variant: image
-      dropdown:
-        title: Welcome 2024 C1 Students
-        options:
-          - title: Arrangements for 2-6 Feb 2024
-            url: /news-and-events/news/c12024/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
