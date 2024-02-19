@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 华中初级学院校友会.md
       - 华中校友会.md
       - 校长献词.md
       - 愿景和使命.md
