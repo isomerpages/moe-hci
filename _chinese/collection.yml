@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 培育双文化与双语的栋梁之材.md
       - 服务传统.md
       - 校长献词.md
       - 愿景和使命.md
