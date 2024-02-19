@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 学校管理层.md
       - 组织架构.md
       - 华侨中学管理委员会.md
       - 华侨中学董事部.md
