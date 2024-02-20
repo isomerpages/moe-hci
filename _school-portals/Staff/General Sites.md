@@ -17,4 +17,4 @@ variant: markdown
 **[Integrated Electronic Message Board (iEMB)](https://iemb.hci.edu.sg/)**<br>
 **[Student Learning Space](https://learning.moe.edu.sg/)**<br>
 **[HCI Library Website](https://library.hci.edu.sg/)**<br>
-**[HCI IT Portal](it.hci.edu.sg)**
+**[HCI IT Portal](https://it.hci.edu.sg)**
