@@ -9,6 +9,11 @@ sections:
   - hero:
       background: /images/homepage_banner_v2.gif
       variant: image
+      dropdown:
+        title: 2023 GCE A Level Release
+        options:
+          - title: " Result Release"
+            url: /alevel2023
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
