@@ -23,7 +23,7 @@ contributions.&nbsp;</p>
 in contributing to the wider community amidst their demanding schedules.&nbsp;</p>
 <p>Demonstrating their commitment to excellence, this cohort sustained a <strong>median UAS</strong>  <strong>of</strong>  <strong>88.&nbsp;</strong>
 </p>
-<p>We are proud that our students continued to flourish, embodying the values
+<p>We are proud that our students continue to flourish, embodying the values
 of grit, adaptability and compassion. These are all hallmarks of the Hwa
 Chong spirit of 自强不息 and 饮水思源.&nbsp;</p>
 <ul>
