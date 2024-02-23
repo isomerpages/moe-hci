@@ -21,7 +21,7 @@ locating their various passions, and creating impact through their various
 contributions.&nbsp;</p>
 <p>As the first post-pandemic cohort, we celebrate their steadfast commitment
 in contributing to the wider community amidst their demanding schedules.&nbsp;</p>
-<p>Demonstrating their commitment to excellence, this cohort sustained a&nbsp;<strong>median UAS</strong>&nbsp;<strong>of</strong>&nbsp;<strong>88.&nbsp;One out of four</strong> had
+<p>Demonstrating their commitment to excellence, this cohort sustained a&nbsp;<strong>median UAS</strong>&nbsp;<strong>of</strong>&nbsp;<strong>88.  One out of four</strong> had
 a perfect <strong>UAS of 90</strong>. <strong>Six out of 10</strong> attained <strong>3 H2 Distinctions and above</strong>.<strong>&nbsp;</strong>
 </p>
 <p>We are proud that our students continue to flourish, embodying the values
