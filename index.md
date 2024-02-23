@@ -9,11 +9,6 @@ sections:
   - hero:
       background: /images/homepage_banner_v2.gif
       variant: image
-      dropdown:
-        title: 2023 GCE ALevel Result Release
-        options:
-          - title: Result Release
-            url: /news-and-events/news/alevel2023/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
