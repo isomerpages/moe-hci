@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Class of 2023" src="/images/alevel2023.jpg">
+</div>
 <p><strong>Hwa Chong Celebrates the Contributions of the Class of 2023</strong>
 </p>
 <p>23 Feb 2024</p>
