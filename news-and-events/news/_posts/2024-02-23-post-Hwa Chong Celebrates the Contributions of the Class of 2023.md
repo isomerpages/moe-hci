@@ -16,9 +16,9 @@ variant: tiptap
 <p>23 Feb 2024</p>
 <p>The Class of 2023 has once again achieved excellent performance at the
 A-Level Examinations.&nbsp;&nbsp;</p>
-<p>This IP cohort has demonstrated the importance of discovering peaks of
-excellence, locating their various passions, and creating impact through
-their various contributions.&nbsp;</p>
+<p>This cohort has demonstrated the importance of discovering peaks of excellence,
+locating their various passions, and creating impact through their various
+contributions.&nbsp;</p>
 <p>As the first post-pandemic cohort, we celebrate their steadfast commitment
 in contributing to the wider community amidst their demanding schedules.&nbsp;</p>
 <p>Demonstrating their commitment to excellence, this cohort sustained a <strong>median UAS</strong>  <strong>of</strong>  <strong>88.&nbsp;</strong>
