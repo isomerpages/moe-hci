@@ -12,101 +12,6 @@ is seeking high achieving individuals who are excited about education to
 join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
-<p><strong>Position: &nbsp;ART STUDIO TECHNICIAN</strong>
-</p>
-<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
-</p>
-<ol>
-<li>
-<p>Art Studios and Storerooms
-<br>• Liaise with Estate for removal of trash, cleanup of major spaces
-<br>• Organize storage space and dejunk the unnecessary
-<br>• Report breakdown of equipment/facilities to IT and Estate, oversee repairs
-<br>
-</p>
-</li>
-<li>
-<p>Administrative and Office Work
-<br>• Manage SRC Art Gallery (On spotlights, air-con and screenings for visits),
-Open and Close Gallery (within office hours only)
-<br>• Liaise between art suppliers, art teachers and Finance – Processing
-of invoice payments and documentation
-<br>• Updating art materials inventory list
-<br>• Liaise with IT and AV with checks and updating of inventory list
-<br>• Booking of transport for external gallery and museum visits
-<br>
-</p>
-</li>
-<li>
-<p>Supervision of Teaching and Learning
-<br>• Keeping updated stock list (be it liaising with art teachers or physical
-checks)
-<br>• Assist in sourcing of materials, ordering of materials, liaising with
-delivery and packing
-<br>• Archiving of artworks on display in school, keeping track of inventory
-list of artworks on digital platform
-<br>• Packing and organizing of delivered art materials into the respective
-storerooms and studios
-<br>• To provide close supervision when students are handling machines or
-engage in dangerous activities
-<br>• To check that all students vacate art room at the end of each day, all
-doors are secured and ensure that no student is able to assess freely.
-<br>
-</p>
-</li>
-<li>
-<p>Materials &amp; Equipment
-<br>• Oversee loan of equipment to students, keeping an updated inventory
-of equipment movement
-<br>• Keep an updated inventory, labeling equipment, coming up with instructional/
-safety labels
-<br>• Accountable for usage and returning of tools and equipment during activities
-<br>• Accountable for maintenance of equipment such as cameras and lenses
-<br>
-</p>
-</li>
-<li>
-<p>Digital archival/ Resource preparation
-<br>• Simple documentation/ photographing of art works
-<br>• Archiving photographs/ artworks / articles digitally
-<br>• Maintenance of AEP website
-<br>• Assist in the production of art learning resources. E.g. scanning
-<br>
-</p>
-</li>
-<li>
-<p>Installation &amp; Display
-<br>• Assist in setup of student’s works for exhibitions (Painting / construction
-of walls, liaising with the IT, AV and Estate for the wiring of electrical
-cables, spotlights and installation of works)
-<br>• Oversee framing and installation of artworks in the SRC Art Gallery
-and within school compound (Liaise with external vendor)
-<br>• Artist Statement Labels
-<br>
-</p>
-</li>
-<li>
-<p>Safety Officer
-<br>• Assist Safety Committee and EC/ Aesthetics in the role as safety officer
-for all art studios.
-<br>• Maintenance of First Aid Kit in all art studios
-<br>• Work with Estate on checking of all fire extinguishers
-<br>• Maintenance of Kiln and Printing Press (Liaise with external vendor)
-<br>• Maintenance of cleanliness in all art studios and gallery
-<br>
-</p>
-</li>
-</ol>
-<p><strong>REQUIREMENTS</strong>
-</p>
-<p>• A Diploma in Fine Arts is preferred.
-<br>• Career Opportunity for Beginners - Entry level is welcomed.
-<br>• Familiar with art materials and equipment, managing inventory, good
-organisational skills.
-<br>• Proficiency in website design.
-<br>
-</p>
-<p></p>
 <p><strong>Position: &nbsp;Operations Executive/ Security Supervisor</strong>
 </p>
 <p>As a Security Operations Executive/ Security Supervisor, you will play
@@ -238,9 +143,10 @@ management, and external stakeholders.</p>
 <li>
 <p>Physical fitness and the ability to perform security-related tasks, including
 patrolling and responding to alarms.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Position: &nbsp;Laboratory Attendant</strong>
 </p>
 <p><strong>Job Description</strong>
@@ -266,13 +172,9 @@ and supervisor
 </p>
 <p>• Work experience in school or research laboratories, or related laboratory
 work is an advantage
-<br>• Team player, who can work independently.
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
+<br>• Team player, who can work independently.</p>
+<p></p>
+<p></p>
 <p><strong>Position: &nbsp;Boarding Executive / Senior Boarding Executive</strong>
 </p>
 <p><strong>(Student Well-Being and Care)</strong>
@@ -306,9 +208,7 @@ tasks related to the role
 <br>• Perform room and hygiene checks and follow up with the boarder involved
 <br>• Assist with reception duties as and when required.
 <br>
-<br>
-</p>
-<p><strong>Requirements</strong>
+<br><strong>Requirements</strong>
 </p>
 <p>• Minimum diploma holder, preferably in education, counselling, social
 sciences or psychology related fields.
@@ -388,88 +288,6 @@ build relationships and influence stakeholders at all levels of the organization
 </ol>
 <p>
 <br>
-<br><strong>Position: &nbsp;Physics Laboratory Technician</strong>
-</p>
-<p>Job Descriptions:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Planning, procuring, and preparing materials for daily practicals, enrichment
-sessions, and practical assessments. Apparatus and materials planning and
-preparation for practical sessions and practical assessments.</p>
-</li>
-<li>
-<p>Liaising with vendors and evaluating quotations from suppliers for consumables
-and lab equipment.</p>
-</li>
-<li>
-<p>Prepare and propose a yearly budget for Physics Laboratories.</p>
-</li>
-<li>
-<p>Stocktaking of inventory for Physics laboratories during school breaks.</p>
-</li>
-<li>
-<p>Regular maintenance and servicing of lab apparatus/equipment to ensure
-optimum working conditions.</p>
-</li>
-<li>
-<p>Effecting minor repairs to apparatus and lab facilities where necessary.</p>
-</li>
-<li>
-<p>Conduct a risk assessment of Physics laboratories. Put in place and enforce
-safety guidelines in the laboratories.</p>
-</li>
-<li>
-<p>Risk assessment form preparation for practical tasks to be performed each
-school term.</p>
-</li>
-<li>
-<p>Keeping account of breakages/losses/damages during practical sessions.</p>
-</li>
-<li>
-<p>Aiding teachers in preparing and setting up lessons’ demonstration equipment/apparatus.</p>
-</li>
-<li>
-<p>Clearing and cleaning of laboratories and apparatus used after practical
-sessions and practical assessments.</p>
-</li>
-<li>
-<p>Supervise and schedule the cleaning up of laboratories during school breaks.</p>
-</li>
-<li>
-<p>Supervise, allocate, and support the work of lab attendant(s).</p>
-</li>
-<li>
-<p>Any other duties as assigned by the school.</p>
-</li>
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diploma or Degree in Physics or related field of studies (e.g. Electrical
-or Mechanical Engineering).</p>
-</li>
-<li>
-<p>At least 2 years of relevant work experience preferred.</p>
-</li>
-<li>
-<p>Having experience in managing a school science laboratory would be an
-advantage.</p>
-</li>
-<li>
-<p>Knowledge in Physics or Electrical or Mechanical Engineering.</p>
-</li>
-<li>
-<p>Knowledge in laboratory management.</p>
-</li>
-<li>
-<p>Team player and also able to work independently.</p>
-</li>
-<li>
-<p>Being able to work and communicate effectively with students and staff
-is an advantage.</p>
-</li>
-</ul>
-<p>
 <br>
 <br>
 </p>
