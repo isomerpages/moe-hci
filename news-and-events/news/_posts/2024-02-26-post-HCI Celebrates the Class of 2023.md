@@ -227,7 +227,7 @@ his participation as a member of the Chinese Orchestra played a role in
 the CCA being honored with a Certificate of Distinction at the 2023 SYF
 Arts Presentation.</p>
 <p></p>
-<p><em>“Dr Erkan Polatdemir, thank you for all the care, support and knowledge you have given me! Mr Pang Biaojin, thank you for all the care, support and knowledge you have given me! Mr Rudy Lee, thank you for all the care, support and knowledge you have given me! Mr Fong Cheng Shek, thank you for all the care, support and knowledge you have given me!”</em>
+<p><em>“I would like to thank Dr Erkan Polatdemir and Mr Pang Biaojin, as well as my high school teachers Mr Rudy Lee and Mr Fong Cheng Shek for all the care, support and knowledge you have given me!”</em>
 </p>
 </td>
 </tr>
