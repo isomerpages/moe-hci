@@ -64,10 +64,9 @@ in our steadfast mission to nurture our next generation of students to
 live with passion and lead with compassion. We encourage all to look beyond
 academic grades as the only measure of success, embrace a myriad of opportunities,
 and pursue holistic excellence.</p>
-<p>______________________________________________________________________________________________________</p>
 <p></p>
-<p><strong>Hwa Chong Celebrates Holistic Excellence</strong>
-</p>
+<p></p>
+<h4><strong>Hwa Chong Celebrates Holistic Excellence</strong></h4>
 <p></p>
 <p>Heartiest congratulations to the Class of 2023! They have demonstrated
 exceptional talent in areas of their diverse interests, and made meaningful
