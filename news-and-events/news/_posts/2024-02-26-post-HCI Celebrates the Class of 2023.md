@@ -329,10 +329,10 @@ Following her secondary 4 education, she proactively reached out to professors
 to explore research opportunities and had the privilege of collaborating
 with Dr. October Sessions from the Saw Swee Hock School of Public Health.
 Her research project earned recognition, ultimately receiving a Merit award
-at the <a href="https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair" rel="noopener noreferrer nofollow" target="_blank">Singapore Science and Engineering Fair</a> in
-2023. Furthermore, Xinyu served as the Secretary-Treasurer of the Chinese
-Orchestra, showcasing her multifaceted dedication to both academic pursuits
-and extracurricular activities.</p>
+at the Singapore Science and Engineering Fair in 2023. Furthermore, Xinyu
+served as the Secretary-Treasurer of the Chinese Orchestra, showcasing
+her multifaceted dedication to both academic pursuits and extracurricular
+activities.</p>
 <p></p>
 <p><em>“Ms Soh Swee Keng, thank you for your unwavering trust in me; you've supported me to pursue my dreams and encouraged me to keep going when I faced challenges. May we continue to stay in touch even upon graduation ❤️”</em>
 </p>
