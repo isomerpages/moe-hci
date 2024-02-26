@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <p><strong>HCI Celebrates the Class of 2023</strong>
 </p>
-<p>26 Feb 2024</p>
+<p>23 Feb 2024</p>
 <p>The Class of 2023 has once again achieved excellent performance at the
 A-Level Examinations.&nbsp;&nbsp;</p>
 <p>This cohort has demonstrated the importance of discovering peaks of excellence,
