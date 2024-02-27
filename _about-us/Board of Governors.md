@@ -4,8 +4,6 @@ permalink: /about-us/board-of-governors/
 description: ""
 variant: markdown
 ---
-##### Board of Governors
-
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
