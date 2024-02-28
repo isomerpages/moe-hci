@@ -16,6 +16,7 @@ a powerful demonstration of Singapore’s defence prowess.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="416" width="624" src="https://lh7-us.googleusercontent.com/BgLmZk3Hk38wgFtLcubrsk9QvGEbxevfiT4wc3fQxXCAkHxIVEM8200gS_pG6c2sPIDN8WNLa1cM9-L4a16neA0UN2aKotm2G3qP2uGSUhcxUOoXNAN2E7N5InEkPUkkMxUoulTEZokPYYs4g9ypbrs">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="416" width="624" src="https://lh7-us.googleusercontent.com/ayrXjiBNtgkGYPd0LtqbDvqCkBMfHsthi040QIDgb2pZQoU-KFVIzjDYVWhbYH_cFI1SDCd5fXQjsXqiMYq5YC0l0qgNSyGCi0MyjYI9e0qjJ4K7wY8KnrflEY3A5x7V7KiH50j2PIvI-SOJXI_twWI">
 </div>
@@ -26,6 +27,7 @@ the significance of supply disruptions.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="436" width="624" src="https://lh7-us.googleusercontent.com/bSAIpoMh_HWgq52TDa9zdvHdqknSEWnOFlIuPeKWx8w-aTf35mmCCTAprMCbFXLkF9Zb6knmBPk4vbJDVFeWzC5oZK-n2yZ7BY3DQaUgRuOUlnoZeYXSJzlWb9GI291-PXX1aRtA7NpBnjo9SaMVJLs">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="416" width="624" src="https://lh7-us.googleusercontent.com/iqxqwYJz36EA6hb6joxdYzKWyNJyX4YtzrWeTClQIl2ZLt01oZQ1e2XqHJ2HqnkDxiCDrIB5A6_RbWClh3Bd1tbrGzzPBZpvQT894onk6aO-oGGuuiVHM7xZs_jiJwtNNcggmsplYipjwi2_K6SNnfo">
 </div>
