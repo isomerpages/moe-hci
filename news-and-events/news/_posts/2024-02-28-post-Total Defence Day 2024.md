@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p>On the early morning of 16 Feb 2024, amidst the echoes of unity, Hwa Chong
 rallied together in a stirring assembly, standing shoulder to shoulder
-as cadets from the 1 Singapore Infantry Regiment lined the terraces with
+as soldiers from the 1 Singapore Infantry Regiment lined the terraces with
 a powerful demonstration of Singapore’s defence prowess.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="416" width="624" src="https://lh7-us.googleusercontent.com/BgLmZk3Hk38wgFtLcubrsk9QvGEbxevfiT4wc3fQxXCAkHxIVEM8200gS_pG6c2sPIDN8WNLa1cM9-L4a16neA0UN2aKotm2G3qP2uGSUhcxUOoXNAN2E7N5InEkPUkkMxUoulTEZokPYYs4g9ypbrs">
