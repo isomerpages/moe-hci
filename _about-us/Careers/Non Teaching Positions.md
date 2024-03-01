@@ -225,7 +225,6 @@ an added advantage.
 <br>• Must be willing to stay in at Boarding School.</p>
 <p></p>
 <p></p>
-<p></p>
 <p><strong>Position: &nbsp;Library Manager</strong>
 </p>
 <p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
