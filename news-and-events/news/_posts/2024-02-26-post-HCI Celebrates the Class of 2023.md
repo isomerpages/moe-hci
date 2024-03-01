@@ -203,10 +203,8 @@ providing invaluable learning experiences—from the rigorous research process
 to the opportunity to share her work with professionals and delegates hailing
 from diverse corners of the globe.</p>
 <p></p>
-<p>“To my research mentor Dr Kelvin Tan as well as my tutors Dr Erkan Polatdemir,
-Mr Wee Chorng Shin and Dr Sandra Tan, thank you for supporting me throughout
-my time in Hwa Chong and especially in my research journey. Your guidance
-and advice further fuels my passion and love for research and beyond.”</p>
+<p><em>“To my research mentor Dr Kelvin Tan as well as my tutors Dr Erkan Polatdemir, Mr Wee Chorng Shin and Dr Sandra Tan, thank you for supporting me throughout my time in Hwa Chong and especially in my research journey. Your guidance and advice further fuels my passion and love for research and beyond.”</em>
+</p>
 </td>
 </tr>
 <tr>
