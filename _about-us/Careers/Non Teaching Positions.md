@@ -223,74 +223,9 @@ in regard with the programs and activities matter.
 <br>• Additional skill sets like first-aid and mentoring students would be
 an added advantage.
 <br>• Must be willing to stay in at Boarding School.</p>
-<p>
-<br>
-<br><strong>Position: &nbsp;Procurement Officer</strong>
-</p>
-<p><strong>Duties &amp; Responsibilities</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Researching and identifying potential suppliers or vendors</p>
-</li>
-<li>
-<p>Evaluating supplier bids and proposals and negotiating contracts and prices</p>
-</li>
-<li>
-<p>Maintaining and updating procurement records and documentation</p>
-</li>
-<li>
-<p>Managing inventory levels and ensuring timely delivery of goods and services</p>
-</li>
-<li>
-<p>Monitoring vendor performance and addressing any issues or concerns</p>
-</li>
-<li>
-<p>Developing and implementing procurement policies and procedures</p>
-</li>
-<li>
-<p>Ensuring compliance with relevant laws and regulations</p>
-</li>
-<li>
-<p>Collaborating with other departments and stakeholders to identify and
-meet procurement needs</p>
-</li>
-<li>
-<p>Providing guidance and support to other team members involved in procurement
-activities.</p>
-</li>
-</ol>
-<p><strong>Requirements</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Diploma degree in business, supply chain management, or a related field.</p>
-</li>
-<li>
-<p>2 years of experience in procurement</p>
-</li>
-<li>
-<p>Experience with procurement software and tools including GeBIZ</p>
-</li>
-<li>
-<p>Strong analytical, problem-solving skills and meticulous</p>
-</li>
-<li>
-<p>Excellent communication and interpersonal skills, with the ability to
-build relationships and influence stakeholders at all levels of the organization.</p>
-</li>
-<li>
-<p>Knowledge of procurement regulations, policies, and procedures.</p>
-</li>
-<li>
-<p>Experience with procurement software and tools.</p>
-</li>
-</ol>
-<p>
-<br>
-<br>
-<br>
-</p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Position: &nbsp;Library Manager</strong>
 </p>
 <p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
