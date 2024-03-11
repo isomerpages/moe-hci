@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage_banner_v2.gif
+      background: /images/homepage_banner_v3.gif
       variant: image
   - infobar:
       title: ADMISSION & STUDIES
