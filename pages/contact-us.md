@@ -8,13 +8,7 @@ locations:
       - Hwa Chong Institution
       - 661 Bukit Timah Road
       - Singapore 269734
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: Address
   - address:
@@ -24,6 +18,13 @@ locations:
     operating_hours: []
     maps_link: ""
     title: Nearest MRT
+  - address:
+      - 66 / 67 / 74 / 151 / 154 / 156
+      - 157 / 170 / 174 / 852 / 961
+      - ""
+    title: Bus Services
+    operating_hours: []
+    maps_link: ""
   - address:
       - Tan Kah Kee Stn - 41051
       - Chinese High Sch - 41061
