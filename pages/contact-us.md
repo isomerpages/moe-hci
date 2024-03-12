@@ -21,21 +21,21 @@ locations:
       - "Nearest MRT: Tan Kah Kee (DT8)"
       - ""
       - ""
-    title: Nearest MRT
     operating_hours: []
     maps_link: ""
+    title: Nearest MRT
   - address:
       - Tan Kah Kee Stn - 41051
       - Chinese High Sch - 41061
       - Opp Natl JC (Gate 3) - 41071
-    title: Nearest Bus Stops
     operating_hours: []
     maps_link: ""
+    title: Nearest Bus Stops
 contacts:
   - content:
       - phone: +65 6468 3955
       - email: admin@hci.edu.sg
-      - other: ""
+      - other: "Fax: +65 6769 5857"
     title: General Enquiries & Feedback
 feedback: ""
 ---
