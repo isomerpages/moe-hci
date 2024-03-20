@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p><strong><u>Staff Learning Day 2024: PLAY@HCI</u></strong>
 </p>
-<p><em>“We don’t stop playing because we grow old. We grow old because we stop playing.” </em>
+<p><em>“We don’t stop playing because we grow old. We grow old because we stop playing.”</em>
 </p>
 <p><em>~George Bernard Shaw</em>
 </p>
@@ -56,8 +56,9 @@ of joy and relaxation.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="456" width="607" src="https://lh7-us.googleusercontent.com/VBKdq_mEwKOv3v75Uv0F8hlYSgApLQnguTcWxDAQDlss1VucB9igI-sjZfD_w_zxVS5gKggN1AGIQh_OuuSZLfrTOC1ekS8mKDa5Wug-o0JyRVvdZXLZI1HWm3hIbInTS0wd3oyevHa5MgxfUxwgi0w">
+<img style="margin-left:0px;margin-top:0px;" height="455" width="606" src="https://lh7-us.googleusercontent.com/Jy9EKgzFdR85Tj45dBOPk6pN9IjoTa5Nf1sgpG62ap8RqDqTmXCWj67vf-Q85bkm2tllOLYSd5-ffuMceK5dXR2MV5NFLIbfzbsDjCcsSJDckEE90nY1Z_-VKF2J-3TQCqLOEP8PPIcswbXST-YCsoQ">
 </div>
+<p></p>
 <p>PLAY@HCI was not merely an event; it was a testament to the Hwa Chong
 commitment to the holistic development of its staff. The festival served
 as a platform for personal and professional growth, creating memories that
