@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>Hwa Chong Infocomm &amp; Robotics Society (IRS) Returns Victorious from the VEX Robotics National Championships 2024</u></strong>
+<p><strong><u>Infocomm &amp; Robotics Society (IRS) Returns Victorious from the VEX Robotics National Championships 2024</u></strong>
 </p>
 <p>On 3 Feb 2024, five teams from the Hwa Chong Infocomm &amp; Robotics Society
 (IRS) participated in the VEX Robotics National Championships.&nbsp;</p>
