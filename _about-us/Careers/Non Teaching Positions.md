@@ -7,7 +7,7 @@ third_nav_title: Careers
 ---
 <p><strong>HWA CHONG INSTITUTION</strong>
 </p>
-<p><strong>We nurture leaders in Research, Industry and Government to serve </strong>
+<p><strong>We nurture leaders in Research, Industry and Government to serve</strong>
 </p>
 <p>Education is at the heart of the Hwa Chong experience. The Institution
 is seeking high achieving individuals who are excited about education to
@@ -284,8 +284,7 @@ qualifications</p>
 </p>
 <p><strong>Roles:</strong> 
 <br>As an Estate Management Officer, you will be provided support in the area
-of Estate &amp; Facilities Management, Safety &amp;
-<br>Security, and Logistics.</p>
+of Estate &amp; Facilities Management, Safety &amp; Security, and Logistics.</p>
 <p><strong>Job Descriptions:</strong>
 </p>
 <ul data-tight="true" class="tight">
