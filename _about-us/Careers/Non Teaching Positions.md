@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Careers
 ---
-<p><strong><em>&lt;center&gt;&lt;b&gt;HWA CHONG INSTITUTION&lt;/b&gt;&lt;/center&gt;</em></strong>
+<p><strong>HWA CHONG INSTITUTION</strong>
 </p>
-<p><strong><em>&lt;center&gt;&lt;b&gt;&lt;i&gt;We nurture leaders in Research, Industry and Government to serve the nation&lt;/i&gt;&lt;/b&gt;&lt;/center&gt;</em></strong>
+<p><strong>We nurture leaders in Research, Industry and Government to serve </strong>
 </p>
 <p>Education is at the heart of the Hwa Chong experience. The Institution
 is seeking high achieving individuals who are excited about education to
