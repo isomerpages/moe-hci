@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Careers
 ---
-<p><strong><em>HWA CHONG INSTITUTION</em></strong>  <strong><em>We nurture leaders in Research, Industry and Government to serve the nation</em></strong>
+<p><strong><em>&lt;center&gt;&lt;b&gt;HWA CHONG INSTITUTION&lt;/b&gt;&lt;/center&gt;</em></strong>
+</p>
+<p><strong><em>&lt;center&gt;&lt;b&gt;&lt;i&gt;We nurture leaders in Research, Industry and Government to serve the nation&lt;/i&gt;&lt;/b&gt;&lt;/center&gt;</em></strong>
 </p>
 <p>Education is at the heart of the Hwa Chong experience. The Institution
 is seeking high achieving individuals who are excited about education to
@@ -39,6 +41,7 @@ and supervisor
 <p>• Work experience in school or research laboratories, or related laboratory
 work is an advantage
 <br>• Team player, who can work independently.</p>
+<p></p>
 <p></p>
 <p></p>
 <p><strong>Position: &nbsp;Boarding Executive / Senior Boarding Executive</strong>
@@ -89,6 +92,7 @@ in regard with the programs and activities matter.
 <br>• Additional skill sets like first-aid and mentoring students would be
 an added advantage.
 <br>• Must be willing to stay in at Boarding School.</p>
+<p></p>
 <p></p>
 <p></p>
 <p><strong>Position: &nbsp;Library Manager</strong>
