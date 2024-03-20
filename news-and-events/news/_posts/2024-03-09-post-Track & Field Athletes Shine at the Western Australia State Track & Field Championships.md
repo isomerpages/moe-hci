@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>Hwa Chong Track &amp; Field Athletes Shine at the Western Australia State Track &amp; Field Championships</u></strong>
+<p><strong><u>Track &amp; Field Athletes Shine at the Western Australia State Track &amp; Field Championships</u></strong>
 </p>
 <p>The 2024 Western Australia State Track &amp; Field Championships was held
 from 22 to 25 Feb 2024 at the Western Australia Athletics Stadium in Perth,
