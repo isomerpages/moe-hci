@@ -10,7 +10,7 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; text-align: center;">
-        <strong>Principal</strong><br>Mr Lee Peck Ping<br> 2024 - Present
+        <strong>Principal</strong>
       </td>
     </tr>
   </tbody>
