@@ -4,7 +4,8 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: ""
+notification: Join us for our High School Open House on 18 May,
+  8am-1pm.  Details of the programme will be shared closer to the date.
 sections:
   - hero:
       background: /images/homepage_banner_v3.gif
