@@ -2,11 +2,11 @@ collections:
   school-portals:
     output: true
     order:
-      - Staff.md
       - Student/.keep
       - Student/General Sites.md
       - Student/High School.md
       - Student/College.md
+      - Staff.md
       - Staff/.keep
       - Staff/General Sites.md
       - Staff/High School.md
