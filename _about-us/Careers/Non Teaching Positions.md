@@ -15,6 +15,7 @@ join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
 <p></p>
+<p></p>
 <p><strong>Position: &nbsp;Laboratory Attendant</strong>
 </p>
 <p><strong>Job Description</strong>
@@ -327,9 +328,64 @@ and Building Services or related qualifications</p>
 <p>Experienced candidates without the required qualification may also apply</p>
 </li>
 </ul>
-<p>
+<p></p>
+<p></p>
+<p><strong>Position: Procurement Officer</strong>
+</p>
+<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Administer procurement activities, provide end-to-end support and advice
+to internal requestor on procurement procedure, guide them through the
+entire procurement process.</p>
+</li>
+<li>
+<p>Review and prepare procurement documents for publication, evaluation,
+award recommendations etc. Check and ensure quotation bids are evaluated
+fairly and in strict compliance to the school’s procurement procedure and
+Government Instruction manual (IM).</p>
+</li>
+<li>
+<p>Perform transactions on GEBIZ, publishing quotation, raising award, issuance
+of Purchase Order (PO), contracts and etc.</p>
+</li>
+<li>
+<p>Liaise with internal requestor on contract management, track and timely
+complete all purchase request assigned.</p>
+</li>
+<li>
+<p>Perform any other ad-hoc duties as assigned.</p>
+</li>
+</ul>
+<p><strong>REQUIREMENTS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Diploma/ degree in business, supply chain management, or a related field.</p>
+</li>
+<li>
+<p>2 years of experience in government procurement.</p>
+</li>
+<li>
+<p>Experience with procurement software and tools including GeBIZ e-procurement
+system.</p>
+</li>
+<li>
+<p>Have knowledge on government procurement procedure is a plus.</p>
+</li>
+<li>
+<p>Strong analytical, problem-solving skills and meticulous with eye for
+details.</p>
+</li>
+<li>
+<p>Proactive, able to work independently and as a team member. Excellent
+communication and interpersonal skills, with the ability to build relationships
+and influence stakeholders at all levels of the organization.
 <br>
 </p>
+</li>
+</ul>
 <p><strong>If you thrive on working in a dynamic and innovative environment, please submit your detailed CV, supporting documents and expected remuneration to</strong>
 </p>
 <p><strong>The Recruitment Officer</strong> 
