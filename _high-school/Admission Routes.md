@@ -20,8 +20,7 @@ talent they are selected for from year 1-4.</p>
 because of financial reasons. A range of&nbsp;<a href="http://www.hci.edu.sg/admissions/high_school/financial-information-highschool#financial-assistance" rel="noopener noreferrer nofollow" target="_blank">financial assistance schemes</a>,
 scholarships and awards are available to support our students.</p>
 <p><strong>The selection criteria and process for the talent areas will be updated from early-May. </strong>For
-more information on DSA-Sec, please refer to the MOE website at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+more information on DSA-Sec, please refer to the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <hr>
 <p><strong>DSA Categories</strong>
 </p>
