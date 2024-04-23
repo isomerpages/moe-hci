@@ -28,7 +28,7 @@ more information on DSA-Sec, please refer to the MOE website at&nbsp;&nbsp;&nbsp
 <p><strong>DSA Categories</strong>
 </p>
 <p>Students may apply to HCI through the following DSA categories:</p>
-<p><strong>Academic</strong>
+<p><strong>Academic</strong> 
 <br>We welcome students who demonstrate deep interest and talents in the following
 domains:</p>
 <p>Language and Humanities</p>
