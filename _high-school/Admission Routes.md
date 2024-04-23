@@ -29,7 +29,8 @@ more information on DSA-Sec, please refer to the MOE website at&nbsp;&nbsp;&nbsp
 <p><strong>Academic</strong> 
 <br>We welcome students who demonstrate deep interest and talents in the following
 domains:</p>
-<p>Language and Humanities</p>
+<p><strong>Language and Humanities</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese Language</p>
@@ -39,7 +40,8 @@ domains:</p>
 <p></p>
 </li>
 </ul>
-<p>Science, Technology, Engineering and Mathematics</p>
+<p><strong>Science, Technology, Engineering and Mathematics</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Infocomm (Programming and/ or Robotics)</p>
