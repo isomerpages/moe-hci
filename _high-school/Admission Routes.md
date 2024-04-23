@@ -4,40 +4,31 @@ permalink: /high-school/admission-route/
 description: ""
 variant: tiptap
 ---
-<p><strong>DIRECT SCHOOL ADMISSION EXERCISE 2023</strong>
+<p><strong>DIRECT SCHOOL ADMISSION EXERCISE 2024</strong>
 </p>
-<p>Primary 6 students who are keen to join HCI in 2024 may apply to the school
+<p>Primary 6 students who are keen to join HCI in 2025 may apply to the school
 via the Direct School Admission (DSA) Exercise.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student's aptitudes and&nbsp;strengths, bearing in mind the schools'
 academic and non-academic requirements, and the programmes available to
 develop the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school for the duration of the 6-year
+Integrated Programme, and participate in the activities related to the
+talent they are selected for from year 1-4.</p>
 <p>No Singaporean student will be denied a place in Hwa Chong Institution
-because of financial reasons. Click&nbsp;<a href="/high-school/financial-info/" rel="noopener noreferrer nofollow" target="_blank">here</a> &nbsp;to access the financial
-information and the range of financial assistance schemes, scholarships
-and awards available to support our students.</p>
-<p>For FAQs on DSA admissions at HCI, please access the following&nbsp;
-<a href="https://www.admissions.hci.edu.sg/faqs" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+because of financial reasons. A range of&nbsp;<a href="http://www.hci.edu.sg/admissions/high_school/financial-information-highschool#financial-assistance" rel="noopener noreferrer nofollow" target="_blank">financial assistance schemes</a>,
+scholarships and awards are available to support our students.</p>
+<p><strong>The selection criteria and process for the talent areas will be updated from early-May. </strong>For
+more information on DSA-Sec, please refer to the MOE website at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <hr>
-<p><strong>Direct School Admissions Schedule</strong>
-</p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from&nbsp;</p>
-<p><strong><u>4 May 2023, 11 am</u></strong>&nbsp;to&nbsp;<strong><u>31 May 2023, 3 pm.</u></strong>
-</p>
-<p>For more details, please refer to MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <hr>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/dsa2023timeline.png">
-</div>
 <hr>
 <p><strong>DSA Categories</strong>
 </p>
 <p>Students may apply to HCI through the following DSA categories:</p>
-<p><strong>Academic</strong> 
+<p><strong>Academic</strong>
 <br>We welcome students who demonstrate deep interest and talents in the following
 domains:</p>
 <p>Language and Humanities</p>
@@ -49,6 +40,7 @@ domains:</p>
 <p>Humanities</p>
 </li>
 </ul>
+<p>&nbsp;</p>
 <p>Science, Technology, Engineering and Mathematics</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -61,8 +53,10 @@ domains:</p>
 <p>Science</p>
 </li>
 </ul>
-<p><strong>Bilingualism</strong> 
-<br>We welcome Bilingual Talents who demonstrate any or all of the following:</p>
+<p>&nbsp;</p>
+<p><strong>Bilingualism</strong>
+</p>
+<p>We welcome Bilingual Talents who demonstrate any or all of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Passion and creativity in learning both the Chinese and English language,
@@ -72,8 +66,9 @@ as well as appreciation for the cultures of the East and the West</p>
 <p>Written and spoken proficiency in both languages</p>
 </li>
 </ul>
-<p><strong>Leadership</strong> 
-<br>We welcome Leadership Talents who possess any or all of the following:</p>
+<p><strong>Leadership</strong>
+</p>
+<p>We welcome Leadership Talents who possess any or all of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Passion for serving the community</p>
@@ -82,10 +77,12 @@ as well as appreciation for the cultures of the East and the West</p>
 <p>Experience in leading student organisations (e.g. school body, CCA, etc).</p>
 </li>
 </ul>
-<p><strong>Sports and Games</strong> 
-<br>We welcome students with passion and strengths OR a strong record of achievement
-at the zonal, national, or international level, in any of these sports
-and games:</p>
+<p>&nbsp;</p>
+<p><strong>Sports and Games</strong>
+</p>
+<p>We welcome students with passion and strengths OR a strong record of achievement
+at zonal, national, or international level, in any of these sports and
+games:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Badminton</p>
@@ -127,27 +124,4 @@ and games:</p>
 <p>Wushu</p>
 </li>
 </ul>
-<p>For more information about the different DSA categories, please click&nbsp;
-<a href="https://www.admissions.hci.edu.sg/direct-school-admission" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<hr>
-<p><strong>Direct School Admissions Selection Process</strong>
-</p>
-<p>Applicants will be shortlisted based on available information from MOE
-and from applicants’ submitted information via the application process.</p>
-<p>HCI will be conducting in-person selection for all DSA talent areas for
-2023 DSA-Sec.&nbsp;Applicants who are successfully shortlisted will be
-informed between 4 July to 10 July and they will be required to attend
-an interview and/or selection tests on <strong><u>22 July 2023.</u></strong> Due
-to the large number of applicants and the limited number of DSA places,
-not all students who meet the criteria will be shortlisted for an interview.&nbsp;</p>
-<p>Please note that applicants should attend the in-person selection only
-if they are well. For students who are unwell (e.g. tested COVID-19 positive)
-during the selection period, re-scheduling the in-person selection will
-be done where possible.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school for the duration of the 6-year
-Integrated Programme, and participate in the activities related to the
-talent area they are selected for from year 1-4.</p>
-<p>Please direct any queries about DSA to Hwa Chong Institution to&nbsp;
-<a href="mailto:dsa@hci.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dsa@hci.edu.sg</a>.</p>
+<p></p>
