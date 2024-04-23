@@ -37,7 +37,7 @@ The application is free-of-charge and will be open from&nbsp;</p>
 <p><strong>DSA Categories</strong>
 </p>
 <p>Students may apply to HCI through the following DSA categories:</p>
-<p><strong>Academic</strong>
+<p><strong>Academic</strong> 
 <br>We welcome students who demonstrate deep interest and talents in the following
 domains:</p>
 <p>Language and Humanities</p>
@@ -61,7 +61,7 @@ domains:</p>
 <p>Science</p>
 </li>
 </ul>
-<p><strong>Bilingualism</strong>
+<p><strong>Bilingualism</strong> 
 <br>We welcome Bilingual Talents who demonstrate any or all of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -72,7 +72,7 @@ as well as appreciation for the cultures of the East and the West</p>
 <p>Written and spoken proficiency in both languages</p>
 </li>
 </ul>
-<p><strong>Leadership</strong>
+<p><strong>Leadership</strong> 
 <br>We welcome Leadership Talents who possess any or all of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -82,7 +82,7 @@ as well as appreciation for the cultures of the East and the West</p>
 <p>Experience in leading student organisations (e.g. school body, CCA, etc).</p>
 </li>
 </ul>
-<p><strong>Sports and Games</strong>
+<p><strong>Sports and Games</strong> 
 <br>We welcome students with passion and strengths OR a strong record of achievement
 at the zonal, national, or international level, in any of these sports
 and games:</p>
