@@ -23,8 +23,6 @@ scholarships and awards are available to support our students.</p>
 more information on DSA-Sec, please refer to the MOE website at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <hr>
-<hr>
-<hr>
 <p><strong>DSA Categories</strong>
 </p>
 <p>Students may apply to HCI through the following DSA categories:</p>
@@ -38,9 +36,9 @@ domains:</p>
 </li>
 <li>
 <p>Humanities</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Science, Technology, Engineering and Mathematics</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -51,9 +49,9 @@ domains:</p>
 </li>
 <li>
 <p>Science</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Bilingualism</strong>
 </p>
 <p>We welcome Bilingual Talents who demonstrate any or all of the following:</p>
@@ -75,9 +73,9 @@ as well as appreciation for the cultures of the East and the West</p>
 </li>
 <li>
 <p>Experience in leading student organisations (e.g. school body, CCA, etc).</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Sports and Games</strong>
 </p>
 <p>We welcome students with passion and strengths OR a strong record of achievement
