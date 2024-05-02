@@ -16,35 +16,6 @@ drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
 <p></p>
 <p></p>
-<p><strong>Position: &nbsp;Laboratory Attendant</strong>
-</p>
-<p><strong>Job Description</strong>
-</p>
-<p>• Prepare laboratory/workshop sessions/tests/examinations by setting up
-necessary equipment/apparatus and preparing the necessary materials, guided
-by TSO
-<br>• Perform basic logistics support for meetings and events (e.g. booking
-of venues, setting up of venue etc) when needed
-<br>• Support teaching staff, Admin Manager, Operations Manager and CSOs to
-provide logistic support for special events and daily activities, ensuring
-the venue/room is properly set up in advance
-<br>• Assisting in matters relating to vendors such as escorting vendors and
-ensuring the quality of products/services delivered is satisfactory
-<br>• Provide student support e.g.attending to students in the sickbay while
-waiting for parents to bring the student home or assisting TSO/OM in administering
-basic first aid
-<br>• Perform any other duties as and when assigned by the School Leaders
-and supervisor
-<br>
-</p>
-<p><strong>Requirements</strong>
-</p>
-<p>• Work experience in school or research laboratories, or related laboratory
-work is an advantage
-<br>• Team player, who can work independently.</p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>Position: &nbsp;Boarding Executive / Senior Boarding Executive</strong>
 </p>
 <p><strong>(Student Well-Being and Care)</strong>
@@ -93,8 +64,6 @@ in regard with the programs and activities matter.
 <br>• Additional skill sets like first-aid and mentoring students would be
 an added advantage.
 <br>• Must be willing to stay in at Boarding School.</p>
-<p></p>
-<p></p>
 <p></p>
 <p><strong>Position: &nbsp;Library Manager</strong>
 </p>
@@ -279,56 +248,6 @@ qualifications</p>
 <p>Experienced candidates without the required qualification may also apply</p>
 </li>
 </ul>
-<p>
-<br>
-<br><strong>Position: Estate Management Officer</strong>
-</p>
-<p><strong>Roles:</strong> 
-<br>As an Estate Management Officer, you will be provided support in the area
-of Estate &amp; Facilities Management, Safety &amp; Security, and Logistics.</p>
-<p><strong>Job Descriptions:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Manage estate and facilities</p>
-</li>
-<li>
-<p>Conduct routine checks on facilities' cleanliness and safety</p>
-</li>
-<li>
-<p>Repair and replace M&amp;E fittings and equipment</p>
-</li>
-<li>
-<p>Supervise contractors</p>
-</li>
-<li>
-<p>Attend to stakeholders’ requests and/or feedback</p>
-</li>
-<li>
-<p>Provide logistic support to school events &amp; activities</p>
-</li>
-<li>
-<p>To manage external contractors</p>
-</li>
-<li>
-<p>Managing all administrative tasks</p>
-</li>
-</ul>
-<p><strong>Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A dynamic and motivated individual with a Diploma in Estate Management
-and Building Services or related qualifications</p>
-</li>
-<li>
-<p>At least 3 years of relevant work experience preferred</p>
-</li>
-<li>
-<p>Experienced candidates without the required qualification may also apply</p>
-</li>
-</ul>
-<p></p>
 <p></p>
 <p><strong>Position: Procurement Officer</strong>
 </p>
