@@ -26,7 +26,7 @@ Once a student has accepted the DSA offer, he/she will not take part in the Join
 
 Please refer to&nbsp;**[MOE DSA website](https://www.moe.gov.sg/post-secondary/admissions/dsa)**&nbsp;for the latest update.
 
-Click for information and application for DSA JC Exercise 2024 *(to be updated on 6 May 2024)*
+Click [here](/files/Direct_School_Admission_info_attachment_2024.pdf) for information and application for DSA JC Exercise 2025.
 
 ##### Joint Admission Exercise
 
