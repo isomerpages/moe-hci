@@ -28,6 +28,13 @@ talent area they are selected for from Year 1-4.</p>
 <p>Please direct any queries about DSA to Hwa Chong Institution to <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">dsa@hci.edu.sg</a>.</p>
 <p>For more information on DSA-Sec, please refer to the MOE website <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
+<p></p>
+<p><strong>Direct School Admissions Schedule</strong>
+</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong>7 May 2024, 11 am to 3 June 2024, 3 pm.</strong>
+</p>
+<p>For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <hr>
 <p><strong>DSA Categories</strong>
 </p>
