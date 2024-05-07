@@ -12,15 +12,22 @@ via the Direct School Admission (DSA) Exercise.</p>
 the student's aptitudes and&nbsp;strengths, bearing in mind the schools'
 academic and non-academic requirements, and the programmes available to
 develop the area of talent.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school for the duration of the 6-year
-Integrated Programme, and participate in the activities related to the
-talent they are selected for from year 1-4.</p>
 <p>No Singaporean student will be denied a place in Hwa Chong Institution
 because of financial reasons. A range of&nbsp;<a href="http://www.hci.edu.sg/admissions/high_school/financial-information-highschool#financial-assistance" rel="noopener noreferrer nofollow" target="_blank">financial assistance schemes</a>,
 scholarships and awards are available to support our students.</p>
-<p><strong>The selection criteria and process for the talent areas will be updated from early-May. </strong>For
-more information on DSA-Sec, please refer to the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+<p>Applicants will be shortlisted based on available information from MOE
+and from applicants’ submitted information via the application process.</p>
+<p><strong>HCI will be conducting in-person selection for all DSA talent areas for 2024 DSA-Sec. Applicants who are successfully shortlisted will be informed between 15 July to 19 July, and they will be required to attend an interview and/or selection tests on 27 July 2024. Due to the large number of applicants and the limited number of DSA places, we regret that not all students who meet the criteria will be shortlisted for an interview.</strong>
+</p>
+<p><strong>Please note that applicants should attend the in-person selection only if they are well. For students who are unwell (e.g. tested COVID-19 positive) during the selection period, re-scheduling the in-person selection will be done where possible.</strong>
+</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school for the duration of the 6-year
+Integrated Programme, and participate in the activities related to the
+talent area they are selected for from Year 1-4.</p>
+<p>Please direct any queries about DSA to Hwa Chong Institution to <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">dsa@hci.edu.sg</a>.</p>
+<p>For more information on DSA-Sec, please refer to the MOE website <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+</p>
 <hr>
 <p><strong>DSA Categories</strong>
 </p>
