@@ -9,9 +9,9 @@ variant: tiptap
 <p>Primary 6 students who are keen to join HCI in 2025 may apply to the school
 via the Direct School Admission (DSA) Exercise.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
-the student&amp;#39;s aptitudes and&nbsp;strengths, bearing in mind the
-schools' academic and non-academic requirements, and the programmes available
-to develop the area of talent.</p>
+the student's aptitudes and&nbsp;strengths, bearing in mind the schools'
+academic and non-academic requirements, and the programmes available to
+develop the area of talent.</p>
 <p>No Singaporean student will be denied a place in Hwa Chong Institution
 because of financial reasons. Click <a href="https://www.hci.edu.sg/high-school/financial-info/" rel="noopener noreferrer nofollow" target="_blank">here </a>to access
 the financial information and the range of financial assistance schemes,
