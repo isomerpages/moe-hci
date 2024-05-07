@@ -35,6 +35,10 @@ talent area they are selected for from Year 1-4.</p>
 The application is free-of-charge and will be open from <strong>7 May 2024, 11 am to 3 June 2024, 3 pm.</strong>
 </p>
 <p>For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2024_Timeline.png">
+</div>
 <hr>
 <p><strong>DSA Categories</strong>
 </p>
