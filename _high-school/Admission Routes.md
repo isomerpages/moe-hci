@@ -17,10 +17,16 @@ because of financial reasons. A range of&nbsp;<a href="http://www.hci.edu.sg/adm
 scholarships and awards are available to support our students.</p>
 <p>Applicants will be shortlisted based on available information from MOE
 and from applicants’ submitted information via the application process.</p>
-<p><strong>HCI will be conducting in-person selection for all DSA talent areas for 2024 DSA-Sec. Applicants who are successfully shortlisted will be informed between 15 July to 19 July, and they will be required to attend an interview and/or selection tests on 27 July 2024. Due to the large number of applicants and the limited number of DSA places, we regret that not all students who meet the criteria will be shortlisted for an interview.</strong>
-</p>
-<p><strong>Please note that applicants should attend the in-person selection only if they are well. For students who are unwell (e.g. tested COVID-19 positive) during the selection period, re-scheduling the in-person selection will be done where possible.</strong>
-</p>
+<p>HCI will be conducting in-person selection for all DSA talent areas for
+2024 DSA-Sec. Applicants who are successfully shortlisted will be informed
+between 15 July to 19 July, and they will be required to attend an interview
+and/or selection tests on 27 July 2024. Due to the large number of applicants
+and the limited number of DSA places, we regret that not all students who
+meet the criteria will be shortlisted for an interview.</p>
+<p>Please note that applicants should attend the in-person selection only
+if they are well. For students who are unwell (e.g. tested COVID-19 positive)
+during the selection period, re-scheduling the in-person selection will
+be done where possible.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school for the duration of the 6-year
 Integrated Programme, and participate in the activities related to the
