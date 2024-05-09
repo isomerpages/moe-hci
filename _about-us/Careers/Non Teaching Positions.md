@@ -16,54 +16,112 @@ drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
 <p></p>
 <p></p>
-<p><strong>Position: &nbsp;Boarding Executive / Senior Boarding Executive</strong>
+<p><strong>Position: &nbsp;Director of Human Resource</strong>
 </p>
-<p><strong>(Student Well-Being and Care)</strong>
+<p><strong>Duties &amp; Responsibilities</strong>
 </p>
-<p><strong>Roles:</strong>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HR Strategy and Planning:</strong>
 </p>
-<p>As members of the boarding school community, the Boarding Executive will
-work with the boarding management closely to run daily boarding operations.
-<br>• As a disciplinarian to instill self-discipline and good time management
-of each boarder • As a caregiver, to nurture the social – emotional development
-of each boarder
-<br>• Create and maintain a supportive atmosphere for student learning and
-development within the boarding community
-<br>• Assist boarders in transitions, learn life-skills in resolving conflicts,
-supporting their academic and non-academic pursuits, and build character
-and independence. To guide boarders develop a sense of community through
-supervision and participation of programs and activities.
-<br>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborate with School Leaders
+to develop and implement HR policies, processes and initiatives to support
+School’s strategic goals and priorities.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facilitates workforce planning
+and succession management initiatives.</p>
+<p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talent Acquisition and Management:</strong>
 </p>
-<p><strong>Job Description</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborates with School Leaders
+to develop and implement strategies to attract, retain, and develop a diverse
+and high-performing workforce.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborates with Key Personnels
+to identify staffing needs and implement effective hiring and talent management
+processes.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Owns the full recruitment
+lifecycle, including screening, interviewing and selection, ensuring a
+positive experience to upkeep school’s employer branding.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manages onboarding and orientation
+processes for new employees.</p>
+<p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Employee Relations and Engagement:</strong>
 </p>
-<p>• Work with the Boarding Mentors &amp; develop a professional relationship
-with boarders to better attend to their needs and issues
-<br>• Manage discipline of boarders including safety and security of boarders
-<br>• Contact point with parents and teachers of boarders assigned
-<br>• Develop and conduct boarding programs and activities
-<br>• Able to work on late evenings, weekends, and Public Holidays to support
-the boarders' after-school programs and events
-<br>• Perform all administrative work, operational support or any other miscellaneous
-tasks related to the role
-<br>• Perform room and hygiene checks and follow up with the boarder involved
-<br>• Assist with reception duties as and when required.
-<br>
-<br><strong>Requirements</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drives initiatives to enhance
+employee engagement, satisfaction, and well-being, including staff welfare
+activities.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Champions a culture of diversity,
+equity, and inclusion, fostering an environment where all employees feel
+valued and respected.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foster a positive and inclusive
+work environment by ensuring that employee concerns, conflicts, and grievances
+are addressed effectively in line with legal obligations and the MOE/School’s
+policies.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the handling of disciplinary
+cases.</p>
+<p>&nbsp;<strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HR Compliance:</strong>
 </p>
-<p>• Minimum diploma holder, preferably in education, counselling, social
-sciences or psychology related fields.
-<br>• Experience with boarding services and working with youth in a formal
-employment or as a volunteer capacity.
-<br>• Possess appropriate dispositions such as empathy towards students and
-to manage the demands of the job.
-<br>• Good verbal and written communication skills especially in English and
-Mandarin to handle queries and concerns from Mandarin-speaking associates
-in regard with the programs and activities matter.
-<br>• Organised, meticulous and able to multitask.
-<br>• Additional skill sets like first-aid and mentoring students would be
-an added advantage.
-<br>• Must be willing to stay in at Boarding School.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leads the daily HR operations
+to ensure compliance with labor laws, regulations, and MOE/school policies.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintains knowledge of market
+trends, best practices, regulatory changes and new technologies in HR-related
+matters, to appropriately advise stakeholders.</p>
+<p>&nbsp;<strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performance Management:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manages and facilitates the
+performance management process for all staff types.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provides guidance to employees
+on goal setting, performance evaluations, and career development.</p>
+<p>&nbsp;<strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HR Metrics and Reporting:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducts analysis of organizational
+trends in support of decision-making in HR-related matters and to evaluate
+effectiveness of HR initiatives.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Benchmarking and recommending
+good HR practices for continual improvement.</p>
+<p>&nbsp;<strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Compensation and Benefits Administration:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manages compensation and benefits
+programmes to ensure competitiveness and alignment with industry standards
+as well as school’s objectives.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accountable for timely, accurate
+and efficient payroll activities in accordance with relevant legislation.</p>
+<p>&nbsp;<strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HR Operations</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oversees day-to-day HR operations
+managed by the team.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drives and constantly review
+HR processes to ensure good employee experience from joining to exit.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide secretarial support
+to School’s HR Committee and Board.</p>
+<p><strong>&nbsp;9.&nbsp;&nbsp;&nbsp; Supervisory duties:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leads a team of HR personnels,
+promoting a culture of open communication and teamwork.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coaches employee performance,
+ensuring staff development and empowerment.</p>
+<p>&nbsp;<strong>Requirements</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proven experience in HR leadership
+roles, preferably in a complex organizational setting.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's degree in Human
+Resources, Business Administration, or a related field</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong work ethic and personal
+integrity</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong knowledge of Singapore
+employment laws and HR regulations.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strategic mindset with the
+ability to align HR initiatives with School’s objectives</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent communication (spoken
+and written) and interpersonal skills necessary to build rapport and collaborate
+effectively with various stakeholders.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good knowledge of compensation
+and benefits strategies</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tech-savvy, with proficiency
+in the use of HRIS, MS Office Suite and other office software.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to handle confidential
+information with integrity and discretion.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A creative thinker and problem
+solver</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resilient and able to navigate
+a complex operating structure.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A team player.</p>
+<p></p>
 <p></p>
 <p><strong>Position: &nbsp;Library Manager</strong>
 </p>
