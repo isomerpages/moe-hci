@@ -358,7 +358,75 @@ details.</p>
 <li>
 <p>Proactive, able to work independently and as a team member. Excellent
 communication and interpersonal skills, with the ability to build relationships
-and influence stakeholders at all levels of the organization.
+and influence stakeholders at all levels of the organization.</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Position: HR Administrative Support Officer (Temp)</strong>
+</p>
+<p>We are seeking an HR Administrative Support Officer (Temporary) to assist
+with a variety of administrative responsibilities, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Managing the offboarding process for staff</p>
+</li>
+<li>
+<p>Coordinating certifications, cash card orders, and temporary staff logistics</p>
+</li>
+<li>
+<p>Handling procurement and coordination of office supplies and gifts</p>
+</li>
+<li>
+<p>Overseeing attendance records for temporary staff</p>
+</li>
+<li>
+<p>Managing and verifying employee leave records</p>
+</li>
+<li>
+<p>Compiling and organizing staff data</p>
+</li>
+<li>
+<p>Assisting with data management</p>
+</li>
+<li>
+<p>Providing general administrative support as needed by the department.</p>
+</li>
+</ul>
+<p>If you are organized, detail-oriented, and able to handle multiple tasks
+efficiently, we would like to hear from you.</p>
+<p><strong>Position: Administration Officer (Temp) – 4 to 6 months</strong>
+</p>
+<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp; Provide frontline assistance to staff, students and
+public, through emails, phone calls and over the counter.</p>
+<p>2.&nbsp;&nbsp;&nbsp; To ensure the smooth day-to-day operation of the
+administration department and school events</p>
+<p>3.&nbsp;&nbsp;&nbsp; Provide administrative support for school events.</p>
+<p>4.&nbsp;&nbsp;&nbsp; Perform any other administrative functions as and
+when required.</p>
+<p><strong>REQUIREMENTS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Minimum O Levels or higher with experience in customer service and administrative
+work.</p>
+</li>
+<li>
+<p>Computer literate and proficient in MS Office applications.</p>
+</li>
+<li>
+<p>Excellent interpersonal and communication skills.</p>
+</li>
+<li>
+<p>Good command of both English and Chinese, verbal and written.</p>
+</li>
+<li>
+<p>An independent worker and also an excellent team player with passion for
+service excellence.</p>
+</li>
+<li>
+<p>Highly customer oriented and able to multi-task.
 <br>
 </p>
 </li>
