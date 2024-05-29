@@ -34,12 +34,12 @@ community around us.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="323" width="486" src="https://lh7-us.googleusercontent.com/VAnzN-ms4LUsky6x7KOrXZb_OMSl24I3dTKxo1u5qoms0-j2VMtNIEOXGUMGicOZNAt0E9TQA7xHqIezSfmEvbdDvmJNfSZV3BfPcfsRh-STUwnHQ0G-PVmuANFBS6ZEwhSiUcnELc98n9h9FYaBPIQ">
 </div>
-<p><em>Dr. Teh Jun Liang</em>
+<p><em>Mr. Ng Chee Chye</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="322" width="484" src="https://lh7-us.googleusercontent.com/IjEqaKCkilbLLw6IEYKxmChh5eprYGKRx18J8pdUcylTfz_9mqG4cVyM9CKml3uVIlqllB3iBO6OFIIuFIqp4UPHiU_hB8tDl6tKEL4DJe0mBYwDRLPksBswG5ogw2L-UNnGPd96eDsAu1HkzUzWk6s">
 </div>
-<p><em>Mr. Ng Chee Chye</em>
+<p><em> Dr. Teh Jun Liang</em>
 </p>
 <p>As we reflect on the significance of this event, we are filled with gratitude
 for the dedication, talent, and resilience of our students, as well as
