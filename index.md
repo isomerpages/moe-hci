@@ -10,9 +10,9 @@ sections:
       background: /images/homepage_banner_v3.gif
       variant: image
       key_highlights:
-        - title: "Join us for our High School Open House on 18 May, 8am-1pm. "
+        - title: "Scam Alert: Impersonation Phone Calls"
           description: Click here for more info.
-          url: https://www.admissions.hci.edu.sg/home
+          url: https://hci.edu.sg/scam-advisory/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
