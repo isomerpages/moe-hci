@@ -10,8 +10,8 @@ description: ""
 <h4>Beware of these scam phone calls:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>They come from overseas Malaysian (+60) numbers. Note that HCI does not
-make calls from overseas.</p>
+<p>They come from overseas numbers. Note that HCI does not make calls from
+overseas.</p>
 </li>
 <li>
 <p>For example, the callers invite contractors or vendors to bid for renovation/refurbishment
@@ -43,6 +43,10 @@ etc.</p>
 </li>
 <li>
 <p>Make a police report</p>
+</li>
+<li>
+<p>Visit <a href="https://www.scamalert.sg/" rel="noopener noreferrer nofollow" target="_blank">this website</a> to
+find out more</p>
 </li>
 </ul>
 <h4></h4>
