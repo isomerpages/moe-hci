@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h3><strong><u>Scam Alert: Impersonation Phone Calls</u></strong></h3>
-<h4>We have been alerted to incidents where members of the public, including contractors, have received phone calls from individuals attempting to impersonate teachers or staff of Hwa Chong Institution.</h4>
+<h4>We have been alerted to incidents where members of the public, including contractors, have received phone calls from individuals attempting to impersonate staff of Hwa Chong Institution.</h4>
 <p></p>
 <h4>Beware of these scam phone calls:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>They come from overseas Malaysian (+60) numbers. Note that HCI does not
-make calls from overseas.</p>
+<p>They come from overseas numbers. Note that HCI does not make calls from
+overseas.</p>
 </li>
 <li>
 <p>For example, the callers invite contractors or vendors to bid for renovation/refurbishment
@@ -43,6 +43,10 @@ etc.</p>
 </li>
 <li>
 <p>Make a police report</p>
+</li>
+<li>
+<p>Visit <a href="https://www.scamalert.sg/" rel="noopener noreferrer nofollow" target="_blank">this website</a> to
+find out more</p>
 </li>
 </ul>
 <h4></h4>
