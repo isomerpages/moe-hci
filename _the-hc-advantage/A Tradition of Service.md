@@ -2,6 +2,7 @@
 title: A Tradition of Service
 permalink: /the-hc-advantage/tradition-service/
 description: ""
+variant: markdown
 ---
 ##### A Tradition of Excellence
 
@@ -94,14 +95,14 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
         <img style="width: 100%;" src="/images/tradition15.jpg">
       </td>
       <td style="width: 22%; margin-right: 0;">
-        <img style="width: 100%;" src="/images/tradition16.jpg">
+        <img style="width: 100%;" src="/images/tradition18.jpg">
       </td>
     </tr>
     <tr>
       <td align="center"><strong>Professor Phua Kok Khoo<br>Founding Director of the Institute of Advanced Studies at Nanyang Technological University, and Founder of World Scientific Publishing</strong></td>
       <td align="center"><strong>Anthony Chen<br>Director of films like Ilo Ilo, winner of the Camera d’Or at the Cannes Film Festival 2013</strong></td>
       <td align="center"><strong>Kuo Pao Kun<br>Pioneer of Singapore theatre</strong></td>
-      <td align="center"><strong>Liu Kang<br>Pioneering Singapore artist and ‘father’ of the Nanyang style</strong></td>
+      <td align="center"><strong>Gentle Bones (Joel Tan)<br>Singer-songwriter, and Forbes Asia 30 under 30 member</strong></td>
     </tr>
   </tbody>
 </table>
@@ -116,10 +117,9 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
         <strong>Tan Swie Hian<br>Multi-disciplinary artist</strong>
       </td>
       <td style="width: 33%; margin-left: 15px; text-align: center;">
-        <img style="width: 100%;" src="/images/tradition18.jpg">
-        <br>
-        <strong>Gentle Bones (Joel Tan)<br>Singer-songwriter, and Forbes Asia 30 under 30 member</strong>
-      </td>
-    </tr>
-  </tbody>
+        
+       
+        
+      
+  </td></tr></tbody>
 </table>
