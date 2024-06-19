@@ -362,38 +362,7 @@ and influence stakeholders at all levels of the organization.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Position: HR Administrative Support Officer (Temp)</strong>
-</p>
-<p>We are seeking an HR Administrative Support Officer (Temporary) to assist
-with a variety of administrative responsibilities, including:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Managing the offboarding process for staff</p>
-</li>
-<li>
-<p>Coordinating certifications, cash card orders, and temporary staff logistics</p>
-</li>
-<li>
-<p>Handling procurement and coordination of office supplies and gifts</p>
-</li>
-<li>
-<p>Overseeing attendance records for temporary staff</p>
-</li>
-<li>
-<p>Managing and verifying employee leave records</p>
-</li>
-<li>
-<p>Compiling and organizing staff data</p>
-</li>
-<li>
-<p>Assisting with data management</p>
-</li>
-<li>
-<p>Providing general administrative support as needed by the department.</p>
-</li>
-</ul>
-<p>If you are organized, detail-oriented, and able to handle multiple tasks
-efficiently, we would like to hear from you.</p>
+<p></p>
 <p><strong>Position: Administration Officer (Temp) – 4 to 6 months</strong>
 </p>
 <p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
