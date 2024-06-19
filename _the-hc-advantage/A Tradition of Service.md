@@ -119,8 +119,7 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
       <td style="width: 33%; margin-left: 15px; text-align: center;">
         <img style="width: 100%;" src="/images/tradition18.jpg">
         <br>
-        <strong>Gentle Bones (Joel Tan)<br>Singer-songwriter, and Forbes Asia 30 under 30 member</strong>
-      </td>
-    </tr>
-  </tbody>
+        
+      
+  </td></tr></tbody>
 </table>
