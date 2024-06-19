@@ -2,6 +2,7 @@
 title: A Tradition of Service
 permalink: /the-hc-advantage/tradition-service/
 description: ""
+variant: markdown
 ---
 ##### A Tradition of Excellence
 
@@ -94,7 +95,7 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
         <img style="width: 100%;" src="/images/tradition15.jpg">
       </td>
       <td style="width: 22%; margin-right: 0;">
-        <img style="width: 100%;" src="/images/tradition16.jpg">
+        <img style="width: 100%;" src="/images/tradition18.jpg">
       </td>
     </tr>
     <tr>
