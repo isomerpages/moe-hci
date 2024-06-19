@@ -117,8 +117,8 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
         <strong>Tan Swie Hian<br>Multi-disciplinary artist</strong>
       </td>
       <td style="width: 33%; margin-left: 15px; text-align: center;">
-        <img style="width: 100%;" src="/images/tradition18.jpg">
-        <br>
+        
+       
         
       
   </td></tr></tbody>
