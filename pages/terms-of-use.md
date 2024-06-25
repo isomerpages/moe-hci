@@ -38,7 +38,6 @@ other purpose will be a violation of HCI’s copyright and other intellectual
 property rights. Graphics and images on this Web Site are protected by
 copyright and may not be reproduced or appropriated in any manner without
 written permission of HCI.</p>
-<p>&nbsp;</p>
 <p><strong>Right of Access</strong>
 </p>
 <p>8. HCI reserves all rights to deny or restrict access to this Web Site
