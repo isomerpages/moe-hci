@@ -44,7 +44,7 @@ Click on each of the following links to find out more:
         </a>
       </td>
       <td style="width: 25%;">
-        <a href="http://www.hci.sg/proed/index.html">
+        <a href="https://sites.google.com/hci.edu.sg/proedconsortium">
           <img src="/images/ProEd.jpg" style="width:100%">
         </a>
       </td>
@@ -53,7 +53,7 @@ Click on each of the following links to find out more:
       <td align="center"><a href="https://aphelion.hci.edu.sg/"><strong>Aphelion</strong></a></td>
       <td align="center"><a href="https://sites.google.com/hci.edu.sg/ispark/home"><strong>iSpark</strong></a></td>
       <td align="center"><a href="https://sites.google.com/hci.edu.sg/ortus"><strong>Ortus</strong></a></td>
-      <td align="center"><a href="http://www.hci.sg/proed/index.html"><strong>ProEd</strong></a></td>
+      <td align="center"><a href="https://sites.google.com/hci.edu.sg/proedconsortium"><strong>ProEd</strong></a></td>
     </tr>
   </tbody>
 </table>
