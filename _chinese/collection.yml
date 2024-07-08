@@ -2,6 +2,7 @@ collections:
   chinese:
     output: true
     order:
+      - 关于我们/华初校友会.md
       - 关于我们/华中校友会.md
       - 关于我们/历任校长.md
       - 关于我们/华中历史.md
