@@ -108,11 +108,7 @@ variant: markdown
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_14.png">
-        <br>
-        <strong>Mrs Lee-Lim See Nee <br> Director / Human Resource</strong>
-      </td>
+   
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_15.png">
         <br>
