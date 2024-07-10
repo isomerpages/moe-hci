@@ -108,7 +108,11 @@ variant: markdown
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
-   
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_19.png">
+        <br>
+        <strong>Miss Wong Hwee Ming <br> Director / Well-Being</strong>
+      </td>
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_15.png">
         <br>
@@ -132,11 +136,7 @@ variant: markdown
         <br>
         <strong>Dr Tan Chye Liang Joseph <br> Director / Sustainability&nbsp;&amp; Campus Infrastructure</strong>
       </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 67%;" src="/images/About%20Us/Our%20People/peoplev2_19.png">
-        <br>
-        <strong>Miss Wong Hwee Ming <br> Director / Well-Being</strong>
-      </td>
+    
     </tr>
   </tbody>
 </table>
