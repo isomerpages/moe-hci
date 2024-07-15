@@ -53,9 +53,9 @@ variant: markdown
         <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal / Admin<br>副校长</strong>
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_7.png">
+        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
         <br>
-        <strong>Dr Chia Hui Peng <br>谢慧萍<br> Dean / Studies &amp; Research<br>处长</strong>
+        <strong> <br><br> <br></strong>
       </td>
     </tr>
   </tbody>
@@ -64,6 +64,11 @@ variant: markdown
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
+			<td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_7.png">
+        <br>
+        <strong>Dr Chia Hui Peng <br>谢慧萍<br> Dean / Studies &amp; Research<br>处长</strong>
+      </td>
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_8.png">
         <br>
@@ -74,18 +79,18 @@ variant: markdown
         <br>
         <strong>Mr Tan Pheng Tiong <br>陈鹏仲<br> Dean / Special Projects <br>处长</strong>
       </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_10.png">
-        <br>
-        <strong>Dr Chow Chiu Wai <br>周钊纬<br>Director / Education Technology<br>科长</strong>
-      </td>
-    </tr>
+      </tr>
   </tbody>
 </table>
 
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
+			 <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_10.png">
+        <br>
+        <strong>Dr Chow Chiu Wai <br>周钊纬<br>Director / Education Technology<br>科长</strong>
+      </td>
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_11.png">
         <br>
@@ -96,18 +101,19 @@ variant: markdown
         <br>
         <strong>Mrs Foo-Lam Woon Keat <br>蓝文洁<br> Director / Studies (College)<br>科长</strong>
       </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_13.png">
-        <br>
-        <strong>Mrs How Lai Yin Deborah <br>侯丽燕<br> Director / Professional Development<br>科长</strong>
-      </td>
-    </tr>
-  </tbody>
+      
+    
+  </tr></tbody>
 </table>
 
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
+			<td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_13.png">
+        <br>
+        <strong>Mrs How Lai Yin Deborah <br>侯丽燕<br> Director / Professional Development<br>科长</strong>
+      </td>
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_19.png">
         <br>
@@ -118,18 +124,19 @@ variant: markdown
         <br>
         <strong>Mr Low Boon Ann Charles <br>刘文安<br> Director / Well-Being (High School)<br>科长</strong>
       </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_16.png">
-        <br>
-        <strong>Mr Tan Yeow Heng Joseph <br>陈耀兴<br> Director / Hwa Chong Institution Boarding School<br>科长</strong>
-      </td>
-    </tr>
-  </tbody>
+
+ 
+  </tr></tbody>
 </table>
 
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
+			      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_16.png">
+        <br>
+        <strong>Mr Tan Yeow Heng Joseph <br>陈耀兴<br> Director / Hwa Chong Institution Boarding School<br>科长</strong>
+      </td>
 			    <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_18.png">
         <br>
@@ -140,11 +147,5 @@ variant: markdown
         <br>
         <strong> <br> </strong>
       </td>	
-          <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
-        <br>
-        <strong><br> </strong>
-
-    
-  </td></tr></tbody>
+          </tr></tbody>
 </table>
