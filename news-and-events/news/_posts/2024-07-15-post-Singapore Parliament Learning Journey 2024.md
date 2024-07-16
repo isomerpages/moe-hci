@@ -29,6 +29,7 @@ and inspiring students to keep up with developments in Singapore’s governance.
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="393" width="624" src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdoOxu73XiZnMiARAcZtrpX22SI5TbLDGFMQNFFZN2KVLUH4gvF7z8tTAqbXgsnYV1yJRB-CNtSMGMVeWb9ajFMN2AIDolPTWjBHl0LAYBu3HXpITazxyCkRyL_SPA7ABfuFrWEH5UhHMo2rq1FZCfFnA4?key=APD6ouGNYjC_edZyAI6ftg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="568" width="624" src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcOkJ3bDCBhgfrd5Iq2Z3Thn_e8K5uznfHxNyw0QkSX9g-AHt6WUuc0ro7WbOPUXz0DQMCHODd63DSmVw83g274zcHR3qtDzPYtRUj3qIKvOCfbtPXbT_yYDg2tm5tR19GIXTyN-InYpR7CjetC1-tnTXci?key=APD6ouGNYjC_edZyAI6ftg">
 </div>
