@@ -40,4 +40,4 @@ invaluable learning opportunity possible.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="585" width="624" src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfvw6FDRFLB0gGjtopgGjfUvS9JktVo_m1Rq-XmudxHP34sD2CxDoBuh6mPy8RCwr2n5uKq9Tjeade7FrhNyGSdm9UOx2GU6BnhoqMD6_hTx9mgjdc35qGhA1ZZPvvKVXyL-upR6IBwCZGlWvwNCSqmhFmB?key=APD6ouGNYjC_edZyAI6ftg">
 </div>
-<p></p>
+<p>Written by: Kong Shuozhi (24A14)</p>
