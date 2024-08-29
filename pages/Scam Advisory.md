@@ -8,15 +8,11 @@ description: ""
 <h4>We have been alerted to incidents where members of the public, including contractors, have received phone calls from individuals attempting to impersonate staff of Hwa Chong Institution.</h4>
 <p></p>
 <h4>Beware of these scam phone calls:</h4>
-<ul data-tight="true" class="tight">
-<li>
 <p>The scammers typically invite contractors or vendors to bid for jobs but
 require them to purchase materials from specific companies. Such jobs may
 include delivery of flowers, provision of equipment or materials, or services
 like photography. In some cases, the scammers may even request the vendor
 to meet on the HCI campus.&nbsp;</p>
-</li>
-</ul>
 <h4>Protect yourself:</h4>
 <ul data-tight="true" class="tight">
 <li>
