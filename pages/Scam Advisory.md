@@ -10,13 +10,11 @@ description: ""
 <h4>Beware of these scam phone calls:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>They come from overseas numbers. Note that HCI does not make calls from
-overseas.</p>
-</li>
-<li>
-<p>For example, the callers invite contractors or vendors to bid for renovation/refurbishment
-jobs but require them to purchase materials from another company or their
-own company first.</p>
+<p>The scammers typically invite contractors or vendors to bid for jobs but
+require them to purchase materials from specific companies. Such jobs may
+include delivery of flowers, provision of equipment or materials, or services
+like photography. In some cases, the scammers may even request the vendor
+to meet on the HCI campus.&nbsp;</p>
 </li>
 </ul>
 <h4>Protect yourself:</h4>
