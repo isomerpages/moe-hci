@@ -8,7 +8,13 @@ variant: tiptap
 <p><strong><u>School fee rates</u></strong> 
 <br><strong>Year 2024 Monthly School Fees</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -131,7 +137,11 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 <p><strong><u>Giro Collection Dates For Sec 1 school fees</u></strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -213,7 +223,11 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 <p><strong><u>Giro Collection Dates For Sec 2 to 4 school fees</u></strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -400,7 +414,12 @@ end Feb 2024 for ISB subsidy to take effect from Jan 2024.</p>
 below:</p>
 <p>Income Criteria
 <br>(Meet one of the following criteria)</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -556,6 +575,8 @@ via DSA and/or ESIS recipients</p>
 </p>
 <p><strong>Click to download the 2024 ISB Application Form</strong>  <strong><a href="/files/Appendix_B1___MOE_ISB_Application_Form_2024_final2.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
 </p>
+<p><strong>Click to download the 2025 ISB Application Form</strong>  <strong><a href="/files/MOE_ISB_Application_Form_2025_HS.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
+</p>
 <p>Students need only satisfy either the monthly Gross Household Income (GHI)
 or the PCI criterion to qualify for ISB. More information can be found
 in the Annex I of the ISB Application Form.</p>
@@ -570,7 +591,11 @@ in the case of overseas travel insurance.</p>
 is chargeable on a per trip basis and included in the overseas trip cost.</p>
 <p><strong>(I) Students’ Accident Protection Scheme</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -667,7 +692,11 @@ Ms Stella Teo at 62722277).</p>
 </table>
 <p><strong>(II) Group Overseas Travel Insurance</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
