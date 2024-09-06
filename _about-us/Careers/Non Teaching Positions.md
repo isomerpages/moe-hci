@@ -332,7 +332,7 @@ media management and branding</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor's degree in Coomunications, Public Relations, Marketing, Journalism,
+<p>Bachelor's degree in Communications, Public Relations, Marketing, Journalism,
 or a related field</p>
 </li>
 <li>
