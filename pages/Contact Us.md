@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /hci-contact-us/
 description: ""
+variant: markdown
 ---
 Nearest MRT Station: Tan Kah Kee (DTL)
 
@@ -16,7 +17,7 @@ Opp National Junior College (Gate 3) - 41071
 Address:<br>
 Hwa Chong Institution<br>
 661 Bukit Timah Road<br>
-Singapore S(269734)
+Singapore 269734
 
 Tel: 6468 3955<br>
 Fax: 6769 5857<br>
