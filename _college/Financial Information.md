@@ -8,7 +8,13 @@ variant: tiptap
 <p><strong><u>School fee rates</u></strong>
 <br><strong>Year 2024 Monthly School Fees</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -144,7 +150,11 @@ each month; or the next working day if the 15th day of the month falls
 on a weekend or Public Holiday, unless otherwise advised.</p>
 <p><strong><u>Giro Collection Dates For JC 1 school fees</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -225,7 +235,11 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </table>
 <p><strong><u>Giro Collection Dates For JC 2 school fees</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -452,7 +466,12 @@ end Feb 2024 for ISB subsidy to take effect from Jan 2024.</p>
 below:</p>
 <p>Income Criteria
 <br>(Meet one of the following criteria)</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -596,7 +615,7 @@ via DSA and/or ESIS recipients</p>
 </table>
 <p><strong>^ No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
-<p><strong>Click to download the 2024 ISB Application Form</strong>  <strong><a href="/files/JC_2024_MOE_ISB_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
+<p><strong>Click to download the ISB Application Form</strong>  <strong><a href="/files/JC_2024_MOE_ISB_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
 </p>
 <p>Students need only satisfy either the monthly Gross Household Income (GHI)
 or the PCI criterion to qualify for ISB. More information can be found
@@ -612,7 +631,11 @@ in the case of overseas travel insurance.</p>
 is chargeable on a per trip basis and included in the overseas trip cost.</p>
 <p><strong>(I) Students’ Accident Protection Scheme</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -710,7 +733,11 @@ Ms Stella Teo at 62722277).</p>
 </table>
 <p><strong>(II) Group Overseas Travel Insurance</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
