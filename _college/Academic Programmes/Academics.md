@@ -14,10 +14,10 @@ Click&nbsp;[**here**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-le
 
 #### Subjects &amp; Subject Combinations offered in HCI
 
-For Information about <b>Subjects offered in HCI</b>, click [here](/files/A_Level_Subjects_info_for_2024_JC1__final_24_Nov_2023_.pdf) <br>
+For Information about <b>Subjects offered in HCI</b>, click [here](/files/College/A_Level_Subjects_info_for_2025_JC1_final.pdf) <br>
 
 
-For the proposed list of <b>Subject Combinations </b>, click [here](/files/HCI_College_Standard_Subject_Combinations_for_2024_JC_1__final_24_Nov_2023_.pdf)
+For the proposed list of <b>Subject Combinations </b>, click [here](/files/College/HCI_College_Standard_Subject_Combinations_for_2025_JC_1_final.pdf)
 
 Please note that the list of subject combinations above is subjected to change. The list is NOT indicative of subject combinations that would be offered.
 
