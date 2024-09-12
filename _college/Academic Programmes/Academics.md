@@ -57,7 +57,7 @@ Links to the 'indicative grade point' for admission to courses in NUS, NTU and S
 [**Indicative Grade point for SMU**](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
 
 #### Special Programmes offered in HCI
-For information about <b>Special Programmes offered in HCI</b>, click [here](/files/Special_programme_info_for_2024_JC_1__final_23_Nov_2023_.pdf)<br>
+For information about <b>Special Programmes offered in HCI</b>, click [here](/files/College/Special_programme_info_for_2025_JC_1_final.pdf)<br>
 
  <b> A)&nbsp;&nbsp;&nbsp; MOE Special Programmes</b>
 
