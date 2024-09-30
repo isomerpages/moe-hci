@@ -26,9 +26,9 @@ Students can apply for H3 subjects offered by
 
 NUS H3 modules is taught by NUS lecturers. These are regular NUS module which is pitched at undergraduate year one level. H3 students will be equally treated vis a vis all regular undergraduates in all assessment and in the marking (raw scores) of the assessment.&nbsp; Lessons are held in&nbsp;Semester 1&nbsp;(for JC2 H3 students) at NUS and examinations are held at the end of the semester.
 
-**Period: January to April 2024 (Exam: 04 May 2024)**
+**Period: January to April 2025 (Exam: 30 April 2025)**
 
-Application starts from&nbsp;_**03 October 2023 to 3 November 2023 (noon**_). Selection is done by NUS and&nbsp;_**successful applicants will be notified by &nbsp;17 November 2023**_.
+Application starts from&nbsp;_**30 September 2024 to 1 November 2024 (noon**_). Selection is done by NUS and&nbsp;_**successful applicants will be notified by &nbsp;15 November 2024**_.
 
 Selection is based on good JC1 overall results, at least 'B' grade in the respective H2 subjects.
 
