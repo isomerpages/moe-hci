@@ -38,9 +38,9 @@ Selection is based on good JC1 overall results, at least 'B' grade in the respec
 
 Please access the following:
 
-[NUS H3 Programme Synopses](https://admindev.hci.edu.sg/uploads/NUS_H3_Programme_Synopsis_Sem_2_AY_2023_24_a2cc5e2602.pdf)
+[NUS H3 Programme Synopsis](/files/College/NUS_H3_Programme_Synopsis___Sem_2_AY2024_25.pdf)
 
-[Details of NUS H3 Timetable and Test/Exam Schedule](https://admindev.hci.edu.sg/uploads/NUS_H3_Programme_Timetable_Sem_2_AY_2023_24_5860242253.pdf)
+[Details of NUS H3 Timetable and Test/Exam Schedule](/files/College/NUS_H3_Programme_Timetable___Sem_2_AY2024_25.pdf)
 
 **Application Procedures for NUS H3 modules**  
 Please apply for admission via the&nbsp;[_NUS Online Application Portal_](https://myapplications.nus.edu.sg/). Submission of hardcopy documents and referee letters to NUS will no longer be required. Students are reminded to upload the necessary documents in their online applications in order for their application to be considered complete.&nbsp;
