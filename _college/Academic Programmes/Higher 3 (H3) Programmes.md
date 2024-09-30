@@ -58,7 +58,7 @@ NTU H3 Taught Modules are by NTU lecturers and customised for JC students who ha
 
 The application period will open&nbsp;from&nbsp;**30 September 2024**&nbsp;to&nbsp;**1 November 2024 (2359h)**.
 
-All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;**17 November 2023 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
+All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;**15 November 2024 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
 
 |No|NTU H3 Module Title|Subject Code|Hosting School|Associated H2|
 | -------- | -------- | -------- | -------- | -------- |
