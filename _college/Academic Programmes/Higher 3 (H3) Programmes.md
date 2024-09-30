@@ -100,7 +100,7 @@ Online application (via ISP) starts on&nbsp;**23 October 2024 to**&nbsp;**25 Oct
 
  [**GCE A-Level Syllabuses Examined: &nbsp;H3 Subjects (MOE-Cambridge)**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)
 
-**Note: All H3 lessons start in 2024 Term 1 Week 1 (from Monday**&nbsp;**08**&nbsp;**Jan 2024).**&nbsp;_However, some of H3 subjects (for instance, H3 Biology) may have lessons in Nov 2023. You will be informed through the subject coordinators._
+**Note: All H3 lessons start in 2024 Term 1 Week 1 (from Monday**&nbsp;**13**&nbsp;**Jan 2025).**&nbsp;_However, some of H3 subjects (for instance, H3 Biology) may have lessons in Nov 2024. You will be informed through the subject coordinators._
 
 
 
@@ -135,4 +135,4 @@ Listed in the table below are the recommended number of H3 subjects that can be 
 |4H2 (With KI)|Up TO 2 H3|
 |4H2 (With KI), 1 H1|Up TO 1 H3|
 
-Students can appeal to read an MOE-Cambridge H3 subject if they do not meet the selection criteria. Decisions will be made on a case-by-case basis by HCI H3 Selection Committee. The student eligibility list for MOE-Cambridge H3 will be released on&nbsp;**25 Oct 2023**&nbsp;via ISP. Students who are not eligible can make an appeal by submitting the appeal form through ISP from&nbsp;**25 Oct 2023 to 27 Oct 2023**.
+Students can appeal to read an MOE-Cambridge H3 subject if they do not meet the selection criteria. Decisions will be made on a case-by-case basis by HCI H3 Selection Committee. The student eligibility list for MOE-Cambridge H3 will be released on&nbsp;**23 Oct 2024**&nbsp;via ISP. Students who are not eligible can make an appeal by submitting the appeal form through ISP from&nbsp;**24 Oct 2024 to 25 Oct 2024**.
