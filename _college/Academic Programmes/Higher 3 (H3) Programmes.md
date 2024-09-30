@@ -64,7 +64,7 @@ All applications for NTU-H3 Taught Modules will be via NTU’s e-application por
 | -------- | -------- | -------- | -------- | -------- |
 |1|Semiconductor Physics &amp; Devices|T302|NTU &amp; HCI|Physics|
 
-*   The module overview can be accessed at the e-application portal: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [https://www.ntu.edu.sg/education/talent-outreach/h3-taught/application](https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications)
+*   The module overview can be accessed at the e-application portal: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications](https://www.ntu.edu.sg/education/talent-outreach/h3-taught/applications)
 *   Before applying for the NTU-H3 Taught Modules, you should watch the video and go through the relevant information to understand more about the NTU-H3 Taught Modules before you proceed with the application.
 
 ---
