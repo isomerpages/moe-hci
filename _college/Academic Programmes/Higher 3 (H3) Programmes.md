@@ -52,11 +52,11 @@ Kindly refer to the&nbsp;[_user guide_](https://www.nus.edu.sg/registrar/docs/in
 
 NTU H3 Taught Modules are by NTU lecturers and customised for JC students who have a keen interest in Semiconductor Physics &amp; Devices. Assessment is different from the undergraduate modules.&nbsp;Lessons will be held at NTU as well as the hosting JC, Hwa Chong Institution. Examinations will be held at the end&nbsp;of semester 1.&nbsp;
 
-**Period: January to May 2024**
+**Period: January to May 2025**
 
-**(Exam: &nbsp;17 May 2024)**
+**(Exam: &nbsp;14 May 2025)**
 
-The application period will open&nbsp;from&nbsp;**3 October 2023**&nbsp;to&nbsp;**3 November 2023 (2359h)**.
+The application period will open&nbsp;from&nbsp;**30 September 2024**&nbsp;to&nbsp;**1 November 2024 (2359h)**.
 
 All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;**17 November 2023 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
 
