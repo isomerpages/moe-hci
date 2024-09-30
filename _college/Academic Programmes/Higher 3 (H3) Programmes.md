@@ -72,15 +72,14 @@ All applications for NTU-H3 Taught Modules will be via NTU’s e-application por
 
 This course provides an introduction to Game Theory. Game theory deals with decisions of conflict and cooperation between equally intelligent individuals. In such a context each party needs to take into account the decision that the other will take, before choosing the best plan of action.
 
-**Period: January to April 2024 (Exam: 27 April 2024)**
+**Period: January to May 2025 (Exam: 3 May 2025)**
 
-The SMU Game Theory application period will open on&nbsp;**3 October 2023 to 03 November 2023**. &nbsp;Please note that&nbsp;**HCI’s internal deadline is**&nbsp;**03 November 2023, 9am @ College Reception**.
+The SMU Game Theory application period will open on&nbsp;**30 September 2024 to 1 November 2024**. &nbsp;Please note that&nbsp;**HCI’s internal deadline is**&nbsp;**1 November 2024, 9am @ College Reception**.
 
 Please prepare for your application as below:
 
 1\. Read the&nbsp;[_course outline_](https://admindev.hci.edu.sg/uploads/SMU_H3_Course_Outline_2024_593f423f19.pdf).&nbsp;<br>
-2\. Register via&nbsp;[_form_](https://smu.sg/H32024)&nbsp;and attend an information session on 13 Oct 2023 (Fri) 5pm at SMU conducted directly by the teacher of the course. &nbsp;Only register if you are committed to attend. &nbsp;Form will close when the maximum capacity is reached. <br>
-3\. Bring the original and a photocopy of your JC1 Overall Result Slip, and submit a hard copy of completed&nbsp;[_Application Form_](https://admindev.hci.edu.sg/uploads/SMU_H3_Application_Form_2024_stu_c08a17115b.pdf)&nbsp;at the college reception.
+2\. Bring the original and a photocopy of your JC1 Overall Result Slip, and submit a hard copy of completed&nbsp;[_Application Form_](https://admindev.hci.edu.sg/uploads/SMU_H3_Application_Form_2024_stu_c08a17115b.pdf)&nbsp;at the college reception.
 
 ### **(B)**&nbsp;**H3 Research Programme**
 
@@ -97,7 +96,7 @@ The following table shows the various modules offered for H3 research programme 
 
 These subjects are developed by MOE in collaboration with the University of Cambridge Local Examinations Syndicate, taught by HCI lecturers and examined by Cambridge International Examinations (CIE), UK. Students will sit for a written examination that includes the GCE A-level subject papers in the year-end written examination at the end of JC2. For students who are required to submit independent research essays, the final submission to SEAB is in early Term 4, 2023.&nbsp;
 
-Online application (via ISP) starts on&nbsp;**25 October 2023 to**&nbsp;**27 October 2023**. Selection is done by HCI H3 Selection Committee and the eligibility list of students will be released via ISP by&nbsp;**17**&nbsp;**November 2023**.&nbsp;
+Online application (via ISP) starts on&nbsp;**23 October 2024 to**&nbsp;**25 October 2024**. Selection is done by HCI H3 Selection Committee and the eligibility list of students will be released via ISP by&nbsp;**15**&nbsp;**November 2024**.&nbsp;
 
  [**GCE A-Level Syllabuses Examined: &nbsp;H3 Subjects (MOE-Cambridge)**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)
 
