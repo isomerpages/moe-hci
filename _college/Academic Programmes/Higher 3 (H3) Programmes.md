@@ -45,7 +45,7 @@ Please access the following:
 **Application Procedures for NUS H3 modules**  
 Please apply for admission via the&nbsp;[_NUS Online Application Portal_](https://myapplications.nus.edu.sg/). Submission of hardcopy documents and referee letters to NUS will no longer be required. Students are reminded to upload the necessary documents in their online applications in order for their application to be considered complete.&nbsp;
 
-Kindly refer to the&nbsp;[_user guide_](https://www.nus.edu.sg/registrar/docs/info/prospective-students---non-graduating/userguide-for-local-ng-application-system.pdf)&nbsp;for more details.
+Kindly refer to the&nbsp;[user guide](/files/College/userguide_for_local_ng_application_system.pdf)&nbsp;for more details.
 
 ---
 #### **2.&nbsp;NTU-Higher 3 (H3) Taught Modules**
