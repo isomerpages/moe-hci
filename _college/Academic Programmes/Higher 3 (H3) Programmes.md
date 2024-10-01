@@ -128,11 +128,16 @@ b.&nbsp;_**Within top 20th percentile ranking for the intended subject at H2 lev
 **Remarks**
 
 Listed in the table below are the recommended number of H3 subjects that can be offered for the various subject combinations taken by JC2 students. The intent is to ensure that students are given ample time and space to pursue their interest and passion in one or more H3 subjects while developing themselves holistically in non-academic areas.
-|Subject Combinations|Recommended No. of H3 offered|
-| -------- | -------- |
-|3 H2, 1 H1|Up TO 2 H3|
+
+
+
+| Subject Combinations|Recommended No. of H3 offered|
+| -------- | -------- | 
+| 3 H2, 1 H1|Up TO 2 H3|
 |4H2 (No KI)|Up to 1 H3 / Up to 2 H3 for H2 CLL students|
 |4H2 (With KI)|Up TO 2 H3|
 |4H2 (With KI), 1 H1|Up TO 1 H3|
+
+
 
 Students can appeal to read an MOE-Cambridge H3 subject if they do not meet the selection criteria. Decisions will be made on a case-by-case basis by HCI H3 Selection Committee. The student eligibility list for MOE-Cambridge H3 will be released on&nbsp;**23 Oct 2024**&nbsp;via ISP. Students who are not eligible can make an appeal by submitting the appeal form through ISP from&nbsp;**23 Oct 2024 to 25 Oct 2024**.
