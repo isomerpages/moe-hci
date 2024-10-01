@@ -78,8 +78,8 @@ The SMU Game Theory application period will open on&nbsp;**30 September 2024 to 
 
 Please prepare for your application as below:
 
-1\. Read the&nbsp;[_course outline_](https://admindev.hci.edu.sg/uploads/SMU_H3_Course_Outline_2024_593f423f19.pdf).&nbsp;<br>
-2\. Bring the original and a photocopy of your JC1 Overall Result Slip, and submit a hard copy of completed&nbsp;[_Application Form_](https://admindev.hci.edu.sg/uploads/SMU_H3_Application_Form_2024_stu_c08a17115b.pdf)&nbsp;at the college reception.
+1\. Read the&nbsp;[course outline](/files/College/Course_Outline.pdf)<br>
+2\. Bring the original and a photocopy of your JC1 Overall Result Slip, and submit a hard copy of completed&nbsp;[Application Form](/files/College/H3_Application_Form_2025.pdf)&nbsp;at the college reception.
 
 ### **(B)**&nbsp;**H3 Research Programme**
 
