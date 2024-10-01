@@ -117,6 +117,10 @@ Online application (via ISP) starts on&nbsp;**23 October 2024 to**&nbsp;**25 Oct
 |9|History|9823|History|
 |10|Chinese Language &amp; Literature|9901|Chinese Language &amp; Literature|
 
+**Remarks**
+
+Listed in the table below are the recommended number of H3 subjects that can be offered for the various subject combinations taken by JC2 students. The intent is to ensure that students are given ample time and space to pursue their interest and passion in one or more H3 subjects while developing themselves holistically in non-academic areas.
+
 #### **Selection Criteria for MOE-CAMBRIDGE H3 Subjects**
 
 a.&nbsp;**Mean Subject Grade (MSG) 2.8 or better for content based subjects**
@@ -124,12 +128,6 @@ a.&nbsp;**Mean Subject Grade (MSG) 2.8 or better for content based subjects**
 MSG is calculated for all H1, H2 content based subjects after C1 Overall Results are released.&nbsp;**Annex**&nbsp;shows the scoring points system and the formula used in computing the MSG. This criterion ensures that only students of the right calibre are selected. Prospective H3 students must be able to cope well in all subjects that are offered.
 
 b.&nbsp;_**Within top 20th percentile ranking for the intended subject at H2 level**_
-
-**Remarks**
-
-Listed in the table below are the recommended number of H3 subjects that can be offered for the various subject combinations taken by JC2 students. The intent is to ensure that students are given ample time and space to pursue their interest and passion in one or more H3 subjects while developing themselves holistically in non-academic areas.
-
-
 
 | Subject Combinations|Recommended No. of H3 offered|
 | -------- | -------- | 
