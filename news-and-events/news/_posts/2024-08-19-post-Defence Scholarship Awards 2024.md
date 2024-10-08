@@ -26,6 +26,12 @@ countries that have taken different defence paths.&nbsp;&nbsp;</p>
 <p>Congratulations, awardees:</p>
 <ol>
 <li>
+<p>Angie Tan En Qi</p>
+</li>
+<li>
+<p>Brendan Ling Jun Xiang</p>
+</li>
+<li>
 <p>Chan Rong Le, Marcus</p>
 </li>
 <li>
