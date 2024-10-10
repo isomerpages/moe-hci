@@ -321,154 +321,71 @@ tools and content management systems (eg. WordPress)</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Position: HR Officer</strong>
+<p><strong>Position: Assistant Manager of Human Resources</strong>
 </p>
-<p>To drive recruitment and onboarding of talents for the institution’s temporary
-staff team and support in Staff Professional Development. This role requires
-administrative and systems support to the team to ensure&nbsp; smooth operations
-and alignment with the department's objectives.</p>
-<p><strong>Job Descriptions:</strong>
+<p><strong><u>Job Descriptions:</u></strong>
 </p>
-<p>Management of Recruitment and Management for Temporary Staff</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Be actively involved in recruitment by preparing job descriptions, posting
-ads and managing the hiring process.</p>
-</li>
-<li>
-<p>Source and recruit talents through databases, job boards, social media,
-and other avenues.</p>
-</li>
-<li>
-<p>Coordinate and conduct interviews.</p>
-</li>
-<li>
-<p>Seek continuous improvements by learning and adopting new HR best practices.</p>
-</li>
-<li>
-<p>Onboarding</p>
-</li>
-<li>
-<p>Coordinate and manage the end-to-end onboarding process for all new hires
-and prepare and distribute onboarding materials, including welcome packs,
-employee handbooks, and training schedules.</p>
-</li>
-<li>
-<p>Facilitate orientation sessions.</p>
-</li>
-<li>
-<p>Coordinate with relevant stakeholders on administrative and logistical
-protocols to ensure&nbsp; employee is set up for success from day 1.</p>
-</li>
-<li>
-<p>Evaluate and improve the onboarding process to enhance employee experience
-and efficacy.</p>
-</li>
-<li>
-<p>Conduct follow-up surveys with new hires to gather feedback on the onboarding
-experience.</p>
-</li>
-</ul>
-<p><strong>Professional Development</strong>
+<p><strong>Hiring Strategies:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Collate and analyse Training Needs Analysis for EAS staff.</p>
-</li>
-<li>
-<p>Maintain and improve professionals development library resource for EAS
-team</p>
-</li>
-<li>
-<p>Organize and assist in talent development projects and activities</p>
-</li>
-<li>
-<p>Develop training decks for HR</p>
-</li>
-</ul>
-<p><strong>Administrative Duties</strong>
+<p>·&nbsp;&nbsp;Develop and implement robust talent acquisition strategies
+to attract high-quality candidates.</p>
+<p>·&nbsp;&nbsp;Ensure hiring processes are aligned with business needs and
+organizational goals.</p>
+<p>·&nbsp;&nbsp;Leverage data analytics to refine hiring processes and enhance
+the candidate experience.</p>
+<p><strong>Stakeholder Collaboration:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Reception of vendors, guests, and visitors.</p>
-</li>
-<li>
-<p>Assigning envelopes to the correct department.</p>
-</li>
-<li>
-<p>Handling P and SWC invoices, ensuring they are signed by the correct RO
-before submitting to the accounts department.</p>
-</li>
-<li>
-<p>Arrange courier services and manage staff welfare.</p>
-</li>
-<li>
-<p>Prompt updates for new hires on MOE, Opal and ISP systems.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Season Parking</strong>
+<p>·&nbsp;&nbsp;Partner with department heads and other key stakeholders
+(including MOE) to understand workforce requirements and plan hiring activities
+accordingly.</p>
+<p>·&nbsp;&nbsp;Collaborate on workforce planning initiatives to ensure a
+balanced talent pipeline.</p>
+<p>·&nbsp;&nbsp;Support hiring managers in making informed recruitment decisions.</p>
+<p><strong>Recruitment and Selection:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist with parking issues and inquiries.</p>
-</li>
-<li>
-<p>Manage and reconcile monthly season parking records.</p>
-</li>
-<li>
-<p>Coordinate parking renewals and prepare for next year's balloting.</p>
-</li>
-</ul>
-<p><strong>Budgeting</strong>
+<p>·&nbsp;&nbsp;Manage the end-to-end recruitment process, including sourcing,
+interviewing, and negotiating offers with candidates.</p>
+<p>·&nbsp;&nbsp;Maintain a pipeline of qualified candidates for current and
+future hiring needs.</p>
+<p>·&nbsp;&nbsp;Utilize innovative sourcing methods and maintain a presence
+across relevant talent pools.</p>
+<p>Employee Onboarding &amp; Retention:</p>
+<p>·&nbsp;&nbsp;Coordinate the onboarding process to ensure a smooth transition
+for new hires.</p>
+<p>·&nbsp;&nbsp;Develop retention strategies to reduce turnover and improve
+employee engagement and satisfaction.</p>
+<p><strong>Transformation and Improvement Projects:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To assist in annual HR budget and SWC Budget.</p>
-</li>
-</ul>
-<p><strong>Exchange Student Program (Support Role)</strong>
+<p>·&nbsp;&nbsp;Lead or contribute to HR transformation and improvement initiatives,
+aimed at optimizing talent acquisition processes.</p>
+<p>·&nbsp;&nbsp;Implement tools and technology to improve hiring efficiency
+and effectiveness.</p>
+<p>·&nbsp;&nbsp;Own the Appraisal Knowledge Management and act as the champion
+for the module.</p>
+<p></p>
+<p><strong>HR Operations:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist with chaperoning exchange students.</p>
-</li>
-<li>
-<p>Arranging transportation, accommodation and administration.</p>
-</li>
-<li>
-<p>Organise cultural exchange activities and monitor student progress if
-needed.</p>
-</li>
-</ul>
-<p><strong>Ad-hoc Duties</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist with other HR projects and initiatives as needed.</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;Manage WICA and Work Pass applications</p>
+<p>·&nbsp;&nbsp;Prompt review of SOPs and update as needed.</p>
+<p>Ad-hoc Hosting Events:</p>
+<p>·&nbsp;&nbsp;Opportunity to host external guests and visitors on a needs
+basis</p>
+<p></p>
 <p><strong>Requirements:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Minimum Diploma in HR Management, Business Administration or any related
-field</p>
-</li>
-<li>
-<p>Candidates with 2-3 years in experience in HR generalist role</p>
-</li>
-<li>
-<p>Excellent communication and interpersonal skills</p>
-</li>
-<li>
-<p>A team player who is also able to work independently</p>
-</li>
-<li>
-<p>Tech savvy would be an advantage</p>
+<p>·&nbsp;&nbsp;&nbsp;A good Degree in HR or any discipline</p>
+<p>·&nbsp;&nbsp;&nbsp;Strong knowledge in Talent Acquisition / HR Business
+Partnering is preferred</p>
+<p>·&nbsp;&nbsp;&nbsp;Candidates should have 2-3 years managerial experience.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;People-oriented with strong verbal and written
+communication skills</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;Highly motivated, meticulous, independent and
+adaptable to change</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;Excellent communication, organizational and interpersonal
+skills</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abreast with current employment legislations
+and HR practices.</p>
 <p></p>
-</li>
-</ul>
 <p><strong>If you thrive on working in a dynamic and innovative environment, please submit your detailed CV, supporting documents and expected remuneration to</strong>
 </p>
 <p><strong>The Recruitment Officer</strong> 
