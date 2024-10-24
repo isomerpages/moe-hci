@@ -573,8 +573,6 @@ via DSA and/or ESIS recipients</p>
 </table>
 <p><strong>^ No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
-<p><strong>Click to download the 2024 ISB Application Form</strong>  <strong><a href="/files/Appendix_B1___MOE_ISB_Application_Form_2024_final2.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
-</p>
 <p><strong>Click to download the 2025 ISB Application Form</strong>  <strong><a href="/files/MOE_ISB_Application_Form_2025_HS_new.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
 </p>
 <p>Students need only satisfy either the monthly Gross Household Income (GHI)
