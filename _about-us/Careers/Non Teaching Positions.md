@@ -131,46 +131,9 @@ Principal or Principal</p>
 <p>The School Counsellor’s expertise and primary duties are to provide counselling
 services to the school. However, the School Counsellor is also an integral
 member of the Student Development Team, and would be actively involved
-in the programmes pertaining to students’ affective development.</p>
-<p></p>
-<p></p>
-<p><strong>Position: Administration Officer (Temp) – 4 to 6 months</strong>
-</p>
-<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp; Provide frontline assistance to staff, students and
-public, through emails, phone calls and over the counter.</p>
-<p>2.&nbsp;&nbsp;&nbsp; To ensure the smooth day-to-day operation of the
-administration department and school events</p>
-<p>3.&nbsp;&nbsp;&nbsp; Provide administrative support for school events.</p>
-<p>4.&nbsp;&nbsp;&nbsp; Perform any other administrative functions as and
-when required.</p>
-<p><strong>REQUIREMENTS</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Minimum O Levels or higher with experience in customer service and administrative
-work.</p>
-</li>
-<li>
-<p>Computer literate and proficient in MS Office applications.</p>
-</li>
-<li>
-<p>Excellent interpersonal and communication skills.</p>
-</li>
-<li>
-<p>Good command of both English and Chinese, verbal and written.</p>
-</li>
-<li>
-<p>An independent worker and also an excellent team player with passion for
-service excellence.</p>
-</li>
-<li>
-<p>Highly customer oriented and able to multi-task.
+in the programmes pertaining to students’ affective development.
 <br>
 </p>
-</li>
-</ul>
 <p><strong>Position:</strong>  <strong>Assistant Manager, Strategic Engagement &amp; Communications</strong>
 </p>
 <p>The Assistant Manager manages and supports the HCI Strategic Engagement
