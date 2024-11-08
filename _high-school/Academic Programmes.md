@@ -2,6 +2,7 @@
 title: Academic Programmes
 permalink: /high-school/academic-prog/
 description: ""
+variant: markdown
 ---
 ##### Integrated Programme
 
@@ -41,11 +42,7 @@ The Hwa Chong Holistic Education Model is informed by Harvard Professor Howard G
 
 ##### Gifted Education Programme
 
-The Hwa Chong school-based Gifted Education programme, hosted by the iSpark Consortium, emphasises the student’s total development, which spans the moral, intellectual, physical, social and aesthetic realms. A varied curriculum and enrichment programme has been designed in accordance with a constructivitist and investigative approach.
-
-In-class enrichment and curriculum differentiation, including interdisciplinary studies, leadership development and individualised research projects, are key features of this programme.
-
-The iSpark Consortium also hosts the Science and Mathematics and the Humanities talent programmes, to stretch each student to his fullest potential. In addition he receives an equally enriching and meaningful character education which encourages him to serve and contribute to the community.
+HCI has been welcoming Gifted Education students into our enriched and advanced learning provisions. Curriculum differentiation and holistic education continue to be embedded in constructivist and inquiry-based approaches. The total HCI curriculum offers a range of programmes to support the exploration and reach of passions and talents across the disciplines and domains.     
 
 ##### Sabbatical Programme
 
