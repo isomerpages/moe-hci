@@ -301,9 +301,8 @@ be required from time to time.</p>
 <p>The application form is available <strong><a href="/files/hs_interbank_giro_application_form_jan_22_57d33efd75.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
 download.</p>
 <h5><u>Financial Assistance / Awards</u></h5>
-<p>No Singaporean student will be denied a place in Hwa Chong Institution
-because of financial reasons. A range of financial assistance schemes,
-scholarships and awards are available to support our students.</p>
+<p>A range of financial assistance schemes, scholarships and awards are available
+to support our students.</p>
 <p><strong><u>(A)&nbsp;&nbsp; Awards and scholarships offered by MOE:</u></strong>
 </p>
 <p>1 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Scholarships for Students of Independent Schools (ESIS)</a></strong> 
