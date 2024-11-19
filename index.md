@@ -24,7 +24,7 @@ sections:
       button: LEARN MORE
       url: /college/academic-programmes/academics/
   - resources:
-      title: News & Events
+      title: News and Announcements
       id: resources
       button: Find Out More
 ---
