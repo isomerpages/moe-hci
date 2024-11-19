@@ -2,6 +2,7 @@
 title: Live With Passion
 permalink: /explore-livewithpassion/
 description: ""
+variant: markdown
 ---
 ##### Special Programmes
 
@@ -120,7 +121,7 @@ A unique feature of the Hwa Chong Integrated Programme, the Hwa Chong Sabbatical
 
 There are various areas of programmes for students to select from each term, the broad categories comprise the following - Arts &amp; Aesthetics, Chinese Studies, Humanities, English Language &amp; Literature, Leadership, Technology, Science and Math, Leadership Camps and Student Exchanges. All students are engaged in a range of activities beyond the curriculum to further broaden their educational experiences. This allows them to explore their diverse interests and have fun all at once.
 
-Students will bid for their sabbatical courses every term, using the&nbsp;[i-ComP](http://spop.hci.edu.sg/). **SITE CANT REACH**
+Students will bid for their sabbatical courses every term, using the&nbsp;i-ComP.
 
 ##### Project Work
 
