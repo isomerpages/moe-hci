@@ -11,7 +11,7 @@ sections:
       background: /images/homepage_banner_v3.gif
       variant: center
       button: click for more info
-      url: https://www.hci.edu.sg
+      url: https://hci.edu.sg/to-all-p6-graduands-congratulations-on-completing-your-primary-school-milestone/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
