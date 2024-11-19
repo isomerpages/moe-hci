@@ -1,7 +1,8 @@
 ---
-title: News & Events
+title: News & Announcements
 permalink: /homepage-news-n-events/
 description: ""
+variant: tiptap
 ---
 <p><a href="/news-n-events/news1/">
 <img src="/images/newsnevents1.jpg" align="left" style="width:33%">

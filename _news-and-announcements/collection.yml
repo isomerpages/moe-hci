@@ -1,8 +1,8 @@
 collections:
-  news-n-events:
+  news-and-announcements:
     output: true
     order:
-      - News & Events.md
+      - News & Announcements.md
       - HCI (College)  DSA JC exercise 2023.md
       - 20th Hwa Chong Model Asean Summit @ Hwa Chong.md
       - Class of 2022 Overcomes Formidable Challenges to Demonstrate Holistic
