@@ -3,6 +3,7 @@ title: Education and Career Guidance
 permalink: /the-hc-advantage/a-culture-of-care/edu-n-career-guidance/
 description: ""
 third_nav_title: A Culture Of Care
+variant: markdown
 ---
 ##### Education and Career Guidance
 
@@ -10,7 +11,7 @@ Education and Career Guidance (ECG) at Hwa Chong seeks to equip students with th
 
 | **Term**  | **Activity**  |
 |:-:|---|
-| 1  | &nbsp; &nbsp; &nbsp; &nbsp; · &nbsp; &nbsp; &nbsp; Talks by Local and Overseas Universities<br>· &nbsp; &nbsp; &nbsp; Individual and Group ECG Counselling<br>· &nbsp; &nbsp; &nbsp; Introductory Higher Education Briefings<br> · &nbsp; &nbsp; &nbsp; Alumni Career Sharing Sessions<br>· &nbsp; &nbsp; &nbsp; Career Forums  |
+| 1  |  · &nbsp; &nbsp; &nbsp; Talks by Local and Overseas Universities<br>· &nbsp; &nbsp; &nbsp; Individual and Group ECG Counselling<br>· &nbsp; &nbsp; &nbsp; Introductory Higher Education Briefings<br> · &nbsp; &nbsp; &nbsp; Alumni Career Sharing Sessions<br>· &nbsp; &nbsp; &nbsp; Career Forums  |
 | 2  | · &nbsp; &nbsp; Individual and Group ECG Counselling<br>· &nbsp; &nbsp; &nbsp; US and UK University Application Essay Workshops<br>· &nbsp; &nbsp; &nbsp; Non-UK and Non-US Universities Application Briefing<br>· &nbsp; &nbsp; &nbsp; Talent Attachment &amp; Grooming (TAG) Programme<br>· &nbsp; &nbsp; &nbsp; Alumni Career Sharing Sessions<br>· &nbsp; &nbsp; &nbsp; Career Forums<br>· &nbsp; &nbsp; &nbsp; Talks by Local and Overseas Universities<br>· &nbsp; &nbsp; &nbsp; Career Guidance Workshops<br>· &nbsp; &nbsp; &nbsp; Introduction to SkillsFuture Portal  |
 | 3  | · &nbsp; &nbsp; &nbsp; Individual and Group ECG Counselling<br>· &nbsp; &nbsp; &nbsp; UK and US University Application Briefings<br>· &nbsp; &nbsp; &nbsp; Overseas Undergraduate Alumni Forum<br>· &nbsp; &nbsp; &nbsp; Education &amp; Career Guidance Fair&nbsp;<br>· &nbsp; &nbsp; &nbsp; UK and US Application Essays Vetting<br>· &nbsp; &nbsp; &nbsp; Alumni Career Sharing Sessions<br>· &nbsp; &nbsp; &nbsp; Career Forums<br>· &nbsp; &nbsp; &nbsp; Talks by Local and Overseas Universities<br>· &nbsp; &nbsp; &nbsp; Introduction to SkillsFuture Portal  |
 | 4  |  · &nbsp; &nbsp; &nbsp; Individual and Group ECG Counselling<br>· &nbsp; &nbsp; &nbsp; UK and US Application Essay Vetting<br>· &nbsp; &nbsp; &nbsp; Medicine Personal Statement Writing Workshop (Local Unis)<br>· &nbsp; &nbsp; &nbsp; Talks by Local and Overseas Universities<br>· &nbsp; &nbsp; &nbsp; Career Guidance Workshops<br>· &nbsp; &nbsp; &nbsp; Talent Attachment &amp; Grooming (TAG) Programme |
