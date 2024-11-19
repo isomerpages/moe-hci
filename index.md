@@ -11,7 +11,7 @@ sections:
       background: /images/homepage_banner_v3.gif
       variant: center
       button: click here for more info
-      url: /to-all-p6-graduands-congratulations-on-completing-your-primary-school-milestone/
+      url: /news-and-events/news/to-all-p6-graduands-congratulations-on-completing-your-primary-school-milestone/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
