@@ -74,7 +74,7 @@ variant: markdown
         <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member9.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member.jpg">
+        <img style="width: 95%;" src="/images/About%20Us/BOG/bog_cmc.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member5.jpg">
