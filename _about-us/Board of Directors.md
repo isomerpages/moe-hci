@@ -47,6 +47,34 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member5.png">
+        <br>
+        <strong>Mr Lee Kian Soon<br>李建顺先生<br>Assistant Secretary<br>副秘书</strong>
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member8.png">
+        <br>
+        <strong>Mr Kek Ho Ann<br>郭和安先生<br>Member<br>董事</strong>
+      </td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member7.png">
+        <br>
+        <strong>Mr Lee Kian Soon<br>李建顺先生<br>Member<br>董事</strong>
+      </td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member8.png">
+        <br>
+        <strong>Mr Lim Chee Kong<br>林志光先生<br>Member<br>董事</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member1.png">
         <br>
         <strong>Mr Chen Juncheng Edward<br>陈军诚先生<br>Member<br>董事</strong>
