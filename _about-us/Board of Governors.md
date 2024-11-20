@@ -128,7 +128,7 @@ variant: markdown
         <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member11.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
       </td>
     </tr>
     <tr>
@@ -139,5 +139,3 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-
-
