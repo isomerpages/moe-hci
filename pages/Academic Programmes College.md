@@ -30,10 +30,8 @@ find out the syllabus for different subjects.</p>
 </p>
 <p><strong>Links to the 'indicative grade point' for admission to courses in NUS, NTU and SMU are provided below. Based on 3H2 and 1H1 with GP and PW set at grade C.</strong>
 </p>
-<p><strong><a href="/files/a_level_subjects_info_for_2023_jc_1_final_16_sep22_c094b530ad.pdf" rel="noopener noreferrer nofollow" target="_blank">Subjects Information &amp; Pre-requisities for 2023 JC 1</a></strong> Updated
-Info&nbsp;Sep 2022!
-<br><strong><a href="/files/special_programme_2023_jan_2b1fa41cce.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Special Programmes in Hwa Chong</a></strong> Updated
-Info&nbsp;Jan 2023!</p>
+<p>Updated Info&nbsp;Sep 2022!
+<br>Updated Info&nbsp;Jan 2023!</p>
 <p><strong>A)&nbsp;&nbsp;&nbsp; MOE Special Programmes</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -63,8 +61,7 @@ Info&nbsp;Jan 2023!</p>
 <p>Computing Talent Programme (CTP)</p>
 </li>
 </ul>
-<p><strong><a href="/files/hci_college_standard_subject_combinations_for_2023_jan_jc_1_final_ee1e16480e.pdf" rel="noopener noreferrer nofollow" target="_blank">Proposed List of Standard Subject Combinations for 2023 JC 1</a></strong> Updated
-Info&nbsp;Jan 2023!</p>
+<p>Updated Info&nbsp;Jan 2023!</p>
 <p>Please note that the list of subject combinations above is subjected to
 change. The list is NOT indicative of subject combinations that would be
 offered.</p>
