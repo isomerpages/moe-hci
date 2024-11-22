@@ -16,22 +16,23 @@ drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
 <p><strong>Position: &nbsp;Director, Organisational Excellence</strong>
 </p>
-<p><strong>Duties &amp; Responsibilities</strong>
-</p>
 <p>The Director of Organisational Excellence is responsible for developing
 and implementing strategies to enhance overall organisational performance
 and foster a culture of innovation and excellence. This role focuses on
 assessing, analysing, and recommending improvements across the school's
 operations, working in close collaboration with the school leadership and
 executive team to align initiatives with the school's strategic goals.</p>
-<p>Duties &amp; Responsibilities:</p>
-<p>1. Strategic Planning and Implementation:</p>
+<p><strong>Duties &amp; Responsibilities:</strong>
+</p>
+<p><strong>1. Strategic Planning and Implementation:</strong>
+</p>
 <p>• Leverage upon research and worldwide scans to develop and execute an
 organisational excellence strategy aligned with the school's vision and
 goals</p>
 <p>• Identify areas for improvement and implement initiatives to enhance
 efficiency and effectiveness</p>
-<p>2. Strategic Performance Assessment:</p>
+<p><strong>2. Strategic Performance Assessment:</strong>
+</p>
 <p>• Develop methodologies to assess overall organisational excellence, for
 aspects of school’s focus</p>
 <p>• Design a framework for gathering and analysing data from various school
@@ -43,7 +44,8 @@ organisational excellence</p>
 <p>• Present strategic reports with data-driven recommendations to senior
 leadership, with insights that inform strategic decision-making and resource
 allocation</p>
-<p>3. Process Enhancement:</p>
+<p><strong>3. Process Enhancement:</strong>
+</p>
 <p>• Conduct internal and external benchmarking to identify best practices
 for reference</p>
 <p>• Identify and evaluate key processes impacting organisational excellence</p>
@@ -52,23 +54,28 @@ for reference</p>
 challenges</p>
 <p>• Develop metrics to measure impact of process improvements that will
 feedback to performance assessment of organisational excellence</p>
-<p>4. Foster a Culture of Innovation:</p>
+<p><strong>4. Foster a Culture of Innovation:</strong>
+</p>
 <p>• Develop strategies to embed innovation in the school's culture and practices</p>
 <p>• Identify opportunities for innovative approaches to enhance organisational
 excellence</p>
-<p>5. Change Leadership:</p>
+<p><strong>5. Change Leadership:</strong>
+</p>
 <p>• Advise school leadership on the school's readiness for organisational
 changes, the potential barriers, and approaches to overcome them</p>
 <p>• Support school leadership in developing change communication strategies</p>
 <p>• Gather ongoing feedback during change implementation, informing continuous
 improvements</p>
-<p>6. Resource Optimisation:</p>
+<p><strong>6. Resource Optimisation:</strong>
+</p>
 <p>• Analyse and recommend strategies for optimisation of human, financial
 and physical resources required to support organizational excellence initiatives</p>
 <p>• Collaborate with the Finance department to analyse the financial impact
 of excellence initiatives</p>
-<p>Requirements:</p>
-<p>1. Education and Professional Qualifications:</p>
+<p><strong>Requirements:</strong>
+</p>
+<p><strong>1. Education and Professional Qualifications:</strong>
+</p>
 <p>• Bachelor’s degree in Business Administration, Organisational Development,
 Education Management, or a related field</p>
 <p>• Minimum of 8-10 years of experience in leading organisational excellence,
@@ -76,7 +83,8 @@ change management, or related roles, preferably with experience in the
 education sector</p>
 <p>• Professional certifications in relevant areas such as Lean Six Sigma,
 Project Management, data analysis would be advantageous</p>
-<p>2. Knowledge and Personal Attributes:</p>
+<p><strong>2. Knowledge and Personal Attributes:</strong>
+</p>
 <p>• A creative thinker and problem solver</p>
 <p>• Exceptional strategic thinking and planning capabilities</p>
 <p>• Proven ability to lead and influence across all organizational levels</p>
