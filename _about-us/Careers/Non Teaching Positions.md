@@ -14,6 +14,91 @@ is seeking high achieving individuals who are excited about education to
 join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
+<p><strong>Position: &nbsp;Director, Organisational Excellence</strong>
+</p>
+<p>The Director of Organisational Excellence is responsible for developing
+and implementing strategies to enhance overall organisational performance
+and foster a culture of innovation and excellence. This role focuses on
+assessing, analysing, and recommending improvements across the school's
+operations, working in close collaboration with the school leadership and
+executive team to align initiatives with the school's strategic goals.</p>
+<p><strong>Duties &amp; Responsibilities:</strong>
+</p>
+<p><strong>1. Strategic Planning and Implementation:</strong>
+</p>
+<p>• Leverage upon research and worldwide scans to develop and execute an
+organisational excellence strategy aligned with the school's vision and
+goals</p>
+<p>• Identify areas for improvement and implement initiatives to enhance
+efficiency and effectiveness</p>
+<p><strong>2. Strategic Performance Assessment:</strong>
+</p>
+<p>• Develop methodologies to assess overall organisational excellence, for
+aspects of school’s focus</p>
+<p>• Design a framework for gathering and analysing data from various school
+functions</p>
+<p>• Create metrics that reflect progress in key areas, aligned with school
+priorities</p>
+<p>• Synthesise data to provide insights into the school's performance in
+organisational excellence</p>
+<p>• Present strategic reports with data-driven recommendations to senior
+leadership, with insights that inform strategic decision-making and resource
+allocation</p>
+<p><strong>3. Process Enhancement:</strong>
+</p>
+<p>• Conduct internal and external benchmarking to identify best practices
+for reference</p>
+<p>• Identify and evaluate key processes impacting organisational excellence</p>
+<p>• Recommend innovative approaches to enhance overall effectiveness</p>
+<p>• Facilitate cross-functional collaboration to address school-wide process
+challenges</p>
+<p>• Develop metrics to measure impact of process improvements that will
+feedback to performance assessment of organisational excellence</p>
+<p><strong>4. Foster a Culture of Innovation:</strong>
+</p>
+<p>• Develop strategies to embed innovation in the school's culture and practices</p>
+<p>• Identify opportunities for innovative approaches to enhance organisational
+excellence</p>
+<p><strong>5. Change Leadership:</strong>
+</p>
+<p>• Advise school leadership on the school's readiness for organisational
+changes, the potential barriers, and approaches to overcome them</p>
+<p>• Support school leadership in developing change communication strategies</p>
+<p>• Gather ongoing feedback during change implementation, informing continuous
+improvements</p>
+<p><strong>6. Resource Optimisation:</strong>
+</p>
+<p>• Analyse and recommend strategies for optimisation of human, financial
+and physical resources required to support organizational excellence initiatives</p>
+<p>• Collaborate with the Finance department to analyse the financial impact
+of excellence initiatives</p>
+<p><strong>Requirements:</strong>
+</p>
+<p><strong>1. Education and Professional Qualifications:</strong>
+</p>
+<p>• Bachelor’s degree in Business Administration, Organisational Development,
+Education Management, or a related field</p>
+<p>• Minimum of 8-10 years of experience in leading organisational excellence,
+change management, or related roles, preferably with experience in the
+education sector</p>
+<p>• Professional certifications in relevant areas such as Lean Six Sigma,
+Project Management, data analysis would be advantageous</p>
+<p><strong>2. Knowledge and Personal Attributes:</strong>
+</p>
+<p>• A creative thinker and problem solver</p>
+<p>• Exceptional strategic thinking and planning capabilities</p>
+<p>• Proven ability to lead and influence across all organizational levels</p>
+<p>• Expertise in driving change and fostering innovation</p>
+<p>• Strong work ethic and personal integrity</p>
+<p>• Ability to handle confidential information with integrity and discretion</p>
+<p>• Excellent communication (spoken and written) and interpersonal skills
+necessary to build rapport and collaborate effectively with various stakeholders</p>
+<p>• Collaborative team player with excellent interpersonal skills</p>
+<p>• Resilient and able to navigate a complex operating structure</p>
+<p>• Commitment to research and continuous learning</p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Position: &nbsp;School Counsellor</strong>
 </p>
 <p><strong>Duties &amp; Responsibilities</strong>
