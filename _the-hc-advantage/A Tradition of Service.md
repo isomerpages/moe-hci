@@ -22,9 +22,9 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
       <td align="center"><strong>Jek Yeun Thong<br>
       Minister of the founding Singapore cabinet</strong></td>
       <td align="center"><strong>Ng Chee Meng<br>
-      Minister in the Prime Minister’s Office, and Secretary-General of the National Trades Union Congress (NTUC)</strong></td>
+      Secretary-General, NTUC and Former Chief of Air Force</strong></td>
       <td align="center"><strong>Dr Koh Poh Koon<br>
-      Senior Minister of State in the Ministry of Trade &amp; Industry</strong></td>
+      Senior Minister of State, Ministry of Manpower &amp; Ministry of Sustainability and the Environment</strong></td>
     </tr>
   </tbody>
 </table>
@@ -47,9 +47,9 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>Kelvin Khong<br>Chief of Air Force</strong></td>
-      <td align="center"><strong>Goh Si Hou<br>Former Chief of Army. CEO, Public Utilities Board</strong></td>
-      <td align="center"><strong>Aaron Beng<br>Chief of Defense Force</strong></td>
+      <td align="center"><strong>Kelvin Khong<br>Former Chief of Air Force</strong></td>
+      <td align="center"><strong>Goh Si Hou<br>CEO, Public Utilities Board and Former Chief of Army</strong></td>
+      <td align="center"><strong>Aaron Beng<br>Chief of Defence</strong></td>
       <td align="center"><strong>Ye Gang<br>Co-founder of Sea, consumer internet company</strong></td>
     </tr>
   </tbody>
