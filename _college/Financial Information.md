@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h5>School Fees Structure</h5>
 <p><strong><u>School fee rates</u></strong>
-<br><strong>Year 2024 Monthly School Fees</strong>
+<br><strong>Year 2025 Monthly School Fees</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
