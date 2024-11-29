@@ -467,10 +467,10 @@ Fresh applications will have to be submitted for each school year.</p>
 in the month the application is approved. There will be no backdating of
 the effective month.</p>
 <p>Newly admitted students are to submit their ISB application latest by
-end Feb 2024 for ISB subsidy to take effect from Jan 2024.</p>
+end Feb 2025 for ISB subsidy to take effect from Jan 2025.</p>
 <p><strong>Income Criteria and Benefits</strong>
 </p>
-<p>The income limits and benefits for Year 2024 are as shown in the tables
+<p>The income limits and benefits for Year 2025 are as shown in the tables
 below:</p>
 <p>Income Criteria
 <br>(Meet one of the following criteria)</p>
