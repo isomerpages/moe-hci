@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h5>School Fees Structure</h5>
 <p><strong><u>School fee rates</u></strong> 
-<br><strong>Year 2024 Monthly School Fees</strong>
+<br><strong>Year 2025 Monthly School Fees</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -69,13 +69,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$860</p>
+<p>$920</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$910</p>
+<p>$970</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$990</p>
+<p>$1,060</p>
 </td>
 </tr>
 <tr>
@@ -84,13 +84,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,308</p>
+<p>$1,360</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,374</p>
+<p>$1,430</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,592</p>
+<p>$1,660</p>
 </td>
 </tr>
 <tr>
@@ -99,13 +99,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,235</p>
+<p>$2,370</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,289</p>
+<p>$2,430</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,671</p>
+<p>$2,800</p>
 </td>
 </tr>
 </tbody>
@@ -163,23 +163,23 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan-Feb-24</p>
+<p>Jan-Feb-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Mar 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mar-Apr-24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 Apr 2024</p>
+<p>27 Mar 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May till Sep-24</p>
+<p>Mar-Apr-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 Apr 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May till Sep-25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15th day of each month or the next working day if the 15th
@@ -188,26 +188,26 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oct-24</p>
+<p>Oct-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Oct 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov-24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Oct 2024</p>
+<p>01 Oct 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dec-24</p>
+<p>Nov-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Nov 2024</p>
+<p>15 Oct 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dec-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>03 Nov 2025</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan till Sep-24</p>
+<p>Jan till Sep-25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15th day of each month or the next working day if the 15th
@@ -258,26 +258,26 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oct-24</p>
+<p>Oct-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Oct 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov-24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Oct 2024</p>
+<p>01 Oct 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dec-24</p>
+<p>Nov-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Nov 2024</p>
+<p>15 Oct 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dec-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05 Nov 2025</p>
 </td>
 </tr>
 <tr>
@@ -306,6 +306,8 @@ to support our students.</p>
 <p><strong><u>(A)&nbsp;&nbsp; Awards and scholarships offered by MOE:</u></strong>
 </p>
 <p>1 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Scholarships for Students of Independent Schools (ESIS)</a></strong> 
+</p>
+<p>
 <br>2 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards</a></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -363,15 +365,12 @@ are going on eligible overseas trips.</p>
 <p><strong><u>(C)&nbsp; Other Bursary and Scholarship schemes:</u></strong>
 </p>
 <p>1 . Singapore Buddhist Lodge Bursary
-<br>2 . CDAC-SFCCA Bursary
-<br>3 . The Straits Times School Pocket Money Fund
-<br>4 . Koh Brothers Scholarship
-<br>5 . Koh Choon Joo Scholarship
-<br>6 . Tan Sri Dr Tan Chin Tuan Scholarship
-<br>7 . Irene Tan Liang Kheng Scholarship (from Yr 2020)
-<br>8 . Hwa Chong Institution Motivation Award
-<br>9 . Popular Bookshop Text Books Vouchers
-<br>10 . Singapore Buddhist Youth Mission Bursary Award</p>
+<br>2 . The Straits Times School Pocket Money Fund
+<br>3 . Koh Brothers Scholarship
+<br>4 . Koh Choon Joo Scholarship
+<br>5 . Tan Sri Dr Tan Chin Tuan Scholarship
+<br>6 . Irene Tan Liang Kheng Scholarship (from Yr 2020)
+<br>7 . Singapore Buddhist Youth Mission Bursary Award</p>
 <p>Students and parents will be notified of application times on IEMB, ISP
 and other communication channels used by the School.</p>
 <p><strong><u>(D)&nbsp; HCI Awards (through nomination by school):</u></strong>
@@ -379,17 +378,16 @@ and other communication channels used by the School.</p>
 <p>1 . Annie Tan (Mrs Wan Boo Sow) Bilingual Award
 <br>2 . Trilingual Award
 <br>3 . Hwang Fu Award
-<br>4 . Chew Hean Swee Award
-<br>5 . Xue Yong Shu Model Student Award
-<br>6 . Zheng An Lun Model Student Award
-<br>7 . Tooh Fee San All-Round Excellence Award
-<br>8 . Leong Heng Keng Venture Scouts Award
-<br>9 . Leong Heng Keng Boy Scouts Award
-<br>10 . Lee Tai Hui Boy Scouts Award
-<br>11 . Lee Tai Huo Venture Scouts Award
-<br>12 . Top Students Award
-<br>13 . HCI EAGLE Award
-<br>14 . HCI ECHA Award</p>
+<br>4 . Xue Yong Shu Model Student Award
+<br>5 . Zheng An Lun Model Student Award
+<br>6 . Tooh Fee San All-Round Excellence Award
+<br>7 . Leong Heng Keng Venture Scouts Award
+<br>8 . Leong Heng Keng Boy Scouts Award
+<br>9 . Lee Tai Hui Boy Scouts Award
+<br>10 . Lee Tai Huo Venture Scouts Award
+<br>11 . Top Students Award
+<br>12 . HCI EAGLE Award
+<br>13 . HCI ECHA Award</p>
 <h5><strong>MOE Independent School Bursary (ISB) Scheme</strong></h5>
 <p><strong><u>Eligibility Criteria</u></strong>
 </p>
@@ -406,10 +404,10 @@ Fresh applications will have to be submitted for each school year.</p>
 in the month the application is approved. There will be no backdating of
 the effective month.</p>
 <p>Newly admitted students are to submit their ISB application latest by
-end Feb 2024 for ISB subsidy to take effect from Jan 2024.</p>
+end Feb 2025 for ISB subsidy to take effect from Jan 2025.</p>
 <p><strong>Income Criteria and Benefits</strong>
 </p>
-<p>The income limits and benefits for Year 2024 are as shown in the tables
+<p>The income limits and benefits for Year 2025are as shown in the tables
 below:</p>
 <p>Income Criteria
 <br>(Meet one of the following criteria)</p>
