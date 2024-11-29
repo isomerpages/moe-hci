@@ -69,13 +69,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$860</p>
+<p>$920</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$910</p>
+<p>$970</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$990</p>
+<p>$1,060</p>
 </td>
 </tr>
 <tr>
@@ -84,13 +84,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,308</p>
+<p>$1,360</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,374</p>
+<p>$1,430</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,592</p>
+<p>$1,660</p>
 </td>
 </tr>
 <tr>
@@ -99,13 +99,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,235</p>
+<p>$2,370</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,289</p>
+<p>$2,430</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,671</p>
+<p>$2,800</p>
 </td>
 </tr>
 <tr>
@@ -176,23 +176,23 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan-Feb-24</p>
+<p>Jan-Feb-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Mar 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mar-Apr-24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 Apr 2024</p>
+<p>27 Mar 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May till Sep-24</p>
+<p>Mar-Apr-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 Apr 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May till Sep-25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15th day of each month or the next working day if the 15th
@@ -201,26 +201,26 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oct-24</p>
+<p>Oct-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Oct 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov-24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Oct 2024</p>
+<p>01 Oct 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dec-24</p>
+<p>Nov-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Nov 2024</p>
+<p>15 Oct 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dec-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>03 Nov 2025</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan till Sep-24</p>
+<p>Jan till Sep-25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15th day of each month or the next working day if the 15th
@@ -270,26 +270,26 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oct-24</p>
+<p>Oct-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Oct 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov-24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Oct 2024</p>
+<p>01 Oct 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dec-24</p>
+<p>Nov-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Nov 2024</p>
+<p>15 Oct 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dec-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>03 Nov 2025</p>
 </td>
 </tr>
 <tr>
@@ -345,16 +345,28 @@ scholarships and awards are available to support our students.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bicultural Studies Programme (BSP) Scholarship</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-jc" rel="noopener nofollow" target="_blank">Art Elective Programme (AEP)</a>
+</p>
 </li>
 <li>
-<p>Language Elective Scholarship</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/art-elective-scholarship" rel="noopener nofollow" target="_blank">Art Elective Scholarship (AES)</a>
+</p>
 </li>
 <li>
-<p>Art Elective Scholarship</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/bicultural-studies-programme-scholarship" rel="noopener nofollow" target="_blank">Bicultural Studies Programme (BSP) Scholarship</a>
+</p>
 </li>
 <li>
-<p>Humanities Scholarship</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/engineering-and-tech-programme-scholarship" rel="noopener nofollow" target="_blank">Engineering and Tech Programme Scholarship (ETPS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/humanities-scholarship-and-programme" rel="noopener nofollow" target="_blank">Humanities Scholarship</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" rel="noopener nofollow" target="_blank">Language Elective Scholarship</a>
+</p>
 </li>
 </ul>
 <p><strong><u>(B)&nbsp; Financial Assistance Schemes:</u></strong>
@@ -374,8 +386,7 @@ to Asia with a focus on ASEAN countries, school immersion programmes and
 student exchange programmes with a cultural focus. TIE fund needs no application
 and is granted to all Singaporean students who are going on eligible overseas
 trips.</p>
-<p><strong>5 .</strong>&nbsp;&nbsp;<strong><a href="https://www.imda.gov.sg/programme-listing/neu-pc-plus" rel="noopener noreferrer nofollow" target="_blank">IDA’s NEU PC Plus Programme</a></strong>
-</p>
+<p></p>
 <p><strong><u>(C)&nbsp; Other Bursary and Scholarship schemes:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -435,9 +446,6 @@ and other communication channels used by the School.</p>
 </li>
 <li>
 <p>Tan Keong Choon Award</p>
-</li>
-<li>
-<p>Computing @ SMU Award</p>
 </li>
 <li>
 <p>HCI ECHA Award</p>
