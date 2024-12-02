@@ -129,7 +129,7 @@ School Bursary (ISB).</p>
 </p>
 <p>The school fees payable is structured by spreading an annual fee over
 12 months of the academic year.&nbsp; As such, students who join in February
-have to pay fees for January; and those who leave after 5th&nbsp;October
+have to pay fees for January; and those who leave on or after 5<sup>th</sup>&nbsp;October
 will have to pay fees for November and December.</p>
 <p>School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of
 each month; or the next working day if the 15th day of the month falls
@@ -305,9 +305,7 @@ download.</p>
 to support our students.</p>
 <p><strong><u>(A)&nbsp;&nbsp; Awards and scholarships offered by MOE:</u></strong>
 </p>
-<p>1 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Scholarships for Students of Independent Schools (ESIS)</a></strong> 
-</p>
-<p>
+<p>1 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Scholarships for Students of Independent Schools (ESIS)</a></strong>
 <br>2 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards</a></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -364,30 +362,74 @@ fund needs no application and is granted to all Singaporean students who
 are going on eligible overseas trips.</p>
 <p><strong><u>(C)&nbsp; Other Bursary and Scholarship schemes:</u></strong>
 </p>
-<p>1 . Singapore Buddhist Lodge Bursary
-<br>2 . The Straits Times School Pocket Money Fund
-<br>3 . Koh Brothers Scholarship
-<br>4 . Koh Choon Joo Scholarship
-<br>5 . Tan Sri Dr Tan Chin Tuan Scholarship
-<br>6 . Irene Tan Liang Kheng Scholarship (from Yr 2020)
-<br>7 . Singapore Buddhist Youth Mission Bursary Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Buddhist Lodge Bursary</p>
+</li>
+<li>
+<p>The Straits Times School Pocket Money Fund</p>
+</li>
+<li>
+<p>Koh Brothers Scholarship</p>
+</li>
+<li>
+<p>Koh Choon Joo Scholarship</p>
+</li>
+<li>
+<p>Tan Sri Dr Tan Chin Tuan Scholarship</p>
+</li>
+<li>
+<p>Irene Tan Liang Kheng Scholarship (from Yr 2020)</p>
+</li>
+<li>
+<p>Singapore Buddhist Youth Mission Bursary Award</p>
+</li>
+</ul>
 <p>Students and parents will be notified of application times on IEMB, ISP
 and other communication channels used by the School.</p>
 <p><strong><u>(D)&nbsp; HCI Awards (through nomination by school):</u></strong>
 </p>
-<p>1 . Annie Tan (Mrs Wan Boo Sow) Bilingual Award
-<br>2 . Trilingual Award
-<br>3 . Hwang Fu Award
-<br>4 . Xue Yong Shu Model Student Award
-<br>5 . Zheng An Lun Model Student Award
-<br>6 . Tooh Fee San All-Round Excellence Award
-<br>7 . Leong Heng Keng Venture Scouts Award
-<br>8 . Leong Heng Keng Boy Scouts Award
-<br>9 . Lee Tai Hui Boy Scouts Award
-<br>10 . Lee Tai Huo Venture Scouts Award
-<br>11 . Top Students Award
-<br>12 . HCI EAGLE Award
-<br>13 . HCI ECHA Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Annie Tan (Mrs Wan Boo Sow) Bilingual Award</p>
+</li>
+<li>
+<p>Trilingual Award</p>
+</li>
+<li>
+<p>Hwang Fu Award</p>
+</li>
+<li>
+<p>Xue Yong Shu Model Student Award</p>
+</li>
+<li>
+<p>Zheng An Lun Model Student Award</p>
+</li>
+<li>
+<p>Tooh Fee San All-Round Excellence Award</p>
+</li>
+<li>
+<p>Leong Heng Keng Venture Scouts Award</p>
+</li>
+<li>
+<p>Leong Heng Keng Boy Scouts Award</p>
+</li>
+<li>
+<p>Lee Tai Hui Boy Scouts Award</p>
+</li>
+<li>
+<p>Lee Tai Huo Venture Scouts Award</p>
+</li>
+<li>
+<p>Top Students Award</p>
+</li>
+<li>
+<p>HCI EAGLE Award</p>
+</li>
+<li>
+<p>HCI ECHA Award</p>
+</li>
+</ul>
 <h5><strong>MOE Independent School Bursary (ISB) Scheme</strong></h5>
 <p><strong><u>Eligibility Criteria</u></strong>
 </p>
