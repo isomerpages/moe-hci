@@ -143,7 +143,7 @@ School Bursary (ISB).</p>
 </p>
 <p>The school fees payable is structured by spreading an annual fee over
 12 months of the academic year.&nbsp; As such, students who join in February
-have to pay fees for January; and those who leave after 5th&nbsp;October
+have to pay fees for January; and those who leave on or after 5<sup>th</sup>&nbsp;October
 will have to pay fees for November and December.</p>
 <p>School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of
 each month; or the next working day if the 15th day of the month falls
