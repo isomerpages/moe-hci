@@ -298,7 +298,14 @@ tools and content management systems (eg. WordPress)</p>
 <p></p>
 <p><strong>Position: Assistant Manager of Human Resources</strong>
 </p>
-<p><strong><u>Job Descriptions:</u></strong>
+<p>This role focuses on building and executing effective hiring strategies
+to enhance talent competencies and strengthen the organization's employer
+brand. It involves close collaboration with key stakeholders on workforce
+planning, recruitment, onboarding, retention, and knowledge management.
+Additionally, the role requires driving and implementing transformation
+and improvement initiatives to optimize HR processes and outcomes.</p>
+<p></p>
+<p><strong>Duties &amp; Responsibilities:</strong>
 </p>
 <p><strong>Hiring Strategies:</strong>
 </p>
@@ -310,56 +317,129 @@ organizational goals.</p>
 the candidate experience.</p>
 <p><strong>Stakeholder Collaboration:</strong>
 </p>
-<p>·&nbsp;&nbsp;Partner with department heads and other key stakeholders
-(including MOE) to understand workforce requirements and plan hiring activities
-accordingly.</p>
-<p>·&nbsp;&nbsp;Collaborate on workforce planning initiatives to ensure a
-balanced talent pipeline.</p>
-<p>·&nbsp;&nbsp;Support hiring managers in making informed recruitment decisions.</p>
+<p>·&nbsp;&nbsp;Partner with department heads and stakeholders, including
+the Ministry of Education (MOE), to understand workforce requirements and
+plan hiring activities.</p>
+<p>·&nbsp;&nbsp;Collaborate on workforce planning to ensure a balanced and
+sustainable talent pipeline.</p>
+<p>·&nbsp;&nbsp;Support hiring managers with insights to make informed recruitment
+decisions.</p>
 <p><strong>Recruitment and Selection:</strong>
 </p>
-<p>·&nbsp;&nbsp;Manage the end-to-end recruitment process, including sourcing,
-interviewing, and negotiating offers with candidates.</p>
-<p>·&nbsp;&nbsp;Maintain a pipeline of qualified candidates for current and
-future hiring needs.</p>
-<p>·&nbsp;&nbsp;Utilize innovative sourcing methods and maintain a presence
-across relevant talent pools.</p>
-<p>Employee Onboarding &amp; Retention:</p>
+<p>·&nbsp;&nbsp;Coordinate the onboarding process to ensure a smooth transition
+for new hires..</p>
+<p>·&nbsp;&nbsp;Develop and implement retention strategies to improve employee
+engagement and reduce turnover.</p>
+<p>·&nbsp;&nbsp;Foster a welcoming and inclusive workplace that promotes
+long-term satisfaction and growth.</p>
+<p><strong>Employee Onboarding &amp; Retention:</strong>
+</p>
 <p>·&nbsp;&nbsp;Coordinate the onboarding process to ensure a smooth transition
 for new hires.</p>
 <p>·&nbsp;&nbsp;Develop retention strategies to reduce turnover and improve
 employee engagement and satisfaction.</p>
 <p><strong>Transformation and Improvement Projects:</strong>
 </p>
-<p>·&nbsp;&nbsp;Lead or contribute to HR transformation and improvement initiatives,
+<p>·&nbsp;Lead or contribute to HR transformation and improvement initiatives,
 aimed at optimizing talent acquisition processes.</p>
 <p>·&nbsp;&nbsp;Implement tools and technology to improve hiring efficiency
 and effectiveness.</p>
-<p>·&nbsp;&nbsp;Own the Appraisal Knowledge Management and act as the champion
-for the module.</p>
-<p></p>
 <p><strong>HR Operations:</strong>
 </p>
 <p>·&nbsp;&nbsp;Manage WICA and Work Pass applications</p>
-<p>·&nbsp;&nbsp;Prompt review of SOPs and update as needed.</p>
-<p>Ad-hoc Hosting Events:</p>
-<p>·&nbsp;&nbsp;Opportunity to host external guests and visitors on a needs
-basis</p>
-<p></p>
+<p>·&nbsp;&nbsp;Regularly review and update SOPs for relevance and compliance.</p>
+<p><strong>Ad-hoc Hosting Events:</strong>
+</p>
+<p>·&nbsp;&nbsp;Host and represent the organization for external gusts and
+visitors when required.</p>
+<p><strong>Why Join Us?</strong>
+</p>
+<p>·&nbsp;&nbsp;<strong>Purpose-Driven Work:</strong>&nbsp;Play a vital role
+in shaping Singapore’s next generation of leaders by ensuring the institution
+attracts and retains the best talent.</p>
+<p>·&nbsp;&nbsp;<strong>Growth Opportunities:</strong>&nbsp;Gain exposure
+to transformative HR projects that challenge and develop your skills.</p>
+<p>·&nbsp;<strong>Dynamic Team Environment:</strong>&nbsp;Work alongside
+dedicated professionals who share your passion for impact and innovation.</p>
+<p>·&nbsp;&nbsp;<strong>Rewarding Culture:</strong>&nbsp;Be part of an organization
+that values creativity, collaboration, and continuous improvement in the
+education landscape.</p>
 <p><strong>Requirements:</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;A good Degree in HR or any discipline</p>
-<p>·&nbsp;&nbsp;&nbsp;Strong knowledge in Talent Acquisition / HR Business
-Partnering is preferred</p>
-<p>·&nbsp;&nbsp;&nbsp;Candidates should have 2-3 years managerial experience.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;People-oriented with strong verbal and written
-communication skills</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;Highly motivated, meticulous, independent and
-adaptable to change</p>
+<p>·&nbsp;&nbsp;&nbsp;Candidates should have 2-3 years supervisory experience.</p>
+<p>·&nbsp;&nbsp;&nbsp;People-oriented with strong verbal and written communication
+skills</p>
+<p>·&nbsp;&nbsp;&nbsp;Highly motivated, meticulous, independent and adaptable
+to change</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;Excellent communication, organizational and interpersonal
 skills</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abreast with current employment legislations
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;Abreast with current employment legislations
 and HR practices.</p>
+<p></p>
+<p><strong>Senior Boarding Executive / Boarding Executive</strong>
+</p>
+<p>The Boarding Executive plays a pivotal role within the boarding school
+community, collaborating with the boarding management team to ensure smooth
+daily operations, foster a positive living environment, and support the
+holistic development of students.</p>
+<p></p>
+<p><strong>Key Responsibilities</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp; <strong>Student Care &amp; Development</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;Promote self-discipline and effective time management
+among boarders.</p>
+<p>·&nbsp;&nbsp;&nbsp;Provide care and guidance to nurture students' social
+and emotional growth.</p>
+<p>·&nbsp;&nbsp;&nbsp;Create a supportive atmosphere for academic and personal
+development.</p>
+<p>·&nbsp;&nbsp;&nbsp;Equip students with essential life skills, including
+conflict resolution, independence, and character building.</p>
+<p>·&nbsp;&nbsp;&nbsp;Cultivate a sense of belonging through active engagement
+in programs and activities.</p>
+<p>2.&nbsp;&nbsp;&nbsp; <strong>Operational Management</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;Build trusting relationships with students and address
+their concerns.</p>
+<p>·&nbsp;&nbsp;&nbsp;Maintain discipline, safety, and security within the
+boarding community.</p>
+<p>·&nbsp;&nbsp;&nbsp;Act as a liaison between parents, teachers, and assigned
+students.</p>
+<p>·&nbsp;&nbsp;&nbsp;Plan and lead boarding programs and activities to enhance
+the boarding experience..</p>
+<p>·&nbsp;&nbsp;&nbsp;Handle administrative tasks, including record-keeping
+and communication.</p>
+<p>3.&nbsp;&nbsp;&nbsp; <strong>Facilities &amp; Routine Oversight</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;Conduct regular room and hygiene checks and follow
+up on any issues.</p>
+<p>·&nbsp;&nbsp;&nbsp;Manage reception duties as needed.</p>
+<p>·&nbsp;&nbsp;Provide operational support during weekends, school holidays,
+and public holidays, including night shifts.</p>
+<p>4.&nbsp;&nbsp;&nbsp; <strong>Additional Responsibilities</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;Undertake ad hoc tasks and other responsibilities as
+assigned by the Reporting Officer.</p>
+<p><strong>Qualifications &amp; Requirements</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;Minimum diploma holder.</p>
+<p>·&nbsp;&nbsp;&nbsp;Strong interpersonal skills, with empathy for students
+and the ability to manage job demands.</p>
+<p>·&nbsp;&nbsp;&nbsp;Proficiency in English (written and spoken) and Mandarin
+(spoken) to communicate effectively with Mandarin-speaking stakeholders.</p>
+<p>·&nbsp;&nbsp;&nbsp;Organized, detail-oriented, and adept at multitasking.</p>
+<p>·&nbsp;&nbsp;&nbsp;Experience in boarding services, youth mentorship,
+or similar fields is preferred.</p>
+<p>·&nbsp;&nbsp;&nbsp;Additional certifications (e.g., first aid) counselling
+or mentoring experience are advantageous.</p>
+<p>·&nbsp;&nbsp;&nbsp;Willingness to reside on campus and work night shifts
+during weekdays and weekends.</p>
+<p><strong>Ideal Candidate Profile</strong>
+</p>
+<p>A compassionate, disciplined, and resourceful individual dedicated to
+fostering a nurturing and structured environment where students can thrive
+academically, socially, and emotionally.</p>
 <p></p>
 <p><strong>If you thrive on working in a dynamic and innovative environment, please submit your detailed CV, supporting documents and expected remuneration to</strong>
 </p>
