@@ -114,13 +114,13 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
         <img style="width: 100%;" src="/images/tradition17.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/tradition.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Chew_Shou_Zi.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/tradition.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Kenneth_Mak.png">
       </td>
       <td style="width: 22%; margin-right: 0;">
-        <img style="width: 100%;" src="/images/tradition.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Chee_Hong_Tat.jpg">
       </td>
     </tr>
     <tr>
@@ -136,16 +136,16 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/tradition.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/baey_yam_keng.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/tradition.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Liang_Wern_Fook.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/tradition.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Grace_Fu.jpg">
       </td>
       <td style="width: 22%; margin-right: 0;">
-        <img style="width: 100%;" src="/images/tradition.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Tan_Su_Shan.jpg">
       </td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
   <tbody>
     <tr>
       <td style="width: 33%; margin-left: 15px; text-align: center;">
-        <img style="width: 100%;" src="/images/tradition.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Sharon_Au.jpg">
         <br>
         <strong>Sharon Au<br>Former actress and host</strong>
       </td>
