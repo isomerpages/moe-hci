@@ -107,14 +107,64 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
   </tbody>
 </table>
 
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/tradition17.jpg">
+      </td>
+      <td style="width: 25%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Chew_Shou_Zi.png">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Kenneth_Mak.png">
+      </td>
+      <td style="width: 22%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Chee_Hong_Tat.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tan Swie Hian<br>Multi-disciplinary artist</strong></td>
+      <td align="center"><strong>Chew Shou Zi<br>CEO, TikTok</strong></td>
+      <td align="center"><strong>Professor Kenneth Mak<br>Director-General of Health</strong></td>
+      <td align="center"><strong>Chee Hong Tat<br>Minister for Transport and Second Minister for Finance</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="table-layout: fixed; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/baey_yam_keng.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Liang_Wern_Fook.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Grace_Fu.jpg">
+      </td>
+      <td style="width: 25%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Tan_Su_Shan.png">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Baey Yam Keng<br>Senior Parliamentary Secretary, Ministry of Sustainability and the Environment &amp; Ministry of Transport</strong></td>
+      <td align="center"><strong>Dr Liang Wern Fook<br>Award-winning writer, musician, singer and researcher in Chinese literature and pedagogy</strong></td>
+      <td align="center"><strong>Grace Fu<br>Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations</strong></td>
+      <td align="center"><strong>Tan Su Shan<br>Deputy CEO , Group Head, Institutional Banking, DBS</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <table style="table-layout: fixed; width: 50%;">
   <tbody>
     <tr>
-      <td style="width: 33%; margin-left: 15px; text-align: center;">
-        <img style="width: 100%;" src="/images/tradition17.jpg">
+      <td style="width: 40%; margin-left: 15px; text-align: center;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Sharon_Au.png">
         <br>
-        <strong>Tan Swie Hian<br>Multi-disciplinary artist</strong>
+        <strong>Sharon Au<br>Former actress and host</strong>
       </td>
       <td style="width: 33%; margin-left: 15px; text-align: center;">
         
