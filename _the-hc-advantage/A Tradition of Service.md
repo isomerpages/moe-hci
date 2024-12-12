@@ -113,8 +113,8 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/tradition17.jpg">
       </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Alumni/Chew_Shou_Zi.jpg">
+      <td style="width: 25%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Chew_Shou_Zi.png">
       </td>
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Alumni/Kenneth_Mak.png">
@@ -144,8 +144,8 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Alumni/Grace_Fu.jpg">
       </td>
-      <td style="width: 22%; margin-right: 0;">
-        <img style="width: 100%;" src="/images/About%20Us/Alumni/Tan_Su_Shan.jpg">
+      <td style="width: 25%; margin-right: 0;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Tan_Su_Shan.png">
       </td>
     </tr>
     <tr>
@@ -161,8 +161,8 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 <table style="table-layout: fixed; width: 50%;">
   <tbody>
     <tr>
-      <td style="width: 33%; margin-left: 15px; text-align: center;">
-        <img style="width: 100%;" src="/images/About%20Us/Alumni/Sharon_Au.jpg">
+      <td style="width: 40%; margin-left: 15px; text-align: center;">
+        <img style="width: 100%;" src="/images/About%20Us/Alumni/Sharon_Au.png">
         <br>
         <strong>Sharon Au<br>Former actress and host</strong>
       </td>
