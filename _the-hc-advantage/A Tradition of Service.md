@@ -161,7 +161,7 @@ Hwa Chongians are empowered to excel not just Academically, but also in all othe
 <table style="table-layout: fixed; width: 50%;">
   <tbody>
     <tr>
-      <td style="width: 40%; margin-left: 15px; text-align: center;">
+      <td style="width: 32%; margin-left: 15px; text-align: center;">
         <img style="width: 100%;" src="/images/About%20Us/Alumni/Sharon_Au.png">
         <br>
         <strong>Sharon Au<br>Former actress and host</strong>
