@@ -46,7 +46,7 @@ also required to complete and submit the form by the same deadline.</p>
 </ul>
 <p>
 <br>For students who wish to submit an <strong>appeal</strong>, please access
-the following link: <a href="https://go.gov.sg/hci-appeal2024" rel="noopener noreferrer nofollow" target="_blank">https</a><a href="https://go.gov.sg/sec1-reg-2025" rel="noopener noreferrer nofollow" target="_blank">://go.gov.sg/hci-appeal2024</a>.
+the following link: <a href="https://go.gov.sg/hci-appeal2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hci-appeal2024</a>.
 Do note that students who wish to appeal to HCI need to meet the school's <strong>Cut-Off Points (COP)</strong>.
 Places for appeal are subject to the school's vacancies.
 <br>
