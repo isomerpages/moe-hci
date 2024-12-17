@@ -4,14 +4,13 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: "To all P6 Graduands: Congratulations on completing your primary
-  school milestone!"
+notification: Welcome to HCI, our new Secondary One Hwa Chongians!
 sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: center
       button: click here for more info
-      url: /to-all-p6-graduands-congratulations-on-completing-your-primary-school-milestone/
+      url: /welcome-to-hci-our-new-secondary-one-hwa-chongians/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
