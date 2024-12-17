@@ -11,7 +11,9 @@ variant: tiptap
 as you begin this exciting new chapter of your educational journey.
 <br>
 <br>To ensure a smooth transition, please complete the Secondary One Registration
-by accessing the following link: <a href="https://go.gov.sg/sec1-reg-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1-reg-2025.<br><br></a><strong><a href="https://go.gov.sg/sec1-reg-2025" rel="noopener noreferrer nofollow" target="_blank">Important</a> Details:</strong>
+by accessing the following link: <a href="https://go.gov.sg/sec1-reg-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1-reg-2025.</a>
+</p>
+<p><strong>Important Details:</strong>
 <br>
 <br>
 </p>
