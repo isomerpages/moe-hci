@@ -15,7 +15,6 @@ by accessing the following link: <a href="https://go.gov.sg/sec1-reg-2025" rel="
 </p>
 <p><strong>Important Details:</strong>
 <br>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -29,11 +28,7 @@ by accessing the following link: <a href="https://go.gov.sg/sec1-reg-2025" rel="
 also required to complete and submit the form by the same deadline.</p>
 </li>
 </ul>
-<p>
-<br>The link contains essential information, including:
-<br>
-<br>
-</p>
+<p>The link contains essential information, including:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary One Orientation details</p>
@@ -55,5 +50,7 @@ the following link: <a href="https://go.gov.sg/sec1-reg-2025" rel="noopener nore
 Do note that students who wish to appeal to HCI need to meet the school's <strong>Cut-Off Points (COP)</strong>.
 Places for appeal are subject to the school's vacancies.
 <br>
-<br>We look forward to seeing you soon and supporting you as you become part
+</p>
+<p>We look forward to seeing you soon and supporting you as you become part
 of the vibrant Hwa Chong community!</p>
+<p></p>
