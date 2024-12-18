@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: center
-      button: click here for more info
+      button: Click here for Sec 1 Registration
       url: /welcome-to-hci-our-new-secondary-one-hwa-chongians/
   - infobar:
       title: ADMISSION & STUDIES
