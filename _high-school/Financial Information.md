@@ -614,6 +614,8 @@ via DSA and/or ESIS recipients</p>
 </p>
 <p><strong>Click to download the 2025 ISB Application Form</strong>  <strong><a href="/files/MOE_ISB_Application_Form_2025_HS_new.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
 </p>
+<p><strong>Click here to apply the 2025 ISB Application Online <a href="https://form.gov.sg/66fe36e777e924056c03ee43" rel="noopener nofollow" target="_blank">Here</a></strong>
+</p>
 <p>Students need only satisfy either the monthly Gross Household Income (GHI)
 or the PCI criterion to qualify for ISB. More information can be found
 in the Annex I of the ISB Application Form.</p>
