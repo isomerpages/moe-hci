@@ -17,7 +17,7 @@ by accessing the following link:&nbsp;<a href="https://go.gov.sg/sec1-reg2025" r
 <br>
 </p>
 <p>Complete the registration by <strong>20 Dec 2024 (Fri), 5:00 pm</strong>.
-(Please note that registration has closed.)</p>
+(<strong>Please note that registration has closed.</strong>)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The form will take approximately <strong>15 to 20 minutes</strong> to complete.</p>
