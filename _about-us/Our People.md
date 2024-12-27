@@ -33,7 +33,7 @@ variant: markdown
 			<td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_6.png">
         <br>
-        <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal / Admin<br>副校长</strong>
+        <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal (Admin)<br>副校长</strong>
       </td>
       <td style="width: 23%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_4.png">
