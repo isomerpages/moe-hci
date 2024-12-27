@@ -8,6 +8,10 @@ description: ""
 | -------- | -------- | -------- |
 |      | <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center>  |      |
 
+|![](/images/About%20Us/Our%20People/thianwaneng.png) |![](/images/About%20Us/Our%20People/thianwaneng.png) |![](/images/About%20Us/Our%20People/thianwaneng.png) |![](/images/About%20Us/Our%20People/thianwaneng.png)|![](/images/About%20Us/Our%20People/thianwaneng.png)|
+| -------- | -------- | -------- | -------- | -------- |
+| <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center>  | <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center>  |  <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center> |  <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center> | <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center>  |
+
 
 
 <center><img style="width: 30%;" src="/images/About%20Us/Our%20People/peoplev2_2.png"></center>
