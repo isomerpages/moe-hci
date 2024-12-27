@@ -8,11 +8,11 @@ variant: markdown
 
 <table>
   <tbody><tr>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
-		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
-		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/ckl.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/grace.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/cheryl.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/ml.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/deborah.png"></th>
   </tr>
   <tr>
     <td><strong>Mr Lee Peck Ping <br>李白彬<br> Principal<br>校长 
@@ -151,4 +151,3 @@ variant: markdown
       </td>	
           </tr></tbody>
 </table>
-
