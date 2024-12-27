@@ -46,39 +46,44 @@ variant: markdown
 </table>
 
 <table>
+	</table><table style="table-layout: fixed; width: 100%;">
   <tbody><tr>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ckl.png"></th>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208grace.png"></th>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208cheryl.png"></th>
-		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ml.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208hup.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208twe.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208clarinda.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208joseph.png"></th>
 		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/deborah.png"></th>
   </tr>
   <tr>
-    <td><strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal (High School)<br>副校长 </strong>
+    <td><strong>Dr Chia Hui Peng <br>谢慧萍<br> Dean / Studies &amp; Research<br>处长</strong>
 </td>
-		<td><strong>Ms Grace Ho Ping Ping<br>何冰冰<br>Deputy Principal (High School)<br>副校长 </strong></td>
-		<td> <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal (Admin)<br>副校长</strong></td>
-		<td><strong>Dr Melvyn Lim <br>林丰成<br> Deputy Principal (College) <br>副校长</strong></td>
-		<td><strong>Ms How Lai Yin Deborah <br>侯丽燕<br> Deputy Principal (College)<br>副校长</strong></td>
+		<td><strong>Ms Thian Wan Eng <br> 程婉莹<br>School Staff Developer<br>教职员培训</strong></td>
+		<td> <strong>Ms Clarinda Choh <br> 邹淑君<br>Director Engagement &amp; Partnerships<br>科长</strong>
+</td>
+		<td><strong>Mr Tan Yeow Heng Joseph <br>陈耀兴<br> Director School Safety &amp; Boarding School<br>科长</strong></td>
+		<td><strong>Miss Wong Hwee Ming <br>黄晖敏<br> Director Well-Being (College)<br>科长</strong></td>
 		</tr>
 </tbody>
 </table>
 
 <table>
+	</table><table style="table-layout: fixed; width: 100%;">
   <tbody><tr>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ckl.png"></th>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208grace.png"></th>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208cheryl.png"></th>
-		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ml.png"></th>
-		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/deborah.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ccw.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208charles.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208lla.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208jean.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208elisa.png"></th>
   </tr>
   <tr>
-    <td><strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal (High School)<br>副校长 </strong>
+    <td><strong>Dr Chow Chiu Wai <br>周钊纬<br>Director  Education Technology<br>科长</strong>
+
 </td>
-		<td><strong>Ms Grace Ho Ping Ping<br>何冰冰<br>Deputy Principal (High School)<br>副校长 </strong></td>
-		<td> <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal (Admin)<br>副校长</strong></td>
-		<td><strong>Dr Melvyn Lim <br>林丰成<br> Deputy Principal (College) <br>副校长</strong></td>
-		<td><strong>Ms How Lai Yin Deborah <br>侯丽燕<br> Deputy Principal (College)<br>副校长</strong></td>
+		<td><strong>Mr Low Boon Ann Charles <br>刘文安<br> Director Well-Being (High School)<br>科长</strong></td>
+		<td> <strong>Ms Lee Li Ann <br>李莉安<br>Director Finance <br>科长</strong></td>
+		<td><strong>Ms Jean Tan Lay Eng<br>陈丽英<br>Director Human Resource <br>科长</strong></td>
+		<td><strong>Ms Elisabeth Oh <br>李莉安<br>Director <br>Organisational<br> Excellence <br>科长</strong>
+</td>
 		</tr>
 </tbody>
 </table>
@@ -90,23 +95,3 @@ variant: markdown
 
 
 
-<table style="table-layout: fixed; width: 100%;">
-  <tbody>
-    <tr>
-			      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
-        <br>
-        <strong> <br><br><br></strong>
-      </td>
-			    <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
-        <br>
-        <strong>  <br><br> <br></strong>
-      </td>			
-			    <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
-        <br>
-        <strong> <br> </strong>
-      </td>	
-          </tr></tbody>
-</table>
