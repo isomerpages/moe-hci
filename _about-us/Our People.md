@@ -134,10 +134,10 @@ variant: markdown
           </tr></tbody>
 </table>
 
-|  |<img style="width: 30%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"> |  |
-| -------- | -------- | -------- |
-|      | <center><strong>Mr Lee Peck Ping &nbsp;  李白彬<br>Principal &nbsp; 校长</strong></center>  |      |
+|  |<img style="width: 30%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"> |  ||  |  
+| -------- | -------- | -------- |-------- |-------- |
+|      | <center><strong>Mr Lee Peck Ping &nbsp;  李白彬<br>Principal &nbsp; 校长</strong></center>  |      |      |      |
 
-|![](/images/About%20Us/Our%20People/ckl.png)  |![](/images/About%20Us/Our%20People/peoplev2_5.png) |![](/images/About%20Us/Our%20People/thianwaneng.png) |![](/images/About%20Us/Our%20People/thianwaneng.png)|![](/images/About%20Us/Our%20People/thianwaneng.png)|
+|![](/images/About%20Us/Our%20People/ckl.png)  |![](/images/About%20Us/Our%20People/peoplev2_5.png) |![](/images/About%20Us/Our%20People/peoplev2_6.png) |![](/images/About%20Us/Our%20People/thianwaneng.png)|![](/images/About%20Us/Our%20People/thianwaneng.png)|
 | -------- | -------- | -------- | -------- | -------- |
-|<strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal High School<br>副校长 </strong>|<strong>Ms Grace Ho Ping Ping<br>何冰冰<br> Deputy Principal High School<br>副校长 </strong>  |  <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center> |  <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center> | <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center>  |
+|<strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal High School<br>副校长 </strong>|<strong>Ms Grace Ho Ping Ping<br>何冰冰<br> Deputy Principal High School<br>副校长 </strong>  |  <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal<br>Administration<br>副校长 </strong> |  <strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong> | <strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong>  |
