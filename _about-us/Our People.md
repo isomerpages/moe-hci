@@ -5,6 +5,24 @@ description: ""
 variant: markdown
 ---
 ##### Our People
+
+<table>
+  <tbody><tr>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
+  </tr>
+  <tr>
+    <td><strong>Mr Lee Peck Ping <br>李白彬<br> Principal<br>校长 
+    </strong></td><td><strong>Mr Lee Peck Ping <br>李白彬<br> Principal<br>校长 
+    </strong></td><td><strong>Mr Lee Peck Ping <br>李白彬<br> Principal<br>校长 
+		</strong></td><td><strong>Mr Lee Peck Ping <br>李白彬<br> Principal<br>校长 
+		</strong></td><td><strong>Mr Lee Peck Ping <br>李白彬<br> Principal<br>校长 
+  </strong></td></tr>
+</tbody></table>
+
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
@@ -134,14 +152,3 @@ variant: markdown
           </tr></tbody>
 </table>
 
-|  |  | <img style="width: 30%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"> <center><strong>Mr Lee Peck Ping   李白彬<br>Principal &nbsp; 校长</strong></center> |  |  |  
-| -------- | -------- | -------- |-------- |-------- |
-|      |    |   |  |   |
-
-|![](/images/About%20Us/Our%20People/ckl.png)  |![](/images/About%20Us/Our%20People/grace.png) |<img style="width: 85%;" src="/images/About%20Us/Our%20People/cheryl.png"> |![](/images/About%20Us/Our%20People/ml.png)  |![](/images/About%20Us/Our%20People/deborah.png) |
-| -------- | -------- | -------- | -------- | -------- |
-|<strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal High School<br>副校长 </strong>|<strong>Ms Grace Ho Ping Ping<br>何冰冰<br> Deputy Principal High School<br>副校长 </strong>  |  <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal<br>Administration<br>副校长 </strong> |  <strong>Dr Melvyn Lim<br>林丰成 <br>Deputy Principal<br>副校长   </strong> | <strong>Ms How Lai Yin Deborah<br>Deputy Principal <br>侯丽燕<br>副校长   </strong>  |
-
-|<img style="width: 290px;" src="/images/About%20Us/Our%20People/ckl.png"> |![](/images/About%20Us/Our%20People/peoplev2_5.png) |<img style="width: 86px;" src="/images/About%20Us/Our%20People/peoplev2_6.png"> |<img style="width: 340px;" src="/images/About%20Us/Our%20People/peoplev2_4.png">|<img style="width: 300px;" src="/images/About%20Us/Our%20People/peoplev2_13.png">|
-| -------- | -------- | -------- | -------- | -------- |
-|<strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal High School<br>副校长 </strong>|<strong>Ms Grace Ho Ping Ping<br>何冰冰<br> Deputy Principal High School<br>副校长 </strong>  |  <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal<br>Administration<br>副校长 </strong> |  <strong>Dr Melvyn Lim<br>林丰成 <br>Deputy Principal<br>副校长   </strong> | <strong>Ms How Lai Yin Deborah<br>Deputy Principal <br>侯丽燕<br>副校长   </strong>  |
