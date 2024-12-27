@@ -200,9 +200,6 @@ services to the school. However, the School Counsellor is also an integral
 member of the Student Development Team, and would be actively involved
 in the programmes pertaining to students’ affective development.</p>
 <hr>
-<p>
-<br>
-</p>
 <p><strong><u>Position: Assistant Manager of Human Resources</u></strong>
 </p>
 <p>This role focuses on building and executing effective hiring strategies
