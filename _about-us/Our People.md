@@ -8,10 +8,10 @@ variant: markdown
 
 <table>
   <tbody><tr>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/ckl.png"></th>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/grace.png"></th>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/cheryl.png"></th>
-		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/ml.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ckl.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208grace.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208cheryl.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ml.png"></th>
 		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/deborah.png"></th>
   </tr>
   <tr>
