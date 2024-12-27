@@ -10,7 +10,7 @@ variant: markdown
 <table>
   <tbody><tr>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png"></th>
-    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
+    <th><img style="width: 80%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png"></th>
   </tr>
   <tr>
