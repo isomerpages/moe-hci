@@ -103,8 +103,8 @@ variant: markdown
         <br>
         <strong>Ms Jean Tan Lay Eng<br>陈丽英<br>Director Human Resource <br>科长</strong>
       </td>
-			<td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_9.png">
+			<td style="width: 23%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Our%20People/ohyianyianelisabeth.png">
         <br>
         <strong>Ms Elisabeth Oh <br>李莉安<br>Director <br>Organisational<br> Excellence <br>科长</strong>
       </td>
