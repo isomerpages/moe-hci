@@ -64,6 +64,24 @@ variant: markdown
 </tbody>
 </table>
 
+<table>
+  <tbody><tr>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ckl.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208grace.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208cheryl.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ml.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/deborah.png"></th>
+  </tr>
+  <tr>
+    <td><strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal (High School)<br>副校长 </strong>
+</td>
+		<td><strong>Ms Grace Ho Ping Ping<br>何冰冰<br>Deputy Principal (High School)<br>副校长 </strong></td>
+		<td> <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal (Admin)<br>副校长</strong></td>
+		<td><strong>Dr Melvyn Lim <br>林丰成<br> Deputy Principal (College) <br>副校长</strong></td>
+		<td><strong>Ms How Lai Yin Deborah <br>侯丽燕<br> Deputy Principal (College)<br>副校长</strong></td>
+		</tr>
+</tbody>
+</table>
 
 
 
