@@ -13,14 +13,14 @@ variant: markdown
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png">
 			<strong></strong><center><strong>Mr Lee Peck Ping <br>李白彬<br> Principal <br>校长 </strong></center></th>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png"></th>
-  </tr>
+		</tr>
   <tr>
     <td></td>
 		<td></td>
-		<td> </td>
-		</tr>
+		
 
-</tbody>
+
+</tr></tbody>
 </table>
 
 
