@@ -20,7 +20,7 @@ variant: markdown
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
-      <td style="width: 22%; margin-right: 15px;">
+      <td style="width: 23%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_2.png">
         <br>
         <strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal (High School)<br>副校长 </strong>
@@ -35,7 +35,7 @@ variant: markdown
         <br>
         <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal / Admin<br>副校长</strong>
       </td>
-      <td style="width: 22%; margin-right: 15px;">
+      <td style="width: 23%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_4.png">
         <br>
         <strong>Dr Melvyn Lim <br>林丰成<br> Deputy Principal (College) <br>副校长</strong>
