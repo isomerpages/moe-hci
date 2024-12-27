@@ -14,7 +14,62 @@ is seeking high achieving individuals who are excited about education to
 join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
-<p><strong>Position: &nbsp;Director, Organisational Excellence</strong>
+<hr>
+<p><strong><u>HR Officer (Temp) – 5 months</u></strong>
+</p>
+<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
+</p>
+<p>1. Staff Development and Training</p>
+<p>• Coordinate and process staff training programs, including course registration,
+payments, and account setup (e.g., Opal platform).</p>
+<p>• Support and organize key staff engagement events, such as the EAS Townhall
+and leadership workshops.</p>
+<p>2. Recruitment and Onboarding</p>
+<p>• Manage job postings and candidate shortlisting for various roles.</p>
+<p>• Coordinate interviews with hiring managers, senior leaders, and stakeholders.</p>
+<p>• Conduct reference checks and ensure all required documents are completed
+for successful candidates.</p>
+<p>• Facilitate the Ministry of Education (MOE) Open Posting Exercise.</p>
+<p>3. Employee Benefits and Insurance</p>
+<p>• Maintain accurate staff insurance records and liaise with brokers on
+updates and claims.</p>
+<p>• Assist staff with insurance claims processes, ensuring smooth communication
+with providers and timely submission of necessary documents.</p>
+<p>• Address staff inquiries and guide them on claims-related matters.</p>
+<p>4. Awards and Recognition Programs</p>
+<p>• Manage award nomination processes and prepare materials, including certificates
+and</p>
+<p>presentations, for recipients.</p>
+<p>• Oversee award-related payments and coordinate with vendors to source
+suitable gifts.</p>
+<p>5. HR Operations and Claims Management</p>
+<p>• Process employee claims (medical, dental, transport) and verify reimbursement
+reports.</p>
+<p>• Collaborate with external vendors to streamline claims processing and
+resolve issues.</p>
+<p>• Respond to staff inquiries and improve administrative efficiency for
+HR processes.</p>
+<p>6. Event Planning and Coordination</p>
+<p>• Organize and coordinate key school events, including the Teachers’ Day
+Lunch, ensuring seamless execution.</p>
+<p>• Prepare materials, such as scripts and certificates, and manage event
+logistics.</p>
+<p>7. General HR Administration</p>
+<p>• Manage staff passes, including synchronization and issuance.</p>
+<p>• Support school initiatives, such as study subsidies and meeting arrangements,
+ensuring timely follow-through.</p>
+<p><strong>REQUIREMENTS:</strong>
+</p>
+<p>• Admin/HR Diploma or equivalent qualification</p>
+<p>• Prior experience working in Administration or HR department</p>
+<p>We’re looking for someone who is:</p>
+<p>Organized and Efficient</p>
+<p>A Great Communicator</p>
+<p>Proactive and Resourceful</p>
+<p></p>
+<hr>
+<p></p>
+<p><strong><u>Position: &nbsp;Director Organisational Excellence</u></strong>
 </p>
 <p>The Director of Organisational Excellence is responsible for developing
 and implementing strategies to enhance overall organisational performance
@@ -97,9 +152,9 @@ necessary to build rapport and collaborate effectively with various stakeholders
 <p>• Resilient and able to navigate a complex operating structure</p>
 <p>• Commitment to research and continuous learning</p>
 <p></p>
+<hr>
 <p></p>
-<p></p>
-<p><strong>Position: &nbsp;School Counsellor</strong>
+<p><strong><u>Position: &nbsp;School Counsellor</u></strong>
 </p>
 <p><strong>Duties &amp; Responsibilities</strong>
 </p>
@@ -143,10 +198,9 @@ Principal or Principal</p>
 <p>The School Counsellor’s expertise and primary duties are to provide counselling
 services to the school. However, the School Counsellor is also an integral
 member of the Student Development Team, and would be actively involved
-in the programmes pertaining to students’ affective development.
-<br>
-</p>
-<p><strong>Position: Assistant Manager of Human Resources</strong>
+in the programmes pertaining to students’ affective development.</p>
+<hr>
+<p><strong><u>Position: Assistant Manager of Human Resources</u></strong>
 </p>
 <p>This role focuses on building and executing effective hiring strategies
 to enhance talent competencies and strengthen the organization's employer
@@ -226,8 +280,9 @@ to change</p>
 skills</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;Abreast with current employment legislations
 and HR practices.</p>
+<hr>
 <p></p>
-<p><strong>Senior Boarding Executive / Boarding Executive</strong>
+<p><strong><u>Senior Boarding Executive / Boarding Executive</u></strong>
 </p>
 <p>The Boarding Executive plays a pivotal role within the boarding school
 community, collaborating with the boarding management team to ensure smooth
@@ -290,8 +345,9 @@ during weekdays and weekends.</p>
 <p>A compassionate, disciplined, and resourceful individual dedicated to
 fostering a nurturing and structured environment where students can thrive
 academically, socially, and emotionally.</p>
+<hr>
 <p></p>
-<p><strong>Temporary Procurement Officer (6-Month Contract)</strong>
+<p><strong><u>Temporary Procurement Officer (6-Month Contract)</u></strong>
 </p>
 <p>The Procurement Officer will oversee and execute procurement activities
 with efficiency and precision, ensuring full compliance with the school’s
@@ -328,6 +384,7 @@ detail.</p>
 in a team.</p>
 <p>•Excellent communication and interpersonal skills, with the ability to
 influence stakeholders across all levels.</p>
+<hr>
 <p></p>
 <p></p>
 <p><strong>If you thrive on working in a dynamic and innovative environment, please submit your detailed CV, supporting documents and expected remuneration to</strong>
