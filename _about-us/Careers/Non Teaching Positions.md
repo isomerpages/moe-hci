@@ -14,7 +14,9 @@ is seeking high achieving individuals who are excited about education to
 join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
-<p><strong>Position: &nbsp;Director, Organisational Excellence</strong>
+<hr>
+<p></p>
+<p><strong><u>Position: &nbsp;Director Organisational Excellence</u></strong>
 </p>
 <p>The Director of Organisational Excellence is responsible for developing
 and implementing strategies to enhance overall organisational performance
@@ -97,9 +99,9 @@ necessary to build rapport and collaborate effectively with various stakeholders
 <p>• Resilient and able to navigate a complex operating structure</p>
 <p>• Commitment to research and continuous learning</p>
 <p></p>
+<hr>
 <p></p>
-<p></p>
-<p><strong>Position: &nbsp;School Counsellor</strong>
+<p><strong><u>Position: &nbsp;School Counsellor</u></strong>
 </p>
 <p><strong>Duties &amp; Responsibilities</strong>
 </p>
@@ -143,10 +145,12 @@ Principal or Principal</p>
 <p>The School Counsellor’s expertise and primary duties are to provide counselling
 services to the school. However, the School Counsellor is also an integral
 member of the Student Development Team, and would be actively involved
-in the programmes pertaining to students’ affective development.
+in the programmes pertaining to students’ affective development.</p>
+<hr>
+<p>
 <br>
 </p>
-<p><strong>Position: Assistant Manager of Human Resources</strong>
+<p><strong><u>Position: Assistant Manager of Human Resources</u></strong>
 </p>
 <p>This role focuses on building and executing effective hiring strategies
 to enhance talent competencies and strengthen the organization's employer
@@ -226,8 +230,9 @@ to change</p>
 skills</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;Abreast with current employment legislations
 and HR practices.</p>
+<hr>
 <p></p>
-<p><strong>Senior Boarding Executive / Boarding Executive</strong>
+<p><strong><u>Senior Boarding Executive / Boarding Executive</u></strong>
 </p>
 <p>The Boarding Executive plays a pivotal role within the boarding school
 community, collaborating with the boarding management team to ensure smooth
@@ -290,8 +295,9 @@ during weekdays and weekends.</p>
 <p>A compassionate, disciplined, and resourceful individual dedicated to
 fostering a nurturing and structured environment where students can thrive
 academically, socially, and emotionally.</p>
+<hr>
 <p></p>
-<p><strong>Temporary Procurement Officer (6-Month Contract)</strong>
+<p><strong><u>Temporary Procurement Officer (6-Month Contract)</u></strong>
 </p>
 <p>The Procurement Officer will oversee and execute procurement activities
 with efficiency and precision, ensuring full compliance with the school’s
@@ -328,6 +334,7 @@ detail.</p>
 in a team.</p>
 <p>•Excellent communication and interpersonal skills, with the ability to
 influence stakeholders across all levels.</p>
+<hr>
 <p></p>
 <p></p>
 <p><strong>If you thrive on working in a dynamic and innovative environment, please submit your detailed CV, supporting documents and expected remuneration to</strong>
