@@ -134,7 +134,7 @@ variant: markdown
           </tr></tbody>
 </table>
 
-|  |  | <img style="width: 30%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"> <center><strong>Mr Lee Peck Ping &nbsp;  李白彬<br>Principal &nbsp; 校长</strong></center> |  |  |  
+|  |  | <img style="width: 30%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"> <center><strong>Mr Lee Peck Ping   李白彬<br>Principal &nbsp; 校长</strong></center> |  |  |  
 | -------- | -------- | -------- |-------- |-------- |
 |      |    |   |  |   |
 
