@@ -52,10 +52,10 @@ variant: markdown
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208twe.png"></th>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208clarinda.png"></th>
 		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208joseph.png"></th>
-		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/deborah.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208whm.png"></th>
   </tr>
   <tr>
-    <td><strong>Dr Chia Hui Peng <br>谢慧萍<br> Dean / Studies &amp; Research<br>处长</strong>
+    <td><strong>Dr Chia Hui Peng <br>谢慧萍<br> Dean Studies &amp; Research<br>处长</strong>
 </td>
 		<td><strong>Ms Thian Wan Eng <br> 程婉莹<br>School Staff Developer<br>教职员培训</strong></td>
 		<td> <strong>Ms Clarinda Choh <br> 邹淑君<br>Director Engagement &amp; Partnerships<br>科长</strong>
@@ -79,7 +79,7 @@ variant: markdown
     <td><strong>Dr Chow Chiu Wai <br>周钊纬<br>Director  Education Technology<br>科长</strong>
 
 </td>
-		<td><strong>Mr Low Boon Ann Charles <br>刘文安<br> Director Well-Being (High School)<br>科长</strong></td>
+		<td><strong>Mr Charles Low <br>刘文安<br> Director Well-Being (High School)<br>科长</strong></td>
 		<td> <strong>Ms Lee Li Ann <br>李莉安<br>Director Finance <br>科长</strong></td>
 		<td><strong>Ms Jean Tan Lay Eng<br>陈丽英<br>Director Human Resource <br>科长</strong></td>
 		<td><strong>Ms Elisabeth Oh <br>李莉安<br>Director <br>Organisational<br> Excellence <br>科长</strong>
@@ -87,11 +87,3 @@ variant: markdown
 		</tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
-
