@@ -4,12 +4,9 @@ permalink: /testingtemplatepage/
 variant: markdown
 description: ""
 ---
-
-
-
 |  |![](/images/About%20Us/Our%20People/thianwaneng.png) |  |
 | -------- | -------- | -------- |
-|      | Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution    |      |
+|      | <center><strong>Mr Lee Peck Ping <br>Principal<br>Hwa Chong Institution  </strong></center>  |      |
 
 
 
