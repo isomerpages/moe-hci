@@ -10,14 +10,14 @@ variant: markdown
 <table>
   <tbody><tr>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png"></th>
-    <th><img style="width: 80%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png">
+		<strong>Mr Lee Peck Ping &nbsp;&nbsp; 李白彬<br> Principal &nbsp;&nbsp;校长 </strong></th>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png"></th>
   </tr>
   <tr>
-    <td><strong><br><br> <br></strong>
-</td>
-		<td><center><strong>Mr Lee Peck Ping &nbsp;&nbsp; 李白彬<br> Principal &nbsp;&nbsp;校长 </strong></center></td>
-		<td> <strong> <br> <br><br></strong></td>
+    <td></td>
+		<td></td>
+		<td> </td>
 		</tr>
 
 </tbody>
@@ -27,6 +27,7 @@ variant: markdown
 
 
 <table>
+	</table><table style="table-layout: fixed; width: 100%;">
   <tbody><tr>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ckl.png"></th>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208grace.png"></th>
