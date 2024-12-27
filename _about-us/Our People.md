@@ -27,7 +27,7 @@ variant: markdown
 
 
 <table>
-	</table><table style="table-layout: fixed; width: 150%;">
+	</table><table style="table-layout: fixed; width: 170%;">
   <tbody><tr>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ckl.png"></th>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208grace.png"></th>
@@ -47,7 +47,7 @@ variant: markdown
 </table>
 
 <table>
-	</table><table style="table-layout: fixed; width: 100%;">
+	</table><table style="table-layout: fixed; width: 170%;">
   <tbody><tr>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208hup.png"></th>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208twe.png"></th>
@@ -68,7 +68,7 @@ variant: markdown
 </table>
 
 <table>
-	</table><table style="table-layout: fixed; width: 100%;">
+	</table><table style="table-layout: fixed; width: 170%;">
   <tbody><tr>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ccw.png"></th>
     <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208charles.png"></th>
