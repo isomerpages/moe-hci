@@ -134,11 +134,11 @@ variant: markdown
           </tr></tbody>
 </table>
 
-|  |  | <img style="width: 30%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"> |  |  |  
+|  |  | <img style="width: 30%;" src="/images/About%20Us/Our%20People/peoplev2_1.png"> <center><strong>Mr Lee Peck Ping &nbsp;  李白彬<br>Principal &nbsp; 校长</strong></center> |  |  |  
 | -------- | -------- | -------- |-------- |-------- |
-|      |    |<center><strong>Mr Lee Peck Ping &nbsp;  李白彬<br>Principal &nbsp; 校长</strong></center>    |  |   |
+|      |    |   |  |   |
 
-|<img style="width: 290px;" src="/images/About%20Us/Our%20People/ckl.png"> |![](/images/About%20Us/Our%20People/peoplev2_5.png) |<img style="width: 86px;" src="/images/About%20Us/Our%20People/peoplev2_6.png"> |<img style="width: 340px;" src="/images/About%20Us/Our%20People/peoplev2_4.png">|<img style="width: 300px;" src="/images/About%20Us/Our%20People/peoplev2_13.png">|
+|<img style="width: 290px;" src="/images/About%20Us/Our%20People/ckl.png"><strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal High School<br>副校长 </strong> |![](/images/About%20Us/Our%20People/peoplev2_5.png) <strong>Ms Grace Ho Ping Ping<br>何冰冰<br> Deputy Principal High School<br>副校长 </strong>  |<img style="width: 86px;" src="/images/About%20Us/Our%20People/peoplev2_6.png"><strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal<br>Administration<br>副校长 </strong>  |<img style="width: 340px;" src="/images/About%20Us/Our%20People/peoplev2_4.png"><strong>Dr Melvyn Lim<br>林丰成 <br>Deputy Principal<br>副校长   </strong> |<img style="width: 300px;" src="/images/About%20Us/Our%20People/peoplev2_13.png"><strong>Ms How Lai Yin Deborah<br>Deputy Principal <br>侯丽燕<br>副校长   </strong> |
 | -------- | -------- | -------- | -------- | -------- |
 |<strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal High School<br>副校长 </strong>|<strong>Ms Grace Ho Ping Ping<br>何冰冰<br> Deputy Principal High School<br>副校长 </strong>  |  <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal<br>Administration<br>副校长 </strong> |  <strong>Dr Melvyn Lim<br>林丰成 <br>Deputy Principal<br>副校长   </strong> | <strong>Ms How Lai Yin Deborah<br>Deputy Principal <br>侯丽燕<br>副校长   </strong>  |
 
