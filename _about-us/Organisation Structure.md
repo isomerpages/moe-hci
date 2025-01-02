@@ -6,6 +6,8 @@ variant: markdown
 ---
 ##### Organisation Structure
 
+![](/images/About%20Us/2025_org_struc.png)
+
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
