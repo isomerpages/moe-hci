@@ -15,7 +15,7 @@ join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
 <hr>
-<p><strong><u>Finance Manager</u></strong>
+<p><strong><u>Position: Finance Manager</u></strong>
 </p>
 <p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
 </p>
@@ -77,9 +77,7 @@ engage stakeholders across all levels.</p>
 <p>• Demonstrated commitment to high ethical standards and professional integrity.</p>
 <p>• Proficient in MS Office Suite, financial software, and related tools.</p>
 <hr>
-<hr>
-<p></p>
-<p><strong><u>HR Officer (Temp) – 5 months</u></strong>
+<p><strong><u>Position: HR Officer (Temp) – 5 months</u></strong>
 </p>
 <p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
 </p>
@@ -299,7 +297,7 @@ skills</p>
 and HR practices.</p>
 <hr>
 <p></p>
-<p><strong><u>Senior Boarding Executive / Boarding Executive</u></strong>
+<p><strong><u>Position: Senior Boarding Executive / Boarding Executive</u></strong>
 </p>
 <p>The Boarding Executive plays a pivotal role within the boarding school
 community, collaborating with the boarding management team to ensure smooth
@@ -364,7 +362,7 @@ fostering a nurturing and structured environment where students can thrive
 academically, socially, and emotionally.</p>
 <hr>
 <p></p>
-<p><strong><u>Temporary Procurement Officer (6-Month Contract)</u></strong>
+<p><strong><u>Position: Temporary Procurement Officer (6-Month Contract)</u></strong>
 </p>
 <p>The Procurement Officer will oversee and execute procurement activities
 with efficiency and precision, ensuring full compliance with the school’s
