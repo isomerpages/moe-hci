@@ -363,32 +363,32 @@ transparency, fairness, and optimal resource management throughout the
 procurement process.</p>
 <p><strong>Duties &amp; Responsibilities</strong>
 </p>
-<p>•Administer procurement activities, provide end-to-end support and advice
+<p>• Administer procurement activities, provide end-to-end support and advice
 to internal requestor on procurement procedure, guide them through the
 entire procurement process.</p>
-<p>•Review and prepare procurement documents for publication, evaluation,
+<p>• Review and prepare procurement documents for publication, evaluation,
 award recommendations etc. Check and ensure quotation bids are evaluated
 fairly and in strict compliance to the school’s procurement procedure and
 Government Instruction manual (IM).</p>
-<p>•Perform transactions on GEBIZ, publishing quotation, raising award, issuance
-of Purchase Order (PO), contracts and etc.</p>
-<p>•Liaise with internal requestor on contract management, track and timely
+<p>• Perform transactions on GEBIZ, publishing quotation, raising award,
+issuance of Purchase Order (PO), contracts and etc.</p>
+<p>• Liaise with internal requestor on contract management, track and timely
 complete all purchase request assigned.</p>
-<p>•Support internal officers on administrative duties such as information
+<p>• Support internal officers on administrative duties such as information
 collation, filing of documents etc. Perform any administrative task or
 other ad-hoc duties as assigned.</p>
 <p><strong>Requirements</strong>
 </p>
-<p>•A Diploma or Degree in Business, Supply Chain Management, or a related
+<p>• A Diploma or Degree in Business, Supply Chain Management, or a related
 field.</p>
-<p>•At least 2 years of experience in government procurement.</p>
-<p>•Familiarity with GeBIZ e-procurement system and other procurement tools.</p>
-<p>•Knowledge of government procurement procedures is highly advantageous.</p>
-<p>•Strong analytical and problem-solving skills with a meticulous eye for
+<p>• At least 2 years of experience in government procurement.</p>
+<p>• Familiarity with GeBIZ e-procurement system and other procurement tools.</p>
+<p>• Knowledge of government procurement procedures is highly advantageous.</p>
+<p>• Strong analytical and problem-solving skills with a meticulous eye for
 detail.</p>
-<p>•Proactive, self-motivated, and able to work independently or collaboratively
+<p>• Proactive, self-motivated, and able to work independently or collaboratively
 in a team.</p>
-<p>•Excellent communication and interpersonal skills, with the ability to
+<p>• Excellent communication and interpersonal skills, with the ability to
 influence stakeholders across all levels.</p>
 <p></p>
 <p></p>
