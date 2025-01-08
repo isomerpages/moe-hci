@@ -68,51 +68,90 @@ ensuring timely follow-through.</p>
 <p>Proactive and Resourceful</p>
 <p></p>
 <hr>
-<p><strong><u>Position: &nbsp;School Counsellor</u></strong>
-</p>
-<p><strong>Duties &amp; Responsibilities</strong>
+<p><strong><u>Position: &nbsp;School Counsellor/Senior School Counsellor</u></strong>
 </p>
 <p>The School Counsellor is responsible for the counselling and guidance
 programme at Hwa Chong Institution. The School Counsellor’s duties include
 but are not limited to the following:</p>
-<p>Job Description:</p>
+<p><strong>Job Description:</strong>
+</p>
 <p>1. Counselling Students</p>
-<p>a. provide direct counselling intervention for students in the High School
-Section, and, where needed, in the College Section</p>
-<p>b. be a valuable team member of the HS Well-Being Centre and collaborate
-with other counsellors in designing and implementing a coherent system
-of counselling and well-being approaches</p>
-<p>c. coordinate with the Case Management Team in providing timely support
-for students who need counselling</p>
-<p>d. make home visits for students who are unable to come to school</p>
+<p>a. provide direct counselling intervention for students in the College
+Section, and,</p>
+<p>where needed, in the High School Section</p>
+<p>b. lead the Case Management Team to provide timely support and intervention
+for</p>
+<p>students who need counselling</p>
+<p>c. conference with staff, parents and external professionals / agencies
+on students</p>
+<p>being counselled, and conduct home visits where necessary</p>
+<p></p>
 <p>2. Working with Staff</p>
-<p>a. provide consultations for staff in managing students with academic,
-behavioural, and emotional issues</p>
-<p>b. provide and source for counselling training &amp; other workshops for
-staff to strengthen their affective skills</p>
-<p>c. collaborate with relevant staff teams to set up upstream prevention
-strategies</p>
+<p>a. collaborate and advise school counsellors to formulate suitable counselling
+and well-</p>
+<p>being approaches for the students under the care of the unit</p>
+<p>b. engage teachers in managing students with academic, behavioural, and
+emotional</p>
+<p>issues</p>
+<p>c. provide and source for counselling training &amp;amp; other workshops
+for staff to strengthen</p>
+<p>their affective skills</p>
+<p>d. collaborate with relevant staff teams to set up upstream prevention
+strategies e.g. in</p>
+<p>areas of CCE</p>
+<p>&nbsp;</p>
 <p>3. Working with Parents</p>
-<p>a. provide consultations for parents in managing students with academic,
-behavioural, and emotional issues</p>
+<p>a. engage parents in managing students with academic, behavioural, and
+emotional</p>
+<p>issues</p>
 <p>b. conduct and/or coordinate workshops for parents to align their expectations
-with the school’s and to strengthen their parenting skills</p>
+with the</p>
+<p>school’s and to strengthen their parenting skills</p>
+<p>&nbsp;</p>
 <p>4. School Duties</p>
 <p>a. provide counselling support in the event of school emergencies as a
-member of the Caring Action in Response to Emergencies (CARE) team</p>
-<p>b. coordinate and collaborate with the Student Development Team in the
-design and implementation of the Peer Support programme</p>
-<p>5. Curriculum Design and Implementation</p>
-<p>a. collaborate with Student Development Team members in the design and
-implementation of a guidance curriculum in the High School Section</p>
-<p>b. work with the Student Development Team in designing and implementing
-programmes to promote students’ social and emotional growth</p>
-<p>6. Any other duty as assigned by the Reporting Officer, Deans, Deputy
-Principal or Principal</p>
+member of the</p>
+<p>Caring Action in Response to Emergencies (CARE) team</p>
+<p>b. monitor the counselling data in college section and provide school
+leaders with timely</p>
+<p>information</p>
+<p>&nbsp;</p>
+<p>5. Any other duty as assigned by the Reporting Officer, Deputy Principal
+or</p>
+<p>Principal</p>
+<p>&nbsp;</p>
 <p>The School Counsellor’s expertise and primary duties are to provide counselling
-services to the school. However, the School Counsellor is also an integral
-member of the Student Development Team, and would be actively involved
-in the programmes pertaining to students’ affective development.</p>
+services to</p>
+<p>the school. However, the School Counsellor is also an integral member
+of the Student</p>
+<p>Development Team, and would be actively involved in the programmes pertaining
+to</p>
+<p>students’ affective development.</p>
+<p>&nbsp;</p>
+<p><strong>REQUIREMENTS:</strong>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate qualification in
+counselling, counselling psychology or clinical psychology</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably a registered counsellor
+and/or clinical supervisor with the Singapore</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Association for Counselling
+(SAC) or a registered psychologist with the Singapore</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Psychological Society (SPS)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A minimum of FIVE years of
+professional counselling experience and competent in case</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; management, and critical incident
+management</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proficient in professional
+counselling approaches and tools to help clients with diverse issues and
+conditions</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in working with
+young adults, preferably in a school setting</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in working in a
+multi-disciplinary team and conducting or facilitating continual Professional
+Development training for staff is advantageous</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong organisational and multitasking
+skills, with the ability to prioritise and manage multiple tasks and responsibilities.</p>
+<p></p>
 <hr>
 <p><strong><u>Position: Assistant Manager of Human Resources</u></strong>
 </p>
@@ -298,6 +337,8 @@ detail.</p>
 in a team.</p>
 <p>•Excellent communication and interpersonal skills, with the ability to
 influence stakeholders across all levels.</p>
+<p></p>
+<p></p>
 <hr>
 <p></p>
 <p></p>
