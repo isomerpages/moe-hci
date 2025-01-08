@@ -147,7 +147,6 @@ for</p>
 <p>c. conference with staff, parents and external professionals / agencies
 on students</p>
 <p>being counselled, and conduct home visits where necessary</p>
-<p></p>
 <p>2. Working with Staff</p>
 <p>a. collaborate and advise school counsellors to formulate suitable counselling
 and well-being approaches for the students under the care of the unit</p>
@@ -164,14 +163,12 @@ emotional</p>
 <p>issues</p>
 <p>b. conduct and/or coordinate workshops for parents to align their expectations
 with the school’s and to strengthen their parenting skills</p>
-<p>&nbsp;</p>
 <p>4. School Duties</p>
 <p>a. provide counselling support in the event of school emergencies as a
 member of the</p>
 <p>Caring Action in Response to Emergencies (CARE) team</p>
 <p>b. monitor the counselling data in college section and provide school
 leaders with timely information</p>
-<p>&nbsp;</p>
 <p>5. Any other duty as assigned by the Reporting Officer, Deputy Principal
 or</p>
 <p>Principal</p>
@@ -180,7 +177,6 @@ or</p>
 services to the school. However, the School Counsellor is also an integral
 member of the Student Development Team, and would be actively involved
 in the programmes pertaining to students’ affective development.</p>
-<p>&nbsp;</p>
 <p><strong>REQUIREMENTS:</strong>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate qualification in
