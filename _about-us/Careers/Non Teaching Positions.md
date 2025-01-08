@@ -15,7 +15,69 @@ join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
 <hr>
-<p><strong><u>HR Officer (Temp) – 5 months</u></strong>
+<p><strong><u>Position: Finance Manager</u></strong>
+</p>
+<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
+</p>
+<p>Finance Operations</p>
+<p>• In charge of General Ledger including month-end/year-end accounts closing
+process.</p>
+<p>• Supervise and review the work performed by Accounts Receivable/Payable
+officers.</p>
+<p>• Provide guidance to Accounts Receivable/Payable officers.</p>
+<p>• Prepare and/or review monthly account reconciliations and schedules
+ensuring that journal entries are recorded accurately and timely.</p>
+<p>• Provide advice to teachers and staff on finance policies, procedures
+and guidelines.</p>
+<p>• Liaise with internal and external stakeholders (i.e. MOE, banks, teachers,
+funding agencies etc.) on finance-related matters.</p>
+<p>Financial Reporting</p>
+<p>• Maintain accurate records of financial transactions and documentation.</p>
+<p>• Prepare financial reports and supporting audit schedules.</p>
+<p>• Prepare and provide financial analysis to support decision-making by
+the school leaders.</p>
+<p>• Coordinate with external auditors on annual audit exercise to ensure
+timely submission of audited financial statements including balance sheets,
+income statements, and cash flow reports to MOE.</p>
+<p>• Ensure full compliance with all relevant laws and regulations (i.e.
+tax filings etc.).</p>
+<p>Financial Budget</p>
+<p>• Prepare annual revised forecast and annual budget in collaboration with
+the heads of department and school leaders.</p>
+<p>• Prepare and/or review periodic budget utilisation reports and analyse
+budget performance for departments.</p>
+<p>• Secretariat duties for Finance Sub-Committee Meetings of the Board of
+Governors.</p>
+<p>Treasury and Banking matters</p>
+<p>• Monitor cash flow and placement of fixed deposits.</p>
+<p>• Perform administration duties related to banking (i.e. opening/closing
+of bank account, internet banking platform, corporate/virtual credit cards
+etc.).</p>
+<p>Any Other Matters</p>
+<p>• Participate in process improvement and enhancements to accounting systems</p>
+<p>• Maintain and communicate finance policies, procedures and guidelines.</p>
+<p>• Provide guidance on fundraising and donation matters in accordance with
+MOE guidelines.</p>
+<p>• Support the Finance Director in investment-related matters.</p>
+<p>• Any other ad-hoc assignments as required.</p>
+<p><strong>REQUIREMENTS:</strong>
+</p>
+<p>• A bachelor’s degree in accountancy or a related field.</p>
+<p>• Professional certification (e.g. CPA) is highly preferred.</p>
+<p>• Experience in a supervisory role within an educational institution or
+a similar environment.</p>
+<p>• In-depth knowledge of Singapore Financial Reporting Standards (SFRS)
+and relevant regulatory frameworks.</p>
+<p>• Strong analytical and problem-solving skills with a meticulous eye for
+details.</p>
+<p>• Proactive, self-motivated, and able to work independently or collaboratively
+in a team.</p>
+<p>• Strong verbal and written communication skills, with the ability to
+engage stakeholders across all levels.</p>
+<p>• Demonstrated commitment to high ethical standards and professional integrity.</p>
+<p>• Proficient in MS Office Suite, financial software, and related tools.</p>
+<hr>
+<p><strong><u>Position: HR Officer (Temp) – 5 months</u></strong>
 </p>
 <p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
 </p>
@@ -68,51 +130,81 @@ ensuring timely follow-through.</p>
 <p>Proactive and Resourceful</p>
 <p></p>
 <hr>
-<p><strong><u>Position: &nbsp;School Counsellor</u></strong>
-</p>
-<p><strong>Duties &amp; Responsibilities</strong>
+<p><strong><u>Position: &nbsp;School Counsellor/Senior School Counsellor</u></strong>
 </p>
 <p>The School Counsellor is responsible for the counselling and guidance
 programme at Hwa Chong Institution. The School Counsellor’s duties include
 but are not limited to the following:</p>
-<p>Job Description:</p>
+<p><strong>Job Description:</strong>
+</p>
 <p>1. Counselling Students</p>
-<p>a. provide direct counselling intervention for students in the High School
-Section, and, where needed, in the College Section</p>
-<p>b. be a valuable team member of the HS Well-Being Centre and collaborate
-with other counsellors in designing and implementing a coherent system
-of counselling and well-being approaches</p>
-<p>c. coordinate with the Case Management Team in providing timely support
-for students who need counselling</p>
-<p>d. make home visits for students who are unable to come to school</p>
+<p>a. provide direct counselling intervention for students in the College
+Section, and,</p>
+<p>where needed, in the High School Section</p>
+<p>b. lead the Case Management Team to provide timely support and intervention
+for</p>
+<p>students who need counselling</p>
+<p>c. conference with staff, parents and external professionals / agencies
+on students</p>
+<p>being counselled, and conduct home visits where necessary</p>
+<p></p>
 <p>2. Working with Staff</p>
-<p>a. provide consultations for staff in managing students with academic,
-behavioural, and emotional issues</p>
-<p>b. provide and source for counselling training &amp; other workshops for
-staff to strengthen their affective skills</p>
-<p>c. collaborate with relevant staff teams to set up upstream prevention
-strategies</p>
+<p>a. collaborate and advise school counsellors to formulate suitable counselling
+and well-being approaches for the students under the care of the unit</p>
+<p>b. engage teachers in managing students with academic, behavioural, and
+emotional</p>
+<p>issues</p>
+<p>c. provide and source for counselling training &amp;amp; other workshops
+for staff to strengthen their affective skills</p>
+<p>d. collaborate with relevant staff teams to set up upstream prevention
+strategies e.g. in areas of CCE</p>
 <p>3. Working with Parents</p>
-<p>a. provide consultations for parents in managing students with academic,
-behavioural, and emotional issues</p>
+<p>a. engage parents in managing students with academic, behavioural, and
+emotional</p>
+<p>issues</p>
 <p>b. conduct and/or coordinate workshops for parents to align their expectations
 with the school’s and to strengthen their parenting skills</p>
+<p>&nbsp;</p>
 <p>4. School Duties</p>
 <p>a. provide counselling support in the event of school emergencies as a
-member of the Caring Action in Response to Emergencies (CARE) team</p>
-<p>b. coordinate and collaborate with the Student Development Team in the
-design and implementation of the Peer Support programme</p>
-<p>5. Curriculum Design and Implementation</p>
-<p>a. collaborate with Student Development Team members in the design and
-implementation of a guidance curriculum in the High School Section</p>
-<p>b. work with the Student Development Team in designing and implementing
-programmes to promote students’ social and emotional growth</p>
-<p>6. Any other duty as assigned by the Reporting Officer, Deans, Deputy
-Principal or Principal</p>
+member of the</p>
+<p>Caring Action in Response to Emergencies (CARE) team</p>
+<p>b. monitor the counselling data in college section and provide school
+leaders with timely information</p>
+<p>&nbsp;</p>
+<p>5. Any other duty as assigned by the Reporting Officer, Deputy Principal
+or</p>
+<p>Principal</p>
+<p>&nbsp;</p>
 <p>The School Counsellor’s expertise and primary duties are to provide counselling
 services to the school. However, the School Counsellor is also an integral
 member of the Student Development Team, and would be actively involved
 in the programmes pertaining to students’ affective development.</p>
+<p>&nbsp;</p>
+<p><strong>REQUIREMENTS:</strong>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate qualification in
+counselling, counselling psychology or clinical psychology</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably a registered counsellor
+and/or clinical supervisor with the Singapore</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Association for Counselling
+(SAC) or a registered psychologist with the Singapore</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Psychological Society (SPS)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A minimum of FIVE years of
+professional counselling experience and competent in case</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; management, and critical incident
+management</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proficient in professional
+counselling approaches and tools to help clients with diverse issues and
+conditions</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in working with
+young adults, preferably in a school setting</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in working in a
+multi-disciplinary team and conducting or facilitating continual Professional
+Development training for staff is advantageous</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong organisational and multitasking
+skills, with the ability to prioritise and manage multiple tasks and responsibilities.</p>
+<p></p>
 <hr>
 <p><strong><u>Position: Assistant Manager of Human Resources</u></strong>
 </p>
@@ -196,7 +288,7 @@ skills</p>
 and HR practices.</p>
 <hr>
 <p></p>
-<p><strong><u>Senior Boarding Executive / Boarding Executive</u></strong>
+<p><strong><u>Position: Senior Boarding Executive / Boarding Executive</u></strong>
 </p>
 <p>The Boarding Executive plays a pivotal role within the boarding school
 community, collaborating with the boarding management team to ensure smooth
@@ -261,7 +353,7 @@ fostering a nurturing and structured environment where students can thrive
 academically, socially, and emotionally.</p>
 <hr>
 <p></p>
-<p><strong><u>Temporary Procurement Officer (6-Month Contract)</u></strong>
+<p><strong><u>Position: Temporary Procurement Officer (6-Month Contract)</u></strong>
 </p>
 <p>The Procurement Officer will oversee and execute procurement activities
 with efficiency and precision, ensuring full compliance with the school’s
@@ -271,33 +363,35 @@ transparency, fairness, and optimal resource management throughout the
 procurement process.</p>
 <p><strong>Duties &amp; Responsibilities</strong>
 </p>
-<p>•Administer procurement activities, provide end-to-end support and advice
+<p>• Administer procurement activities, provide end-to-end support and advice
 to internal requestor on procurement procedure, guide them through the
 entire procurement process.</p>
-<p>•Review and prepare procurement documents for publication, evaluation,
+<p>• Review and prepare procurement documents for publication, evaluation,
 award recommendations etc. Check and ensure quotation bids are evaluated
 fairly and in strict compliance to the school’s procurement procedure and
 Government Instruction manual (IM).</p>
-<p>•Perform transactions on GEBIZ, publishing quotation, raising award, issuance
-of Purchase Order (PO), contracts and etc.</p>
-<p>•Liaise with internal requestor on contract management, track and timely
+<p>• Perform transactions on GEBIZ, publishing quotation, raising award,
+issuance of Purchase Order (PO), contracts and etc.</p>
+<p>• Liaise with internal requestor on contract management, track and timely
 complete all purchase request assigned.</p>
-<p>•Support internal officers on administrative duties such as information
+<p>• Support internal officers on administrative duties such as information
 collation, filing of documents etc. Perform any administrative task or
 other ad-hoc duties as assigned.</p>
 <p><strong>Requirements</strong>
 </p>
-<p>•A Diploma or Degree in Business, Supply Chain Management, or a related
+<p>• A Diploma or Degree in Business, Supply Chain Management, or a related
 field.</p>
-<p>•At least 2 years of experience in government procurement.</p>
-<p>•Familiarity with GeBIZ e-procurement system and other procurement tools.</p>
-<p>•Knowledge of government procurement procedures is highly advantageous.</p>
-<p>•Strong analytical and problem-solving skills with a meticulous eye for
+<p>• At least 2 years of experience in government procurement.</p>
+<p>• Familiarity with GeBIZ e-procurement system and other procurement tools.</p>
+<p>• Knowledge of government procurement procedures is highly advantageous.</p>
+<p>• Strong analytical and problem-solving skills with a meticulous eye for
 detail.</p>
-<p>•Proactive, self-motivated, and able to work independently or collaboratively
+<p>• Proactive, self-motivated, and able to work independently or collaboratively
 in a team.</p>
-<p>•Excellent communication and interpersonal skills, with the ability to
+<p>• Excellent communication and interpersonal skills, with the ability to
 influence stakeholders across all levels.</p>
+<p></p>
+<p></p>
 <hr>
 <p></p>
 <p></p>
