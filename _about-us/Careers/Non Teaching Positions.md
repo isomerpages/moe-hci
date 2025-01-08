@@ -150,45 +150,36 @@ on students</p>
 <p></p>
 <p>2. Working with Staff</p>
 <p>a. collaborate and advise school counsellors to formulate suitable counselling
-and well-</p>
-<p>being approaches for the students under the care of the unit</p>
+and well-being approaches for the students under the care of the unit</p>
 <p>b. engage teachers in managing students with academic, behavioural, and
 emotional</p>
 <p>issues</p>
 <p>c. provide and source for counselling training &amp;amp; other workshops
-for staff to strengthen</p>
-<p>their affective skills</p>
+for staff to strengthen their affective skills</p>
 <p>d. collaborate with relevant staff teams to set up upstream prevention
-strategies e.g. in</p>
-<p>areas of CCE</p>
-<p>&nbsp;</p>
+strategies e.g. in areas of CCE</p>
 <p>3. Working with Parents</p>
 <p>a. engage parents in managing students with academic, behavioural, and
 emotional</p>
 <p>issues</p>
 <p>b. conduct and/or coordinate workshops for parents to align their expectations
-with the</p>
-<p>school’s and to strengthen their parenting skills</p>
+with the school’s and to strengthen their parenting skills</p>
 <p>&nbsp;</p>
 <p>4. School Duties</p>
 <p>a. provide counselling support in the event of school emergencies as a
 member of the</p>
 <p>Caring Action in Response to Emergencies (CARE) team</p>
 <p>b. monitor the counselling data in college section and provide school
-leaders with timely</p>
-<p>information</p>
+leaders with timely information</p>
 <p>&nbsp;</p>
 <p>5. Any other duty as assigned by the Reporting Officer, Deputy Principal
 or</p>
 <p>Principal</p>
 <p>&nbsp;</p>
 <p>The School Counsellor’s expertise and primary duties are to provide counselling
-services to</p>
-<p>the school. However, the School Counsellor is also an integral member
-of the Student</p>
-<p>Development Team, and would be actively involved in the programmes pertaining
-to</p>
-<p>students’ affective development.</p>
+services to the school. However, the School Counsellor is also an integral
+member of the Student Development Team, and would be actively involved
+in the programmes pertaining to students’ affective development.</p>
 <p>&nbsp;</p>
 <p><strong>REQUIREMENTS:</strong>
 </p>
