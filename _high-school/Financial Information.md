@@ -2,7 +2,7 @@
 title: Financial Information
 permalink: /high-school/financial-info/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h5>School Fees Structure</h5>
 <p><strong><u>School fee rates</u></strong> 
@@ -624,13 +624,17 @@ are to be submitted to High School or College Reception Office.</p>
 <h5>Student Insurance Matter</h5>
 <p><strong>&nbsp;(I) MOE GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</strong>
 </p>
-<table border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="30%" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Insurer</p>
 </td>
-<td width="70%" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Income Insurance Ltd (Income Insurance)</p>
 </td>
 </tr>
@@ -651,8 +655,10 @@ Activities (“CCAs”) and sports, regardless of the time at which such activit
 are conducted and whether the activities are conducted in the school, in
 Singapore, or elsewhere;</p>
 <p>(c) Commuting from (or to) his or her place of residence, including a
-hostel, to (or from) either the school’s premises or the place where an activity covered by the GPA Insurance will be conducted, including any reasonable deviations. For the avoidance of doubt, the student’s place of residence may include a place
-that is not in Singapore</p>
+hostel, to (or from) either the school’s premises or the place where an
+activity covered by the GPA Insurance will be conducted, including any
+reasonable deviations. For the avoidance of doubt, the student’s place
+of residence may include a place that is not in Singapore</p>
 <p>Please refer to the <u>GPA Factsheet </u>for details of Benefits/Sum Insured
 and other important information.</p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
@@ -688,17 +694,17 @@ on claim submission and make enquiry on claim status.</p>
 </table>
 <p><strong>(II) MOE TRAVEL INSURANCE</strong>
 </p>
-<table border="1">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td width="30%" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Insurer</p>
 </td>
-<td width="70%" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Income Insurance Ltd (Income Insurance)</p>
 </td>
 </tr>
@@ -713,7 +719,8 @@ and teacher chaperones during their school trips.</p>
 <p>The school will purchase the travel insurance for the group from Income,
 premium for students will be recovered as part of the overseas trip costs.</p>
 <p>Parents/Guardians can refer to <u>GTI Factsheet (Students)</u> for the Benefit
-Summary and other important information and <u>GTI FAQ for parents</u> for Frequently Asked Questions and Answers.</p>
+Summary and other important information and <u>GTI FAQ for parents</u> for
+Frequently Asked Questions and Answers.</p>
 </td>
 </tr>
 <tr>
@@ -728,23 +735,25 @@ to Income.</p>
 <p>Insurance claims involving&nbsp;recovering of group trip costs&nbsp;(eg
 airfare for the group in the case of cancelled trip)&nbsp;for school’s
 subsidized trips will be submitted by the school.</p>
-<p>All claims must be submitted using either the Income Online Claims Portal&nbsp;<strong><u>OR</u></strong>&nbsp;MOE Travel Claims Form.</p>
-<p><strong>Online Claims Portal</strong></p>
-<p>Please submit via: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a>
-<br>(Reference: <u>GTI Claim Portal User Guide</u>)
+<p>All claims must be submitted using either the Income Online Claims Portal&nbsp;<strong><u>OR</u></strong>&nbsp;MOE
+Travel Claims Form.</p>
+<p><strong>Online Claims Portal</strong>
 </p>
+<p>Please submit via: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a>
+<br>(Reference: <u>GTI Claim Portal User Guide</u>)</p>
 <p><strong>MOE Travel Claims Form</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Copy of the claims form can be
-downloaded from: <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.
+Copy of the claims form can be downloaded from: <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select
 “Ministry of Education Travel claim form”). The required supporting documents
 for claims submission can be found in <u>Page 2 of the claims form</u>.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Email the completed claims form,
-together with supporting documents to Income team at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.
+Email the completed claims form, together with supporting documents to
+Income team at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Please indicate travel policy number
-in the subject matter. Total file size of email attachments must not exceed
-30MB.​</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.
+Please indicate travel policy number in the subject matter. Total file
+size of email attachments must not exceed 30MB.​</p>
 <p>Note that claims must be submitted to Income with supporting documents&nbsp;<strong>within 60 days</strong> from
 the date of the event, whereby event refers to injury or incident.</p>
 <p>For enquiries on claim matters such as claim status, or further submission
@@ -754,3 +763,4 @@ of supporting documents, please email&nbsp;<strong><a rel="noopener noreferrer n
 </tr>
 </tbody>
 </table>
+<p></p>
