@@ -621,14 +621,8 @@ or the PCI criterion to qualify for ISB. More information can be found
 in the Annex I of the ISB Application Form.</p>
 <p>Completed ISB Application Form, together with required supporting documents
 are to be submitted to High School or College Reception Office.</p>
-<h5>Student Insurance Matters</h5>
-<p>All students are automatically covered under the school’s&nbsp;<strong>Students’ Accident Protection (PA) Insurance Scheme</strong>&nbsp;and&nbsp;<strong>Group Overseas Travel Insurance Plan</strong>.</p>
-<p>The policies offer&nbsp;<u>basic</u>&nbsp;coverage to help <u>partially</u> defray
-the costs incurred by the students due to accidents and claimable events
-in the case of overseas travel insurance.</p>
-<p>While students need not pay for PA policy; the premium for Travel Insurance
-is chargeable on a per trip basis and included in the overseas trip cost.</p>
-<p><strong>(I) Students’ Accident Protection Scheme</strong>
+<h5>Student Insurance Matter</h5>
+<p><strong>&nbsp;(I) MOE GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -637,27 +631,11 @@ is chargeable on a per trip basis and included in the overseas trip cost.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Insurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lonpac Insurance Bhd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Insurance Broker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AB Lim Pte Ltd</p>
+<p>Income Insurance Ltd (Income Insurance)</p>
 </td>
 </tr>
 <tr>
@@ -665,71 +643,62 @@ is chargeable on a per trip basis and included in the overseas trip cost.</p>
 <p>Coverage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 hours coverage for all school activities and/or CCAs both in and out
-of school.</p>
+<p>All students are automatically insured under the Group Personal Accident
+(GPA) Insurance which covers death, permanent and total/partial disability
+and medical expenses due to an accident. The proximate or triggering causes
+of injuries must be reasonably attributed to an accident.</p>
+<p>he GPA Insurance covers each student when that student is:</p>
+<p>(a) In his or her school;</p>
+<p>(b) Participating in the school’s activities, or any activity related
+to or endorsed by the school, including Home-Based Learning (HBL), Co-Curricular
+Activities (“CCAs”) and sports, regardless of the time at which such activities
+are conducted and whether the activities are conducted in the school, in
+Singapore, or elsewhere;</p>
+<p>&nbsp;</p>
+<p>(c) Commuting from (or to) his or her place of residence, including a
+hostel, to (or from) either the school’s premises or the</p>
+<p>place where an activity covered by the GPA Insurance will be conducted,
+including any reasonable deviations. For the</p>
+<p>avoidance of doubt, the student’s place of residence may include a place
+that is not in Singapore</p>
+<p>&nbsp;</p>
+<p>Please refer to the <u>GPA Factsheet </u>for details of Benefits/Sum Insured
+and other important information.</p>
+<p>Information on claims, FAQs and other details pertaining to the MOE GPA
+Insurance Plan for students can also be found on Income’s website at&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a><u>.</u>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Claim Procedure</p>
+<p>Claim Submission Procedure</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 . Report to AB Lim (via online reporting at&nbsp;<a href="http://www.ablim.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.ablim.com.sg</a>,
-email, fax or phone) within 31 days from date of accident.
-<br>2 . Details on the insurance coverage; claim procedure and AB Lim’s contacts
-can be found together with the Claim form, downloadable&nbsp;<strong><a href="/files/High School/students_pa_insurance_benefits_summary_claim_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong> 
-<br>3. The required supporting documents are as follows:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>All ORIGINAL MEDICAL BILLS/RECEIPTS/TAX INVOICES incurred for medical
-treatments and/or consultations.</p>
-</li>
-<li>
-<p>A Medical Report (obtained at the Claimant’s expense) must be furnished
-for claims exceeding S$1,000.</p>
-</li>
-<li>
-<p>For Motor-related Accidents, a copy of the Police Report is required.</p>
-</li>
-<li>
-<p>For Fatal cases, the following additional documents must be furnished:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Coroner’s Report</p>
-</li>
-<li>
-<p>Birth Certificate</p>
-</li>
-<li>
-<p>Death Certificate</p>
-</li>
-<li>
-<p>Confirmation Letter from the School</p>
-</li>
-</ul>
-<p>
-<br>4. Completed Claim form and all necessary supporting documents (as listed
-under item 3 above) in PDF or JPEG format are to be emailed to <a href="mailto:claims@ablim.com.sg" rel="noopener noreferrer nofollow" target="_blank">claims@ablim.com.sg</a>.
-Kindly keep all the ORIGINAL documents for at least 6 months from the date
-of submission. They must be made readily available upon request. Alternatively,
-send the completed Claim Form and all the necessary documents to AB Lim’s
-office by “REGISTERED POST”. (Please write down the Insured Person’s Name
-&amp; “Hwa Chong Institution” on the envelope).
-<br>5. There is no need for the School to endorse the Claim form.
-<br>
-<br>Note that the information on the brochure is to provide an outline of
-the coverage only and is not a policy document. The terms and conditions
-of the Insurer's policy document shall prevail at all times.
-<br>
-<br>Any claim related query should be directed to AB Lim (Mr Philip Leow or
-Ms Stella Teo at 62722277).</p>
-</li>
-</ul>
+<p>Parents/guardians will have to pay for medical treatments upfront, before
+submitting claims to Income Insurance Limited (Income Insurance) for reimbursement.
+Please note the applicable limits and coverage for medical expenses. Ineligible
+expenses or expenses in excess of the limits will be borne by the students/parents/guardians.</p>
+<p>Parents/guardians should also take note that medical treatments at private
+hospitals will typically cost higher, and parents/guardians may need to
+pay more out-of-pocket expenses if treatment costs exceed the policy’s
+coverage limits.</p>
+<p>All claims must be <strong>submitted online</strong> by parents/guardians
+as soon as possible subjected to a cap of 365 days from the date of accident,
+via the Income’s GPA Claim Portal at <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+</p>
+<p>Please submit all required documents as listed in the <u>GPA Factsheet</u>
+</p>
+<p>Parents/guardians can also access the above Claim Portal to follow up
+on claim submission and make enquiry on claim status.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>(II) Group Overseas Travel Insurance</strong>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>(II) MOE TRAVEL INSURANCE</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -738,19 +707,11 @@ Ms Stella Teo at 62722277).</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Insurer</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Zurich Insurance Co Ltd</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Insurance Broker</p>
+<p>Insurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mercer - Marsh</p>
+<p>Income Insurance Ltd (Income Insurance)</p>
 </td>
 </tr>
 <tr>
@@ -758,66 +719,60 @@ Ms Stella Teo at 62722277).</p>
 <p>Coverage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 hours coverage for all overseas school trips.
-<br>Click <a href="/files/High School/Travel_Insurance_Fact_Sheet_2024_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-download the Travel Insurance Benefit Summary. Note that this summary is
-to provide an outline of the coverage only and is not a policy document.
-The terms and conditions of the Insurer's policy document shall prevail
-at all times.</p>
+<p>MOE Schools Travel insurance which covers accidental death, injury, sickness,
+loss or damage, legal liability or other specified event occurring to students
+and teacher chaperones during their school trips.</p>
+<p>The school will purchase the travel insurance for the group from Income,
+premium for students will be recovered as part of the overseas trip costs.</p>
+<p>Parents/Guardians can refer to <u>GTI Factsheet (Students)</u> for the Benefit
+Summary and other important information and</p>
+<p><u>GTI FAQ for parents</u> for Frequently Asked Questions and Answers.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Claim Procedure
-<br>
-</p>
+<p>Claim Submission Procedure</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>a. Insurance claims involving <strong>recovering of trip costs</strong> (eg
-airfare in the case of cancelled trip) <strong>for school’s subsidized trips </strong>are
-to be handled and submitted by the school if co-payments have been made
-by students. The school will submit an insurance claim for the affected
-group as the settlement is to be allocated between the students and the
-school. The teacher in charge is to contact Finance Department to arrange
-for the claim submission.
-<br>
-<br>b. <strong>Personal insurance claims</strong> such as medical expenses/benefits
+<p>Personal travel insurance claims&nbsp;such as medical expenses/benefits
 or baggage loss/damage (where 100% of the settlements are to be paid to
-the individual claimants) are be submitted directly by the claimants to
-the insurer via the its Claim Submission Portal, URL as follow: <a href="https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client_portal&amp;GCOID=200800" rel="noopener noreferrer nofollow" target="_blank">https://singapore.merimen.com/claims/index.cfm?fusebox=MTRCmt&amp;fuseaction=client_portal&amp;GCOID=200800</a> 
-<br>
-<br>Steps:
-<br>1. Read the “Checklist” to understand and obtain the required supporting
-documents
-<br>2. Select “Submit a Claim”, and then “Travel (Policy No Starting with
-TTT, TAT or TZT)”
-<br>3. Select “Claim Type”
-<br>4. Input <strong>“Hwa Chong Institution” as Policyholder’s Name</strong> 
-<br>5. Input <strong>“TTT8000233SN”</strong> as Policy Number
-<br>6. Enter Claimant’s Personal Information
-<br>7. Enter Claim Information
-<br>8. Upload Documents
-<br>9. Confirm, declare and submit
-<br>10. A Notification No. will be generated. Claimant will also receive an
-acknowledgement email sent to the email address entered at the Personal
-Information section
-<br>
-<br>Claimants can also check the claim status via Zurich’s Claim Submission
-Portal.
-<br>
-<br>Please refer to the Claim Portal User Guide <a href="/files/user_guide_zurich_claim_submission_portal_703baa5cb3.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> for
-the detail instructions.
-<br>
-<br>If encounter problem with the Claim Portal, please email to sg-support@merimen.com
-for technical support.
-<br>For claim related queries on travel insurance claims, please email the
-queries to the broker’s Claim Team at EH&amp;B@mercermarshbenefits.com,
-together with the settlement letter and/or the copy of the paid itemized
-invoice or any other supporting documents surrounding the claims (where
-applicable) so that the claim team can review and analyse the claim before
-providing advice.</p>
+the individual claimants) are be submitted directly by the parents/guardians
+to Income.</p>
+<p>Insurance claims involving&nbsp;recovering of group trip costs&nbsp;(eg
+airfare for the group in the case of cancelled trip)&nbsp;for school’s
+subsidized trips will be submitted by the school.</p>
+<p>&nbsp;</p>
+<p>All claims must be submitted using either the Income Online Claims Portal&nbsp;<strong><u>OR</u></strong>&nbsp;MOE
+Travel Claims Form.</p>
+<p>&nbsp;</p>
+<p><strong>Online Claims Portal</strong>
+</p>
+<p>Please submit via: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a>
+</p>
+<p>(Reference: <u>GTI Claim Portal User Guide</u>)</p>
+<p>&nbsp;</p>
+<p><strong>MOE Travel Claims Form</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copy of the claims form can be
+downloaded from: <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select
+“Ministry of Education Travel claim form”). The required supporting documents
+for claims submission can be found in <u>Page 2 of the claims form</u>.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email the completed claims form,
+together with supporting documents to Income team at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
+</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please indicate travel policy number
+in the subject matter. Total file size of email attachments must not exceed
+30MB.​</p>
+<p>&nbsp;</p>
+<p>Note that claims must be submitted to Income with supporting documents&nbsp;<strong>within 60 days</strong> from
+the date of the event, whereby event refers to injury or incident.</p>
+<p>&nbsp;</p>
+<p>For enquiries on claim matters such as claim status, or further submission
+of supporting documents, please email&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">govclaim@income.com.sg</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
