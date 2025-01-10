@@ -659,8 +659,8 @@ hostel, to (or from) either the school’s premises or the place where an
 activity covered by the GPA Insurance will be conducted, including any
 reasonable deviations. For the avoidance of doubt, the student’s place
 of residence may include a place that is not in Singapore</p>
-<p>Please refer to the <u>GPA Factsheet </u>for details of Benefits/Sum Insured
-and other important information.</p>
+<p>Please refer to the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>for
+details of Benefits/Sum Insured and other important information.</p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
 Insurance Plan for students can also be found on Income’s website at&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
@@ -718,8 +718,8 @@ loss or damage, legal liability or other specified event occurring to students
 and teacher chaperones during their school trips.</p>
 <p>The school will purchase the travel insurance for the group from Income,
 premium for students will be recovered as part of the overseas trip costs.</p>
-<p>Parents/Guardians can refer to <u>GTI Factsheet (Students)</u> for the Benefit
-Summary and other important information and <u>GTI FAQ for parents</u> for
+<p>Parents/Guardians can refer to <a href="/files/MOE_Travel_Insurance_Fact_Sheet_for_Students_WEF_1_Nov_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Factsheet (Students)</u></a> for
+the Benefit Summary and other important information and <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI FAQ for parents</u></a> for
 Frequently Asked Questions and Answers.</p>
 </td>
 </tr>
@@ -740,7 +740,7 @@ Travel Claims Form.</p>
 <p><strong>Online Claims Portal</strong>
 </p>
 <p>Please submit via: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a>
-<br>(Reference: <u>GTI Claim Portal User Guide</u>)</p>
+<br>(Reference: <a href="/files/GTI_Claims_Portal_User_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Claim Portal User Guide</u></a>)</p>
 <p><strong>MOE Travel Claims Form</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.
