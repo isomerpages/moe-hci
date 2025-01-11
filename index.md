@@ -10,7 +10,7 @@ sections:
       background: /images/homepage_banner_v3.gif
       variant: center
       button: Ready to explore the next chapter of your educational journey?
-      url: /welcome-to-hci-our-new-secondary-one-hwa-chongians/
+      url: /join-us-at-hwa-chong-institution-s-college-open-house-on-14-jan-2025/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
