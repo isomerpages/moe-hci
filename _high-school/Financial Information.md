@@ -682,7 +682,7 @@ pay more out-of-pocket expenses if treatment costs exceed the policy’s
 coverage limits.</p>
 <p>All claims must be <strong>submitted online</strong> by parents/guardians
 as soon as possible subjected to a cap of 365 days from the date of accident,
-via the Income’s GPA Claim Portal at <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+via the Income’s GPA Claim Portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
 <p>Please submit all required documents as listed in the <u>GPA Factsheet</u>
 </p>
