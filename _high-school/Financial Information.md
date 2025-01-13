@@ -684,7 +684,7 @@ coverage limits.</p>
 as soon as possible subjected to a cap of 365 days from the date of accident,
 via the Income’s GPA Claim Portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
-<p>Please submit all required documents as listed in the <u>GPA Factsheet</u>
+<p>Please submit all required documents as listed in the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>
 </p>
 <p>Parents/guardians can also access the above Claim Portal to follow up
 on claim submission and make enquiry on claim status.</p>
@@ -713,11 +713,11 @@ on claim submission and make enquiry on claim status.</p>
 <p>Coverage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Schools Travel insurance which covers accidental death, injury, sickness,
+<p>MOE Schools Travel insurance covers accidental death, injury, sickness,
 loss or damage, legal liability or other specified event occurring to students
 and teacher chaperones during their school trips.</p>
-<p>The school will purchase the travel insurance for the group from Income,
-premium for students will be recovered as part of the overseas trip costs.</p>
+<p>The school will purchase travel insurance from Income for the travel group.
+Premium for students will be recovered by the school as part of the overseas trip costs.</p>
 <p>Parents/Guardians can refer to <a href="/files/MOE_Travel_Insurance_Fact_Sheet_for_Students_WEF_1_Nov_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Factsheet (Students)</u></a> for
 the Benefit Summary and other important information and <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI FAQ for parents</u></a> for
 Frequently Asked Questions and Answers.</p>
@@ -739,17 +739,17 @@ subsidized trips will be submitted by the school.</p>
 Travel Claims Form.</p>
 <p><strong>Online Claims Portal</strong>
 </p>
-<p>Please submit via: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a>
+<p>Please submit via: &nbsp;<a href="https://onlinetravelclaim.income.com.sg/travel-claim-web/travel" rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a>
 <br>(Reference: <a href="/files/GTI_Claims_Portal_User_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Claim Portal User Guide</u></a>)</p>
 <p><strong>MOE Travel Claims Form</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.
-Copy of the claims form can be downloaded from: <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select
+Copy of the claims form can be downloaded from: <a href="https://www.income.com.sg/claims/travel-claims" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select
 “Ministry of Education Travel claim form”). The required supporting documents
-for claims submission can be found in <u>Page 2 of the claims form</u>.</p>
+for claims submission can be found in <u>Page 2 of the claims form</u>. Note that the claims form to be endorsed and stamped by the school.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.
 Email the completed claims form, together with supporting documents to
-Income team at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
+Income team at&nbsp;<strong><a href="mailto:plineclaims@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.
 Please indicate travel policy number in the subject matter. Total file
