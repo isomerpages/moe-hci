@@ -757,7 +757,7 @@ size of email attachments must not exceed 30MB.​</p>
 <p>Note that claims must be submitted to Income with supporting documents&nbsp;<strong>within 60 days</strong> from
 the date of the event, whereby event refers to injury or incident.</p>
 <p>For enquiries on claim matters such as claim status, or further submission
-of supporting documents, please email&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">govclaim@income.com.sg</a></strong>
+of supporting documents, please email&nbsp;<strong><a href="mailto:govclaim@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">govclaim@income.com.sg</a></strong>
 </p>
 </td>
 </tr>
