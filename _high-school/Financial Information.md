@@ -663,7 +663,7 @@ of residence may include a place that is not in Singapore</p>
 details of Benefits/Sum Insured and other important information.</p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
 Insurance Plan for students can also be found on Income’s website at&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+<a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 </td>
 </tr>
