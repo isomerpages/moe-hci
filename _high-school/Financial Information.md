@@ -621,7 +621,7 @@ or the PCI criterion to qualify for ISB. More information can be found
 in the Annex I of the ISB Application Form.</p>
 <p>Completed ISB Application Form, together with required supporting documents
 are to be submitted to High School or College Reception Office.</p>
-<h5>Student Insurance Matter</h5>
+<h5><strong>Student Insurance Matter</strong></h5>
 <p><strong>&nbsp;(I) MOE GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</strong>
 </p>
 <table style="minWidth: 50px">
@@ -647,7 +647,7 @@ are to be submitted to High School or College Reception Office.</p>
 (GPA) Insurance which covers death, permanent and total/partial disability
 and medical expenses due to an accident. The proximate or triggering causes
 of injuries must be reasonably attributed to an accident.</p>
-<p>he GPA Insurance covers each student when that student is:</p>
+<p>The GPA Insurance covers each student when that student is:</p>
 <p>(a) In his or her school;</p>
 <p>(b) Participating in the school’s activities, or any activity related
 to or endorsed by the school, including Home-Based Learning (HBL), Co-Curricular
