@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h5>School Fees Structure</h5>
-<p><strong><u>School fee rates</u></strong>
+<p><strong><u>School fee rates</u></strong> 
 <br><strong>Year 2025 Monthly School Fees</strong>
 </p>
 <table style="minWidth: 100px">
@@ -108,20 +108,6 @@ variant: markdown
 <p>$2,800</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>Note:
@@ -148,7 +134,8 @@ will have to pay fees for November and December.</p>
 <p>School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of
 each month; or the next working day if the 15th day of the month falls
 on a weekend or Public Holiday, unless otherwise advised.</p>
-<p><strong><u>Giro Collection Dates For JC 1 school fees</u></strong>
+<p><strong><u>Giro Collection Dates For Sec 1 school fees</u></strong> 
+<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -233,7 +220,8 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Giro Collection Dates For JC 2 school fees</u></strong>
+<p><strong><u>Giro Collection Dates For Sec 2 to 4 school fees</u></strong> 
+<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -289,7 +277,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 <p>Dec-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>03 Nov 2025</p>
+<p>05 Nov 2025</p>
 </td>
 </tr>
 <tr>
@@ -302,26 +290,23 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Interbank Giro Application Form</u></strong>
+<p><strong><u>Interbank Giro Application Form</u></strong> 
+<br>
 </p>
 <p>It is compulsory for all students to take part in the Inter-bank Giro
-scheme. Parents / guardians are to submit the Interbank Giro Application
+scheme. Parents / guardians are to submit the Interbank Giro application
 form for the scheme upon admission of their child/ward to HCI.This is to
 facilitate the school to collect school fees and any other fees as may
 be required from time to time.</p>
-<p>The application form is available <strong><a href="/files/jc_interbank_giro_application_form_jan_22_c9c1049ffc.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+<p>The application form is available <strong><a href="/files/hs_interbank_giro_application_form_jan_22_57d33efd75.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
 download.</p>
-<h5>Financial Assistance</h5>
-<p><strong><u>Financial Assistance / Awards</u></strong>
-</p>
-<p>No Singaporean student will be denied a place in Hwa Chong Institution
-because of financial reasons. A range of financial assistance schemes,
-scholarships and awards are available to support our students.</p>
+<h5><u>Financial Assistance / Awards</u></h5>
+<p>A range of financial assistance schemes, scholarships and awards are available
+to support our students.</p>
 <p><strong><u>(A)&nbsp;&nbsp; Awards and scholarships offered by MOE:</u></strong>
 </p>
-<p><strong>1 .</strong>&nbsp;&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Scholarships for Students of Independent Schools (ESIS)</a></strong>
-</p>
-<p><strong>2 .</strong>&nbsp;&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards</a></strong>
+<p>1 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Scholarships for Students of Independent Schools (ESIS)</a></strong>
+<br>2 . <strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards</a></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -337,122 +322,116 @@ scholarships and awards are available to support our students.</p>
 <p>Edusave Character Awards (ECHA)</p>
 </li>
 </ul>
-<p><strong>3 .&nbsp; MOE Scholarships</strong>
-</p>
-<p><strong>a.</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/moe-pre-u-scholarship" rel="noopener noreferrer nofollow" target="_blank">MOE Pre-University Scholarship</a></strong>
-</p>
-<p><strong>b.</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" rel="noopener noreferrer nofollow" target="_blank">Programme-Based Scholarships</a></strong>
+<p>3 . <strong>MOE Special Programme Scholarships</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-jc" rel="noopener nofollow" target="_blank">Art Elective Programme (AEP)</a>
+<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Art%20Programmes&amp;subterm=Art%20Elective%20Programme%20(AEP)" rel="noopener noreferrer nofollow" target="_blank">Art Elective Programme (AEP)</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/art-elective-scholarship" rel="noopener nofollow" target="_blank">Art Elective Scholarship (AES)</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships" rel="noopener noreferrer nofollow" target="_blank">Programme-Based Scholarships</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/bicultural-studies-programme-scholarship" rel="noopener nofollow" target="_blank">Bicultural Studies Programme (BSP) Scholarship</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships" rel="noopener noreferrer nofollow" target="_blank">Bicultural Studies Programme (BSP) Scholarships</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/engineering-and-tech-programme-scholarship" rel="noopener nofollow" target="_blank">Engineering and Tech Programme Scholarship (ETPS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/humanities-scholarship-and-programme" rel="noopener nofollow" target="_blank">Humanities Scholarship</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" rel="noopener nofollow" target="_blank">Language Elective Scholarship</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships" rel="noopener noreferrer nofollow" target="_blank">Language Elective Scholarships</a>
 </p>
 </li>
 </ul>
 <p><strong><u>(B)&nbsp; Financial Assistance Schemes:</u></strong>
 </p>
-<p><strong>1 .&nbsp; Independent Schools Bursary Scheme (ISB)</strong>
+<p>1 .&nbsp;<strong>Independent Schools Bursary Scheme (ISB)</strong> 
 <br>- For Singaporean Citizens only (details please refer to ISB Section)</p>
-<p><strong>2 .&nbsp; Hwa Chong Institution Needy Pupils Fund</strong>
+<p>2 . <strong>Hwa Chong Institution Needy Pupils Fund</strong> 
 <br>- For all students</p>
-<p><strong>3 .&nbsp; Opportunity Fund (OF) / MOE Discretionary School-Based FAS</strong>
-<br>- For Singapore Citizen, to fund overseas study trips, enrichment programme</p>
-<p>Students who require financial assistance&nbsp;<strong><u>at any point of time</u></strong>&nbsp;can
-approach either their Civic Tutor or Education Consultant of their Faculty
-for advice on the application for the above.</p>
-<p><strong>4 .&nbsp; Trip for Internationalization Experience (TIE)</strong>
-<br>- For Singapore Citizens, provides subsidy for overseas learning journeys
-to Asia with a focus on ASEAN countries, school immersion programmes and
-student exchange programmes with a cultural focus. TIE fund needs no application
-and is granted to all Singaporean students who are going on eligible overseas
-trips.</p>
-<p></p>
+<p>3 . <strong>Opportunity Fund (OF) / MOE Discretionary School-Based FAS</strong> 
+<br>- For Singaporean Citizens to fund overseas study trips and enrichment
+programmes</p>
+<p>Students who require financial assistance at any point of time can approach
+either their Form teachers or Head of Consortium for advice on the application
+for the above funds.</p>
+<p>4 . <strong>Trip for Internationalization Experience (TIE)</strong> 
+<br>&nbsp;- For Singapore Citizens, the TIE provides a subsidy for overseas
+learning journeys to Asia with a focus on ASEAN countries, school immersion
+programmes and student exchange programmes with a cultural focus. The TIE
+fund needs no application and is granted to all Singaporean students who
+are going on eligible overseas trips.</p>
 <p><strong><u>(C)&nbsp; Other Bursary and Scholarship schemes:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>HCJC Alumni Bursary</p>
+<p>Singapore Buddhist Lodge Bursary</p>
 </li>
 <li>
 <p>The Straits Times School Pocket Money Fund</p>
 </li>
 <li>
-<p>Singapore Buddhist Lodge Bursary</p>
+<p>Koh Brothers Scholarship</p>
 </li>
 <li>
-<p>Loo Geok Eng Foundation Scholarship</p>
+<p>Koh Choon Joo Scholarship</p>
 </li>
 <li>
 <p>Tan Sri Dr Tan Chin Tuan Scholarship</p>
 </li>
 <li>
-<p>Seah Boon Thong Book Prize</p>
-</li>
-<li>
-<p>Lin Hsiang Scholarship</p>
+<p>Irene Tan Liang Kheng Scholarship (from Yr 2020)</p>
 </li>
 <li>
 <p>Singapore Buddhist Youth Mission Bursary Award</p>
 </li>
-<li>
-<p>Youth Empowering and Aspiration Programme (YEAP)</p>
-</li>
 </ul>
 <p>Students and parents will be notified of application times on IEMB, ISP
 and other communication channels used by the School.</p>
-<p><strong><u>(D)&nbsp; Awards (Only through nomination by school):</u></strong>
+<p><strong><u>(D)&nbsp; HCI Awards (through nomination by school):</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Hwa Chong Ang Wee Hiong All-Round Excellence Award</p>
+<p>Annie Tan (Mrs Wan Boo Sow) Bilingual Award</p>
 </li>
 <li>
-<p>Hon Chiew Weng Science Research Award</p>
+<p>Trilingual Award</p>
 </li>
 <li>
-<p>SCCCI Academic Excellence Award</p>
+<p>Hwang Fu Award</p>
 </li>
 <li>
-<p>Lim Nan Tian Community Service Award</p>
+<p>Xue Yong Shu Model Student Award</p>
 </li>
 <li>
-<p>Ong Teng Cheong Outstanding Leadership Award</p>
+<p>Zheng An Lun Model Student Award</p>
 </li>
 <li>
-<p>Model Student Councilor Award</p>
+<p>Tooh Fee San All-Round Excellence Award</p>
 </li>
 <li>
-<p>Annie Tan Bilingual Award</p>
+<p>Leong Heng Keng Venture Scouts Award</p>
 </li>
 <li>
-<p>Tan Keong Choon Award</p>
+<p>Leong Heng Keng Boy Scouts Award</p>
+</li>
+<li>
+<p>Lee Tai Hui Boy Scouts Award</p>
+</li>
+<li>
+<p>Lee Tai Huo Venture Scouts Award</p>
+</li>
+<li>
+<p>Top Students Award</p>
+</li>
+<li>
+<p>HCI EAGLE Award</p>
 </li>
 <li>
 <p>HCI ECHA Award</p>
 </li>
 </ul>
-<h5>MOE Independent School Bursary (ISB) Scheme</h5>
-<p><strong><u>Eligibility Criteria And Benefits</u></strong>
+<h5><strong>MOE Independent School Bursary (ISB) Scheme</strong></h5>
+<p><strong><u>Eligibility Criteria</u></strong>
 </p>
 <p>Student is a Singapore Citizen, and meets either the gross monthly household
 income (GHI) or per capita income (PCI) criterion shown in the table below.</p>
@@ -470,7 +449,7 @@ the effective month.</p>
 end Feb 2025 for ISB subsidy to take effect from Jan 2025.</p>
 <p><strong>Income Criteria and Benefits</strong>
 </p>
-<p>The income limits and benefits for Year 2025 are as shown in the tables
+<p>The income limits and benefits for Year 2025are as shown in the tables
 below:</p>
 <p>Income Criteria
 <br>(Meet one of the following criteria)</p>
@@ -501,10 +480,12 @@ below:</p>
 <br>
 <br>
 <br>
+<br>
 <br>Not exceeding $3,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
+<br>
 <br>
 <br>
 <br>
@@ -531,7 +512,10 @@ via DSA and/or ESIS recipients</p>
 <br>
 <br>
 <br>
-<br>$3,001-$4,400</p>
+<br>
+<br>
+<br>
+<br>$3,001 - $4,400</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -539,20 +523,23 @@ via DSA and/or ESIS recipients</p>
 <br>
 <br>
 <br>
-<br>$751-$1,100</p>
+<br>
+<br>
+<br>
+<br>$751 - $1,100</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>* School fee rate per month:
 <br>
-<br><u>Pre-university level</u>
+<br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
-<br>Non-MOE Scholar: $33.00 to be funded by MOE’s School Based Financial Assistance
-Scheme, no fee payable this year.&nbsp;
-<br>
-<br><u>Secondary level</u>
-<br>MOE Scholar: $0.00
-<br>&nbsp;Non-MOE Scholar: $25.00 to be funded by MOE’s School Based Financial
+<br>&nbsp;Non-MOE Scholar: $33.00 to be funded by MOE’s School Based Financial
 Assistance Scheme, no fee payable this year.&nbsp;
+<br>
+<br><u>Secondary level</u> 
+<br>MOE Scholar: $0.00
+<br>Non-MOE Scholar: $25.00 to be funded by MOE’s School Based Financial Assistance
+Scheme, no fee payable this year.&nbsp;
 <br>
 <br>* UPLIFT Scholarship^ of $1,000 cash award per annum for students admitted
 via DSA and/or ESIS recipients</p>
@@ -562,23 +549,23 @@ via DSA and/or ESIS recipients</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>$4,401-$7,500</p>
+<br>
+<br>$4,401 - $7,500</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-</p>
-<p>$1,101-$1,875</p>
+<br>
+<br>$1,101 - $1,875</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* School fee rate per month:</p>
-<p>
-<br><u>Pre-university level</u>
+<p>* School fee rate per month:
+<br>
+<br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
-<br>Non-MOE Scholar: $49.50
+<br>&nbsp;Non-MOE Scholar: $49.50
 <br>
-</p>
-<p><u>Secondary level</u>
+<br><u>Secondary level</u> 
 <br>MOE Scholar: $0.00
 <br>Non-MOE Scholar: $37.50</p>
 </td>
@@ -588,22 +575,24 @@ via DSA and/or ESIS recipients</p>
 <p>
 <br>
 <br>
-<br>$7,501-$10,000</p>
+<br>
+<br>$7,501 - $10,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
 <br>
-<br>$1,876-$2,500</p>
+<br>
+<br>$1,876 - $2,500</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>* School fee rate per month:
 <br>
-<br><u>Pre-university level</u>
+<br><u>Pre-university level</u> 
 <br>MOE Scholar: $34.50
 <br>Non-MOE Scholar: $234.50
 <br>
-<br><u>Secondary level</u>
+<br><u>Secondary level</u> 
 <br>MOE Scholar: $1.00 (Sec 1 &amp; 2); $34.50 (Sec 3 &amp; 4)
 <br>Non-MOE Scholar: $201.00 (Sec 1 &amp; 2); $234.50 (Sec&nbsp; 3 &amp; 4)</p>
 </td>
@@ -623,15 +612,16 @@ via DSA and/or ESIS recipients</p>
 </table>
 <p><strong>^ No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
-<p><strong>Click to download the 2025 ISB Application Form</strong>  <strong><a href="/files/MOE_ISB_Application_Form_2025_JC.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
+<p><strong>To download the 2025 ISB Application Form click</strong>  <strong><a href="/files/MOE_ISB_Application_Form_2025_HS_new.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+</p>
+<p><strong>To apply for the 2025 ISB Application Online click <a href="https://form.gov.sg/66fe36e777e924056c03ee43" rel="noopener nofollow" target="_blank">here</a></strong>
 </p>
 <p>Students need only satisfy either the monthly Gross Household Income (GHI)
 or the PCI criterion to qualify for ISB. More information can be found
 in the Annex I of the ISB Application Form.</p>
 <p>Completed ISB Application Form, together with required supporting documents
 are to be submitted to High School or College Reception Office.</p>
-
-<h5>Student Insurance Matter</h5>
+<h5><strong>Student Insurance Matter</strong></h5>
 <p><strong>&nbsp;(I) MOE GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</strong>
 </p>
 <table style="minWidth: 50px">
@@ -657,7 +647,7 @@ are to be submitted to High School or College Reception Office.</p>
 (GPA) Insurance which covers death, permanent and total/partial disability
 and medical expenses due to an accident. The proximate or triggering causes
 of injuries must be reasonably attributed to an accident.</p>
-<p>he GPA Insurance covers each student when that student is:</p>
+<p>The GPA Insurance covers each student when that student is:</p>
 <p>(a) In his or her school;</p>
 <p>(b) Participating in the school’s activities, or any activity related
 to or endorsed by the school, including Home-Based Learning (HBL), Co-Curricular
@@ -673,7 +663,7 @@ of residence may include a place that is not in Singapore</p>
 details of Benefits/Sum Insured and other important information.</p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
 Insurance Plan for students can also be found on Income’s website at&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+<a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 </td>
 </tr>
@@ -692,9 +682,9 @@ pay more out-of-pocket expenses if treatment costs exceed the policy’s
 coverage limits.</p>
 <p>All claims must be <strong>submitted online</strong> by parents/guardians
 as soon as possible subjected to a cap of 365 days from the date of accident,
-via the Income’s GPA Claim Portal at <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+via the Income’s GPA Claim Portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
-<p>Please submit all required documents as listed in the <u>GPA Factsheet</u>
+<p>Please submit all required documents as listed in the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>
 </p>
 <p>Parents/guardians can also access the above Claim Portal to follow up
 on claim submission and make enquiry on claim status.</p>
@@ -723,11 +713,11 @@ on claim submission and make enquiry on claim status.</p>
 <p>Coverage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Schools Travel insurance which covers accidental death, injury, sickness,
+<p>MOE Schools Travel insurance covers accidental death, injury, sickness,
 loss or damage, legal liability or other specified event occurring to students
 and teacher chaperones during their school trips.</p>
-<p>The school will purchase the travel insurance for the group from Income,
-premium for students will be recovered as part of the overseas trip costs.</p>
+<p>The school will purchase travel insurance from Income for the travel group.
+Premium for students will be recovered by the school as part of the overseas trip costs.</p>
 <p>Parents/Guardians can refer to <a href="/files/MOE_Travel_Insurance_Fact_Sheet_for_Students_WEF_1_Nov_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Factsheet (Students)</u></a> for
 the Benefit Summary and other important information and <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI FAQ for parents</u></a> for
 Frequently Asked Questions and Answers.</p>
@@ -749,17 +739,17 @@ subsidized trips will be submitted by the school.</p>
 Travel Claims Form.</p>
 <p><strong>Online Claims Portal</strong>
 </p>
-<p>Please submit via: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a>
+<p>Please submit via: &nbsp;<a href="https://onlinetravelclaim.income.com.sg/travel-claim-web/travel" rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a>
 <br>(Reference: <a href="/files/GTI_Claims_Portal_User_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Claim Portal User Guide</u></a>)</p>
 <p><strong>MOE Travel Claims Form</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.
-Copy of the claims form can be downloaded from: <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select
+Copy of the claims form can be downloaded from: <a href="https://www.income.com.sg/claims/travel-claims" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select
 “Ministry of Education Travel claim form”). The required supporting documents
-for claims submission can be found in <u>Page 2 of the claims form</u>.</p>
+for claims submission can be found in <u>Page 2 of the claims form</u>. Note that the claims form to be endorsed and stamped by the school.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.
 Email the completed claims form, together with supporting documents to
-Income team at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
+Income team at&nbsp;<strong><a href="mailto:plineclaims@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.
 Please indicate travel policy number in the subject matter. Total file
@@ -767,9 +757,10 @@ size of email attachments must not exceed 30MB.​</p>
 <p>Note that claims must be submitted to Income with supporting documents&nbsp;<strong>within 60 days</strong> from
 the date of the event, whereby event refers to injury or incident.</p>
 <p>For enquiries on claim matters such as claim status, or further submission
-of supporting documents, please email&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">govclaim@income.com.sg</a></strong>
+of supporting documents, please email&nbsp;<strong><a href="mailto:govclaim@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">govclaim@income.com.sg</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
