@@ -82,11 +82,11 @@ For&nbsp;**enquiries with regard to Special Programmes**, please email:
 |Special Programme|Teacher In-Charge|Email|
 | -------- | -------- | -------- |
 |Humanities Programme (HP)|Mr Benjamin Hathaway|[benjaminhw@hci.edu.sg](mailto:benjaminhw@hci.edu.sg)|
-|Language Elective Programme (LEP)|Mr Hong Wee Seng Jeffrey|[hongws@hci.edu.sg](mailto:hongws@hci.edu.sg)|
+|Language Elective Programme (LEP)|Mr Yeong Chan Kong|[yeongck@hci.edu.sg](mailto:hongws@hci.edu.sg)|
 |Art Elective Programme (AEP)|Mr Tan Chiew Sern|[chiewsern@hci.edu.sg](mailto:chiewsern@hci.edu.sg)
-|Bicultural Studies Programme (BSP)|Mr Hong Wee Seng Jeffrey|[hongws@hci.edu.sg](mailto:hongws@hci.edu.sg)|
+|Bicultural Studies Programme (BSP)|Mr Yeong Chan Kong|[yeongck@hci.edu.sg](mailto:hongws@hci.edu.sg)|
 |Science and Math Talent Programme (SMTP)|Ms Wang Yitian|[wangyt@hci.edu.sg](mailto:wangyt@hci.edu.sg)|
-|Computing Talent Programme (CTP)|Mr Ng Say Tiong|[ngst@hci.edu.sg](mailto:ngst@hci.edu.sg)|
+|Computing Talent Programme (CTP)|Ms Yu Qian|[yuqian@hci.edu.sg](mailto:yuqian@hci.edu.sg)|
 
 For&nbsp;**enquiries with regard to specific subjects**, please email:
 
