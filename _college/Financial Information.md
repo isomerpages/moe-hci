@@ -612,10 +612,10 @@ via DSA and/or ESIS recipients</p>
 </table>
 <p><strong>^ No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
-<p><strong>To download the 2025 ISB Application Form click</strong>  <strong><a href="/files/MOE_ISB_Application_Form_2025_HS_new.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
-</p>
-<p><strong>To apply for the 2025 ISB Application Online click <a href="https://form.gov.sg/66fe36e777e924056c03ee43" rel="noopener nofollow" target="_blank">here</a></strong>
-</p>
+<p><strong>To download the 2025 ISB Application Form 
+</strong></p><strong>
+<p><strong>To apply for the 2025 ISB Application Online 
+</strong></p><strong>
 <p>Students need only satisfy either the monthly Gross Household Income (GHI)
 or the PCI criterion to qualify for ISB. More information can be found
 in the Annex I of the ISB Application Form.</p>
@@ -763,4 +763,4 @@ of supporting documents, please email&nbsp;<strong><a href="mailto:govclaim@inco
 </tr>
 </tbody>
 </table>
-<p></p>
+<p></p></strong></strong>
