@@ -2,7 +2,7 @@
 title: Financial Information
 permalink: /college/financial-info/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h5>School Fees Structure</h5>
 <p><strong><u>School fee rates</u></strong> 
@@ -124,7 +124,8 @@ school fees to HCI unless the student is also a recipient of MOE Independent
 School Bursary (ISB).</p>
 <p><strong><u>School fees payable by Singaporean students on MOE Independent School Bursary (ISB)</u></strong>
 </p>
-<p>Please refer to below for more details on ISB scheme and school fee rates.</p>
+<p>Please click <a href="/files/MOE_ISB_Application_Form_2025_JC.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more details on ISB scheme and school fee rates.</p>
 <p><strong><u>School fees payment</u></strong>
 </p>
 <p>The school fees payable is structured by spreading an annual fee over
@@ -134,7 +135,7 @@ will have to pay fees for November and December.</p>
 <p>School fees will be deducted through Interbank Giro on&nbsp;15th&nbsp;of
 each month; or the next working day if the 15th day of the month falls
 on a weekend or Public Holiday, unless otherwise advised.</p>
-<p><strong><u>Giro Collection Dates For Sec 1 school fees</u></strong> 
+<p><strong><u>Giro Collection Dates For JC 1 school fees</u></strong> 
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -220,7 +221,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Giro Collection Dates For Sec 2 to 4 school fees</u></strong> 
+<p><strong><u>Giro Collection Dates For JC 2 school fees</u></strong> 
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -277,7 +278,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 <p>Dec-25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>05 Nov 2025</p>
+<p>03 Nov 2025</p>
 </td>
 </tr>
 <tr>
@@ -612,15 +613,14 @@ via DSA and/or ESIS recipients</p>
 </table>
 <p><strong>^ No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
-<p><strong>To download the 2025 ISB Application Form 
-</strong></p><strong>
-<p><strong>To apply for the 2025 ISB Application Online 
-</strong></p><strong>
-<p>Students need only satisfy either the monthly Gross Household Income (GHI)
-or the PCI criterion to qualify for ISB. More information can be found
-in the Annex I of the ISB Application Form.</p>
-<p>Completed ISB Application Form, together with required supporting documents
-are to be submitted to High School or College Reception Office.</p>
+<p><strong>To download the 2025 ISB Application Form</strong>
+</p>
+<p><strong>To apply for the 2025 ISB Application Online</strong>
+</p>
+<p><strong>Students need only satisfy either the monthly Gross Household Income (GHI) or the PCI criterion to qualify for ISB. More information can be found in the Annex I of the ISB Application Form.</strong>
+</p>
+<p><strong>Completed ISB Application Form, together with required supporting documents are to be submitted to High School or College Reception Office.</strong>
+</p>
 <h5><strong>Student Insurance Matter</strong></h5>
 <p><strong>&nbsp;(I) MOE GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</strong>
 </p>
@@ -632,62 +632,52 @@ are to be submitted to High School or College Reception Office.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Insurer</p>
+<p><strong>Insurer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Income Insurance Ltd (Income Insurance)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Coverage</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All students are automatically insured under the Group Personal Accident
-(GPA) Insurance which covers death, permanent and total/partial disability
-and medical expenses due to an accident. The proximate or triggering causes
-of injuries must be reasonably attributed to an accident.</p>
-<p>The GPA Insurance covers each student when that student is:</p>
-<p>(a) In his or her school;</p>
-<p>(b) Participating in the school’s activities, or any activity related
-to or endorsed by the school, including Home-Based Learning (HBL), Co-Curricular
-Activities (“CCAs”) and sports, regardless of the time at which such activities
-are conducted and whether the activities are conducted in the school, in
-Singapore, or elsewhere;</p>
-<p>(c) Commuting from (or to) his or her place of residence, including a
-hostel, to (or from) either the school’s premises or the place where an
-activity covered by the GPA Insurance will be conducted, including any
-reasonable deviations. For the avoidance of doubt, the student’s place
-of residence may include a place that is not in Singapore</p>
-<p>Please refer to the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>for
-details of Benefits/Sum Insured and other important information.</p>
-<p>Information on claims, FAQs and other details pertaining to the MOE GPA
-Insurance Plan for students can also be found on Income’s website at&nbsp;
-<a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+<p><strong>Income Insurance Ltd (Income Insurance)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Claim Submission Procedure</p>
+<p><strong>Coverage</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/guardians will have to pay for medical treatments upfront, before
-submitting claims to Income Insurance Limited (Income Insurance) for reimbursement.
-Please note the applicable limits and coverage for medical expenses. Ineligible
-expenses or expenses in excess of the limits will be borne by the students/parents/guardians.</p>
-<p>Parents/guardians should also take note that medical treatments at private
-hospitals will typically cost higher, and parents/guardians may need to
-pay more out-of-pocket expenses if treatment costs exceed the policy’s
-coverage limits.</p>
-<p>All claims must be <strong>submitted online</strong> by parents/guardians
-as soon as possible subjected to a cap of 365 days from the date of accident,
-via the Income’s GPA Claim Portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<p><strong>All students are automatically insured under the Group Personal Accident (GPA) Insurance which covers death, permanent and total/partial disability and medical expenses due to an accident. The proximate or triggering causes of injuries must be reasonably attributed to an accident.</strong>
 </p>
-<p>Please submit all required documents as listed in the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>
+<p><strong>The GPA Insurance covers each student when that student is:</strong>
 </p>
-<p>Parents/guardians can also access the above Claim Portal to follow up
-on claim submission and make enquiry on claim status.</p>
+<p><strong>(a) In his or her school;</strong>
+</p>
+<p><strong>(b) Participating in the school’s activities, or any activity related to or endorsed by the school, including Home-Based Learning (HBL), Co-Curricular Activities (“CCAs”) and sports, regardless of the time at which such activities are conducted and whether the activities are conducted in the school, in Singapore, or elsewhere;</strong>
+</p>
+<p><strong>(c) Commuting from (or to) his or her place of residence, including a hostel, to (or from) either the school’s premises or the place where an activity covered by the GPA Insurance will be conducted, including any reasonable deviations. For the avoidance of doubt, the student’s place of residence may include a place that is not in Singapore</strong>
+</p>
+<p><strong>Please refer to the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>for details of Benefits/Sum Insured and other important information.</strong>
+</p>
+<p><strong>Information on claims, FAQs and other details pertaining to the MOE GPA Insurance Plan for students can also be found on Income’s website at&nbsp; <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Claim Submission Procedure</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Parents/guardians will have to pay for medical treatments upfront, before submitting claims to Income Insurance Limited (Income Insurance) for reimbursement. Please note the applicable limits and coverage for medical expenses. Ineligible expenses or expenses in excess of the limits will be borne by the students/parents/guardians.</strong>
+</p>
+<p><strong>Parents/guardians should also take note that medical treatments at private hospitals will typically cost higher, and parents/guardians may need to pay more out-of-pocket expenses if treatment costs exceed the policy’s coverage limits.</strong>
+</p>
+<p><strong>All claims must be submitted online by parents/guardians as soon as possible subjected to a cap of 365 days from the date of accident, via the Income’s GPA Claim Portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a></strong>
+</p>
+<p><strong>Please submit all required documents as listed in the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a></strong>
+</p>
+<p><strong>Parents/guardians can also access the above Claim Portal to follow up on claim submission and make enquiry on claim status.</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -702,65 +692,58 @@ on claim submission and make enquiry on claim status.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Insurer</p>
+<p><strong>Insurer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Income Insurance Ltd (Income Insurance)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Coverage</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE Schools Travel insurance covers accidental death, injury, sickness,
-loss or damage, legal liability or other specified event occurring to students
-and teacher chaperones during their school trips.</p>
-<p>The school will purchase travel insurance from Income for the travel group.
-Premium for students will be recovered by the school as part of the overseas trip costs.</p>
-<p>Parents/Guardians can refer to <a href="/files/MOE_Travel_Insurance_Fact_Sheet_for_Students_WEF_1_Nov_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Factsheet (Students)</u></a> for
-the Benefit Summary and other important information and <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI FAQ for parents</u></a> for
-Frequently Asked Questions and Answers.</p>
+<p><strong>Income Insurance Ltd (Income Insurance)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Claim Submission Procedure</p>
+<p><strong>Coverage</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Personal travel insurance claims&nbsp;such as medical expenses/benefits
-or baggage loss/damage (where 100% of the settlements are to be paid to
-the individual claimants) are be submitted directly by the parents/guardians
-to Income.</p>
-<p>Insurance claims involving&nbsp;recovering of group trip costs&nbsp;(eg
-airfare for the group in the case of cancelled trip)&nbsp;for school’s
-subsidized trips will be submitted by the school.</p>
-<p>All claims must be submitted using either the Income Online Claims Portal&nbsp;<strong><u>OR</u></strong>&nbsp;MOE
-Travel Claims Form.</p>
+<p><strong>MOE Schools Travel insurance covers accidental death, injury, sickness, loss or damage, legal liability or other specified event occurring to students and teacher chaperones during their school trips.</strong>
+</p>
+<p><strong>The school will purchase travel insurance from Income for the travel group. Premium for students will be recovered by the school as part of the overseas trip costs.</strong>
+</p>
+<p><strong>Parents/Guardians can refer to <a href="/files/MOE_Travel_Insurance_Fact_Sheet_for_Students_WEF_1_Nov_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Factsheet (Students)</u></a> for the Benefit Summary and other important information and <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI FAQ for parents</u></a> for Frequently Asked Questions and Answers.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Claim Submission Procedure</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Personal travel insurance claims&nbsp;such as medical expenses/benefits or baggage loss/damage (where 100% of the settlements are to be paid to the individual claimants) are be submitted directly by the parents/guardians to Income.</strong>
+</p>
+<p><strong>Insurance claims involving&nbsp;recovering of group trip costs&nbsp;(eg airfare for the group in the case of cancelled trip)&nbsp;for school’s subsidized trips will be submitted by the school.</strong>
+</p>
+<p><strong>All claims must be submitted using either the Income Online Claims Portal&nbsp;<u>OR</u>&nbsp;MOE Travel Claims Form.</strong>
+</p>
 <p><strong>Online Claims Portal</strong>
 </p>
-<p>Please submit via: &nbsp;<a href="https://onlinetravelclaim.income.com.sg/travel-claim-web/travel" rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a>
-<br>(Reference: <a href="/files/GTI_Claims_Portal_User_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Claim Portal User Guide</u></a>)</p>
+<p><strong>Please submit via: &nbsp;<a href="https://onlinetravelclaim.income.com.sg/travel-claim-web/travel" rel="noopener noreferrer nofollow" target="_blank">https://onlinetravelclaim.income.com.sg/travel-claim-web/travel</a><br>(Reference: <a href="/files/GTI_Claims_Portal_User_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Claim Portal User Guide</u></a>)</strong>
+</p>
 <p><strong>MOE Travel Claims Form</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.
-Copy of the claims form can be downloaded from: <a href="https://www.income.com.sg/claims/travel-claims" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select
-“Ministry of Education Travel claim form”). The required supporting documents
-for claims submission can be found in <u>Page 2 of the claims form</u>. Note that the claims form to be endorsed and stamped by the school.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.
-Email the completed claims form, together with supporting documents to
-Income team at&nbsp;<strong><a href="mailto:plineclaims@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Copy of the claims form can be downloaded from: <a href="https://www.income.com.sg/claims/travel-claims" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select “Ministry of Education Travel claim form”). The required supporting documents for claims submission can be found in <u>Page 2 of the claims form</u>. Note that the claims form to be endorsed and stamped by the school.</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.
-Please indicate travel policy number in the subject matter. Total file
-size of email attachments must not exceed 30MB.​</p>
-<p>Note that claims must be submitted to Income with supporting documents&nbsp;<strong>within 60 days</strong> from
-the date of the event, whereby event refers to injury or incident.</p>
-<p>For enquiries on claim matters such as claim status, or further submission
-of supporting documents, please email&nbsp;<strong><a href="mailto:govclaim@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">govclaim@income.com.sg</a></strong>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Email the completed claims form, together with supporting documents to Income team at&nbsp;<a href="mailto:plineclaims@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
+</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Please indicate travel policy number in the subject matter. Total file size of email attachments must not exceed 30MB.​</strong>
+</p>
+<p><strong>Note that claims must be submitted to Income with supporting documents&nbsp;within 60 days from the date of the event, whereby event refers to injury or incident.</strong>
+</p>
+<p><strong>For enquiries on claim matters such as claim status, or further submission of supporting documents, please email&nbsp;<a href="mailto:govclaim@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">govclaim@income.com.sg</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p></strong></strong>
+<p></p>
