@@ -77,59 +77,6 @@ engage stakeholders across all levels.</p>
 <p>• Demonstrated commitment to high ethical standards and professional integrity.</p>
 <p>• Proficient in MS Office Suite, financial software, and related tools.</p>
 <hr>
-<p><strong><u>Position: HR Officer (Temp) – 5 months</u></strong>
-</p>
-<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
-</p>
-<p>1. Staff Development and Training</p>
-<p>• Coordinate and process staff training programs, including course registration,
-payments, and account setup (e.g., Opal platform).</p>
-<p>• Support and organize key staff engagement events, such as the EAS Townhall
-and leadership workshops.</p>
-<p>2. Recruitment and Onboarding</p>
-<p>• Manage job postings and candidate shortlisting for various roles.</p>
-<p>• Coordinate interviews with hiring managers, senior leaders, and stakeholders.</p>
-<p>• Conduct reference checks and ensure all required documents are completed
-for successful candidates.</p>
-<p>• Facilitate the Ministry of Education (MOE) Open Posting Exercise.</p>
-<p>3. Employee Benefits and Insurance</p>
-<p>• Maintain accurate staff insurance records and liaise with brokers on
-updates and claims.</p>
-<p>• Assist staff with insurance claims processes, ensuring smooth communication
-with providers and timely submission of necessary documents.</p>
-<p>• Address staff inquiries and guide them on claims-related matters.</p>
-<p>4. Awards and Recognition Programs</p>
-<p>• Manage award nomination processes and prepare materials, including certificates
-and</p>
-<p>presentations, for recipients.</p>
-<p>• Oversee award-related payments and coordinate with vendors to source
-suitable gifts.</p>
-<p>5. HR Operations and Claims Management</p>
-<p>• Process employee claims (medical, dental, transport) and verify reimbursement
-reports.</p>
-<p>• Collaborate with external vendors to streamline claims processing and
-resolve issues.</p>
-<p>• Respond to staff inquiries and improve administrative efficiency for
-HR processes.</p>
-<p>6. Event Planning and Coordination</p>
-<p>• Organize and coordinate key school events, including the Teachers’ Day
-Lunch, ensuring seamless execution.</p>
-<p>• Prepare materials, such as scripts and certificates, and manage event
-logistics.</p>
-<p>7. General HR Administration</p>
-<p>• Manage staff passes, including synchronization and issuance.</p>
-<p>• Support school initiatives, such as study subsidies and meeting arrangements,
-ensuring timely follow-through.</p>
-<p><strong>REQUIREMENTS:</strong>
-</p>
-<p>• Admin/HR Diploma or equivalent qualification</p>
-<p>• Prior experience working in Administration or HR department</p>
-<p>We’re looking for someone who is:</p>
-<p>Organized and Efficient</p>
-<p>A Great Communicator</p>
-<p>Proactive and Resourceful</p>
-<p></p>
-<hr>
 <p><strong><u>Position: &nbsp;School Counsellor/Senior School Counsellor</u></strong>
 </p>
 <p>The School Counsellor is responsible for the counselling and guidance
