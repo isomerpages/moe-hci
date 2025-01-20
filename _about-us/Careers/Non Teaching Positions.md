@@ -15,6 +15,119 @@ join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
 <hr>
+<p><strong><u>Position:  Senior Security Officer </u></strong>
+</p>
+<p>We are seeking a dedicated and highly skilled Senior Security Officer
+to join our team and help ensure the safety and security of our organization's
+premises, assets, employees, and visitors. The Senior Security Officer
+will be responsible for implementing and enforcing security protocols,
+monitoring surveillance equipment, conducting security checks, and responding
+to security incidents as necessary.</p>
+<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
+</p>
+<p>Key Responsibilities:</p>
+<p>1. Security Monitoring:</p>
+<p>• Monitoring of security cameras, alarms, and access control systems to
+identify and respond to security threats and breaches.</p>
+<p>• Conduct regular foot patrols of the premises to maintain a visible security
+presence.</p>
+<p>2. Access Control:</p>
+<p>• Verify the identity and authorization of employees, visitors, and contractors
+entering the facility.</p>
+<p>• Issue visitor badges and maintain accurate records of visitor logs.</p>
+<p>3. Security Checks:</p>
+<p>• Perform routine security checks of designated areas, including locking
+and unlocking doors, gates, and entrances.</p>
+<p>• Inspect and report any irregularities, such as unauthorized personnel,
+suspicious packages, or safety hazards.</p>
+<p>4. Emergency Response:</p>
+<p>• Respond promptly to security incidents, including alarms, disturbances,
+or emergency situations.</p>
+<p>• Follow established emergency procedures and assist in evacuations if
+necessary.</p>
+<p>5. Incident Reporting:</p>
+<p>• Document all security-related incidents, including thefts, accidents,
+or violations of security policies.</p>
+<p>• Prepare detailed incident reports and share them with relevant authorities
+and management</p>
+<p>6. Customer Service:</p>
+<p>• Provide a high level of customer service to employees, visitors, and
+guests.</p>
+<p>• Assist individuals with directions, information, or any security-related
+inquiries.</p>
+<p>• Assist with all relevant check-in / check-out of residents or guests
+in the boarding school.</p>
+<p>7. Security Procedures:</p>
+<p>• Enforce security policies, procedures, and protocols consistently and
+fairly.</p>
+<p>• Collaborate with management to review and update security procedures
+as needed.</p>
+<p>8. Equipment Maintenance:</p>
+<p>• Ensure that security equipment, such as surveillance cameras and alarms,
+is in good working condition.</p>
+<p>• Report any malfunctions or maintenance needs promptly.</p>
+<p>9. Safety Awareness:</p>
+<p>• Promote a culture of safety and security awareness among employees.</p>
+<p>• Participate in security training and drills as required.</p>
+<p>10. Collaboration:</p>
+<p>• Coordinate with local law enforcement agencies and emergency services
+when necessary.</p>
+<p>• Work closely with other security personnel and team members to ensure
+a cohesive security strategy.</p>
+<p>11. Any other duties assigned by the Management.</p>
+<p><strong>Requirements</strong>
+</p>
+<p>(Please state Qualification, Years of Experience, Knowledge &amp; Skills
+required.)• Minimum GCE 'N' level/ SPM</p>
+<p>• Holder of a valid Security Licence with the grade Senior Security Officer</p>
+<p>• Possess WSQ Security-related Senior Security Officer certifications.</p>
+<p>• Proven experience as a Senior security officer</p>
+<p>• Strong observational and problem-solving skills.</p>
+<p>• Excellent communication and interpersonal abilities.</p>
+<p>• Physical fitness and the ability to stand, walk, and lift as needed.</p>
+<p>• Knowledge of security operations and procedures.</p>
+<p>• Basic computer skills for operating security equipment and generating
+reports.</p>
+<p>• Knowledge of applicable laws and regulations related to security and
+safety.</p>
+<p>• Able to perform shift work ranging from 8hrs to 12hrs during weekday,
+weekend or public holiday</p>
+<hr>
+<p><strong><u>Position: Security Officer</u></strong>
+</p>
+<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
+</p>
+<p>• To be alert and aware of all occurrences within the assigned premises</p>
+<p>• Foot Patrol and static post duty (as and when required only)</p>
+<p>• Securing and opening of multiple facilities</p>
+<p>• To control the traffic within the school premise (min. 2 hours per shift)</p>
+<p>• Computer literate</p>
+<p>• Assist to manage Events Security traffic control, ground execution,
+and rotation</p>
+<p>• Assisting to escort VIPs/Guests and direct them to stipulated parking
+locations on ad hoc basis</p>
+<p>• Enforcing SOP and compliance to the external ground officers</p>
+<p>• To standby and response to emergencies or requests</p>
+<p>• To do basic troubleshooting for security equipment (before engaging
+contractors for repair)</p>
+<p>• Any other security related work as required by the Reporting officer</p>
+<p><strong>Job Qualifications and Requirements</strong>
+</p>
+<p>• Minimum GCE ‘O’ level, 'N' level, A level, ITE</p>
+<p>• Security License Holder</p>
+<p>• At least 1 year(s) of working experience in the related field is required
+for this position</p>
+<p>• Physically fit for long hours of duty on foot (min. 6 hours per shift)</p>
+<p>• A mature, warm and energetic team worker with a pleasant disposition</p>
+<p>• Able to work on three rotating shifts including weekends and public
+holidays</p>
+<p>• Possess situational awareness, able to multi-task and response to activation
+messages (within 5 minutes)</p>
+<p>• Excellent customer service skills. Able to communicate with people of
+different nationalities. Good people skills</p>
+<p>• Possess class 3/3A/2B/2A/2 license would be advantageous</p>
+<p>• Any other security related certifications would be advantageous</p>
+<hr>
 <p><strong><u>Position: Finance Manager</u></strong>
 </p>
 <p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
