@@ -15,7 +15,7 @@ join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
 <hr>
-<p><strong><u>Position:  Senior Security Officer </u></strong>
+<p><strong><u>Position: Senior Security Officer</u></strong>
 </p>
 <p>We are seeking a dedicated and highly skilled Senior Security Officer
 to join our team and help ensure the safety and security of our organization's
