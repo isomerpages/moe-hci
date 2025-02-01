@@ -42,10 +42,10 @@ When choosing subject combination, you should consider the following:
 
 The links below provide a summary of pre-requisites for the various courses / admission requirements at the local universities (NUS, NTU, SMU &amp; SUTD)
 
- [**NUS's Courses Pre-requisites**](https://www.nus.edu.sg/oam/admissions/singapore-cambridge-gce-a-level/programme-prerequisites) <br>
+ [**NUS's Courses Pre-requisites**](https://www.nus.edu.sg/oam/admissions/before-you-apply/programme-prerequisites) <br>
  [**NTU's Courses Pre-requisites**](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/singapore-cambridge-gce-a-level) <br>
  [**SMU's Courses Pre-requisites**](http://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-a-level) <br>
- [**SUTD's Admission Requirements**](http://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admissions-Requirements/Singapore-Cambridge-GCE-A-Level)
+ [**SUTD's Admission Requirements**](https://www.sutd.edu.sg/admissions/undergraduate/admission-requirements/overview/)
  
 Students considering an overseas education may use the local university pre-requisites as a guide or check the respective overseas universities’ websites for admission information.
 
