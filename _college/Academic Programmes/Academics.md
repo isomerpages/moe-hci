@@ -7,10 +7,9 @@ third_nav_title: Academic Programmes
 ---
 # General Information
 
-#### Information from SEAB
-The Revised JC curriculum was implemented in 2006. <br>Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;to find out more about the revised A-Level curriculum framework (H1, H2 &amp; H3) and subject requirements.
+The Revised JC curriculum was implemented in 2006.  To learn about the revised A-Level curriculum,  please Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;.
 
-Click&nbsp;[**here**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)&nbsp;to find out the syllabus for different subjects.
+For more information on the syllabus of the subjects examinable at A Level, please visit the [SEAB website for school candidates.](https://www.seab.gov.sg/gce-a-level/school-candidates/)
 
 #### Subjects &amp; Subject Combinations offered in HCI
 
@@ -43,18 +42,12 @@ When choosing subject combination, you should consider the following:
 
 The links below provide a summary of pre-requisites for the various courses / admission requirements at the local universities (NUS, NTU, SMU &amp; SUTD)
 
- [**NUS's Courses Pre-requisites**](https://www.nus.edu.sg/oam/admissions/singapore-cambridge-gce-a-level/programme-prerequisites) <br>
+ [**NUS's Courses Pre-requisites**](https://www.nus.edu.sg/oam/admissions/before-you-apply/programme-prerequisites) <br>
  [**NTU's Courses Pre-requisites**](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/singapore-cambridge-gce-a-level) <br>
  [**SMU's Courses Pre-requisites**](http://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-a-level) <br>
- [**SUTD's Admission Requirements**](http://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admissions-Requirements/Singapore-Cambridge-GCE-A-Level)
+ [**SUTD's Admission Requirements**](https://www.sutd.edu.sg/admissions/undergraduate/admission-requirements/overview/)
  
 Students considering an overseas education may use the local university pre-requisites as a guide or check the respective overseas universities’ websites for admission information.
-
-Links to the 'indicative grade point' for admission to courses in NUS, NTU and SMU are provided below. Based on 3H2 and 1H1 with GP and PW set at grade C.
-
- [**Indicative Grade point for NUS**](https://www.nus.edu.sg/oam/admissions/indicative-grade-profile)  
-[**Indicative Grade point for NTU**](https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile)  
-[**Indicative Grade point for SMU**](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
 
 #### Special Programmes offered in HCI
 For information about <b>Special Programmes offered in HCI</b>, click [here](/files/College/special_programme_info_for_2025_jc_1_updated.pdf)<br>
@@ -74,7 +67,7 @@ For information about <b>Special Programmes offered in HCI</b>, click [here](/fi
 
 <b><u>Contact Us</u></b>
 
-For&nbsp;**general enquiries with regard to subjects and subject combinations for 2024 JC 1 (Yr 5)**, please email:<br>&nbsp;[enquiryC1@hci.edu.sg](mailto:enquiryC1@hci.edu.sg)
+For&nbsp;**general enquiries with regard to subjects and subject combinations for 2025 JC 1 (Yr 5)**, please email:<br>&nbsp;[enquiryC1@hci.edu.sg](mailto:enquiryC1@hci.edu.sg)
 
 For&nbsp;**enquiries with regard to Special Programmes**, please email:
 
