@@ -49,12 +49,6 @@ The links below provide a summary of pre-requisites for the various courses / ad
  
 Students considering an overseas education may use the local university pre-requisites as a guide or check the respective overseas universities’ websites for admission information.
 
-Links to the 'indicative grade point' for admission to courses in NUS, NTU and SMU are provided below. Based on 3H2 and 1H1 with GP and PW set at grade C.
-
- [**Indicative Grade point for NUS**](https://www.nus.edu.sg/oam/admissions/indicative-grade-profile)  
-[**Indicative Grade point for NTU**](https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile)  
-[**Indicative Grade point for SMU**](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
-
 #### Special Programmes offered in HCI
 For information about <b>Special Programmes offered in HCI</b>, click [here](/files/College/special_programme_info_for_2025_jc_1_updated.pdf)<br>
 
@@ -73,7 +67,7 @@ For information about <b>Special Programmes offered in HCI</b>, click [here](/fi
 
 <b><u>Contact Us</u></b>
 
-For&nbsp;**general enquiries with regard to subjects and subject combinations for 2024 JC 1 (Yr 5)**, please email:<br>&nbsp;[enquiryC1@hci.edu.sg](mailto:enquiryC1@hci.edu.sg)
+For&nbsp;**general enquiries with regard to subjects and subject combinations for 2025 JC 1 (Yr 5)**, please email:<br>&nbsp;[enquiryC1@hci.edu.sg](mailto:enquiryC1@hci.edu.sg)
 
 For&nbsp;**enquiries with regard to Special Programmes**, please email:
 
