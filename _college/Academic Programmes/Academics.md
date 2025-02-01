@@ -7,10 +7,9 @@ third_nav_title: Academic Programmes
 ---
 # General Information
 
-#### Information from SEAB
-The Revised JC curriculum was implemented in 2006. <br>Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;to find out more about the revised A-Level curriculum framework (H1, H2 &amp; H3) and subject requirements.
+The Revised JC curriculum was implemented in 2006.  To learn about the revised A-Level curriculum,  please Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;.
 
-Click&nbsp;[**here**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)&nbsp;to find out the syllabus for different subjects.
+For more information on the syllabus of the subjects examinable at A Level, please visit the [SEAB website for school candidates.](https://www.seab.gov.sg/gce-a-level/school-candidates/)
 
 #### Subjects &amp; Subject Combinations offered in HCI
 
