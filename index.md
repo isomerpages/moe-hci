@@ -11,8 +11,7 @@ sections:
       background: /images/homepage_banner_v3.gif
       variant: center
       button: Arrangement for 5 – 7 Feb 2025 for C1 students
-      url: Lim Siew Hui, 24 min
-        https://drive.google.com/file/d/18p9p0ymZvP8hre8q7ETimtYOqDla0tMq/view?usp=drive_link
+      url: /arrangement-for-5-7-feb-2025-for-c1-students/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
