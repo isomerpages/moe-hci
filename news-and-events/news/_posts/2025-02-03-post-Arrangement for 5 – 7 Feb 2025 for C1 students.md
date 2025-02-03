@@ -14,5 +14,6 @@ account Google Chat on 4 Feb afternoon/evening. Do try to log in to your
 Hwa Chong Gmail account and iEmb (intelligent electronic messaging board)
 once you receive in your sms on the handphone number that you provided
 your secondary school.&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/18p9p0ymZvP8hre8q7ETimtYOqDla0tMq/view?usp=drive_link</a>
+<p><a href="https://drive.google.com/file/d/18p9p0ymZvP8hre8q7ETimtYOqDla0tMq/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
+<p></p>
