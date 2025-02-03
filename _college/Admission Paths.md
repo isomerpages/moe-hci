@@ -44,7 +44,7 @@ For Joint Admissions Exercise, the following candidates were eligible to partici
 
 For more information, please visit the MOE website at&nbsp;[https://www.moe.gov.sg/admissions/jae](https://www.moe.gov.sg/post-secondary/admissions/jae).
 
-For more information on&nbsp;**[JAE Appeal Exercise]()**
+For more information on&nbsp;**[JAE Appeal Exercise](https://go.gov.sg/jae-appeal-hci)**
 
 ##### Returning Singaporeans
 
