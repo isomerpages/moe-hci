@@ -4,7 +4,6 @@ collections:
     order:
       - Academic Programmes/.keep
       - Academic Programmes/Academics.md
-      - Academic Programmes/Subjects.md
       - Academic Programmes/Higher 3 (H3) Programmes.md
       - Academic Programmes/Special Programmes.md
       - Academic Programmes/Assessments & Grading.md
