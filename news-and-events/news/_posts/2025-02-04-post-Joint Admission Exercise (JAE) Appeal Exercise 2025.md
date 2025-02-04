@@ -16,7 +16,7 @@ L1R5 Cut-off Point for this year.</p>
 <center><p>Cut-off Point: <strong><u>4</u></strong> (Science); <strong><u>5</u></strong> (Arts)</p></center>
 <p>All applications will be given due consideration, subject to the availability
 of vacancies and the school’s admission criteria.</p>
-<p><strong>Online Appeal Application (Student is required to login using their Singpass)</strong>
+<p><strong>Online Appeal Application </strong>
 </p>
 <p>Click <a href="https://go.gov.sg/jae-appeal-hci" rel="noopener nofollow" target="_blank">Here</a> to
 begin your application.</p>
