@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Academic Programmes
 ---
 # General Information
-
-The Revised JC curriculum was implemented in 2006.  To learn about the revised A-Level curriculum,  please Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;.
+To learn about the revised A-Level curriculum,  please Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;.
 
 For more information on the syllabus of the subjects examinable at A Level, please visit the [SEAB website for school candidates.](https://www.seab.gov.sg/gce-a-level/school-candidates/)
 
