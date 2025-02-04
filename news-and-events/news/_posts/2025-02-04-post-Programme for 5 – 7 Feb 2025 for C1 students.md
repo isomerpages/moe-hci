@@ -12,8 +12,7 @@ will need to use your HCI gmail to access the document. <a href="https://drive.g
 </p>
 <p>Your Orientation Group Leader (OGL) will contact you via the school email
 account Google Chat on 4 Feb afternoon/evening. Do try to log in to your
-Hwa Chong Gmail account and iEmb (intelligent electronic messaging board)
-once you receive in your sms on the handphone number that you provided
-your secondary school.&nbsp;</p>
-<p></p>
+Hwa Chong Gmail account and iEmb (intelligent electronic messaging board),
+once you receive an SMS on the afternoon of 04 February 2025, at the mobile
+number you provided to your secondary school.</p>
 <p></p>
