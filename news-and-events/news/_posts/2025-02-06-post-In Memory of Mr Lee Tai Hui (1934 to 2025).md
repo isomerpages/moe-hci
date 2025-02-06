@@ -87,10 +87,6 @@ Medal for his duties rendered to the Singapore’s People’s Defence Force.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="841" width="669" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcCw17pBNeNE7A2lTKj9qgG464IA1RB9gfzkgIFkXau05WMMJXvwzy1_d2dUugW19jjl3Ygxu5p8dYO3_Iq3YSzezcQ6t58MU39V0RC7UJA2tYpvg9TNwFFiUidSNLoHGrSIg4VoQ?key=zbN6Tgzu_Qpxp97YS-1k2BTE">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="841" width="545" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdfYmW6gyN0oMGkhF7T-wv4kOdS0PXY6FHPtUOQxLlmyJNHDWGag1vGxe5UW55c8ZFMSSaFaaTHLCFn4Nj-_7xuMREUfh4gLJlve1SpSyr38lnWMNijPF2NVSheFCG2Gpb-fdq?key=zbN6Tgzu_Qpxp97YS-1k2BTE">
 </div>
 <p>
