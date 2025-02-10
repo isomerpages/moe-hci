@@ -124,8 +124,7 @@ school fees to HCI unless the student is also a recipient of MOE Independent
 School Bursary (ISB).</p>
 <p><strong><u>School fees payable by Singaporean students on MOE Independent School Bursary (ISB)</u></strong>
 </p>
-<p>Please click <a href="/files/MOE_ISB_Application_Form_2025_JC.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more details on ISB scheme and school fee rates.</p>
+<p>Please refer to below for more details on ISB scheme and school fee rates.</p>
 <p><strong><u>School fees payment</u></strong>
 </p>
 <p>The school fees payable is structured by spreading an annual fee over
@@ -613,7 +612,7 @@ via DSA and/or ESIS recipients</p>
 </table>
 <p><strong>^ No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
-<p><strong>To download the <a href="/files/MOE_ISB_Application_Form_2025_JC.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 ISB Application Form</a></strong>
+<p><strong>To download the 2025 ISB Application Form click</strong>  <strong><a href="/files/MOE_ISB_Application_Form_2025_JC.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
 <p><strong>Students need only satisfy either the monthly Gross Household Income (GHI) or the PCI criterion to qualify for ISB. More information can be found in the Annex I of the ISB Application Form.</strong>
 </p>
