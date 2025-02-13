@@ -4,38 +4,37 @@ permalink: /hci-contact-us/
 description: ""
 variant: markdown
 ---
-##### **By Car**
-
-**To College:** Enter by Gate 2 along Bukit Timah Rd (into Tan Kah Kee Drive) if driving or alighting from a car.&nbsp;
-
-**To High School:** Enter by Gate 4 along Namly Avenue if driving or alighting from a car.&nbsp;&nbsp;
-
 ##### **By MRT**
 
-Alight at Tan Kah Kee MRT Station (DT8). Take Exit A and walk towards Hwa Chong Institution (Gate 2).&nbsp;
+Alight at **Tan Kah Kee MRT Station (DT8)**. Take Exit A and walk towards Hwa Chong Institution **(Gate 2)**.
 
-  
+
 ##### **By Bus**
 
 Bus services along Dunearn/Bukit Timah Road:
+66 67 74 151 154 156 157 170 174 852 961
 
-66/67/74/151/154/156/157/170/174/852/961
+**Getting to College Section (Gate 2)**
 
-  
-
-
-**Getting to College Section (Gate 2):**&nbsp;&nbsp;
-
-  
 Tan Kah Kee Stn \[41051\]
 
 Chinese High Sch \[41061\]
 
-  
-
-**Getting to High School Section (Gate 3):**&nbsp;&nbsp;
+**Getting to High School Section (Gate 3)**
 
 Opp National Junior College \[41071\]
+  
+##### **By Car**
+
+To **College Section**: Enter via **Gate 2** along Bukit Timah Rd **(into Tan Kah Kee Drive)** if you are driving or alighting from a car.&nbsp;
+
+To **High School Section**: Enter via **Gate 4** along Namly Avenue if you are driving or alighting from a car.&nbsp;&nbsp;
+
+##### Morning Drop-Off
+
+**College Section:** If you are driving your child to school in the morning, please use the **sheltered drop-off bay** next to **Tan Kah Kee MRT station**. Your child can then enter the school through the turnstiles at the **side gate (Level 1 or Level 2)** using their student pass.
+
+**High School Section**: For parents driving their child to school **before 8 AM** on normal school days, please enter via **Gate 3 or Gate 4** for drop-off.
 
 
 ##### **Address:**<br>
@@ -48,4 +47,3 @@ Fax: 6769 5857<br>
 Email: [admin@hci.edu.sg](mailto:admin@hci.edu.sg)
 
 ![](/images/HCI_Map.png)
-
