@@ -15,6 +15,78 @@ join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
 <hr>
+<p><strong><u>Position: Boarding Executive (Facilities Management)</u></strong>
+</p>
+<p><strong>Roles:</strong>
+</p>
+<p>As a Boarding Executive (Facilities Management), you will be responsible
+for overseeing and optimizing the organization’s physical assets to ensure
+a safe, efficient, and well-maintained environment. Your role will involve
+managing facilities, coordinating essential services, and addressing operational
+needs to support the boarding school community effectively. This position
+requires a strong understanding of facility management principles, excellent
+communication skills, and the ability to collaborate effectively with various
+teams and stakeholders.</p>
+<p><strong><u>Job Description</u></strong>
+</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Supervise the performance of term contractors
+(e.g., facilities maintenance, cleaning, pest control) within the residential
+facilities.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Assist the school in implementing preventive
+and ad-hoc facilities maintenance and housekeeping programs for all buildings
+and M&amp;E installations, ensuring compliance with statutory and authority
+requirements.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Work with the team to handle complaints,
+feedback, and incidents related to facilities maintenance, cleanliness,
+and pest control.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Provide feedback and assist the school in
+formulating and updating standard operating procedures for routine and
+preventive maintenance related to facilities, cleanliness, and pest control.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Support the school’s sustainability efforts
+in alignment with national environmental objectives, such as implementing
+eco-friendly infrastructure improvements, energy-efficient solutions, and
+waste reduction strategies to ensure sustainable facility operations.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Collaborate with internal stakeholders to
+develop green initiatives, promote sustainable practices among staff and
+students, and cultivate a long-term culture of environmental responsibility
+within the school community.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Assist in apartment inspections, defect rectifications,
+asset enhancements, and minor improvement works.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Prepare invitations for quotations and tenders
+related to facilities maintenance and housekeeping.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Review and endorse contractors’ claims for
+payment.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Attend monthly contractors’ meetings and
+assess their performance.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Source and compile data for the annual budgeting
+of funds for repairs and improvement programs.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Escalate critical issues, including complaints
+and requests, to the Reporting Officer for further action and decision-making.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Oversee fire safety and estate security matters.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Perform general administrative duties, including
+assisting students, parents, and teachers from diverse nationalities as
+needed.</p>
+<p><strong><u>Requirements</u></strong>
+</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Diploma in Facility Management, Mechanical/Electrical
+Engineering, or a related field.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; At least 3 years of experience in facility
+management or a related role.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Strong organizational, communication, and
+interpersonal skills.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Proficiency in data analysis and data-driven
+problem-solving.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Ability to write clear and concise reports
+and specifications.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Familiarity with health and safety regulations
+and sustainability practices.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Possession of a valid Fire Safety Manager
+(FSM) Certificate is an advantage.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Ability to work independently as well as
+collaboratively within a team.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Willingness to reside at the boarding school
+and work night shifts on weekdays and/or weekends is a plus.</p>
+<hr>
 <p><strong><u>Position: Senior Security Officer</u></strong>
 </p>
 <p>We are seeking a dedicated and highly skilled Senior Security Officer
@@ -262,88 +334,6 @@ Development training for staff is advantageous</p>
 skills, with the ability to prioritise and manage multiple tasks and responsibilities.</p>
 <p></p>
 <hr>
-<p><strong><u>Position: Assistant Manager of Human Resources</u></strong>
-</p>
-<p>This role focuses on building and executing effective hiring strategies
-to enhance talent competencies and strengthen the organization's employer
-brand. It involves close collaboration with key stakeholders on workforce
-planning, recruitment, onboarding, retention, and knowledge management.
-Additionally, the role requires driving and implementing transformation
-and improvement initiatives to optimize HR processes and outcomes.</p>
-<p></p>
-<p><strong>Duties &amp; Responsibilities:</strong>
-</p>
-<p><strong>Hiring Strategies:</strong>
-</p>
-<p>·&nbsp;&nbsp;Develop and implement robust talent acquisition strategies
-to attract high-quality candidates.</p>
-<p>·&nbsp;&nbsp;Ensure hiring processes are aligned with business needs and
-organizational goals.</p>
-<p>·&nbsp;&nbsp;Leverage data analytics to refine hiring processes and enhance
-the candidate experience.</p>
-<p><strong>Stakeholder Collaboration:</strong>
-</p>
-<p>·&nbsp;&nbsp;Partner with department heads and stakeholders, including
-the Ministry of Education (MOE), to understand workforce requirements and
-plan hiring activities.</p>
-<p>·&nbsp;&nbsp;Collaborate on workforce planning to ensure a balanced and
-sustainable talent pipeline.</p>
-<p>·&nbsp;&nbsp;Support hiring managers with insights to make informed recruitment
-decisions.</p>
-<p><strong>Recruitment and Selection:</strong>
-</p>
-<p>·&nbsp;&nbsp;Coordinate the onboarding process to ensure a smooth transition
-for new hires..</p>
-<p>·&nbsp;&nbsp;Develop and implement retention strategies to improve employee
-engagement and reduce turnover.</p>
-<p>·&nbsp;&nbsp;Foster a welcoming and inclusive workplace that promotes
-long-term satisfaction and growth.</p>
-<p><strong>Employee Onboarding &amp; Retention:</strong>
-</p>
-<p>·&nbsp;&nbsp;Coordinate the onboarding process to ensure a smooth transition
-for new hires.</p>
-<p>·&nbsp;&nbsp;Develop retention strategies to reduce turnover and improve
-employee engagement and satisfaction.</p>
-<p><strong>Transformation and Improvement Projects:</strong>
-</p>
-<p>·&nbsp;Lead or contribute to HR transformation and improvement initiatives,
-aimed at optimizing talent acquisition processes.</p>
-<p>·&nbsp;&nbsp;Implement tools and technology to improve hiring efficiency
-and effectiveness.</p>
-<p><strong>HR Operations:</strong>
-</p>
-<p>·&nbsp;&nbsp;Manage WICA and Work Pass applications</p>
-<p>·&nbsp;&nbsp;Regularly review and update SOPs for relevance and compliance.</p>
-<p><strong>Ad-hoc Hosting Events:</strong>
-</p>
-<p>·&nbsp;&nbsp;Host and represent the organization for external gusts and
-visitors when required.</p>
-<p><strong>Why Join Us?</strong>
-</p>
-<p>·&nbsp;&nbsp;<strong>Purpose-Driven Work:</strong>&nbsp;Play a vital role
-in shaping Singapore’s next generation of leaders by ensuring the institution
-attracts and retains the best talent.</p>
-<p>·&nbsp;&nbsp;<strong>Growth Opportunities:</strong>&nbsp;Gain exposure
-to transformative HR projects that challenge and develop your skills.</p>
-<p>·&nbsp;<strong>Dynamic Team Environment:</strong>&nbsp;Work alongside
-dedicated professionals who share your passion for impact and innovation.</p>
-<p>·&nbsp;&nbsp;<strong>Rewarding Culture:</strong>&nbsp;Be part of an organization
-that values creativity, collaboration, and continuous improvement in the
-education landscape.</p>
-<p><strong>Requirements:</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;A good Degree in HR or any discipline</p>
-<p>·&nbsp;&nbsp;&nbsp;Candidates should have 2-3 years supervisory experience.</p>
-<p>·&nbsp;&nbsp;&nbsp;People-oriented with strong verbal and written communication
-skills</p>
-<p>·&nbsp;&nbsp;&nbsp;Highly motivated, meticulous, independent and adaptable
-to change</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;Excellent communication, organizational and interpersonal
-skills</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;Abreast with current employment legislations
-and HR practices.</p>
-<hr>
-<p></p>
 <p><strong><u>Position: Senior Boarding Executive / Boarding Executive</u></strong>
 </p>
 <p>The Boarding Executive plays a pivotal role within the boarding school
