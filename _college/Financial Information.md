@@ -298,7 +298,7 @@ scheme. Parents / guardians are to submit the Interbank Giro application
 form for the scheme upon admission of their child/ward to HCI.This is to
 facilitate the school to collect school fees and any other fees as may
 be required from time to time.</p>
-<p>The application form is available <strong><a href="/files/hs_interbank_giro_application_form_jan_22_57d33efd75.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+<p>The application form is available <strong><a href="/files/JC_Interbank_Giro_Application_Form__Jan_22_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
 download.</p>
 <h5><u>Financial Assistance / Awards</u></h5>
 <p>A range of financial assistance schemes, scholarships and awards are available
