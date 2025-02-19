@@ -165,41 +165,6 @@ safety.</p>
 <p>• Able to perform shift work ranging from 8hrs to 12hrs during weekday,
 weekend or public holiday</p>
 <hr>
-<p><strong><u>Position: Security Officer</u></strong>
-</p>
-<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
-</p>
-<p>• To be alert and aware of all occurrences within the assigned premises</p>
-<p>• Foot Patrol and static post duty (as and when required only)</p>
-<p>• Securing and opening of multiple facilities</p>
-<p>• To control the traffic within the school premise (min. 2 hours per shift)</p>
-<p>• Computer literate</p>
-<p>• Assist to manage Events Security traffic control, ground execution,
-and rotation</p>
-<p>• Assisting to escort VIPs/Guests and direct them to stipulated parking
-locations on ad hoc basis</p>
-<p>• Enforcing SOP and compliance to the external ground officers</p>
-<p>• To standby and response to emergencies or requests</p>
-<p>• To do basic troubleshooting for security equipment (before engaging
-contractors for repair)</p>
-<p>• Any other security related work as required by the Reporting officer</p>
-<p><strong>Job Qualifications and Requirements</strong>
-</p>
-<p>• Minimum GCE ‘O’ level, 'N' level, A level, ITE</p>
-<p>• Security License Holder</p>
-<p>• At least 1 year(s) of working experience in the related field is required
-for this position</p>
-<p>• Physically fit for long hours of duty on foot (min. 6 hours per shift)</p>
-<p>• A mature, warm and energetic team worker with a pleasant disposition</p>
-<p>• Able to work on three rotating shifts including weekends and public
-holidays</p>
-<p>• Possess situational awareness, able to multi-task and response to activation
-messages (within 5 minutes)</p>
-<p>• Excellent customer service skills. Able to communicate with people of
-different nationalities. Good people skills</p>
-<p>• Possess class 3/3A/2B/2A/2 license would be advantageous</p>
-<p>• Any other security related certifications would be advantageous</p>
-<hr>
 <p><strong><u>Position: Finance Manager</u></strong>
 </p>
 <p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
@@ -261,78 +226,6 @@ in a team.</p>
 engage stakeholders across all levels.</p>
 <p>• Demonstrated commitment to high ethical standards and professional integrity.</p>
 <p>• Proficient in MS Office Suite, financial software, and related tools.</p>
-<hr>
-<p><strong><u>Position: &nbsp;School Counsellor/Senior School Counsellor</u></strong>
-</p>
-<p>The School Counsellor is responsible for the counselling and guidance
-programme at Hwa Chong Institution. The School Counsellor’s duties include
-but are not limited to the following:</p>
-<p><strong>Job Description:</strong>
-</p>
-<p>1. Counselling Students</p>
-<p>a. provide direct counselling intervention for students in the College
-Section, and,</p>
-<p>where needed, in the High School Section</p>
-<p>b. lead the Case Management Team to provide timely support and intervention
-for</p>
-<p>students who need counselling</p>
-<p>c. conference with staff, parents and external professionals / agencies
-on students</p>
-<p>being counselled, and conduct home visits where necessary</p>
-<p>2. Working with Staff</p>
-<p>a. collaborate and advise school counsellors to formulate suitable counselling
-and well-being approaches for the students under the care of the unit</p>
-<p>b. engage teachers in managing students with academic, behavioural, and
-emotional</p>
-<p>issues</p>
-<p>c. provide and source for counselling training &amp;amp; other workshops
-for staff to strengthen their affective skills</p>
-<p>d. collaborate with relevant staff teams to set up upstream prevention
-strategies e.g. in areas of CCE</p>
-<p>3. Working with Parents</p>
-<p>a. engage parents in managing students with academic, behavioural, and
-emotional</p>
-<p>issues</p>
-<p>b. conduct and/or coordinate workshops for parents to align their expectations
-with the school’s and to strengthen their parenting skills</p>
-<p>4. School Duties</p>
-<p>a. provide counselling support in the event of school emergencies as a
-member of the</p>
-<p>Caring Action in Response to Emergencies (CARE) team</p>
-<p>b. monitor the counselling data in college section and provide school
-leaders with timely information</p>
-<p>5. Any other duty as assigned by the Reporting Officer, Deputy Principal
-or</p>
-<p>Principal</p>
-<p>&nbsp;</p>
-<p>The School Counsellor’s expertise and primary duties are to provide counselling
-services to the school. However, the School Counsellor is also an integral
-member of the Student Development Team, and would be actively involved
-in the programmes pertaining to students’ affective development.</p>
-<p><strong>REQUIREMENTS:</strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate qualification in
-counselling, counselling psychology or clinical psychology</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably a registered counsellor
-and/or clinical supervisor with the Singapore</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Association for Counselling
-(SAC) or a registered psychologist with the Singapore</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Psychological Society (SPS)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A minimum of FIVE years of
-professional counselling experience and competent in case</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; management, and critical incident
-management</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proficient in professional
-counselling approaches and tools to help clients with diverse issues and
-conditions</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in working with
-young adults, preferably in a school setting</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in working in a
-multi-disciplinary team and conducting or facilitating continual Professional
-Development training for staff is advantageous</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong organisational and multitasking
-skills, with the ability to prioritise and manage multiple tasks and responsibilities.</p>
-<p></p>
 <hr>
 <p><strong><u>Position: Senior Boarding Executive / Boarding Executive</u></strong>
 </p>
@@ -398,48 +291,81 @@ during weekdays and weekends.</p>
 fostering a nurturing and structured environment where students can thrive
 academically, socially, and emotionally.</p>
 <hr>
-<p></p>
-<p><strong><u>Position: Temporary Procurement Officer (6-Month Contract)</u></strong>
+<p><strong><u>Position: School Counsellor</u></strong>
 </p>
-<p>The Procurement Officer will oversee and execute procurement activities
-with efficiency and precision, ensuring full compliance with the school’s
-procurement policies and government regulations. This role demands a proactive
-and detail-oriented individual to provide end-to-end support, promoting
-transparency, fairness, and optimal resource management throughout the
-procurement process.</p>
-<p><strong>Duties &amp; Responsibilities</strong>
+<p><strong>Roles:</strong>
 </p>
-<p>• Administer procurement activities, provide end-to-end support and advice
-to internal requestor on procurement procedure, guide them through the
-entire procurement process.</p>
-<p>• Review and prepare procurement documents for publication, evaluation,
-award recommendations etc. Check and ensure quotation bids are evaluated
-fairly and in strict compliance to the school’s procurement procedure and
-Government Instruction manual (IM).</p>
-<p>• Perform transactions on GEBIZ, publishing quotation, raising award,
-issuance of Purchase Order (PO), contracts and etc.</p>
-<p>• Liaise with internal requestor on contract management, track and timely
-complete all purchase request assigned.</p>
-<p>• Support internal officers on administrative duties such as information
-collation, filing of documents etc. Perform any administrative task or
-other ad-hoc duties as assigned.</p>
-<p><strong>Requirements</strong>
+<p>The School Counsellor’s expertise and primary duties are to provide counselling
+services to the school. However, the School Counsellor is also an integral
+member of the Student Development Team and would be actively involved in
+conducting programmes pertaining to students’ affective development and
+well-being.</p>
+<p><strong><u>Job Description</u></strong>
 </p>
-<p>• A Diploma or Degree in Business, Supply Chain Management, or a related
-field.</p>
-<p>• At least 2 years of experience in government procurement.</p>
-<p>• Familiarity with GeBIZ e-procurement system and other procurement tools.</p>
-<p>• Knowledge of government procurement procedures is highly advantageous.</p>
-<p>• Strong analytical and problem-solving skills with a meticulous eye for
-detail.</p>
-<p>• Proactive, self-motivated, and able to work independently or collaboratively
-in a team.</p>
-<p>• Excellent communication and interpersonal skills, with the ability to
-influence stakeholders across all levels.</p>
-<p></p>
-<p></p>
-<hr>
-<p></p>
+<p>The School Counsellor is responsible for the counselling and guidance
+programme at Hwa Chong Institution. The School Counsellor’s duties include
+but are not limited to the following:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Counselling Students</p>
+</li>
+</ol>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; provide direct counselling intervention for
+students in the High School Section, and, where needed, in the College
+Section</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; be a valuable team member of the HS Well-Being
+Centre and collaborate with other counsellors in designing and implementing
+a coherent system of counselling and well-being approaches.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Work with the team to handle complaints,
+feedback, and incidents related to facilities maintenance, cleanliness,
+and pest control.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Provide feedback and assist the school in
+formulating and updating standard operating procedures for routine and
+preventive maintenance related to facilities, cleanliness, and pest control.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Support the school’s sustainability efforts
+in alignment with national environmental objectives, such as implementing
+eco-friendly infrastructure improvements, energy-efficient solutions, and
+waste reduction strategies to ensure sustainable facility operations.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Collaborate with internal stakeholders to
+develop green initiatives, promote sustainable practices among staff and
+students, and cultivate a long-term culture of environmental responsibility
+within the school community.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Assist in apartment inspections, defect rectifications,
+asset enhancements, and minor improvement works.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Prepare invitations for quotations and tenders
+related to facilities maintenance and housekeeping.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Review and endorse contractors’ claims for
+payment.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Attend monthly contractors’ meetings and
+assess their performance.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Source and compile data for the annual budgeting
+of funds for repairs and improvement programs.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Escalate critical issues, including complaints
+and requests, to the Reporting Officer for further action and decision-making.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Oversee fire safety and estate security matters.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Perform general administrative duties, including
+assisting students, parents, and teachers from diverse nationalities as
+needed.</p>
+<p><strong><u>Requirements</u></strong>
+</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Diploma in Facility Management, Mechanical/Electrical
+Engineering, or a related field.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; At least 3 years of experience in facility
+management or a related role.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Strong organizational, communication, and
+interpersonal skills.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Proficiency in data analysis and data-driven
+problem-solving.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Ability to write clear and concise reports
+and specifications.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Familiarity with health and safety regulations
+and sustainability practices.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Possession of a valid Fire Safety Manager
+(FSM) Certificate is an advantage.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Ability to work independently as well as
+collaboratively within a team.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; Willingness to reside at the boarding school
+and work night shifts on weekdays and/or weekends is a plus.</p>
 <p></p>
 <p><strong>If you thrive on working in a dynamic and innovative environment, please submit your detailed CV, supporting documents and expected remuneration to</strong>
 </p>
