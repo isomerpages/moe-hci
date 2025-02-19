@@ -307,7 +307,8 @@ programme at Hwa Chong Institution. The School Counsellor’s duties include
 but are not limited to the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Counselling Students</p>
+<p><strong>Counselling Students</strong>
+</p>
 </li>
 </ol>
 <p>·&nbsp; &nbsp; &nbsp; &nbsp; provide direct counselling intervention for
@@ -320,7 +321,12 @@ a coherent system of counselling and well-being approaches.</p>
 timely support for students who need counselling.</p>
 <p>·&nbsp; &nbsp; &nbsp; &nbsp; make home visits for students who are unable
 to come to school.</p>
-<p>2.&nbsp;Working with Staff</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Working with Staff</strong>
+</p>
+</li>
+</ol>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide consultations
 for staff in managing students with academic, behavioural, and emotional
 issues.</p>
@@ -331,7 +337,8 @@ their affective skills.</p>
 relevant staff teams to set up upstream prevention strategies.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>Working with Parents</p>
+<p><strong>Working with Parents</strong>
+</p>
 </li>
 </ol>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide consultations
@@ -340,14 +347,24 @@ issues.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; conduct and/or
 coordinate workshops for parents to align their expectations with the school’s
 and to strengthen their parenting skills.</p>
-<p>4.&nbsp;School Duties</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>School Duties</strong>
+</p>
+</li>
+</ol>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide counselling
 support in the event of school emergencies as a member of the Caring Action
 in Response to Emergencies (CARE) team.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; coordinate and
 collaborate with the Student Development Team in the design and implementation
 of affective and well-being programmes.</p>
-<p>5.&nbsp;Curriculum Design and Implementation</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Curriculum Design and Implementation</strong>
+</p>
+</li>
+</ol>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; collaborate with
 Student Development Team members in the design and implementation of a
 guidance curriculum in the High School Section</p>
@@ -356,8 +373,8 @@ Student Development Team in designing and implementing programmes to promote
 students’ social and emotional growth.</p>
 <ol start="6" data-tight="true" class="tight">
 <li>
-<p>Any other duty as assigned by the Reporting Officer, Deans, Deputy Principal
-or Principal</p>
+<p><strong>Any other duty as assigned by the Reporting Officer, Deans, Deputy Principal or Principal</strong>
+</p>
 </li>
 </ol>
 <p></p>
