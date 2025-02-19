@@ -316,56 +316,12 @@ Section</p>
 <p>·&nbsp; &nbsp; &nbsp; &nbsp; be a valuable team member of the HS Well-Being
 Centre and collaborate with other counsellors in designing and implementing
 a coherent system of counselling and well-being approaches.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Work with the team to handle complaints,
-feedback, and incidents related to facilities maintenance, cleanliness,
-and pest control.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Provide feedback and assist the school in
-formulating and updating standard operating procedures for routine and
-preventive maintenance related to facilities, cleanliness, and pest control.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Support the school’s sustainability efforts
-in alignment with national environmental objectives, such as implementing
-eco-friendly infrastructure improvements, energy-efficient solutions, and
-waste reduction strategies to ensure sustainable facility operations.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Collaborate with internal stakeholders to
-develop green initiatives, promote sustainable practices among staff and
-students, and cultivate a long-term culture of environmental responsibility
-within the school community.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Assist in apartment inspections, defect rectifications,
-asset enhancements, and minor improvement works.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Prepare invitations for quotations and tenders
-related to facilities maintenance and housekeeping.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Review and endorse contractors’ claims for
-payment.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Attend monthly contractors’ meetings and
-assess their performance.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Source and compile data for the annual budgeting
-of funds for repairs and improvement programs.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Escalate critical issues, including complaints
-and requests, to the Reporting Officer for further action and decision-making.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Oversee fire safety and estate security matters.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Perform general administrative duties, including
-assisting students, parents, and teachers from diverse nationalities as
-needed.</p>
-<p><strong><u>Requirements</u></strong>
-</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Diploma in Facility Management, Mechanical/Electrical
-Engineering, or a related field.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; At least 3 years of experience in facility
-management or a related role.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Strong organizational, communication, and
-interpersonal skills.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Proficiency in data analysis and data-driven
-problem-solving.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Ability to write clear and concise reports
-and specifications.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Familiarity with health and safety regulations
-and sustainability practices.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Possession of a valid Fire Safety Manager
-(FSM) Certificate is an advantage.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Ability to work independently as well as
-collaboratively within a team.</p>
-<p>·&nbsp; &nbsp; &nbsp; &nbsp; Willingness to reside at the boarding school
-and work night shifts on weekdays and/or weekends is a plus.</p>
+<p>·&nbsp; &nbsp; &nbsp; coordinate with the Case Management Team in providing
+timely support for students who need counselling.</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; make home visits for students who are unable
+to come to school.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working with Staff</p>
+<p></p>
 <p></p>
 <p><strong>If you thrive on working in a dynamic and innovative environment, please submit your detailed CV, supporting documents and expected remuneration to</strong>
 </p>
