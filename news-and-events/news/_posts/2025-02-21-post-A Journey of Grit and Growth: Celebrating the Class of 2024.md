@@ -36,6 +36,8 @@ embody the Hwa Chong spirit.&nbsp;</p>
 <p><strong>Leading by Example: Service-Driven Leadership</strong>
 </p>
 <p>Koh Ting Jia (23A14)</p>
+<p>Koh Ting Jia (23A14)</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:-76.4469px;" height="337.44689999999997" width="268.7088" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXck6E21IrlwtfGVo7J7-Kk2f3ekUZMANtXIERQl20j3sEX3hKzjDFxtdG78FchoWX52VpprUX2k5edPu4lQNGAuujCrzQkV0Y5iXJHnJMCc9qr1YYEkMrOUYea010YQzsZOTDxrBw?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -70,6 +72,8 @@ inspiring others to strive for excellence.</p>
 </p>
 <p><strong>Passion for the Sciences and Research</strong>
 </p>
+<p>Ling Jun Quan (23S6G)</p>
+<p></p>
 <p>Ling Jun Quan (23S6G)</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:-37.473600000000005px;margin-top:-89.5305px;" height="334.3305" width="268.3287" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLB13qjSgx_ncwnqghhWzb-59VnMb311AFZPBei8TvSGjO6JiOWEHOiM2AQMuswnpvLjPmk814JoAEuP5k4iXAbciSTgNbnGgFwT-XdvGfrCrNbykZkfX6_moyUDZe0abTPNdi3g?key=nmehpysKYhuobfZHxgRCK8aj">
