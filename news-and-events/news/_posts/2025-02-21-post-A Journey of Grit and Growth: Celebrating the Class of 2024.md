@@ -38,6 +38,7 @@ embody the Hwa Chong spirit.&nbsp;</p>
 <p>Koh Ting Jia (23A14)</p>
 <p>Koh Ting Jia (23A14)</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:-76.4469px;" height="337.44689999999997" width="268.7088" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXck6E21IrlwtfGVo7J7-Kk2f3ekUZMANtXIERQl20j3sEX3hKzjDFxtdG78FchoWX52VpprUX2k5edPu4lQNGAuujCrzQkV0Y5iXJHnJMCc9qr1YYEkMrOUYea010YQzsZOTDxrBw?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -76,7 +77,7 @@ inspiring others to strive for excellence.</p>
 <p></p>
 <p>Ling Jun Quan (23S6G)</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:-37.473600000000005px;margin-top:-89.5305px;" height="334.3305" width="268.3287" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLB13qjSgx_ncwnqghhWzb-59VnMb311AFZPBei8TvSGjO6JiOWEHOiM2AQMuswnpvLjPmk814JoAEuP5k4iXAbciSTgNbnGgFwT-XdvGfrCrNbykZkfX6_moyUDZe0abTPNdi3g?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="400" width="300" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_7oQuxfSw0BYPyVXlSJSxLIYha4IxGjx1OROuer0NIm-nmEb1m8gI0btD8VAk4laZfA9dfe0tWf95gt4PPtHi8YfAIHH3-HTkiBf1zzHS4RZA9gM0urjr0Xk4I-RzpIfTp41jyg?key=mnfQ0q4vLv1iCEVrUQKTBvzb">
 </div>
 <p>Jun Quan has excelled in scientific leadership, research, and community-building.
 As President of the Science Students’ Research Club, he led the 2024 International
@@ -147,10 +148,10 @@ for her peers sets her apart as a thoughtful and inspiring leader.</p>
 <p><strong>Passion for the Chinese Language and Culture</strong>
 </p>
 <p>Lee Yu Wen Jessica (23A12)</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:-17.381px;margin-top:-34.3662px;" height="296.6022" width="222.89700000000002" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQk0aSMupnSYmzPRHQ-xEy73Q_5j3G_fR74_d3EZPj9whrfHKOQhe7SDmW6PKxWjtKzMFY42kjr1jLqBJYdUhriZfd7LY_EVO7tfVR81vv41e-ul32V73swDVGIS1dqrdIRXTY?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="375" width="300" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXduux3xh1_vhlaECz2y0iUjM7u5T6D9OYXHon3lq522g4j8YiZP0nESx3ZJm_J4wsUfTFsk_pEColti97wj6NCH0fiqs3zmZr5pD2yWe7FmmYyifcVDKsgpWVhTjUSvk0uidGfdvw?key=mnfQ0q4vLv1iCEVrUQKTBvzb">
 </div>
+<p></p>
 <p>As Chairperson of the Bicultural Studies Programme (BSP) Council, Jessica
 has been a driving force in fostering a strong and vibrant BSP community.
 She spearheaded initiatives that fostered meaningful engagement with Chinese
