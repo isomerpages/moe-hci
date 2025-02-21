@@ -39,12 +39,11 @@ embody the Hwa Chong spirit.&nbsp;</p>
 </p>
 <p><strong>Koh Ting Jia (23A14)</strong>
 </p>
-<p>Koh Ting Jia (23A14)</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:-76.4469px;" height="337.44689999999997" width="268.7088" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXck6E21IrlwtfGVo7J7-Kk2f3ekUZMANtXIERQl20j3sEX3hKzjDFxtdG78FchoWX52VpprUX2k5edPu4lQNGAuujCrzQkV0Y5iXJHnJMCc9qr1YYEkMrOUYea010YQzsZOTDxrBw?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="400" width="300" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5Tp5AgQjAG9dMr-CRJ1MMy5dHKc6JcZdSh1XJh_yKjoUOGlsaiIZpsqJ8kBjo6czmf_ns3X68LrynRJt0qJaIiXwEQE4DGBJ5GMhXkEcCQSA22zq8GHRbyMM8nYQwcGmzIW1C?key=mnfQ0q4vLv1iCEVrUQKTBvzb">
 </div>
+<p></p>
+<p></p>
 <p>Ting Jia's exceptional leadership, communication skills, and dedication
 to student well-being have made a significant impact on her school community.
 As President of the 50th Student Council, she successfully led school-wide
