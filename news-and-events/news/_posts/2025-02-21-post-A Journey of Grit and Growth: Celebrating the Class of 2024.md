@@ -7,7 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>&lt;Insert cohort photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="171" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJ62HFG4oauVMj639AZVoyVDfueTii7nPs3iH1464kJQWW1OdYrIF8-w31xC9zwTlbgrKASuP2DLL3aUcYCCNVupENPK9KSOZl63OuujW1_baYe_b4zOoZW3Evdw2Y39T5869uOQ?key=mnfQ0q4vLv1iCEVrUQKTBvzb">
+</div>
 <p></p>
 <p>The Class of 2024 has once again achieved outstanding results in the A-Level
 Examinations.</p>
