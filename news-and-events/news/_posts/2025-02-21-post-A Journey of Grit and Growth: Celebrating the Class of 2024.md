@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>&lt;Insert cohort photo&gt;</p>
+<p></p>
 <p>The Class of 2024 has once again achieved outstanding results in the A-Level
 Examinations.</p>
 <p>This cohort has demonstrated an enduring commitment to excellence, explored
