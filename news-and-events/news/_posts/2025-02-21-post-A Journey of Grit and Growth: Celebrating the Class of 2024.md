@@ -35,8 +35,7 @@ bold in the face of uncertainty. As such, it is with great pride that we
 highlight and celebrate the achievements of several students who truly
 embody the Hwa Chong spirit.&nbsp;</p>
 <p>—---------------------------</p>
-<p><strong>Leading by Example: Service-Driven Leadership</strong>
-</p>
+<h4><strong>Leading by Example: Service-Driven Leadership</strong></h4>
 <p><strong>Koh Ting Jia (23A14)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -74,8 +73,7 @@ a lasting impact on the school community, bringing people together and
 inspiring others to strive for excellence.</p>
 <p><em>“I would like to extend my heartfelt gratitude to Mrs Anu and Dr Sandra Tan for being a pillar of support in times of need and for pushing me to become a better person and leader.”</em>
 </p>
-<p><strong>Passion for the Sciences and Research</strong>
-</p>
+<h4><strong>Passion for the Sciences and Research</strong></h4>
 <p><strong>Ling Jun Quan (23S6G)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -110,8 +108,7 @@ training with her scientific pursuits. Her ability to excel in both fields
 reflects her resilience and dedication to her passions.</p>
 <p><em>“Thank you to Mr Lau, Mrs Phee-Tan Peh Ling, Mr William Tan, Mrs Vetri for the advice and lessons they've given me beyond academic classes which have left a deep impact and will stay with me for a long time. I would also like to extend my gratitude to Mr Edwin Zheng and Dr Adeline Chia who made science research a really meaningful experience.”</em>
 </p>
-<p><strong>Passion for the Humanities&nbsp;&nbsp;</strong>
-</p>
+<h4><strong>Passion for the Humanities&nbsp;&nbsp;</strong></h4>
 <p><strong>Kaleb Teo Tze Hsiang (23A14)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -150,8 +147,7 @@ for her peers sets her apart as a thoughtful and inspiring leader.</p>
 <p><em>“To all my teachers—thank you for your patience, insight, and belief in me. Mr Benjamin Hathaway, your unwavering presence and guidance have been a great source of strength. Mr Gilbert Ng, thank you for your wisdom and deep care for our well-being, keeping me grounded while encouraging me to grow.”</em>
 </p>
 <p></p>
-<p><strong>Passion for the Chinese Language and Culture</strong>
-</p>
+<h4><strong>Passion for the Chinese Language and Culture</strong></h4>
 <p><strong>Lee Yu Wen Jessica (23A12)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -192,8 +188,7 @@ the Pei Hwa Foundation Elite Scholarship and representation at international
 forums, making him a well-rounded leader in both academics and extracurriculars.</p>
 <p><em>“Firstly, I would like to thank Mdm Zhang Wei from the Mother Tongue department for her support in teaching me many valuable life lessons. Secondly, I would like to thank Ms Clara Geoy from the English department for patiently guiding me in General Paper.”</em>
 </p>
-<p><strong>Impacting the Community through Service&nbsp;</strong>
-</p>
+<h4><strong>Impacting the Community through Service&nbsp;</strong></h4>
 <p><strong>Chow Tsz Ching (23S73)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -237,8 +232,7 @@ contributions.&nbsp;</p>
 </p>
 <p><em>Thank you for being there to guide me, for always listening to my endless chatter and for providing your golden nuggets of advice. Your encouragement gave me courage to press on amidst failure, and because of you I tried, and I grew. ”</em>
 </p>
-<p><strong>Trailblazers in Creativity and Enterprise</strong>
-</p>
+<h4><strong>Trailblazers in Creativity and Enterprise</strong></h4>
 <p><strong>Clavin Cher Hui Yao (23S62)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -277,8 +271,7 @@ His journey showcases resilience, innovation, and leadership, fostering
 a culture of entrepreneurship within his school community.</p>
 <p><em>“I wish to thank Mrs Melissa Toh for supporting my interest group and encouraging me to pursue my passion; Dr Melvyn Lim, for the casual chats and guidance in planning for my future; and Mr Ng Seaw Choon, for being the first person in HCI to believe in me.”</em>
 </p>
-<p><strong>Scaling Peaks of Excellence in Sports</strong>
-</p>
+<h4><strong>Scaling Peaks of Excellence in Sports</strong></h4>
 <p><strong>Teo Chee Hern (23S6A)</strong>
 </p>
 <div class="isomer-image-wrapper">
