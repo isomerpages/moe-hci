@@ -37,7 +37,8 @@ embody the Hwa Chong spirit.&nbsp;</p>
 <p>—---------------------------</p>
 <p><strong>Leading by Example: Service-Driven Leadership</strong>
 </p>
-<p>Koh Ting Jia (23A14)</p>
+<p><strong>Koh Ting Jia (23A14)</strong>
+</p>
 <p>Koh Ting Jia (23A14)</p>
 <p></p>
 <p></p>
@@ -57,7 +58,8 @@ Her remarkable character and contributions earned her the 2023 Edusave
 Character Award, recognizing her commitment to service, empathy, and leadership.</p>
 <p><em>“To Dr. Melvyn Lim, Mr. Benjamin Hathaway, Mr. Tan Wah Jiam, Mrs. Raj-Priyahlatha Nainar, Ms. Lang Fui Ying and Mr. Ong Hong Chin Ian: Thank you for your tireless efforts and care for me throughout the two years: I could not have grown and achieved what I did without your kind mentorship. I am immensely grateful to have met you.”</em>
 </p>
-<p>Joel Ho Wei Ming (23S62)</p>
+<p><strong>Joel Ho Wei Ming (23S62)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="247" width="198" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfpXXH2j-co5n39OxjN-t1c_NmPZ1NuSck2ZVeEAjSymmX5OK6eq7rAJtvqy-b4pKOtRg7-YCZtZAr77YJGIsxX2QFkOf9f9ZWbA74r12jeFPMG1VX37s-QkCmcFoN7-V0zgO9Taw?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -75,9 +77,8 @@ inspiring others to strive for excellence.</p>
 </p>
 <p><strong>Passion for the Sciences and Research</strong>
 </p>
-<p>Ling Jun Quan (23S6G)</p>
-<p></p>
-<p>Ling Jun Quan (23S6G)</p>
+<p><strong>Ling Jun Quan (23S6G)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="400" width="300" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_7oQuxfSw0BYPyVXlSJSxLIYha4IxGjx1OROuer0NIm-nmEb1m8gI0btD8VAk4laZfA9dfe0tWf95gt4PPtHi8YfAIHH3-HTkiBf1zzHS4RZA9gM0urjr0Xk4I-RzpIfTp41jyg?key=mnfQ0q4vLv1iCEVrUQKTBvzb">
 </div>
@@ -93,7 +94,8 @@ to plastic packaging. Jun Quan’s dedication to fostering collaboration
 and inspiring his peers has made a lasting impact.</p>
 <p><em>“To Dr Adeline Chia whose eye for detail and drive for excellence have pushed me to develop those same virtues myself. Thank you for placing your trust in me to serve the research community and beyond.”</em>
 </p>
-<p>Lim Wan Qin (23S6J)</p>
+<p><strong>Lim Wan Qin (23S6J)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="223" width="179" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEZBntsS6yxB_5pPprFdJpMCwABgyGiqzRYhp0WR9jcY0x43onHr7hxJnjAzHNUUYHO-e4QKkSXvbZ8i3u3LJTkC8zl8nhbdzarK_pi_TB6PXsqB63eep4FlLJN7UXiuK8D9gbZg?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -111,7 +113,8 @@ reflects her resilience and dedication to her passions.</p>
 </p>
 <p><strong>Passion for the Humanities&nbsp;&nbsp;</strong>
 </p>
-<p>Kaleb Teo Tze Hsiang (23A14)</p>
+<p><strong>Kaleb Teo Tze Hsiang (23A14)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="310" width="249" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6OVO3Lirn9FCdy92znnuHUXi9NuGvOOlV3x9xseV5O2ND6ajMEusC3aW-vW88EodLPxN9PyXUr9esI4Zjqr95riZypgJvcjLGwJoNyZ3PXmNNXDtihCpsH1RRWLOB563snEqLvg?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -130,7 +133,8 @@ approachability, and resilience make him a trusted figure among peers.</p>
 <p><em>“I would like to thank all the Humanities Programme tutors for all their determination, good humour and kindness. I am incredibly grateful to them for their tireless work in nurturing us to not only be better students but also to be better critical thinkers, leaders and humans.”</em>
 </p>
 <p></p>
-<p>Tan Jia Xuan (23A15)</p>
+<p><strong>Tan Jia Xuan (23A15)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="337" width="270" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcghwH6htMyQxmvZyR6cHeK9LCgYYo4sTqr-aZWaQCpTiROTKFU7gbvsnFx2Gn0KYM0QjWG4lWsLOe8d65VVXmFU6kR3aBB7a5LiRhodwgu_jBqEwipSjY2baRulbWGmwwHVpKYA?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -149,7 +153,8 @@ for her peers sets her apart as a thoughtful and inspiring leader.</p>
 <p></p>
 <p><strong>Passion for the Chinese Language and Culture</strong>
 </p>
-<p>Lee Yu Wen Jessica (23A12)</p>
+<p><strong>Lee Yu Wen Jessica (23A12)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="375" width="300" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXduux3xh1_vhlaECz2y0iUjM7u5T6D9OYXHon3lq522g4j8YiZP0nESx3ZJm_J4wsUfTFsk_pEColti97wj6NCH0fiqs3zmZr5pD2yWe7FmmYyifcVDKsgpWVhTjUSvk0uidGfdvw?key=mnfQ0q4vLv1iCEVrUQKTBvzb">
 </div>
@@ -170,7 +175,8 @@ initiatives.</p>
 <p><em>“I would like to thank Dr. Liang Yong, my CSC teacher, for his guidance and unwavering support, not only in academics but also throughout my journey in BSP Council. He believed in me more than I believed in myself.”</em>
 </p>
 <p></p>
-<p>Yang Peiduo (23S6K)</p>
+<p><strong>Yang Peiduo (23S6K)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="242" width="194" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOwYT9pVDzzD90esOPf9xESFwBfGR93HgUNK9U9EqTkyCg1qu7FUwmDeUfPpYFL4MGm5s08rA5lohycyfTsjVIwPQe8HnjxOdEpQymOTWouYEvZrBinU4bAkfizK355suOoiP0-g?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -189,7 +195,8 @@ forums, making him a well-rounded leader in both academics and extracurriculars.
 </p>
 <p><strong>Impacting the Community through Service&nbsp;</strong>
 </p>
-<p>Chow Tsz Ching (23S73)</p>
+<p><strong>Chow Tsz Ching (23S73)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="278" width="188" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfouvfV0agF9MYK9BUFTwDO9SMSQg9jDldtg0szw-3ZBzs-dF3vj736n2bm9kOCVWEqa2dUY222hcAwj7k3Km3WArrRShVotr34AhtcPjt0wKnF_CEdJ96Y-3I5j7NcR7AbK5NZSw?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -209,7 +216,8 @@ in meaningful volunteer work, fostering empathy and collaboration among
 her peers.</p>
 <p><em>“I would like to sincerely express my gratitude to my subject teachers—Mr. Mark Tan, Miss Ong Lay Hua, Mr. Sim Wei Heng, Miss Fiona Fok, and Mr. Lawrence Koh—for their unwavering support throughout my brief yet incredible journey in Hwa Chong, both inside and outside the classroom. I am truly thankful for their dedication, guidance, and encouragement, which have made a lasting impact on my growth and learning.”</em>
 </p>
-<p>Chan Qing En, Chantelle (23S7D)</p>
+<p><strong>Chan Qing En, Chantelle (23S7D)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="269" width="216" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdC0l1JEwnOp0kXgj_ynHr7Ray3mzI4xFd-9g-U7z5JZkW5WYHYu_XfP-zGRKFpeG5bt_IvoOcOGEKuUtQReQr0hl1AK9Dy337wD3AgrGR9X9jSYTUBtVef_2Hyz9N3wTUInZc-nQ?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -232,7 +240,8 @@ contributions.&nbsp;</p>
 </p>
 <p><strong>Trailblazers in Creativity and Enterprise</strong>
 </p>
-<p>Clavin Cher Hui Yao (23S62)</p>
+<p><strong>Clavin Cher Hui Yao (23S62)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="290" width="232" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5a_MZPrVvmljug7dRUZUMgZ0G4yQtCvou9Urh6DCLW1KNCVSV1XFCrCay2zx5wawOnRbP__c912W54AoFy298zhR51UVxJbxc2qcnKBRM8hIGJlxgdktfUJqnBMyUm_G-PXf0ew?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -249,7 +258,8 @@ working to establish a High School songwriting interest group and an HC
 Alumni WeYoung Songwriting Club to sustain a vibrant songwriting culture.</p>
 <p><em>“I would like to thank my CSC tutor Dr Liang Yong for always being so passionate and informative during lectures, and encouraging us to think critically while striving for excellence（把习惯做优秀，把优秀当习惯)”</em>
 </p>
-<p>Javier Cheng Kai Heng (23S6D)</p>
+<p><strong>Javier Cheng Kai Heng (23S6D)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="278" width="223" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRd2IZjggnH8BIskqGwBcdheedHPhEn20SejadG9UQ0df6wMRtcSAoEmppyD58lGqLM-rF5j-zVQsC4qgPsz2CX3xOrUH77qkbDh22icyRPVQu43zg3iSZmvCoSfIOGWgbRv0GDg?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -270,7 +280,8 @@ a culture of entrepreneurship within his school community.</p>
 </p>
 <p><strong>Scaling Peaks of Excellence in Sports</strong>
 </p>
-<p>Teo Chee Hern (23S6A)</p>
+<p><strong>Teo Chee Hern (23S6A)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="308" width="247" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeIa8ws3F6mLPqbfwVejk4qJYE0a7gdlSV8WqanaAItOQzsgRLTeVEpj9gC-e2MQ4A5pQCnRQjr3jXLXVwINu5psSyIvnd6lQw-IJHUCW4hNpslhFxqI2d-PG64Wl2bJTzbSEz4Mg?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
@@ -288,7 +299,8 @@ him a respected figure who carefully considers all perspectives before
 making decisions.</p>
 <p><em>“All of my teachers that I have interacted with throughout my time in Hwa Chong have left a lasting impression on me. They have each taught me unique life lessons and helped me broaden my worldview and as such, I believe that they have been one of my key pillars of support in Hwa Chong”</em>
 </p>
-<p>Wang Yiting (23A15)</p>
+<p><strong>Wang Yiting (23A15)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="301" width="241" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXelXxVL8dfhBh9KsGtcriKmaG2_ImDZ_I-MRgd_5nUf7vImx3lAfuvofQa9ubzugiOzh2rj4DxpxbmP26Gpk-a-DmTKEEF676ZiP_OXmOMkeD-YnP8UDKoCmv55kICJ_xo8U3AAWg?key=nmehpysKYhuobfZHxgRCK8aj">
 </div>
