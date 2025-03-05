@@ -96,7 +96,7 @@ and inspiring his peers has made a lasting impact.</p>
 <p><strong>Lim Wan Qin (23S6J)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="223" width="179" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEZBntsS6yxB_5pPprFdJpMCwABgyGiqzRYhp0WR9jcY0x43onHr7hxJnjAzHNUUYHO-e4QKkSXvbZ8i3u3LJTkC8zl8nhbdzarK_pi_TB6PXsqB63eep4FlLJN7UXiuK8D9gbZg?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXewENLqnPVYFg40dqGERQ7KBK8ACK9PAo-tjeU2Qa3WwQ08DThDaJFuRU03z20AK7Giznw02ION1fsEJDGo-IRvkSeGkzppIP5PZiz5hp16LUAbJBu3ruz43PrmVk9RuNnOWvlz?key=FOvsl7F1RdGCJrWBNYDH0z0l">
 </div>
 <p>Wan Qin has achieved outstanding success in scientific research and innovation,
 earning the SSEF Gold Award &amp; Special Award and representing Singapore
