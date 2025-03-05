@@ -61,7 +61,7 @@ Character Award, recognizing her commitment to service, empathy, and leadership.
 <p><strong>Joel Ho Wei Ming (23S62)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="247" width="198" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfpXXH2j-co5n39OxjN-t1c_NmPZ1NuSck2ZVeEAjSymmX5OK6eq7rAJtvqy-b4pKOtRg7-YCZtZAr77YJGIsxX2QFkOf9f9ZWbA74r12jeFPMG1VX37s-QkCmcFoN7-V0zgO9Taw?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="936" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOBU2lG2AwUDCjSjDcZlJkJ3aY6AUpv_MjjGzpnsszFc4Yndx3OfS-8JvHqqBPb12jJ3RF76UkWTWzUGcu0EbiPxRKR0vsbdRUStAApkBgJqGJCEh9KlpmiXqTihKzhXRLs1Ef?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
 <p>As Vice-President of the Student Council, Joel took on the responsibility
 of overseeing key initiatives and ensuring that student-led activities
@@ -114,7 +114,7 @@ reflects her resilience and dedication to her passions.</p>
 <p><strong>Kaleb Teo Tze Hsiang (23A14)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="310" width="249" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6OVO3Lirn9FCdy92znnuHUXi9NuGvOOlV3x9xseV5O2ND6ajMEusC3aW-vW88EodLPxN9PyXUr9esI4Zjqr95riZypgJvcjLGwJoNyZ3PXmNNXDtihCpsH1RRWLOB563snEqLvg?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaI5vWIggDcioBEc-2r0bQrLLHVLSsbTIjHTWK1EltgBv0uDbKwPoZ21q43eKDS3nf2Fe8jxtu13Kd9CdE55yzwybEyy_bjJTIrpduwZjgGbsT5WrtOdMNnvVy86bXdysZ_GgveQ?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
 <p>As Secretary &amp; Treasurer of the Student Council’s Student Engagement
 &amp; Culture Committee, Kaleb played a key role in overseeing school events
@@ -134,7 +134,7 @@ approachability, and resilience make him a trusted figure among peers.</p>
 <p><strong>Tan Jia Xuan (23A15)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="337" width="270" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcghwH6htMyQxmvZyR6cHeK9LCgYYo4sTqr-aZWaQCpTiROTKFU7gbvsnFx2Gn0KYM0QjWG4lWsLOe8d65VVXmFU6kR3aBB7a5LiRhodwgu_jBqEwipSjY2baRulbWGmwwHVpKYA?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOGjM9NpevbGWVr7LDzFPAF5QBNlQRYM3d1Us5RN0Qp5TBhOlvEdNnX516I2N0_QDA-P6w5v8-HkfS4U54_JvWLGWZR3NygwHWgCbuLWm9vYdcH8GKhPnXHNzmk9reR3p3dfnzSQ?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
 <p>Jia Xuan’s leadership as President of the Humanities and Current Affairs
 Society (HACAS) and her success as a finalist in the 2023 GIC Financial
@@ -175,9 +175,8 @@ initiatives.</p>
 <p><strong>Yang Peiduo (23S6K)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="242" width="194" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOwYT9pVDzzD90esOPf9xESFwBfGR93HgUNK9U9EqTkyCg1qu7FUwmDeUfPpYFL4MGm5s08rA5lohycyfTsjVIwPQe8HnjxOdEpQymOTWouYEvZrBinU4bAkfizK355suOoiP0-g?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfEEEaWk7sUqiQk_DhJS1KPL8qGhgElSjnSZkGYukxJlFiKJo5ST0JoomKOtSUXAoSTXCjjfbBuRxXYt9E_oo3tcdwO0fQL4tpRCo2kvxnTUKI7t6kp0fMVvpxRXx2HJgH4DHqc?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
-<p></p>
 <p>Peiduo’s excellence in language and communication is demonstrated through
 his accolades in debate, journalism, and oratory, including Best Speaker
 at the Dexun Cup and Champion in Lianhe Zaobao News Reporting. A talented
@@ -194,7 +193,7 @@ forums, making him a well-rounded leader in both academics and extracurriculars.
 <p><strong>Chow Tsz Ching (23S73)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="278" width="188" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfouvfV0agF9MYK9BUFTwDO9SMSQg9jDldtg0szw-3ZBzs-dF3vj736n2bm9kOCVWEqa2dUY222hcAwj7k3Km3WArrRShVotr34AhtcPjt0wKnF_CEdJ96Y-3I5j7NcR7AbK5NZSw?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="923" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdmmll-en-P2Zv3qBmgEn_Yb0RAVgdlOSHykEhCDjhk4ZiDLhNZ7NRW_pIPSrVyz8vrR_pllaTUZDz4sULj-qpjnvkuP2fP-rQiR74CtA_itKvOfLr0AB-5CwKfT3y6sZe0X0weQ?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
 <p>Tsz Ching is dedicated to lifelong service and community engagement, creating
 lasting impact through her initiatives. As a VIA Council Member, she revitalised
@@ -215,7 +214,7 @@ her peers.</p>
 <p><strong>Chan Qing En, Chantelle (23S7D)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="269" width="216" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdC0l1JEwnOp0kXgj_ynHr7Ray3mzI4xFd-9g-U7z5JZkW5WYHYu_XfP-zGRKFpeG5bt_IvoOcOGEKuUtQReQr0hl1AK9Dy337wD3AgrGR9X9jSYTUBtVef_2Hyz9N3wTUInZc-nQ?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfv9NmiiZOgRySH2nrZ_Xgulip21iWBt7HgHBrzxO8igQG22uq89KgKVE4tNbvgIPfh-llxJoh-mnBRPYKTF6CQtPEn6U13OiWUMTZ8v9w9JIDvUJVvMjN9JhioOFrC4MA2Va0mgQ?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
 <p>Chantelle's leadership is characterised by empathy, initiative, and a
 strong commitment to service. As Vice-President of the CCA Council and
@@ -238,7 +237,7 @@ contributions.&nbsp;</p>
 <p><strong>Clavin Cher Hui Yao (23S62)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="290" width="232" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5a_MZPrVvmljug7dRUZUMgZ0G4yQtCvou9Urh6DCLW1KNCVSV1XFCrCay2zx5wawOnRbP__c912W54AoFy298zhR51UVxJbxc2qcnKBRM8hIGJlxgdktfUJqnBMyUm_G-PXf0ew?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfs5d2XZQxVolo84TQpumJMsyoPF-_QmEJYMauc5bM92sUj0Rw8AIrkD5fcwE3pV5sB9QcNeFvXE-LEIwMc5wnYXjJm3WkQHmCWUpxn-NZXKnfv_CfeYIlAXFRSNmlph62d9TAI8w?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
 <p>Clavin’s passion for music has defined his journey as a songwriter, performer,
 and leader. As Assistant Head of the WeYoung Song Composition Wing (未央),
@@ -256,7 +255,7 @@ Alumni WeYoung Songwriting Club to sustain a vibrant songwriting culture.</p>
 <p><strong>Javier Cheng Kai Heng (23S6D)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="278" width="223" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRd2IZjggnH8BIskqGwBcdheedHPhEn20SejadG9UQ0df6wMRtcSAoEmppyD58lGqLM-rF5j-zVQsC4qgPsz2CX3xOrUH77qkbDh22icyRPVQu43zg3iSZmvCoSfIOGWgbRv0GDg?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdqCSMtLbRZ-n3ZSLwXzq0uGKvU6Z9AGw-JamSr46hX7nha7II2A-i-PXE2Zodx-Fh8GMuJ5FAJTMd2lgB8l5EfyTOPqb2suxJYeUnRxOksFDJ8xMnnWoQKAIm9Bn1zQ0Rt_Oid?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
 <p>Javier has been deeply passionate about entrepreneurship since his secondary
 school years, joining the pioneer batch of the Entrepreneurial Launchpad
@@ -277,7 +276,7 @@ a culture of entrepreneurship within his school community.</p>
 <p><strong>Teo Chee Hern (23S6A)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="308" width="247" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeIa8ws3F6mLPqbfwVejk4qJYE0a7gdlSV8WqanaAItOQzsgRLTeVEpj9gC-e2MQ4A5pQCnRQjr3jXLXVwINu5psSyIvnd6lQw-IJHUCW4hNpslhFxqI2d-PG64Wl2bJTzbSEz4Mg?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqkfAzv_D7kX-GTHiupg_JUPjSufka9Pb6DAm9Yj3IrxEsb7Er4XiozN3r0ItqoWy_A6whroMxIrJ0uNjyxkjqQeCE-ix6wAF-Y19hRsNte5fXc40z7bJmAaeHh4T-KXJFf71Ayw?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
 <p>With a strong sense of leadership and a deep commitment to sports excellence,
 Chee Hern has been a pillar of support and inspiration in the school’s
@@ -296,9 +295,9 @@ making decisions.</p>
 <p><strong>Wang Yiting (23A15)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="301" width="241" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXelXxVL8dfhBh9KsGtcriKmaG2_ImDZ_I-MRgd_5nUf7vImx3lAfuvofQa9ubzugiOzh2rj4DxpxbmP26Gpk-a-DmTKEEF676ZiP_OXmOMkeD-YnP8UDKoCmv55kICJ_xo8U3AAWg?key=nmehpysKYhuobfZHxgRCK8aj">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdZmOMkP51XuTdiPujBsH5VmwRlfHU6LWs28M4s4XXRbGzlZovmuNT2ezvOvVaMWA3GAjyEtkoYqPH5XvGP2mPqCY8DJ4FC3T7OfE2q0wcchX5DpSPJAUl4zUZi1vxMaDPPbqf0Q?key=DrP6zqWIc1zEvLCET1Kg3cMo">
 </div>
-<p>As the National Volleyball Team Captain and President of the CCA Council,
+<p>As the Captain of the HCI Volleyball team and President of the CCA Council,
 Yiting exemplifies outstanding leadership while successfully managing a
 demanding academic workload. She consistently delivers high-quality work
 across all areas, demonstrating exceptional time management and organisational
