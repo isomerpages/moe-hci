@@ -165,68 +165,6 @@ safety.</p>
 <p>• Able to perform shift work ranging from 8hrs to 12hrs during weekday,
 weekend or public holiday</p>
 <hr>
-<p><strong><u>Position: Finance Manager</u></strong>
-</p>
-<p><strong>DUTIES &amp; RESPONSIBILITIES:</strong>
-</p>
-<p>Finance Operations</p>
-<p>• In charge of General Ledger including month-end/year-end accounts closing
-process.</p>
-<p>• Supervise and review the work performed by Accounts Receivable/Payable
-officers.</p>
-<p>• Provide guidance to Accounts Receivable/Payable officers.</p>
-<p>• Prepare and/or review monthly account reconciliations and schedules
-ensuring that journal entries are recorded accurately and timely.</p>
-<p>• Provide advice to teachers and staff on finance policies, procedures
-and guidelines.</p>
-<p>• Liaise with internal and external stakeholders (i.e. MOE, banks, teachers,
-funding agencies etc.) on finance-related matters.</p>
-<p>Financial Reporting</p>
-<p>• Maintain accurate records of financial transactions and documentation.</p>
-<p>• Prepare financial reports and supporting audit schedules.</p>
-<p>• Prepare and provide financial analysis to support decision-making by
-the school leaders.</p>
-<p>• Coordinate with external auditors on annual audit exercise to ensure
-timely submission of audited financial statements including balance sheets,
-income statements, and cash flow reports to MOE.</p>
-<p>• Ensure full compliance with all relevant laws and regulations (i.e.
-tax filings etc.).</p>
-<p>Financial Budget</p>
-<p>• Prepare annual revised forecast and annual budget in collaboration with
-the heads of department and school leaders.</p>
-<p>• Prepare and/or review periodic budget utilisation reports and analyse
-budget performance for departments.</p>
-<p>• Secretariat duties for Finance Sub-Committee Meetings of the Board of
-Governors.</p>
-<p>Treasury and Banking matters</p>
-<p>• Monitor cash flow and placement of fixed deposits.</p>
-<p>• Perform administration duties related to banking (i.e. opening/closing
-of bank account, internet banking platform, corporate/virtual credit cards
-etc.).</p>
-<p>Any Other Matters</p>
-<p>• Participate in process improvement and enhancements to accounting systems</p>
-<p>• Maintain and communicate finance policies, procedures and guidelines.</p>
-<p>• Provide guidance on fundraising and donation matters in accordance with
-MOE guidelines.</p>
-<p>• Support the Finance Director in investment-related matters.</p>
-<p>• Any other ad-hoc assignments as required.</p>
-<p><strong>REQUIREMENTS:</strong>
-</p>
-<p>• A bachelor’s degree in accountancy or a related field.</p>
-<p>• Professional certification (e.g. CPA) is highly preferred.</p>
-<p>• Experience in a supervisory role within an educational institution or
-a similar environment.</p>
-<p>• In-depth knowledge of Singapore Financial Reporting Standards (SFRS)
-and relevant regulatory frameworks.</p>
-<p>• Strong analytical and problem-solving skills with a meticulous eye for
-details.</p>
-<p>• Proactive, self-motivated, and able to work independently or collaboratively
-in a team.</p>
-<p>• Strong verbal and written communication skills, with the ability to
-engage stakeholders across all levels.</p>
-<p>• Demonstrated commitment to high ethical standards and professional integrity.</p>
-<p>• Proficient in MS Office Suite, financial software, and related tools.</p>
-<hr>
 <p><strong><u>Position: Senior Boarding Executive / Boarding Executive</u></strong>
 </p>
 <p>The Boarding Executive plays a pivotal role within the boarding school
