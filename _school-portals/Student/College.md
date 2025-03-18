@@ -10,7 +10,7 @@ variant: markdown
 **[HCI ECG Website](https://sites.google.com/hci.edu.sg/hciecg)**<br>
 **[Intelligent School Portal (College)](https://isp.hci.edu.sg/)**<br>
 **[HCI Sports for All Website](http://www.facebook.com/HCISports4All)**<br>
-**[HCI OCIP &amp; OE](https://sites.google.com/hci.edu.sg/oeocip)**<br>
+**[HCI OVIA &amp; OE](https://sites.google.com/hci.edu.sg/oeocip)**<br>
 **[HCI VIA](https://sites.google.com/student.hci.edu.sg/cipcouncil/home?pli=1&amp;authuser=0)** <br>
 **[HCunite](http://hcunite.com/)**<br>
 **[HCI National Education](https://sites.google.com/student.hci.edu.sg/hcinationaleducation/)** <br>
