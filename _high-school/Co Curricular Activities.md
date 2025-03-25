@@ -19,16 +19,16 @@ A list of CCAs can be found below:
 |Choir|Infocomm|Canoeing|Scouts|
 |English Drama|International Chess|Cross Country|St. John|
 |School Band|Library Council|Fencing||
-|String Orchestra|MediaTech|Gymnastics||
-||Weiqi|Judo||
-||Youth Flying Club|Shooting||
-|||Softball||
+|String Orchestra|MediaTech|Judo||
+||Weiqi|Shooting||
+||Youth Flying Club|Softball
 |||Table Tennis||
 |||Tennis||
 |||Track &amp; Field||
 |||Volleyball||
 |||Waterpolo||
 |||Wushu||
+
 
 
 Click&nbsp;**[here](https://admissions.hci.edu.sg/cca)**&nbsp;to see the list of available CCAs.
