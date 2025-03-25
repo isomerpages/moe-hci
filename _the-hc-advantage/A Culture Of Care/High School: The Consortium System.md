@@ -34,10 +34,10 @@ Click on each of the following links to find out more:
       <td style="width: 25%;"><img src="/images/ProEd.jpg" style="width:100%"></td>
     </tr>
     <tr>
-      <td align="center"><strong>Aphelion</strong></td>
-      <td align="center"><strong>iSpark</strong></td>
-      <td align="center"><strong>Ortus</strong></td>
-      <td align="center"><strong>ProEd</strong></td>
+			<td align="center"><a href="https://aphelion.hci.edu.sg/"><strong>Aphelion</strong></a></td>
+      <td align="center"><a href="https://sites.google.com/hci.edu.sg/ispark/home"><strong>iSpark</strong></a></td>
+      <td align="center"><a href="https://sites.google.com/hci.edu.sg/ortus"><strong>Ortus</strong></a></td>
+      <td align="center"><a href="https://sites.google.com/hci.edu.sg/proedconsortium"><strong>ProEd</strong></a></td>
     </tr>
   </tbody>
 </table>
