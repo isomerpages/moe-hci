@@ -28,6 +28,4 @@ Today, many Hwa Chong alumni can be found contributing to the nation in many fie
 
 |  | |  |
 | -------- | -------- | -------- |
-| [Tan Kah Kee](https://go.gov.sg/tankahkee)  |      |      |
-
-
+| [**Tan Kah Kee**](https://go.gov.sg/tankahkee)  |      |      |
