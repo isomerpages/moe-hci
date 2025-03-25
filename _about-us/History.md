@@ -2,6 +2,7 @@
 title: History
 permalink: /about-us/history/
 description: ""
+variant: markdown
 ---
 ##### History
 
@@ -20,3 +21,11 @@ Today, the former TCHS and HCJC form the High School and College Sections of Hwa
 The Hwa Chong experience is not just about academic excellence. All students undergo a sustained leadership and character education programme which emphasises active citizenry and the importance of contributing to the community. The many local and global service-learning projects spearheaded by Hwa Chong students bear testament to this enduring culture of service.
 
 Today, many Hwa Chong alumni can be found contributing to the nation in many fields – from academia, entrepreneurship, public service to philanthropy.
+
+
+
+
+
+|  | |  |
+| -------- | -------- | -------- |
+| [**Tan Kah Kee**](https://go.gov.sg/tankahkee)  |      |      |
