@@ -15,13 +15,13 @@ A list of CCAs can be found below:
 |Aesthetics |Clubs &amp; Societies |Sports|Uniformed Groups|
 |---|---|---|---|
 |Chinese Orchestra|Chinese Chess|Badminton|NCC|
-|Chinese Society|English Debate|Basketball|NPCC|
-|Choir|Infocomm|Canoeing|Scouts|
-|English Drama|International Chess|Cross Country|St. John|
-|School Band|Library Council|Fencing||
-|String Orchestra|MediaTech|Judo||
-||Weiqi|Shooting||
-||Youth Flying Club|Softball
+|Chinese Drama|English Debate|Basketball|NPCC|
+|Chinese Oratorical Society|Infocomm|Canoeing|Scouts|
+|Choir|International Chess|Cross Country|St. John|
+|English Drama|Library Council|Fencing||
+|School Band|MediaTech|Judo||
+|String Orchestra|Weiqi|Shooting||
+||Youth Flying Club|Softball||
 |||Table Tennis||
 |||Tennis||
 |||Track &amp; Field||
@@ -31,4 +31,4 @@ A list of CCAs can be found below:
 
 
 
-Click&nbsp;**[here](https://admissions.hci.edu.sg/cca)**&nbsp;to see the list of available CCAs.
+Click&nbsp;**[here](https://sites.google.com/hci.edu.sg/hs-pecca/co-curricular-activties)**&nbsp;to see the list of available CCAs.
