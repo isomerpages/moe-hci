@@ -15,14 +15,14 @@ A list of CCAs can be found below:
 |Aesthetics |Clubs &amp; Societies |Sports|Uniformed Groups|
 |---|---|---|---|
 |Chinese Orchestra|Chinese Chess|Badminton|NCC|
-|Chinese Drama|English Debate|Basketball|NPCC|
-|Chinese Oratorical Society|Infocomm|Canoeing|Scouts|
-|Choir|International Chess|Cross Country|St. John|
-|English Drama|Library Council|Fencing||
-|School Band|MediaTech|Judo||
-|String Orchestra|Weiqi|Shooting||
-||Youth Flying Club|Softball||
-|||Table Tennis||
+|Chinese Drama|Chinese Oratorical Society|Basketball|NPCC|
+|Choir|English Debate|Canoeing|Scouts|
+|English Drama|Infocomm|Cross Country|St. John|
+|School Band|International Chess|Fencing||
+|String Orchestra|Library Council|Judo||
+||MediaTech|Shooting||
+||Weiqi|Softball||
+||Youth Flying Club|Table Tennis||
 |||Tennis||
 |||Track &amp; Field||
 |||Volleyball||
