@@ -7,9 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>On 13 Mar 2025, Hwa Chong’s Humanities Programme, joined by students from
-SMTP, BSP, high school, NYGH and other schools, came together for the inaugural
-Hwa Chong Humanities Programme Symposium.</p>
+<p>On 12 Mar 2025, Hwa Chong’s Humanities Programme, joined by students from
+AEP, SMTP, BSP, high school, NYGH and students from the HP programmes of
+other local JCs, came together for the annual Hwa Chong Humanities Programme
+Symposium.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="1000" width="1000" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcLiVgTX9vViOScaA3UYYuzBnMj6KHYXyyAwqQbvjuE-nkZa7nepkJtu6Qm7vjQtezW8a7pBB-2voNeM8tCjBbFx3KxUqCSlxIsVq4s8_XC5Nob3Y7BbinlJ-qXOHNwhXKDC1u__g?key=etpBphxopfE6gqBM8kEJ7KwS">
 </div>
