@@ -81,6 +81,62 @@ they encouraged a more harmonious and socially-aware public transport culture.</
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="551" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfzHitZgjEcqzP9G4WdsnzGBKRBQpDPIm9W_MNYxHp-OCahAQQz8dGEhJjkzqubLz8TW_sC-zHs3lRw3dA7E_ZQNxsa80U2f-5p6aBo8Q6nTS8PosdXg08HDIJISl7PxJNLTtTZ?key=7wQ3t4cajD88hhZrO56EJtax">
 </div>
+<p><strong>Intergenerational Bonding at NTUC Health Active Ageing Centres &amp; Volunteer Work at the National Library<br></strong>Our
+Secondary 3 students had two meaningful community engagement opportunities.
+Some visited NTUC Health Active Ageing Centres, where they spent time with
+seniors through conversations, games, and activities, fostering intergenerational
+understanding. Meanwhile, others volunteered at the National Library, assisting
+with craft activities, kidsREAD materials, and shelving books—helping to
+create a more enriching space for young readers and the wider public.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="379" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeyQFVFU60wGGgayqk3Z8dYSV8--v9luqnm2YgcpMQoaV9rInKWFH7x5brEEeDwO4JKSRWPctkLrYENdcKwBI7-NQLhheXJXHh1Wq-bkMj5E3zeO7WjjPCW-_sCXpD__nqzfuUP?key=7wQ3t4cajD88hhZrO56EJtax">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="393" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqoMhfo-5mikd6LjFNEX7ShmpUVMfr_6Y3uuPUX-rXVWeyK-ckasPU4EqSFXikchWu3YLu7bK5zYF7hrttnpUa1u1gxnhzKc9bB_DhV95kVHTAVB3kkMhuwE-5ISDRJrThjEnr?key=7wQ3t4cajD88hhZrO56EJtax">
+</div>
+<p><strong>Reduce@NW Sustainability Project<br></strong>As advocates for
+a more sustainable future, our Secondary 4 students, alongside some of
+their Secondary 2 juniors, students took part in a programme by North West
+CDC, Reduce@NW, which focuses on waste reduction, recycling, and sustainable
+living habits. By learning about and applying eco-friendly practices, they
+reinforced the importance of reducing consumption and protecting the environment
+for future generations.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="393" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd5TjMIeUpQa_0mUe1niopktythKjGeF2uchc1TQaC56EEGDDnUD6vPJnnr7rf8pGJYubiwsMH8vfRE1HGL8zSwgUfk_7CsRsbTD0Sud9dayfQ8CElAq-QM7ky2OJEfu9hQv3NBSA?key=7wQ3t4cajD88hhZrO56EJtax">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="767" width="591" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcg_U5AmREk6abX6wfzMF0KK5UWWk1mZ62_5UhC85OF2aE6-Mhw9D_j0Hs0mHdLkLINvr0QrbX627XsKnZuaGTBJHNIKXpmpKSuFMIv6r-2n8oLNE6dyVsM8-fpdByTv5UtMPMRPg?key=7wQ3t4cajD88hhZrO56EJtax">
+</div>
+<p><strong>School-Wide Food Drive<br></strong>Beyond individual projects,
+our entire Hwa Chong family came together for a Food Drive, collecting
+essential food items for families in need. The overwhelming support from
+students, staff, and parents demonstrated the power of collective action
+in tackling food insecurity and supporting the less fortunate.</p>
+<p>Through these initiatives, our students exemplified the Hwa Chong spirit
+of service, leadership, and empathy. Their dedication to making a difference—whether
+through environmental action, promoting kindness, connecting with seniors,
+or championing sustainability—truly reflects the values we uphold as a
+school.</p>
+<p>A heartfelt thank you to all our students, teachers, and community partners
+(NParks, SBS Transit, NTUC Health, NLB, North West CDC, CDAC, Thye Hua
+Kwan Home for Disabled Adults, Pertapis, Sree Narayana Mission)&nbsp; for
+making this year's Founders' Day VIA Programme a meaningful and impactful
+experience. Let’s continue to serve, lead, and inspire!</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="427" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJx3QgeY4YtXGWLo4zwbubU5ps2fSUFcpbHoy908orxCLO99fI8cqNKQ4f4FYaV6puT-mJgUbMpfBylEeRfOwhbpF7bvZHX8oI6T5UZyIH1wQqjt0yPeJTPSiwoMJFOfv8StOS4w?key=7wQ3t4cajD88hhZrO56EJtax">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="416" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcIWMWteuGDhk-gdOx7yNU_Z4rCVw3wuuul8ZJhWukyVx-wlrkMTg1EKQ5Q0EE35cWcRS1p8qpQ16Mxii0i_Bi0ZVm4l5yR52Z7X86wadY76bWqpf1TWWsEYnxBnJ-0DA5j33Q9?key=7wQ3t4cajD88hhZrO56EJtax">
+</div>
+<p>Written by: Kaelyn Hong Yan Ning (24A10) &amp; High School VIA Council
+<br>
+</p>
+<p>
+<br>
+</p>
 <p></p>
 <p>
 <br>
