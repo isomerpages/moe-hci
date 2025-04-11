@@ -46,13 +46,11 @@ HCI has been welcoming Gifted Education students into our enriched and advanced 
 
 ##### Sabbatical Programme
 
-A unique feature of the Hwa Chong Integrated Programme, Hwa Chong Sabbatical Programme allows students from Sec. 1 to Sec. 4 to go on sabbatical courses for one week, in Terms 1 and 2. The school organizes courses with the aim of creating space for students to develop passion for what they do. During Sabbaticals, formal lessons are replaced by enrichment programmes that students opt for.
+A distinctive feature of the Hwa Chong Integrated Programme, the Hwa Chong Sabbatical Programme offers students from Secondary 1 to 4 the opportunity to participate in sabbatical courses for one week in both Term 1 and Term 2. Designed to extend learning beyond the standard academic curriculum, this programme serves as a platform for students to explore their interests while equipping them with essential 21st-century skills and fostering independent learning.
 
-There are various types of programmes for students to select  each term, such as Arts, Aesthetics, Chinese Studies, Humanities, English; Literature, Leadership, Technology, Science and Math, Sports, Camps and Student Exchange. Courses may be conducted on or outside the school campus. Students are engaged in activities that enable them to learn beyond the classroom and broaden their educational experience. They also get to explore their diverse interests and have fun all at once.
+Students can choose from a diverse range of programmes across various categories, including Arts &amp; Aesthetics, Cultural Programmes, Leadership Development, Information Technology, Science, Sports, Language Arts, Environmental Education, Internships, Community Engagement, Camps, and Student Exchanges.
 
-<img style="width:85%" src="/images/sabbaticalprog.jpg">
-
-Students will bid for their sabbatical courses every term on the ISP.
+During the sabbatical week, formal lessons are replaced with enrichment activities, allowing students to engage in meaningful learning experiences beyond the classroom. Course selection is conducted through the iSP system, where students bid for their preferred sabbaticals, enabling them to pursue their passions while enjoying a fun and enriching educational journey.
 
 
 ##### Special Programmes
