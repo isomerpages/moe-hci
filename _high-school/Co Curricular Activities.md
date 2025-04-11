@@ -12,22 +12,22 @@ Various CCA activities aim to provide avenues for students to discover their int
 
 A list of CCAs can be found below:
 
-|Aesthetics |Clubs &amp; Societies |Sports|Uniformed Groups|
+|Performing Arts |Clubs &amp; Societies |Sports|Uniformed Groups|
 |---|---|---|---|
-|Chinese Orchestra|Chinese Chess|Badminton|NCC|
-|Chinese Drama|Chinese Oratorical Society|Basketball|NPCC|
-|Choir|English Debate|Canoeing|Scouts|
-|English Drama|Infocomm|Cross Country|St. John|
+|Chinese Orchestra|Chinese Chess|Badminton|National Cadet Corps|
+|Chinese Drama|Chinese Oratorical Society|Basketball|National Police Cadet Corps|
+|Choir|English Debate Club|Canoeing|Scouts|
+|English Drama|Infocomm &amp; Robotics Society|Cross Country|St John Brigade Singapore|
 |School Band|International Chess|Fencing||
 |String Orchestra|Library Council|Judo||
 ||MediaTech|Shooting||
-||Weiqi|Softball||
-||Youth Flying Club|Table Tennis||
-|||Tennis||
+||Weiqi|Table Tennis||
+||Youth Flying Club|Tennis||
 |||Track &amp; Field||
 |||Volleyball||
 |||Waterpolo||
 |||Wushu||
+|||||
 
 
 
