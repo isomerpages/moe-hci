@@ -4,7 +4,7 @@ permalink: /high-school/admission-route/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>DIRECT SCHOOL ADMISSION EXERCISE 2025</u></strong>
+<p><strong>                                                <u>DIRECT SCHOOL ADMISSION EXERCISE 2025</u></strong>
 </p>
 <p>Primary 6 students who are keen to join Hwa Chong Institution in 2026
 are welcome to apply through the annual Direct School Admission (DSA) Exercise.</p>
