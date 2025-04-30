@@ -4,7 +4,7 @@ permalink: /high-school/admission-route/
 description: ""
 variant: tiptap
 ---
-<p><strong>DIRECT SCHOOL ADMISSION EXERCISE 2025</strong>
+<p><strong><u>DIRECT SCHOOL ADMISSION EXERCISE 2025</u></strong>
 </p>
 <p>Primary 6 students who are keen to join Hwa Chong Institution in 2026
 are welcome to apply through the annual Direct School Admission (DSA) Exercise.</p>
@@ -45,7 +45,7 @@ range of financial assistance schemes, scholarships, and merit-based awards
 to ensure that every student has the opportunity to thrive.</p>
 <p>For FAQs on DSA admissions at HCI, please access the following <a href="https://www.openhouse.hci.edu.sg/faqs" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.</p>
 <p></p>
-<p><strong>Direct School Admissions Schedule</strong>
+<p><strong><u>Direct School Admissions Schedule</u></strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong><u>7 May 2025, 11 am</u></strong> to <strong><u>3 June 2025, 3 pm</u></strong>.&nbsp;</p>
@@ -355,7 +355,7 @@ arts community through sustained practice, reflection, and engagement</p>
 <p>For more information about the different talent development programmes,
 please click <a href="https://www.openhouse.hci.edu.sg/talent-development" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
-<p><strong>Direct School Admissions Selection Process</strong>
+<p><strong><u>Direct School Admissions Selection Process</u></strong>
 </p>
 <p>Applicants will be shortlisted based on information provided by MOE and
 the details submitted during the application process.&nbsp;</p>
