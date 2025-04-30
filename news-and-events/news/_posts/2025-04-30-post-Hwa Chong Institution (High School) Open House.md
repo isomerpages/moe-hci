@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/HS_openhouse_2025.jpg">
+</div>
 <p>Interested in learning what makes Hwa Chong Institution (HCI) special?
 Join us at our High School Open House on <strong>Sat,</strong>  <strong>24 May, 8am to 1pm</strong>!&nbsp;</p>
 <p>Discover what sets HCI apart through a range of booths, talks, campus
