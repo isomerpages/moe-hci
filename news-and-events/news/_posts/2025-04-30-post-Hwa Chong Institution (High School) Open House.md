@@ -27,7 +27,7 @@ at HCI from our school leaders, teachers, and students.</p>
 </p>
 <p></p>
 <p>For more information on the Direct School Admission Exercise at Hwa Chong,
-please visit <a href="https://www.openhouse.hci.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hci.edu.sg/high-school/admission-route/</u></a>&nbsp;</p>
+please visit <a href="https://www.hci.edu.sg/high-school/admission-route/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hci.edu.sg/high-school/admission-route/</u></a>&nbsp;</p>
 <p></p>
 <p>Visit <a href="https://www.openhouse.hci.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">openhouse.hci.edu.sg</a> to
 find out more. We can’t wait to see you there!</p>
