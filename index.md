@@ -11,7 +11,7 @@ sections:
       background: /images/homepage_banner_v3.gif
       variant: center
       button: Click here for more info
-      url: /welcome-to-hci-our-new-secondary-one-hwa-chongians/
+      url: /hwa-chong-institution-high-school-open-house/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
