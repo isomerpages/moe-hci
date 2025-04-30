@@ -365,16 +365,15 @@ the potential of the applicants.</p>
 <p>HCI will conduct in-person selection exercises for all DSA talent areas
 for 2025 DSA-Sec. Applicants who are successfully shortlisted will be notified
 between 17 July and 21 July 2025, and will be required to attend an interview
-and/or selection tests on <strong><u>26 July 2025</u></strong>.&nbsp;</p>
+and/or selection tests on 26 July 2025.&nbsp;</p>
 <p>All applicants will receive their application outcomes between 25 August
-and&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4 September 2025.</p>
-<p>
-<br>Please note that due to the large number of applicants and the limited
+and 4 September 2025.</p>
+<p>Please note that due to the large number of applicants and the limited
 number of DSA places available, meeting all the criteria does not guarantee
 that a student will be shortlisted for an interview or offered a place.&nbsp;</p>
 <p>Applicants should only attend the in-person selection if they are well.
 If a student is unwell during the selection period, rescheduling will be
 arranged where possible.&nbsp;</p>
-<p>Please direct any queries about DSA to Hwa Chong Institution at <a href="https://www.openhouse.hci.edu.sg/talent-development" rel="noopener noreferrer nofollow" target="_blank">dsa@hci.edu.sg</a>.</p>
+<p>Please direct any queries about DSA to Hwa Chong Institution at dsa@hci.edu.sg.</p>
 <hr>
 <p></p>
