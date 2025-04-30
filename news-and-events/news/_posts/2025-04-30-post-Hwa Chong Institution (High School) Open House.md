@@ -31,13 +31,6 @@ please visit <a href="https://www.hci.edu.sg/high-school/admission-route/" rel="
 <p></p>
 <p>Visit <a href="https://www.openhouse.hci.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">openhouse.hci.edu.sg</a> to
 find out more. We can’t wait to see you there!</p>
-<p></p>
-<p>Hwa Chong Institution (High School) Open House 2025</p>
-<p>📝 Date: 24 May 2025</p>
-<p>🕗 Time: 0800h - 1300h</p>
-<p>📌 Address: 661 Bukit Timah Road, Singapore 269734</p>
-<p>🚉 Public transport: Tan Kah Kee MRT Station (DT8); bus services 67, 74,
-151, 154, 156, 157, 170, 174, 852, 961</p>
 <p>
 <br>
 </p>
