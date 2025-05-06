@@ -27,13 +27,13 @@ You can apply up to any two of the following 7 categories:
 
 1.&nbsp; The application is submitted online. You will be asked to submit the following documents via the online portal:&nbsp;
 
-§ &nbsp; Sec 3 EOY result slips and Sec 4 WA result slip (if available)
+- &nbsp; Sec 3 EOY result slips and Sec 4 WA result slip (if available)
 
-§ &nbsp; CCA records &amp; achievements that are related to your DSA talent area (limit to achievements from Sec 1 to Sec 4)
+- &nbsp; CCA records &amp; achievements that are related to your DSA talent area (limit to achievements from Sec 1 to Sec 4)
 
-§ &nbsp; Awards/scholarships that are evidence of your DSA talent area (limit to those from Sec 1 to Sec 4)&nbsp;&nbsp;
+- &nbsp; Awards/scholarships that are evidence of your DSA talent area (limit to those from Sec 1 to Sec 4)&nbsp;&nbsp;
 
-§ &nbsp; Art Portfolio (for those applying for Art Elective Programme)
+- &nbsp; Art Portfolio (for those applying for Art Elective Programme)
 
 \[You need to be selective as there is a 10MB limit on the supporting document file size that you can upload. You are advised to submit the documents in a single file (in pdf format).\]
 
