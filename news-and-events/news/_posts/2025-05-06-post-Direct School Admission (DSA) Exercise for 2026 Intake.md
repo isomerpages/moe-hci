@@ -7,9 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
-<p>The application for admission into Hwa Chong Institution via the DSA(JC)&nbsp;
-pathway is now open.</p>
-<p>Please click <a href="https://www.hci.edu.sg/college/admission-path/" rel="noopener noreferrer nofollow" target="_blank">Here</a> for
-more information about the DSA(JC).</p>
+<p>We are pleased to announce that the application for admission into <strong>Hwa Chong Institution (Junior College)</strong> and <strong>Hwa Chong Institution (High School)</strong> via
+the Direct School Admission (DSA) pathway is now open.&nbsp;</p>
+<p>Students who are keen to join Hwa Chong Institution in 2026 via the Direct
+School Admission (DSA) route are encouraged to access the relevant information
+and submit their applications through the following webpages:
+<br>
+<br>Hwa Chong Institution (High School): Click <strong><a href="https://www.hci.edu.sg/high-school/admission-route/" rel="noopener nofollow" target="_blank">Here</a> &nbsp;</strong>
+<br>
+<br>Hwa Chong Institution (Junior College): Click<strong> <a href="https://www.hci.edu.sg/college/admission-path/" rel="noopener nofollow" target="_blank">Here</a>  </strong>
+</p>
 <p></p>
