@@ -5,12 +5,11 @@ date: 2025-05-06
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
-<p>
-
-The application for admission into Hwa Chong Institution via the DSA(JC)&nbsp; pathway is now open.
-
-Please click [Here](https://www.hci.edu.sg/college/admission-path/) or more information about the DSA(JC).
-
-</p>
+<p></p>
+<p>The application for admission into Hwa Chong Institution via the DSA(JC)&nbsp;
+pathway is now open.</p>
+<p>Please click <a href="https://www.hci.edu.sg/college/admission-path/" rel="noopener noreferrer nofollow" target="_blank">Here</a> for
+more information about the DSA(JC).</p>
+<p></p>
