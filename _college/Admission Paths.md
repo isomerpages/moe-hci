@@ -6,7 +6,7 @@ variant: markdown
 ---
 ##### DSA
 
-Direct School Admission DSA–JC Exercise For Admission to JC1
+**Direct School Admission DSA–JC Exercise For Admission to JC1**
 
 Direct School Admission for junior colleges (DSA-JC) allows students to apply to a DSA school before taking the GCE O-Level examinations. It allows a diverse range of talents to be recognized in admission other than academic achievement in GCE O-Level.
 
