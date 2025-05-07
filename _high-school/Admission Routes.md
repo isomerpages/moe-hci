@@ -2,9 +2,11 @@
 title: Admission Routes
 permalink: /high-school/admission-route/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p><strong><u></u></strong></p><center><strong><u>DIRECT SCHOOL ADMISSION EXERCISE 2025</u></strong></center>
+<p></p>
+<p><strong><u>DIRECT SCHOOL ADMISSION EXERCISE 2025</u></strong>
+</p>
 <p></p>
 <p>Primary 6 students who are keen to join Hwa Chong Institution in 2026
 are welcome to apply through the annual Direct School Admission (DSA) Exercise.</p>
@@ -45,15 +47,17 @@ range of financial assistance schemes, scholarships, and merit-based awards
 to ensure that every student has the opportunity to thrive.</p>
 <p>For FAQs on DSA admissions at HCI, please access the following <a href="https://www.openhouse.hci.edu.sg/faqs" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.</p>
 <p></p>
-<p><strong><u></u></strong></p><center><strong><u>Direct School Admissions Schedule</u></strong></center>
+<p></p>
+<p><strong><u>Direct School Admissions Schedule</u></strong>
+</p>
 <p></p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong><u>7 May 2025, 11 am</u></strong> to <strong><u>3 June 2025, 3 pm</u></strong>.&nbsp;</p>
 <p>For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="451" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfd835Ivaq4NiuMaLYMye4py6VHSVRfiQfLoiA5G3wmcJzxx--NNx8eAU_NMHu7Dd_bnxdlLPNbyXst-Y2Jgf2SOdxZGJIYqgPZn_1WwnLVAGertywETGkRB0NP6xh90Clkun_0g?key=d2Szwp6zxMXPd2ol1YrPHl6j">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2025_Timeline__5_.png">
+</div>
 <p><strong>DSA Categories</strong>
 </p>
 <p>Our DSA talent areas are shown in the table below.</p>
@@ -355,7 +359,9 @@ arts community through sustained practice, reflection, and engagement</p>
 <p>For more information about the different talent development programmes,
 please click <a href="https://www.openhouse.hci.edu.sg/talent-development" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
-<p><strong><u></u></strong></p><center><strong><u>Direct School Admissions Selection Process</u></strong></center>
+<p></p>
+<p><strong><u>Direct School Admissions Selection Process</u></strong>
+</p>
 <p></p>
 <p>Applicants will be shortlisted based on information provided by MOE and
 the details submitted during the application process.&nbsp;</p>
