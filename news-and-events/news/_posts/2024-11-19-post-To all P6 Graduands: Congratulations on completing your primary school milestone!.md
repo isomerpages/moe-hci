@@ -14,8 +14,7 @@ details about the Secondary One (S1) Registration:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Learn more about Hwa Chong: </strong>To discover more about what
-makes Hwa Chong unique and explore our academic and co-curricular offerings,
-visit our admissions website: <a href="https://www.admissions.hci.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Hwa Chong Admissions</a>.</p>
+makes Hwa Chong unique and explore our academic and co-curricular offerings.</p>
 </li>
 <li>
 <p><strong>No Open House or Campus Tours: </strong>Please note that there
