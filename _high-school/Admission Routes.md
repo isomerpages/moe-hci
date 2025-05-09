@@ -368,6 +368,15 @@ the details submitted during the application process.&nbsp;</p>
 <p>Applicants without prior experience are also welcome to apply. The school
 will assess all applicants based on the selection criteria, including assessing
 the potential of the applicants.</p>
+<p>Please include any relevant non-school-based awards or activities when
+completing the MOE DSA application. These should be additional achievements
+or talents gained through external activities or competitions not organized
+by the primary school. This section in the MOE DSA application form is
+not compulsory, and there is a limit of 10 entries.</p>
+<p>School-based information, including academic results from P5 and P6, as
+well as achievements like Edusave Awards, National School Games, and Junior
+Sports Academy participation, will be automatically shared. There is no
+need to input school-based information again.</p>
 <p>HCI will conduct in-person selection exercises for all DSA talent areas
 for 2025 DSA-Sec. Applicants who are successfully shortlisted will be notified
 between 17 July and 21 July 2025, and will be required to attend an interview
