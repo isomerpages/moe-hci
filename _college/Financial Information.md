@@ -330,7 +330,7 @@ to support our students.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/art-elective-scholarship" rel="noopener nofollow" target="_blank">Art Elective Scholarship (AES) </a>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/art-elective-scholarship" rel="noopener nofollow" target="_blank">Art Elective Scholarship (AES)</a>
 </p>
 </li>
 <li>
