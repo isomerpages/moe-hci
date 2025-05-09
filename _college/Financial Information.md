@@ -326,19 +326,26 @@ to support our students.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Art%20Programmes&amp;subterm=Art%20Elective%20Programme%20(AEP)" rel="noopener noreferrer nofollow" target="_blank">Art Elective Programme (AEP)</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-jc" rel="noopener noreferrer nofollow" target="_blank">Art Elective Programme (AEP)</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships" rel="noopener noreferrer nofollow" target="_blank">Programme-Based Scholarships</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/art-elective-scholarship" rel="noopener nofollow" target="_blank">Art Elective Scholarship (AES)</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships" rel="noopener noreferrer nofollow" target="_blank">Bicultural Studies Programme (BSP) Scholarships</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/bicultural-studies-programme-scholarship" rel="noopener noreferrer nofollow" target="_blank">Bicultural Studies Programme (BSP) Scholarships</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships" rel="noopener noreferrer nofollow" target="_blank">Language Elective Scholarships</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/engineering-and-tech-programme-scholarship" rel="noopener nofollow" target="_blank">Engineering and Tech Programme Scholarship (ETPS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/humanities-scholarship-and-programme" rel="noopener nofollow" target="_blank">Humanities Scholarship</a>&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" rel="noopener noreferrer nofollow" target="_blank">Language Elective Scholarships</a>
 </p>
 </li>
 </ul>
@@ -364,25 +371,25 @@ are going on eligible overseas trips.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>HCJC Alumni Bursary</p>
+</li>
+<li>
+<p>Lin Hsiang Scholarship</p>
+</li>
+<li>
+<p>Loo Geok Eng Foundation Scholarship</p>
+</li>
+<li>
+<p>Seah Boon Thong Book Prize</p>
+</li>
+<li>
 <p>Singapore Buddhist Lodge Bursary</p>
 </li>
 <li>
 <p>The Straits Times School Pocket Money Fund</p>
 </li>
 <li>
-<p>Koh Brothers Scholarship</p>
-</li>
-<li>
-<p>Koh Choon Joo Scholarship</p>
-</li>
-<li>
 <p>Tan Sri Dr Tan Chin Tuan Scholarship</p>
-</li>
-<li>
-<p>Irene Tan Liang Kheng Scholarship (from Yr 2020)</p>
-</li>
-<li>
-<p>Singapore Buddhist Youth Mission Bursary Award</p>
 </li>
 </ul>
 <p>Students and parents will be notified of application times on IEMB, ISP
@@ -391,43 +398,25 @@ and other communication channels used by the School.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Ang Wee Hiong All-Round Excellence Award</p>
+</li>
+<li>
 <p>Annie Tan (Mrs Wan Boo Sow) Bilingual Award</p>
 </li>
 <li>
-<p>Trilingual Award</p>
-</li>
-<li>
-<p>Hwang Fu Award</p>
-</li>
-<li>
-<p>Xue Yong Shu Model Student Award</p>
-</li>
-<li>
-<p>Zheng An Lun Model Student Award</p>
-</li>
-<li>
-<p>Tooh Fee San All-Round Excellence Award</p>
-</li>
-<li>
-<p>Leong Heng Keng Venture Scouts Award</p>
-</li>
-<li>
-<p>Leong Heng Keng Boy Scouts Award</p>
-</li>
-<li>
-<p>Lee Tai Hui Boy Scouts Award</p>
-</li>
-<li>
-<p>Lee Tai Huo Venture Scouts Award</p>
-</li>
-<li>
-<p>Top Students Award</p>
-</li>
-<li>
-<p>HCI EAGLE Award</p>
-</li>
-<li>
 <p>HCI ECHA Award</p>
+</li>
+<li>
+<p>Lim Nai Tian Community Service Award</p>
+</li>
+<li>
+<p>Ong Teng Cheong Outstanding Leadership Award</p>
+</li>
+<li>
+<p>SCCCI Academic Excellence Award</p>
+</li>
+<li>
+<p>Tan Keong Choon Award</p>
 </li>
 </ul>
 <h5><strong>MOE Independent School Bursary (ISB) Scheme</strong></h5>
