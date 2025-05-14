@@ -60,6 +60,6 @@ Applicants who are&nbsp;<u>eligible</u>&nbsp;to apply to HCI can approach the sc
 4 \.  Achievements and awards<br>
 5 \.  Identification card/passport
 
-Applicants may need to sit for tests on certain subjects and attend an interview to decide on the subject combination. Eligible applicants must submit the application latest by&nbsp;<b><u>31 Dec 2023</u></b>&nbsp;to
+Applicants may need to sit for tests on certain subjects and attend an interview to decide on the subject combination. 
 
 <center>To:&nbsp;<b>SPERS-JC Application<br>c/o Ms Karen Ng<br>Hwa Chong Institution (College Section)<br>661 Bukit Timah Road  <br>Singapore 269734</b></center>
