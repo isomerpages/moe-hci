@@ -19,10 +19,10 @@ A list of CCAs can be found below:
 |---|---|---|---|
 |Astronomy Club|Badminton|Art Club|CCA Council|
 |First Aid Club|Basketball|Calligraphy|CIP Council|
-|HACAS|Canoeing|Chinese Orchestra|Green Council|
-|Infocomm &amp; Robotics Society|Fencing|Chinese Society <br> 黄城&nbsp;/ 创贤&nbsp;/ 未央|Students' Council|
-|Interact Club|Football|Choir|Students' National Education Council|
-|Library Club|Judo|ELDDFS||
+|HACAS|Canoeing|Chinese Orchestra|Faculty Committee|
+|Infocomm &amp; Robotics Society|Fencing|Chinese Society <br> 黄城&nbsp;/ 创贤&nbsp;/ 未央|Green Council|
+|Interact Club|Football|Choir|Students' Council|
+|Library Club|Judo|ELDDFS|Students' National Education Council|
 |Mindsports|Netball|Guitar Ensemble||
 |Outdoor Education Students' Club|Shooting|Music and Dance||
 |Publications Society|Softball|String Ensemble||
