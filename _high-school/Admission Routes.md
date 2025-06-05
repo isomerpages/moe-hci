@@ -71,6 +71,10 @@ The application is free-of-charge and will be open from <strong><u>7 May 2025, 1
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Physical Trial Date</strong></h4>
 </td>
 <td rowspan="1" colspan="3">
@@ -96,7 +100,7 @@ The application is free-of-charge and will be open from <strong><u>7 May 2025, 1
 <p>9 July, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Table Tennis -        </strong>(Level 2)</p>
+<p><strong>Table Tennis - </strong>(Level 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Judo </strong>(Dojo – 1 Level below Kah Kee Hall)</p>
@@ -114,7 +118,7 @@ The application is free-of-charge and will be open from <strong><u>7 May 2025, 1
 <p>11 July, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fencing -  </strong>(Level 2)</p>
+<p><strong>Fencing - </strong>(Level 2)</p>
 <p></p>
 <p><strong>Volleyball - </strong>(Level 3)</p>
 </td>
