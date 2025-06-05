@@ -58,6 +58,113 @@ The application is free-of-charge and will be open from <strong><u>7 May 2025, 1
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2025_Timeline__5_.png">
 </div>
+<h4><strong>Sports DSA Trial Schedule</strong></h4>
+<p><strong>Weekday </strong>Trial Timings: 4:00pm to 7:00pm</p>
+<p><strong>Saturday </strong>Trial Timings: 8:30am to 12:30pm&nbsp;</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h4><strong>Physical Trial Date</strong></h4>
+</td>
+<td rowspan="1" colspan="3">
+<h4><strong>                        Venue/Sports</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>College Indoor Sports Hall (Holistic Education Center)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>High School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Out of School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 July, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Table Tennis - </strong>(Level 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Judo </strong>(Dojo – 1 Level below Kah Kee Hall)</p>
+<p></p>
+<p><strong>Wushu </strong>(Wushu Room – 1 Level below Kah Kee Hall)</p>
+<p></p>
+<p><strong>Waterpolo </strong>(HCI Swimming Pool)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 July, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fencing - </strong>(Level 2)</p>
+<p></p>
+<p><strong>Volleyball - </strong>(Level 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weiqi </strong>(Weiqi Room @ Block D Room D306)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Canoeing </strong>(Macritichie Reservoir – Sheltered area near
+drop off point)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>12 July, Saturday</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="7" colspan="1">
+<p><strong>Basketball - </strong>(Level 3)</p>
+<p></p>
+<p><strong>Shooting - </strong>(Level 1)</p>
+<p>- Air Pistol (8:30pm to 10:30pm)</p>
+<p>- Air Rifle (10:30pm to 12:30pm)</p>
+</td>
+<td rowspan="7" colspan="1">
+<p><strong>Badminton </strong>(Kah Kee Hall)&nbsp;</p>
+<p><strong>Track &amp; Field/ Cross Country </strong>(Running Track – In
+front of Clock Tower)</p>
+<p>- In the event of wet weather, meet at Clock Tower</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<p><em>Updated on 05 June 2025</em>
+</p>
 <p><strong>DSA Categories</strong>
 </p>
 <p>Our DSA talent areas are shown in the table below.</p>
