@@ -75,6 +75,7 @@ The application is free-of-charge and will be open from <strong><u>7 May 2025, 1
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <h4><strong>Physical Trial Date</strong></h4>
 </td>
 <td rowspan="1" colspan="3">
@@ -164,11 +165,6 @@ front of Clock Tower)</p>
 </table>
 <p><em>Updated on 05 June 2025</em>
 </p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
 <p><strong>DSA Categories</strong>
 </p>
 <p>Our DSA talent areas are shown in the table below.</p>
