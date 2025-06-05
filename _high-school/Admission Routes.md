@@ -79,7 +79,7 @@ The application is free-of-charge and will be open from <strong><u>7 May 2025, 1
 <h4><strong>Physical Trial Date</strong></h4>
 </td>
 <td rowspan="1" colspan="3">
-<h4><strong>Venue/Sports</strong></h4>
+<h4><strong>                        Venue/Sports</strong></h4>
 </td>
 </tr>
 <tr>
