@@ -96,7 +96,7 @@ The application is free-of-charge and will be open from <strong><u>7 May 2025, 1
 <p>9 July, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Table Tennis -</strong>(Level 2)</p>
+<p><strong>Table Tennis -        </strong>(Level 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Judo </strong>(Dojo – 1 Level below Kah Kee Hall)</p>
@@ -114,7 +114,7 @@ The application is free-of-charge and will be open from <strong><u>7 May 2025, 1
 <p>11 July, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fencing -</strong>(Level 2)</p>
+<p><strong>Fencing -  </strong>(Level 2)</p>
 <p></p>
 <p><strong>Volleyball - </strong>(Level 3)</p>
 </td>
@@ -134,7 +134,7 @@ drop off point)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="7" colspan="1">
-<p><strong>Basketball -    </strong>(Level 3)</p>
+<p><strong>Basketball - </strong>(Level 3)</p>
 <p></p>
 <p><strong>Shooting - </strong>(Level 1)</p>
 <p>- Air Pistol (8:30pm to 10:30pm)</p>
