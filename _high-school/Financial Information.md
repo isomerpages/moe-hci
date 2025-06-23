@@ -2,7 +2,7 @@
 title: Financial Information
 permalink: /high-school/financial-info/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h5>School Fees Structure</h5>
 <p><strong><u>School fee rates</u></strong> 
@@ -614,7 +614,7 @@ via DSA and/or ESIS recipients</p>
 </p>
 <p><strong>To download the 2025 ISB Application Form click</strong>  <strong><a href="/files/MOE_ISB_Application_Form_2025_HS_new.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
-<p><strong>To apply for the 2025 ISB Application Online click <a href="https://form.gov.sg/66fe36e777e924056c03ee43" rel="noopener nofollow" target="_blank">here</a></strong>
+<p><strong>To apply for the 2025 ISB Application Online click <a href="https://go.gov.sg/hci-hsisb" rel="noopener nofollow" target="_blank">here</a></strong>
 </p>
 <p>Students need only satisfy either the monthly Gross Household Income (GHI)
 or the PCI criterion to qualify for ISB. More information can be found
@@ -684,7 +684,7 @@ coverage limits.</p>
 as soon as possible subjected to a cap of 365 days from the date of accident,
 via the Income’s GPA Claim Portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
-<p>Please submit all required documents as listed in the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>
+<p>Please submit all required documents as listed in the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a>
 </p>
 <p>Parents/guardians can also access the above Claim Portal to follow up
 on claim submission and make enquiry on claim status.</p>
@@ -717,7 +717,8 @@ on claim submission and make enquiry on claim status.</p>
 loss or damage, legal liability or other specified event occurring to students
 and teacher chaperones during their school trips.</p>
 <p>The school will purchase travel insurance from Income for the travel group.
-Premium for students will be recovered by the school as part of the overseas trip costs.</p>
+Premium for students will be recovered by the school as part of the overseas
+trip costs.</p>
 <p>Parents/Guardians can refer to <a href="/files/MOE_Travel_Insurance_Fact_Sheet_for_Students_WEF_1_Nov_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI Factsheet (Students)</u></a> for
 the Benefit Summary and other important information and <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GTI FAQ for parents</u></a> for
 Frequently Asked Questions and Answers.</p>
@@ -746,7 +747,8 @@ Travel Claims Form.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.
 Copy of the claims form can be downloaded from: <a href="https://www.income.com.sg/claims/travel-claims" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/claims/travel-claims</a> (Select
 “Ministry of Education Travel claim form”). The required supporting documents
-for claims submission can be found in <u>Page 2 of the claims form</u>. Note that the claims form to be endorsed and stamped by the school.</p>
+for claims submission can be found in <u>Page 2 of the claims form</u>.
+Note that the claims form to be endorsed and stamped by the school.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.
 Email the completed claims form, together with supporting documents to
 Income team at&nbsp;<strong><a href="mailto:plineclaims@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">plineclaims@income.com.sg</a></strong>
