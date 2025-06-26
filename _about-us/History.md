@@ -23,6 +23,4 @@ The Hwa Chong experience is not just about academic excellence. All students und
 Today, many Hwa Chong alumni can be found contributing to the nation in many fields – from academia, entrepreneurship, public service to philanthropy.
 
 
-#### [Tan Kah Kee](https://go.gov.sg/tankahkee)
-
-
+#### Link: [AI Tan Kah Kee](https://go.gov.sg/tankahkee)
