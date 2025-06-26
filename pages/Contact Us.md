@@ -46,4 +46,5 @@ Tel: 6468 3955<br>
 Fax: 6769 5857<br>
 Email: [admin@hci.edu.sg](mailto:admin@hci.edu.sg)
 
+Link: [Virtual Map](https://go.gov.sg/hci-vt)
 ![](/images/HCI_Map.png)
