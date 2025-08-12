@@ -4,11 +4,13 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: ""
+notification: "Scam Alert: Impersonation Phone Calls"
 sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: center
+      url: https://www.hci.edu.sg/scam-advisory/
+      button: click here for more info
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
