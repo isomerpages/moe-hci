@@ -10,7 +10,7 @@ variant: tiptap
 <p>We are proud to share that 4 of our students have received the SAF Young
 Leader Award.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="402" width="610" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaGonbKg5Ona7H2VEbPw1h4h05Ge32KkjNKmBMhR0UHAQCvm-xNNS5r4Dpc_-KKIEG6kJPi_jmA9w92eCoQJCXbAcfkJn3JU4NO4MaBfcSoBNCoDCKx5XdeJnyNW8eZZohS4h2GQ?key=QB6L0CBVj8WkbGB_dSNQqA">
+<img style="margin-left:0px;margin-top:0px;" height="417" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdxPC-seIqtUOO4bIE3E806N_0URjFWLUVk-a9JuPo2k-ZPzsrkVsLzlMEXMVc68Wc8Gq2azrwZNx-_TiVARQKdgb7opx8SGhYmvil821Oyy4iQ0F9L4XUGp1b5aOCJWQ4T13BDxQ?key=QB6L0CBVj8WkbGB_dSNQqA">
 </div>
 <p>Established in 2014, the SYLA recognises top-performing students in Singapore
 who demonstrate exceptional academics and CCA leadership, combined with
@@ -36,27 +36,26 @@ an interest in defence themes.</p>
 <p>Song Haoran (24S7B)</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="238" width="349" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXelYfi2oAtHo7ASEZjyT90jUwqrZLw3Q3mPs8u9fZqv0TcTtWxzGPO1HtpV0W4AgBcZpMNMbhJADhcbAgeizmfVkiB420b29CsWk52NBPT5BZXaaGgW2WykeT1Wj1GQESk0AEPyeQ?key=QB6L0CBVj8WkbGB_dSNQqA">
+<img style="margin-left:0px;margin-top:0px;" height="417" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4GUGA2MHcfnHpjg3Y6aoOGljsT7WqM76CLGfIf1S9Yo2mfeOXZyYIJbLk3hHdLk0I_X-UszK7HGg2meAGzkIpIcb4DQMMxOCwBT5ydDa-15iDQfA9ectv06Gfps8iENFu0z0Vfw?key=QB6L0CBVj8WkbGB_dSNQqA">
 </div>
 <p>Gu Ruishan (24S6G)</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="231" width="352" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcL1AKWxRvfA0PrJeOodKoGIf6gpzUcwhC5BDL5Inw5oNqfoSNFU8-7sUUurPuFcoMhu3P_V28hHoYDb98EzjZOzDozbZrXGSisT1LTocGCNO21a_fFNO4Cubx21YFqGGKI_-x5?key=QB6L0CBVj8WkbGB_dSNQqA">
+<img style="margin-left:0px;margin-top:0px;" height="416" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgqabWL2PIuYhITA6LHf8k7G-sjCQo1gWb3xuzlfFZVf9LZ-7PhUilanfupbUnIiHAjgYrZ4hjmsHNz2QlReKeHh_w8PHn4ynsbasS-lyzrTL2_u--U9V8OWd3j1_9kHySWnURYA?key=QB6L0CBVj8WkbGB_dSNQqA">
 </div>
 <p>Huang Xiangyi Vanessa (24A15)</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="241" width="376" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdWtB1V_8ix-fdql458RKKSY9Fep2s-o7cNLEMIwcH2Kj3_0L5MF733by1AKqsASZA0FKNJ5YgGUzkhmXqcY0Lw2uM6W7eSJvKZqBCD368BWfro-XohK4BIqnnX7Crou2bK4UBhpA?key=QB6L0CBVj8WkbGB_dSNQqA">
+<img style="margin-left:0px;margin-top:0px;" height="420" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdGXfokcTqKzB-YBirlexKTkz5C0Dpl0qtpRwOrgQ2-0ylVcMduOS4ExR33i7k_RmOBEuXm1kMjU3pJehSBAN1L3OZyjKpLTjWuI3fHZUsbcdt2BNHdAmdwadVTsdvKdxSrV_MUwQ?key=QB6L0CBVj8WkbGB_dSNQqA">
 </div>
 <p>Joy Choo Le Xuan (24S6P)</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="255" width="375" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdko1qnS-cidzCdM0BpVOD_KlLQvFl4Kwp4m2JNIQN662vUMjdPBD52xE2hYfRs6tRySYddDnDcInlWqEk7Fa8qu2vEr9fAkLUy0gffCQC4Cwv6GntsZp7sjZqE3Xy_epEilDcZ6A?key=QB6L0CBVj8WkbGB_dSNQqA">
+<img style="margin-left:0px;margin-top:0px;" height="417" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeFPKO85FgYA2ZpvBfAXfCNpeCT_bGUK3-hBqAdMRdWI1rMPZP5yKBof0__Hj0t0_vAzae1vQV36b58dEZheu5Vxm7f7uvGSfBrsI2HbVwTgYNwxh7_82nqwELdVWS9B0xaZGUi0g?key=QB6L0CBVj8WkbGB_dSNQqA">
 </div>
 <p>Song Haoran (24S7B)</p>
 <p>We commend their achievements and look forward to the leadership they
 will bring in shaping Singapore’s future!</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="352" width="532" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7JprTGLXQHBa3XQqD06D1YACD15xuF1Nn1BbunuBd-maFU-Tnj4Bk7iNy0YflelBClkbfv5ullz41d7RQoi0MEqXNbafAFeFPKqm6slunlO6P_Axi8NdvtD53zklF52SZ1m9fTQ?key=QB6L0CBVj8WkbGB_dSNQqA">
+<img style="margin-left:0px;margin-top:0px;" height="415" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfftdwMRTnmvkVftznxJZitZdcsSR3XNr1FYj2zuhKRe_2ERzxKhoU2s8C7PGslW3mSR7vpcsGWAZp9U-0ZEThLcK6qAbOJnagqXrmXvSTdgQ2n3dy58ur9txLDrIxMMymXh8Y-?key=QB6L0CBVj8WkbGB_dSNQqA">
 </div>
 <p>
 <br>
