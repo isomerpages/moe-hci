@@ -15,13 +15,10 @@ At Hwa Chong, we empower our high ability students to achieve their potential an
 
 **High&nbsp;School&nbsp;Section**
 
-1.  PE&nbsp;Teacher
-2.  History &amp; Social Studies Teacher
-3.  Mathematics&nbsp;Teacher
-4.  Subject Head / English Literature
-5.  Senior Teacher / English
-6.  English&nbsp;Teacher
-
+1.  History &amp; Social Studies Teacher
+2.  English&nbsp;Teacher
+  
+ 
 **College Section**
 
 1.  General Paper&nbsp;Teacher
