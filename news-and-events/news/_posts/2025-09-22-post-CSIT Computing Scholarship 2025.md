@@ -59,11 +59,21 @@ experiential journey at CSIT.&nbsp;</p>
 </li>
 </ol>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/College/CSIT.png">
+</div>
 <p><em>First Row: Deputy Chief Executive (Data and AI) Mr Alvin Huang, Chief Cybersecurity Mr Tan Yi Zhao, Chief Executive CSIT Mr Darren Teo, Hci Principal Mr Lee Peck Ping, Deputy Chief Executive (Technology) CSIT Mr Lee Shih Yen, Chief Digital Mr Loh Chee Kin, Isaac Ng Tiat Woon (25S6D), Victor Yu Guan-Yu (25S6D), Chong Choon-Hou Rafael (25S6A), Fu Junchao, Allen (25S6D)</em>
 </p>
+<p></p>
+<p><em>Second Row: Andrea Tan Kai Xuan (25S6C), Chew Zhi Xuan, Erin (25S6B), Ernest Chan Ern Yi (Chen Enyi) (25S6B), Chew Keng Yik Eason (25S6B), Gilbert Goh Jian Tian (25S6C), Jerome Lim Feng (25S6B), Ng Chen-Yi (25S6D), Chow Yeu Kit (Zhou Ruijie) (25S6B), Meng Xiang (25S6A), Derrick Lukimin (25S6G)</em>
+</p>
+<p>
+<br>Congratulations to all recipients for this achievement!</p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p>
 <br>
