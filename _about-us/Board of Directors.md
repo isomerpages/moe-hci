@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/BOD%202025/1__leehl.png"><strong>Mr Lee Hee Long Jonathan<br>李喜隆<br>Advisor<br>顾问</strong>
+      <img style="width: 100%;" src="/images/About%20Us/BOD%202025/leeheelong.png"><strong>Mr Lee Hee Long Jonathan<br>李喜隆<br>Advisor<br>顾问</strong>
    </div>
    
    <div class="col">
