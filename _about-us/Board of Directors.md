@@ -4,6 +4,22 @@ permalink: /about-us/board-of-directors/
 description: ""
 variant: markdown
 ---
+<div class="row">
+   <div class="col">
+      <img style="width: 100%;" src="/images/About%20Us/BOD/BOD_2025/1_leehl.png"><strong>Mr Lee Hee Long Jonathan<br>李喜隆<br>Advisor<br>顾问</strong>
+   </div>
+   
+   <div class="col">
+      <img style="width: 100%;" src="/images/About%20Us/BOD/bod_secretary.png"><strong>Dr Hon Chiew Weng<br>潘兆荣<br>Advisor<br>顾问</strong>
+   </div>
+   <div class="col">
+      <img style="width: 100%;" src="/images/About%20Us/BOD/bod_treasurer.png"><strong>Mr Kho Yue Sern Vincent<br>许喻胜<br>Advisor<br>顾问</strong>
+   </div>
+   
+   </div>
+
+
+
 <div class="container">
    <div class="row">
       <div class="col">&nbsp;</div>
