@@ -70,73 +70,69 @@ variant: markdown
    <div class="col">
        <img style="width: 100%;" src="/images/About%20Us/BOD%202025/13__chuakt.png">
         <br>
-        <strong>Mr Goh Mou Lih<br>吴茂利<br>Member<br>董事</strong>
+        <strong>Mr Chua Kee Thiam<br>蔡其添<br>Member<br>董事</strong>
    </div>
    <div class="col">
      <img style="width: 100%;" src="/images/About%20Us/BOD%202025/14__gohml.png">
         <br>
-        <strong>Mr Chua Kee Thiam<br>蔡其添先生<br>Member<br>董事</strong>
+        <strong>Mr Goh Mou Lih<br>吴茂利<br>Member<br>董事</strong>
    </div>
    <div class="col">
-       <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member5.png">
+       <img style="width: 100%;" src="/images/About%20Us/BOD%202025/15__limck.png">
         <br>
-        <strong>Mr Goh Mou Lih<br>吴茂利先生<br>Member<br>董事</strong>
+        <strong>Mr Lim Chee Kong<br>林志光<br>Member<br>董事</strong>
    </div>
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member6.png">
+      <img style="width: 100%;" src="/images/About%20Us/BOD%202025/16__limss.png">
         <br>
-        <strong>Mr Kek Ho Ann<br>郭和安先生<br>Member<br>董事</strong>
+        <strong>Mr Lim Sing Siong Charles<br>林欣雄<br>Member<br>董事</strong>
    </div>
-   
-   </div>
+</div>
 
 
 <div class="row">
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member8.png">
+      <img style="width: 100%;" src="/images/About%20Us/BOD%202025/17__lockwl.png">
         <br>
-        <strong>Mr Lim Chee Kong<br>林志光先生<br>Member<br>董事</strong>
+        <strong>Mr Lock Wai Lek Willy<br>骆伟力<br>Member<br>董事</strong>
    </div>
    <div class="col">
-     <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member10.png">
+     <img style="width: 100%;" src="/images/About%20Us/BOD%202025/18__lohbk.png">
         <br>
-        <strong>Mr Lim Sing Siong Charles BBM/PBM<br>林欣雄先生<br>Member<br>董事</strong>
+        <strong>Dr Loh Boon Kwang<br>罗文光<br>Member<br>董事</strong>
    </div>
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member11.png">
+      <img style="width: 100%;" src="/images/About%20Us/BOD%202025/19__lohpl.png">
         <br>
-        <strong>Dr Loh Boon Kwang<br>罗文光医生<br>Member<br>董事</strong>
+        <strong>Dr Loh Poey Ling<br>罗佩玲<br>Member<br>董事</strong>
    </div>
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member12.png">
+      <img style="width: 100%;" src="/images/About%20Us/BOD%202025/20__ngwy.png">
         <br>
-        <strong>Dr Loh Poey Ling<br>罗佩玲医生<br>Member<br>董事</strong>
+        <strong>Mr Ng Wei Yong William<br>黄伟荣<br>Member<br>董事</strong>
    </div>
-   
-   </div>
-
-
+</div>
 
 <div class="row">
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member13.png">
+      <img style="width: 100%;" src="/images/About%20Us/BOD%202025/21__tankh.png">
         <br>
-        <strong>Mr Ng Wei Yong William<br>黄伟荣先生<br>Member<br>董事</strong>
+        <strong>Mr Tan Khang Hwee Leonard<br>陈康辉<br>Member<br>董事</strong>
    </div>
    <div class="col">
-     <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member14.jpg">
+     <img style="width: 100%;" src="/images/About%20Us/BOD%202025/22__teoze.png">
         <br>
-        <strong>Mr Sim Choon Siong<br>沈俊雄先生<br>Member<br>董事</strong>
+        <strong>Mr Teo Zhu-En Joel<br>张主恩<br>Member<br>董事</strong>
    </div>
    <div class="col">
-     <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member15.png">
+     <img style="width: 100%;" src="/images/About%20Us/BOD%202025/23__wangyy.png">
         <br>
-        <strong>Mr Teo Zhu-En Joel<br>张主恩先生<br>Member<br>董事</strong>
+        <strong>Mr Wang Yingyang Jack<br>王迎阳<br>Member<br>董事</strong>
    </div>
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/BOD/bod_member16.png">
+     <img style="width: 100%;" src="/images/About%20Us/BOD%202025/24__yeojp.png">
         <br>
-        <strong>Mr Wang Yingyang Jack<br>王迎阳先生<br>Member<br>董事</strong>
+        <strong>Ms Yeo Jing Ping<br>杨静萍<br>Member<br>董事</strong>
    </div>
    
    </div>
