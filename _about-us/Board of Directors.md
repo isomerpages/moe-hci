@@ -102,7 +102,7 @@ variant: markdown
 
 <div class="row">
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/BOD%202025/.png">
+      <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
         <br>
         <strong></strong>
    </div>
@@ -116,7 +116,7 @@ variant: markdown
         <br>
 	</div>
    <div class="col">
-     <img style="width: 100%;" src="/images/About%20Us/BOD%202025/.png">
+     <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
         <br>
  
    </div>
