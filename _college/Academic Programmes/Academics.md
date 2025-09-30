@@ -12,7 +12,7 @@ For more information on the syllabus of the subjects examinable at A Level, plea
 
 #### Subjects &amp; Subject Combinations offered in HCI
 
-For Information about <b>Subjects offered in HCI</b>, click [here](/files/College/01_A_Level_Subjects_info_for_2026_JC1.pdf) <br>
+For Information about <b>Subjects offered in HCI</b>, click [here](/files/College/01_A_Level_Subjects_info_for_2026_JC1_new.pdf) <br>
 
 
 For the proposed list of <b>Subject Combinations </b>, click [here](/files/College/02_HCI_College_Standard_Subject_Combinations_for_2026_JC_1.pdf)
