@@ -28,7 +28,7 @@ NUS H3 modules is taught by NUS lecturers. These are regular NUS module which is
 
 **Period: January to April 2026 (Exam: 4 May 2026)**
 
-Application starts from&nbsp;_**30 September to 3 November 2025 (noon**_). Selection is done by NUS and&nbsp;_**successful applicants will be notified by &nbsp;14 November 2025**_.
+Application starts from&nbsp;_**30 September to 3 November 2025 (noon**_). Selection is done by NUS and&nbsp;_**successful applicants will be notified by &nbsp;17 November 2025**_.
 
 Selection is based on good JC1 overall results, at least 'B' grade in the respective H2 subjects.
 
@@ -38,9 +38,9 @@ Selection is based on good JC1 overall results, at least 'B' grade in the respec
 
 Please access the following:
 
-[NUS H3 Programme Synopsis](/files/College/NUS_H3_Programme_Synopsis___Sem_2_AY2024_25.pdf)
+[NUS H3 Programme Synopsis](/files/College/NUS_H3_Programme_Synopsis___Sem_2_AY2025_26.pdf)
 
-[Details of NUS H3 Timetable and Test/Exam Schedule](/files/College/NUS_H3_Programme_Timetable___Sem_2_AY2024_25.pdf)
+[Details of NUS H3 Timetable and Test/Exam Schedule](/files/College/NUS_H3_Programme_Timetable___Sem_2_AY2025_26.pdf)
 
 **Application Procedures for NUS H3 modules**  
 Please apply for admission via the&nbsp;[_NUS Online Application Portal_](https://myapplications.nus.edu.sg/). Submission of hardcopy documents and referee letters to NUS will no longer be required. Students are reminded to upload the necessary documents in their online applications in order for their application to be considered complete.&nbsp;
@@ -52,13 +52,11 @@ Kindly refer to the&nbsp;[user guide](/files/College/userguide_for_local_ng_appl
 
 NTU H3 Taught Modules are by NTU lecturers and customised for JC students who have a keen interest in Semiconductor Physics &amp; Devices. Assessment is different from the undergraduate modules.&nbsp;Lessons will be held at NTU as well as the hosting JC, Hwa Chong Institution. Examinations will be held at the end&nbsp;of semester 1.&nbsp;
 
-**Period: January to May 2026**
-
-**(Exam: &nbsp;19 May 2026)**
+**Period: January to May 2026** **(Exam: &nbsp;19 May 2026)**
 
 The application period will open&nbsp;from&nbsp;**30 September**&nbsp;to&nbsp;**3 November (2359h)**.
 
-All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;**14 November 2025 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
+All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;**17 November 2025 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
 
 |No|NTU H3 Module Title|Subject Code|Hosting School|Associated H2|
 | -------- | -------- | -------- | -------- | -------- |
@@ -78,8 +76,8 @@ The SMU Game Theory application period will open on&nbsp;**30 September to 3 Nov
 
 Please prepare for your application as below:
 
-1\. Read the&nbsp;[course outline](/files/College/Course_Outline.pdf)<br>
-2\. Bring the original and a photocopy of your JC1 Overall Result Slip, and submit a hard copy of completed&nbsp;[Application Form](/files/College/H3_Application_Form_2025.pdf)&nbsp;at the college reception.
+1\. Read the&nbsp;[course outline](/files/College/2025_SMU_H3_Course_Information.pdf)<br>
+2\. Bring the original and a photocopy of your JC1 Overall Result Slip, and submit a hard copy of completed&nbsp;[Application Form](/files/College/2025_SMU_H3_Application_Form.pdf)&nbsp;at the college reception.
 
 ### **(B)**&nbsp;**H3 Research Programme**
 
@@ -102,7 +100,7 @@ Online application (via ISP) starts on&nbsp;**28 October to**&nbsp;**31 October 
 
 **Note: All H3 lessons start in 2026 Term 1 Week 1 (from Monday**&nbsp;**12**&nbsp;**Jan 2026).**&nbsp;_However, some of H3 subjects (for instance, H3 Biology) may have lessons in Nov 2025. You will be informed through the subject coordinators._
 
-The timetable for H3 Economics, Chemistry, Physics, Biology, Mathematics, Chinese Language &amp; Literature will be on the same day of the week at the same timing.
+**The timetable for H3 Economics, Chemistry, Physics, Biology, Mathematics, Chinese Language &amp; Literature will be on the same day of the week at the same timing.**
 
 |No|MOE-Cambridge H3 subject|Subject Code|Associated MOE-Cambridge H2 Subject|
 | -------- | -------- | -------- | -------- |
