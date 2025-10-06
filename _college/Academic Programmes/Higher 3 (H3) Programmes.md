@@ -38,9 +38,9 @@ Selection is based on good JC1 overall results, at least 'B' grade in the respec
 
 Please access the following:
 
-[NUS H3 Programme Synopsis](/files/College/NUS_H3_Programme_Synopsis___Sem_2_AY2024_25.pdf)
+[NUS H3 Programme Synopsis](/files/College/NUS_H3_Programme_Synopsis___Sem_2_AY2025_26.pdf)
 
-[Details of NUS H3 Timetable and Test/Exam Schedule](/files/College/NUS_H3_Programme_Timetable___Sem_2_AY2024_25.pdf)
+[Details of NUS H3 Timetable and Test/Exam Schedule](/files/College/NUS_H3_Programme_Timetable___Sem_2_AY2025_26.pdf)
 
 **Application Procedures for NUS H3 modules**  
 Please apply for admission via the&nbsp;[_NUS Online Application Portal_](https://myapplications.nus.edu.sg/). Submission of hardcopy documents and referee letters to NUS will no longer be required. Students are reminded to upload the necessary documents in their online applications in order for their application to be considered complete.&nbsp;
@@ -76,8 +76,8 @@ The SMU Game Theory application period will open on&nbsp;**30 September to 3 Nov
 
 Please prepare for your application as below:
 
-1\. Read the&nbsp;[course outline](/files/College/Course_Outline.pdf)<br>
-2\. Bring the original and a photocopy of your JC1 Overall Result Slip, and submit a hard copy of completed&nbsp;[Application Form](/files/College/H3_Application_Form_2025.pdf)&nbsp;at the college reception.
+1\. Read the&nbsp;[course outline](/files/College/2025_SMU_H3_Course_Information.pdf)<br>
+2\. Bring the original and a photocopy of your JC1 Overall Result Slip, and submit a hard copy of completed&nbsp;[Application Form](/files/College/2025_SMU_H3_Application_Form.pdf)&nbsp;at the college reception.
 
 ### **(B)**&nbsp;**H3 Research Programme**
 
