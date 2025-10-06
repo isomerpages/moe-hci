@@ -26,9 +26,9 @@ Students can apply for H3 subjects offered by
 
 NUS H3 modules is taught by NUS lecturers. These are regular NUS module which is pitched at undergraduate year one level. H3 students will be equally treated vis a vis all regular undergraduates in all assessment and in the marking (raw scores) of the assessment.&nbsp; Lessons are held in&nbsp;Semester 1&nbsp;(for JC2 H3 students) at NUS and examinations are held at the end of the semester.
 
-**Period: January to April 2025 (Exam: 30 April 2025)**
+**Period: January to April 2026 (Exam: 4 May 2026)**
 
-Application starts from&nbsp;_**30 September 2024 to 1 November 2024 (noon**_). Selection is done by NUS and&nbsp;_**successful applicants will be notified by &nbsp;15 November 2024**_.
+Application starts from&nbsp;_**30 September to 3 November 2025 (noon**_). Selection is done by NUS and&nbsp;_**successful applicants will be notified by &nbsp;14 November 2025**_.
 
 Selection is based on good JC1 overall results, at least 'B' grade in the respective H2 subjects.
 
@@ -52,13 +52,13 @@ Kindly refer to the&nbsp;[user guide](/files/College/userguide_for_local_ng_appl
 
 NTU H3 Taught Modules are by NTU lecturers and customised for JC students who have a keen interest in Semiconductor Physics &amp; Devices. Assessment is different from the undergraduate modules.&nbsp;Lessons will be held at NTU as well as the hosting JC, Hwa Chong Institution. Examinations will be held at the end&nbsp;of semester 1.&nbsp;
 
-**Period: January to May 2025**
+**Period: January to May 2026**
 
-**(Exam: &nbsp;14 May 2025)**
+**(Exam: &nbsp;19 May 2026)**
 
-The application period will open&nbsp;from&nbsp;**30 September 2024**&nbsp;to&nbsp;**1 November 2024 (2359h)**.
+The application period will open&nbsp;from&nbsp;**30 September**&nbsp;to&nbsp;**3 November (2359h)**.
 
-All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;**15 November 2024 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
+All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;**14 November 2025 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
 
 |No|NTU H3 Module Title|Subject Code|Hosting School|Associated H2|
 | -------- | -------- | -------- | -------- | -------- |
@@ -72,9 +72,9 @@ All applications for NTU-H3 Taught Modules will be via NTU’s e-application por
 
 This course provides an introduction to Game Theory. Game theory deals with decisions of conflict and cooperation between equally intelligent individuals. In such a context each party needs to take into account the decision that the other will take, before choosing the best plan of action.
 
-**Period: January to May 2025 (Exam: 3 May 2025)**
+**Period: January to May 2026 (Exam: 2 May 2026)**
 
-The SMU Game Theory application period will open on&nbsp;**30 September 2024 to 1 November 2024**. &nbsp;Please note that&nbsp;**HCI’s internal deadline is**&nbsp;**1 November 2024, 9am @ College Reception**.
+The SMU Game Theory application period will open on&nbsp;**30 September to 3 November 2025**. &nbsp;Please note that&nbsp;**HCI’s internal deadline is**&nbsp;**3 November 2025, 9am @ College Reception**.
 
 Please prepare for your application as below:
 
@@ -96,13 +96,13 @@ The following table shows the various modules offered for H3 research programme 
 
 These subjects are developed by MOE in collaboration with the University of Cambridge Local Examinations Syndicate, taught by HCI lecturers and examined by Cambridge International Examinations (CIE), UK. Students will sit for a written examination that includes the GCE A-level subject papers in the year-end written examination at the end of JC2. For students who are required to submit independent research essays, the final submission to SEAB is in early Term 4, 2023.&nbsp;
 
-Online application (via ISP) starts on&nbsp;**23 October 2024 to**&nbsp;**25 October 2024**. Selection is done by HCI H3 Selection Committee and the eligibility list of students will be released via ISP by&nbsp;**15**&nbsp;**November 2024**.&nbsp;
+Online application (via ISP) starts on&nbsp;**28 October to**&nbsp;**31 October 2025**. Selection is done by HCI H3 Selection Committee and the eligibility list of students will be released via ISP by&nbsp;**14**&nbsp;**November 2025**.&nbsp;
 
  [**GCE A-Level Syllabuses Examined: &nbsp;H3 Subjects (MOE-Cambridge)**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)
 
-**Note: All H3 lessons start in 2025 Term 1 Week 1 (from Monday**&nbsp;**13**&nbsp;**Jan 2025).**&nbsp;_However, some of H3 subjects (for instance, H3 Biology) may have lessons in Nov 2024. You will be informed through the subject coordinators._
+**Note: All H3 lessons start in 2026 Term 1 Week 1 (from Monday**&nbsp;**12**&nbsp;**Jan 2026).**&nbsp;_However, some of H3 subjects (for instance, H3 Biology) may have lessons in Nov 2025. You will be informed through the subject coordinators._
 
-
+The timetable for H3 Economics, Chemistry, Physics, Biology, Mathematics, Chinese Language &amp; Literature will be on the same day of the week at the same timing.
 
 |No|MOE-Cambridge H3 subject|Subject Code|Associated MOE-Cambridge H2 Subject|
 | -------- | -------- | -------- | -------- |
@@ -132,9 +132,9 @@ b.&nbsp;_**Within top 20th percentile ranking for the intended subject at H2 lev
 | Subject Combinations|Recommended No. of H3 offered|
 | -------- | -------- | 
 | 3 H2, 1 H1|Up TO 2 H3|
-|4H2 |Up to 1 H3 / Up to 2 H3 for H2 CLL students|
+|4H2 |Up to 1 H3|
 
 
-Students can appeal to read an MOE-Cambridge H3 subject if they do not meet the selection criteria. Decisions will be made on a case-by-case basis by HCI H3 Selection Committee. The student eligibility list for MOE-Cambridge H3 will be released on&nbsp;**23 Oct 2024**&nbsp;via ISP. Students who are not eligible can make an appeal by submitting the appeal form through ISP from&nbsp;**23 Oct 2024 to 25 Oct 2024**.
+Students can appeal to read an MOE-Cambridge H3 subject if they do not meet the selection criteria. Decisions will be made on a case-by-case basis by HCI H3 Selection Committee. The student eligibility list for MOE-Cambridge H3 will be released on&nbsp;**28 Oct 2025**&nbsp;via ISP. Students who are not eligible can make an appeal by submitting the appeal form through ISP from&nbsp;**28 Oct to 31 Oct 2025**.
 
 ![Annex A](/images/Annex_A.png)
