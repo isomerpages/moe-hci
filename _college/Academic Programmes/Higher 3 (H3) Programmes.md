@@ -92,7 +92,7 @@ The following table shows the various modules offered for H3 research programme 
 
 ### **(C)&nbsp;MOE-CAMBRIDGE H3 Subjects**
 
-These subjects are developed by MOE in collaboration with the University of Cambridge Local Examinations Syndicate, taught by HCI lecturers and examined by Cambridge International Examinations (CIE), UK. Students will sit for a written examination that includes the GCE A-level subject papers in the year-end written examination at the end of JC2. For students who are required to submit independent research essays, the final submission to SEAB is in early Term 4, 2023.&nbsp;
+These subjects are developed by MOE in collaboration with the University of Cambridge Local Examinations Syndicate, taught by HCI lecturers and examined by Cambridge International Examinations (CIE), UK. Students will sit for a written examination that includes the GCE A-level subject papers in the year-end written examination at the end of JC2. For students who are required to submit independent research essays, the final submission to SEAB is in early Term 4.&nbsp;
 
 Online application (via ISP) starts on&nbsp;**28 October to**&nbsp;**31 October 2025**. Selection is done by HCI H3 Selection Committee and the eligibility list of students will be released via ISP by&nbsp;**14**&nbsp;**November 2025**.&nbsp;
 
