@@ -28,7 +28,7 @@ NUS H3 modules is taught by NUS lecturers. These are regular NUS module which is
 
 **Period: January to April 2026 (Exam: 4 May 2026)**
 
-Application starts from&nbsp;_**30 September to 3 November 2025 (noon**_). Selection is done by NUS and&nbsp;_**successful applicants will be notified by &nbsp;14 November 2025**_.
+Application starts from&nbsp;_**30 September to 3 November 2025 (noon**_). Selection is done by NUS and&nbsp;_**successful applicants will be notified by &nbsp;17 November 2025**_.
 
 Selection is based on good JC1 overall results, at least 'B' grade in the respective H2 subjects.
 
@@ -52,13 +52,11 @@ Kindly refer to the&nbsp;[user guide](/files/College/userguide_for_local_ng_appl
 
 NTU H3 Taught Modules are by NTU lecturers and customised for JC students who have a keen interest in Semiconductor Physics &amp; Devices. Assessment is different from the undergraduate modules.&nbsp;Lessons will be held at NTU as well as the hosting JC, Hwa Chong Institution. Examinations will be held at the end&nbsp;of semester 1.&nbsp;
 
-**Period: January to May 2026**
-
-**(Exam: &nbsp;19 May 2026)**
+**Period: January to May 2026** **(Exam: &nbsp;19 May 2026)**
 
 The application period will open&nbsp;from&nbsp;**30 September**&nbsp;to&nbsp;**3 November (2359h)**.
 
-All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;**14 November 2025 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
+All applications for NTU-H3 Taught Modules will be via NTU’s e-application portal. Details of the application system is as appended. Selection is done by NTU and successful applicants will be notified on&nbsp;**17 November 2025 through the JCs**. It is based on good JC1 overall results with at least 'B' grade in the relevant H2 subjects.
 
 |No|NTU H3 Module Title|Subject Code|Hosting School|Associated H2|
 | -------- | -------- | -------- | -------- | -------- |
@@ -102,7 +100,7 @@ Online application (via ISP) starts on&nbsp;**28 October to**&nbsp;**31 October 
 
 **Note: All H3 lessons start in 2026 Term 1 Week 1 (from Monday**&nbsp;**12**&nbsp;**Jan 2026).**&nbsp;_However, some of H3 subjects (for instance, H3 Biology) may have lessons in Nov 2025. You will be informed through the subject coordinators._
 
-The timetable for H3 Economics, Chemistry, Physics, Biology, Mathematics, Chinese Language &amp; Literature will be on the same day of the week at the same timing.
+**The timetable for H3 Economics, Chemistry, Physics, Biology, Mathematics, Chinese Language &amp; Literature will be on the same day of the week at the same timing.**
 
 |No|MOE-Cambridge H3 subject|Subject Code|Associated MOE-Cambridge H2 Subject|
 | -------- | -------- | -------- | -------- |
