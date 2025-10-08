@@ -106,14 +106,16 @@ Online application (via ISP) starts on&nbsp;**28 October to**&nbsp;**31 October 
 | -------- | -------- | -------- | -------- |
 |1|Literature in English|9805|Literature in English|
 |2|Economics|9809|Economics|
-|3|Chemistry|9813|Chemistry|
-|4|Physics|9814|Physics|
-|5|Biology|9816|Biology|
-|6|Art|9818|Art|
+|3|Chemistry [Revised] |9813|Chemistry|
+|4|Physics [Revised] |9814|Physics|
+|5|Biology [Revised] |9816|Biology|
+|6|Art [Revised] |9818|Art|
 |7|Mathematics|9820|Mathematics|
 |8|Geography|9822|Geography|
 |9|History|9823|History|
 |10|Chinese Language &amp; Literature|9901|Chinese Language &amp; Literature|
+
+***Please check out the Syllabus document for the respective MOE H3 subjects at [SEAB Website](https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/).***
 
 **Remarks**
 
