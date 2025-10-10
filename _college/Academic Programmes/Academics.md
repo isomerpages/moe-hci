@@ -12,10 +12,10 @@ For more information on the syllabus of the subjects examinable at A Level, plea
 
 #### Subjects &amp; Subject Combinations offered in HCI
 
-For Information about <b>Subjects offered in HCI</b>, click [here](/files/College/01_A_Level_Subjects_info_for_2026_JC1_new.pdf) <br>
+For Information about <b>Subjects offered in HCI</b>, click [here](/files/College/A_Level_Subjects_info_for_2026_JC1_10Oct.pdf) <br>
 
 
-For the proposed list of <b>Subject Combinations </b>, click [here](/files/College/02_HCI_College_Standard_Subject_Combinations_for_2026_JC_1.pdf)
+For the proposed list of <b>Subject Combinations </b>, click [here](/files/College/HCI_College_Standard_Subject_Combinations_for_2026_JC_1_10Oct.pdf)
 
 Please note that the list of subject combinations above is subjected to change. The list is NOT indicative of subject combinations that would be offered.
 
@@ -49,7 +49,7 @@ The links below provide a summary of pre-requisites for the various courses / ad
 Students considering an overseas education may use the local university pre-requisites as a guide or check the respective overseas universities’ websites for admission information.
 
 #### Special Programmes offered in HCI
-For information about <b>Special Programmes offered in HCI</b>, click [here](/files/College/03_Special_programme_info_for_2026_JC_1.pdf)<br>
+For information about <b>Special Programmes offered in HCI</b>, click [here](/files/College/Special_programme_info_for_2026_JC_1_10Oct.pdf)<br>
 
  <b> A)&nbsp;&nbsp;&nbsp; MOE Special Programmes</b>
 
