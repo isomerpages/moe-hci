@@ -7,3 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>On 4 October 2025, Hwa Chong’s highly anticipated Mid-Autumn Festival
+lit up the campus once again.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
