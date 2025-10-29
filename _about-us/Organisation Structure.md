@@ -6,5 +6,4 @@ variant: markdown
 ---
 ##### Organisation Structure
 
-![](/images/About%20Us/2025_org_struc.png)
-
+![](/images/About%20Us/Organisation_Structure.png)
