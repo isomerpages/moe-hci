@@ -35,15 +35,3 @@ brimming with talent.</p>
 emotion behind their art. We hope that such platforms will continue to
 inspire more students to express themselves through music and other art
 forms.</p>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
