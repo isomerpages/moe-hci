@@ -19,8 +19,8 @@ platforms.
 explore our programmes, culture, and student experiences.
 <br>
 <br>For more information about the school and our unique offerings, head to
-our official website at <a href="https://www.openhouse.hci.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.hci.edu.sg/</a>, where
-you’ll also find a list of <a href="https://ask.gov.sg/hci" rel="noopener nofollow" target="_blank">FAQs</a><strong> </strong>to
+our official website at <a href="https://www.hci.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.hci.edu.sg/</a>, where you’ll
+also find a list of <a href="https://ask.gov.sg/hci" rel="noopener nofollow" target="_blank">FAQs</a><strong> </strong>to
 help answer your questions.
 <br>
 <br>We look forward to welcoming you to the Hwa Chong family in the future!</p>
