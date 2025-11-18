@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: center
-      url: https://www.hci.edu.sg/scam-advisory/
+      url: https://hci.edu.sg/psle/
       button: click here for more info
   - infobar:
       title: ADMISSION & STUDIES
