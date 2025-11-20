@@ -277,7 +277,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 <p>Dec-26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Nov 2025</p>
+<p>01 Nov 2026</p>
 </td>
 </tr>
 <tr>
@@ -359,8 +359,8 @@ to support our students.</p>
 <br>- For Singaporean Citizens to fund overseas study trips and enrichment
 programmes</p>
 <p>Students who require financial assistance at any point of time can approach
-either their Form teachers or Head of Consortium for advice on the application
-for the above funds.</p>
+either their teacher-in-charge for advice on the application for the above
+funds.</p>
 <p>4 . <strong>Trip for Internationalization Experience (TIE)</strong> 
 <br>&nbsp;- For Singapore Citizens, the TIE provides a subsidy for overseas
 learning journeys to Asia with a focus on ASEAN countries, school immersion
@@ -536,13 +536,13 @@ via DSA and/or ESIS recipients&nbsp;</p>
 <br>
 <br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
-<br>&nbsp;Non-MOE Scholar: $33.00 to be funded by MOE’s School Based Financial
-Assistance Scheme, no fee payable this year.&nbsp;
+<br>Non-MOE Scholar: $33.00 to be funded by MOE School-based Financial Assistance
+Scheme, no fee payable for the year.&nbsp;
 <br>
 <br><u>Secondary level</u> 
 <br>MOE Scholar: $0.00
-<br>Non-MOE Scholar: $25.00 to be funded by MOE’s School Based Financial Assistance
-Scheme, no fee payable this year.&nbsp;
+<br>Non-MOE Scholar: $25.00 to be funded by MOE School-based Financial Assistance
+Scheme, no fee payable for the year.&nbsp;&nbsp;
 <br>
 <br>* UPLIFT Scholarship^ of $1,200 cash award per annum for students admitted
 via DSA and/or ESIS recipients</p>
@@ -566,7 +566,7 @@ via DSA and/or ESIS recipients</p>
 <br>
 <br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
-<br>&nbsp;Non-MOE Scholar: $49.50
+<br>Non-MOE Scholar: $49.50
 <br>
 <br><u>Secondary level</u> 
 <br>MOE Scholar: $0.00
@@ -613,7 +613,7 @@ via DSA and/or ESIS recipients</p>
 </tr>
 </tbody>
 </table>
-<p><strong>^For Uplift Scholarship, No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
+<p><strong>^For Uplift Scholarship, no separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
 <p><strong>Please click on this link: </strong><a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>  <strong>to apply for 2026 MOE Independent School Bursary.</strong>
 </p>
