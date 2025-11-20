@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>JC1 to JC 2</strong>
+<p><strong>JC 1 to JC 2</strong>
 </p>
 </td>
 </tr>
