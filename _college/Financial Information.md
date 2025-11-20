@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h5>School Fees Structure</h5>
 <p><strong><u>School fee rates</u></strong> 
-<br><strong>Year 2025 Monthly School Fees</strong>
+<br><strong>Year 2026 Monthly School Fees</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>JC1 to JC 2</strong>
+<p><strong>JC 1 to JC 2</strong>
 </p>
 </td>
 </tr>
@@ -69,13 +69,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$920</p>
+<p>$1,030</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$970</p>
+<p>$1,030</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,060</p>
+<p>$1,130</p>
 </td>
 </tr>
 <tr>
@@ -84,13 +84,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,360</p>
+<p>$1,500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,430</p>
+<p>$1,500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,660</p>
+<p>$1,800</p>
 </td>
 </tr>
 <tr>
@@ -99,13 +99,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,370</p>
+<p>$2,600</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,430</p>
+<p>$2,600</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,800</p>
+<p>$2,950</p>
 </td>
 </tr>
 </tbody>
@@ -163,23 +163,23 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan-Feb-25</p>
+<p>Jan-Feb-26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Mar 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mar-Apr-25</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 Apr 2025</p>
+<p>30 Mar 2026</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May till Sep-25</p>
+<p>Mar-Apr-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 Apr 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May till Sep-26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15th day of each month or the next working day if the 15th
@@ -188,26 +188,26 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oct-25</p>
+<p>Oct-26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Oct 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov-25</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Oct 2025</p>
+<p>01 Oct 2026</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dec-25</p>
+<p>Nov-26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>03 Nov 2025</p>
+<p>15 Oct 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dec-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02 Nov 2026</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan till Sep-25</p>
+<p>Jan till Sep-26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15th day of each month or the next working day if the 15th
@@ -258,26 +258,26 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oct-25</p>
+<p>Oct-26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Oct 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov-25</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Oct 2025</p>
+<p>01 Oct 2026</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dec-25</p>
+<p>Nov-26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>03 Nov 2025</p>
+<p>15 Oct 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dec-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02 Nov 2026</p>
 </td>
 </tr>
 <tr>
@@ -359,8 +359,8 @@ to support our students.</p>
 <br>- For Singaporean Citizens to fund overseas study trips and enrichment
 programmes</p>
 <p>Students who require financial assistance at any point of time can approach
-either their Form teachers or Head of Consortium for advice on the application
-for the above funds.</p>
+either their teacher-in-charge for advice on the application for the above
+funds.</p>
 <p>4 . <strong>Trip for Internationalization Experience (TIE)</strong> 
 <br>&nbsp;- For Singapore Citizens, the TIE provides a subsidy for overseas
 learning journeys to Asia with a focus on ASEAN countries, school immersion
@@ -435,10 +435,10 @@ Fresh applications will have to be submitted for each school year.</p>
 in the month the application is approved. There will be no backdating of
 the effective month.</p>
 <p>Newly admitted students are to submit their ISB application latest by
-end Feb 2025 for ISB subsidy to take effect from Jan 2025.</p>
+end Feb 2026 for ISB subsidy to take effect from Jan 2026.</p>
 <p><strong>Income Criteria and Benefits</strong>
 </p>
-<p>The income limits and benefits for Year 2025are as shown in the tables
+<p>The income limits and benefits for Year 2026 are as shown in the table
 below:</p>
 <p>Income Criteria
 <br>(Meet one of the following criteria)</p>
@@ -470,7 +470,7 @@ below:</p>
 <br>
 <br>
 <br>
-<br>Not exceeding $3,000</p>
+<br>Not exceeding $4,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -479,19 +479,33 @@ below:</p>
 <br>
 <br>
 <br>
-<br>Not exceeding $750</p>
+<br>Not exceeding $1,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* 100%&nbsp;subsidy&nbsp;of&nbsp;school fees
-<br>* Free textbooks and&nbsp;school&nbsp;attire&nbsp;at Secondary&nbsp;level;&nbsp;Annual
-bursary&nbsp;of&nbsp;$1,200 at&nbsp;Pre-university&nbsp;level
-<br>* Transport&nbsp;Subsidy (for students taking public transport):&nbsp;$17
-per&nbsp;month&nbsp;from the month of&nbsp;approval, up to $204&nbsp;per
-annum,&nbsp;to be paid quarterly on end Apr, Jun, Sep and Dec.
-<br>* School meal subsidies for 10 meals per school week for Secondary level,
-to be paid quarterly on end Apr, Jun, Sep and Dec.
-<br>* UPLIFT Scholarship^ of $1,000 cash award per annum for students admitted
-via DSA and/or ESIS recipients</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>100% subsidy of school fees</p>
+</li>
+<li>
+<p>Free textbooks and uniforms for secondary level</p>
+</li>
+<li>
+<p>Annual bursary of $1,600 for pre-university level</p>
+</li>
+<li>
+<p>Transport Subsidy (for students taking public transport): $21 per month
+from the month of approval for secondary level, to be paid quarterly on
+end Apr, Jun, Sep and Dec.</p>
+</li>
+<li>
+<p>School meal subsidies for 10 meals per school week for secondary level,
+to be paid quarterly on end Apr, Jun, Sep and Dec.</p>
+</li>
+<li>
+<p>UPLIFT Scholarship^ of $1,200 cash award per annum for students admitted
+via DSA and/or ESIS recipients&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -504,7 +518,7 @@ via DSA and/or ESIS recipients</p>
 <br>
 <br>
 <br>
-<br>$3,001 - $4,400</p>
+<br>$4,001 - $5,500</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -515,22 +529,22 @@ via DSA and/or ESIS recipients</p>
 <br>
 <br>
 <br>
-<br>$751 - $1,100</p>
+<br>$1,001 - $1,375</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>* School fee rate per month:
 <br>
 <br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
-<br>&nbsp;Non-MOE Scholar: $33.00 to be funded by MOE’s School Based Financial
-Assistance Scheme, no fee payable this year.&nbsp;
+<br>Non-MOE Scholar: $33.00 to be funded by MOE School-based Financial Assistance
+Scheme, no fee payable for the year.&nbsp;
 <br>
 <br><u>Secondary level</u> 
 <br>MOE Scholar: $0.00
-<br>Non-MOE Scholar: $25.00 to be funded by MOE’s School Based Financial Assistance
-Scheme, no fee payable this year.&nbsp;
+<br>Non-MOE Scholar: $25.00 to be funded by MOE School-based Financial Assistance
+Scheme, no fee payable for the year.&nbsp;&nbsp;
 <br>
-<br>* UPLIFT Scholarship^ of $1,000 cash award per annum for students admitted
+<br>* UPLIFT Scholarship^ of $1,200 cash award per annum for students admitted
 via DSA and/or ESIS recipients</p>
 </td>
 </tr>
@@ -539,20 +553,20 @@ via DSA and/or ESIS recipients</p>
 <p>
 <br>
 <br>
-<br>$4,401 - $7,500</p>
+<br>$5,501 - $9,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
 <br>
-<br>$1,101 - $1,875</p>
+<br>$1,376 - $2,250</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>* School fee rate per month:
 <br>
 <br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
-<br>&nbsp;Non-MOE Scholar: $49.50
+<br>Non-MOE Scholar: $49.50
 <br>
 <br><u>Secondary level</u> 
 <br>MOE Scholar: $0.00
@@ -565,14 +579,14 @@ via DSA and/or ESIS recipients</p>
 <br>
 <br>
 <br>
-<br>$7,501 - $10,000</p>
+<br>$9,001 - $12,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
 <br>
 <br>
-<br>$1,876 - $2,500</p>
+<br>$2,251 - $3,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>* School fee rate per month:
@@ -599,13 +613,9 @@ via DSA and/or ESIS recipients</p>
 </tr>
 </tbody>
 </table>
-<p><strong>^ No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
+<p><strong>^For Uplift Scholarship, no separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
-<p><strong>To download the 2025 ISB Application Form click</strong>  <strong><a href="/files/MOE_ISB_Application_Form_2025_JC.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
-</p>
-<p><strong>Students need only satisfy either the monthly Gross Household Income (GHI) or the PCI criterion to qualify for ISB. More information can be found in the Annex I of the ISB Application Form.</strong>
-</p>
-<p><strong>Completed ISB Application Form, together with required supporting documents are to be submitted to High School or College Reception Office.</strong>
+<p><strong>Please click on this link: </strong><a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>  <strong>to apply for 2026 MOE Independent School Bursary.</strong>
 </p>
 <h5><strong>Student Insurance Matter</strong></h5>
 <p><strong>&nbsp;(I) MOE GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</strong>
