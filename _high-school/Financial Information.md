@@ -547,8 +547,8 @@ via DSA and/or ESIS recipients&nbsp;</p>
 <br>
 <br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
-<br>&nbsp;Non-MOE Scholar: $33.00 to be funded by MOE’s School Based Financial
-Assistance Scheme, no fee payable this year.&nbsp;
+<br>Non-MOE Scholar: $33.00 to be funded by MOE’s School Based Financial Assistance
+Scheme, no fee payable this year.&nbsp;
 <br>
 <br><u>Secondary level</u> 
 <br>MOE Scholar: $0.00
@@ -577,7 +577,7 @@ via DSA and/or ESIS recipients</p>
 <br>
 <br><u>Pre-university level</u> 
 <br>MOE Scholar: $0.00
-<br>&nbsp;Non-MOE Scholar: $49.50
+<br>Non-MOE Scholar: $49.50
 <br>
 <br><u>Secondary level</u> 
 <br>MOE Scholar: $0.00
@@ -624,7 +624,7 @@ via DSA and/or ESIS recipients</p>
 </tr>
 </tbody>
 </table>
-<p><strong>^For Uplift Scholarship, No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
+<p><strong>^For Uplift Scholarship, no separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
 <p><strong>Please click on this link: </strong><a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>  <strong>to apply for 2026 MOE Independent School Bursary.</strong>
 </p>
