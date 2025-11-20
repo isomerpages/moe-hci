@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>JC1 to JC 2</strong>
+<p><strong>JC 1 to JC 2</strong>
 </p>
 </td>
 </tr>
@@ -277,7 +277,7 @@ on a weekend or Public Holiday, unless otherwise advised.</p>
 <p>Dec-26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Nov 2026</p>
+<p>02 Nov 2026</p>
 </td>
 </tr>
 <tr>
