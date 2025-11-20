@@ -615,7 +615,7 @@ via DSA and/or ESIS recipients</p>
 </table>
 <p><strong>^For Uplift Scholarship, No separate application is required; please refer to</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE’s website</a></strong>&nbsp;<strong>for more details.</strong>
 </p>
-<p><strong>Please click on this link: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>  <strong>to apply for 2026 MOE Independent School Bursary.</strong>
+<p><strong>Please click on this link: </strong><a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>  <strong>to apply for 2026 MOE Independent School Bursary.</strong>
 </p>
 <h5><strong>Student Insurance Matter</strong></h5>
 <p><strong>&nbsp;(I) MOE GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</strong>
