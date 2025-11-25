@@ -10,8 +10,9 @@ variant: tiptap
 <p>A historic and ambitious collaboration between Weyoung and Studio Ardent
 has culminated in two music video projects featuring originally written,
 recorded, and produced Chinese songs.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/College/SA1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/College/1.png">
 </div>
 <p>Over nine months, students from Weyoung self-learnt the complexities of
 music arrangement, studio recording, mixing, and mastering through YouTube.</p>
