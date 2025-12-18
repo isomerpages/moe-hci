@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: center
-      url: sec-one-registration-2026/
+      url: /sec-one-registration-2026/
       button: Click here for more information
   - infobar:
       title: ADMISSION & STUDIES
