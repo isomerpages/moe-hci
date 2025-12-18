@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: center
-      url: https://www.hci.edu.sg/psle/
+      url: https://hci.edu.sg/sec-one-registration-2026/
       button: Click here for more information
   - infobar:
       title: ADMISSION & STUDIES
