@@ -4,14 +4,13 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: Congratulations to all Primary 6 students on completing your
-  primary school journey!
+notification: Welcome, Incoming Sec 1 Students (HCI Class of 2031)!
 sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: center
       url: https://www.hci.edu.sg/psle/
-      button: click here for more info
+      button: Click here for more information
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
