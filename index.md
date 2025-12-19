@@ -4,13 +4,13 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: Welcome, Incoming Sec 1 Students (HCI Class of 2031)!
+notification: Welcome, incoming Sec 1 Students (HCI Class of 2031)!
 sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: center
       url: /sec-one-registration-2026/
-      button: Click here for more information
+      button: Click here for info on Sec 1 registration and appeals
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
