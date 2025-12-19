@@ -46,8 +46,10 @@ at the following link: <a href="https://go.gov.sg/sec1-onlineregistration2026" r
 <p>For students who wish to submit an appeal, please use the link below:
 <a href="https://go.gov.sg/sec1-onlineappeal2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1-onlineappeal2026</a>
 </p>
+<p></p>
 <p>Do note that students appealing to HCI <strong>must meet the school’s Cut-Off Points (COP)</strong>.
-Appeal offers will be subject to available vacancies.</p>
+For this intake, the COP for HCI is 6(M). All appeal offers are subject
+to the availability of vacancies.</p>
 <p><strong>We look forward to welcoming you on campus and supporting you as you join our vibrant Hwa Chong community.</strong>
 </p>
 <p>Hwa Chong Institution</p>
