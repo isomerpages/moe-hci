@@ -2,7 +2,7 @@
 title: High School
 permalink: /school-portals/student/high-sch/
 description: ""
-third_nav_title: Student
+third_nav_title: Students
 variant: tiptap
 ---
 <h5>High School</h5>

@@ -2,7 +2,7 @@
 title: General Sites
 permalink: /school-portals/student/general-sites/
 description: ""
-third_nav_title: Student
+third_nav_title: Students
 variant: markdown
 ---
 ##### General Sites
