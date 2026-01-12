@@ -66,7 +66,7 @@ For information about <b>Special Programmes offered in HCI</b>, click [here](/fi
 
 <b><u>Contact Us</u></b>
 
-For&nbsp;**general enquiries with regard to subjects and subject combinations for 2025 JC 1 (Yr 5)**, please email:<br>&nbsp;[enquiryC1@hci.edu.sg](mailto:enquiryC1@hci.edu.sg)
+For&nbsp;**general enquiries with regard to subjects and subject combinations for 2026 JC 1 (Yr 5)**, please email:<br>&nbsp;[enquiryC1@hci.edu.sg](mailto:enquiryC1@hci.edu.sg)
 
 For&nbsp;**enquiries with regard to Special Programmes**, please email:
 
