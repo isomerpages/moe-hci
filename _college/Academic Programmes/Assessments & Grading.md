@@ -10,7 +10,7 @@ third_nav_title: Academic Programmes
  
 Our school aligns our School-Based Assessment (SBA) structures in accordance with Ministry of Education’s emphasis on reforming assessment practices. This shift aims to reduce the excessive emphasis on examinations, creating a more conducive environment for the development of 21st Century Competencies (21CC).  The adjustments allow a more measured pace in teaching and learning, fostering a learning environment that nurtures students’ intrinsic motivation for learning.
 
-**The Straits Times (1 Mar 2023) - [Fourth content-based A-level subject to be dropped from university admission score](Fourth content-based A-level subject to be dropped from university admission score)**
+The Straits Times (1 Mar 2023) - [Fourth content-based A-level subject to be dropped from university admission score](https://www.straitstimes.com/singapore/politics/fourth-content-based-a-level-subject-to-be-dropped-from-university-admission-score)
 
 The weightings for Weighted Assessment (WA), Promotional Examination (Promo), and Preliminary Examination (Prelim) are calibrated to appropriately reflect the varying scopes and demands expected of students at different stages of their academic journey. 
 
@@ -31,7 +31,7 @@ The table below provides an overview of assessment weightings for JC1 and JC2:
 | **JC2 year**     | NA     | 100% (Prelim)     |
 
 
-#### **(B) Reporting**
+#### **Reporting**
 
 There are 2 main methods of reporting student progress to parents:
 
@@ -57,15 +57,3 @@ Note
 
 (ii) A pass in General Paper (A to E grade) is also equivalent to a H2 sub-pass (S-grade) 
 
-Students who repeat JC1 have to take 3H2 1H1 subject combinations.
-
-
-**Guidelines For Absence From School-Based Assessments (including Examinations)**  
-
-Students who miss any Weighted Assessments, JC1 Promotional Examination and JC2 Preliminary Examination must be covered by a **medical certificate (MC)** or be given exemption by Deputy Principal with valid reason(s). **Parent’s letter citing grounds for absence will not be accepted.** 
-
-Students who are absent from any weighted assessments with valid reasons *are required to attempt the paper as an exercise* and submit to teachers for feedback. The marks will not be counted towards the final grade.
-
-Students who are absent without a valid reason or did not comply with examination regulations will be given **zero** mark for that paper followed by disciplinary actions (if applicable).
-
-If a student is excused with a valid reason from JC1 Promotional Examination, the student may be required to sit for diagnostic assessment(s) on date(s) determined by the school to identify learning gaps and ascertain the readiness of the student for JC2.
