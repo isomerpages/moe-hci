@@ -9,6 +9,20 @@ third_nav_title: Academic Programmes
 
 The grades of H1 and H2 subjects are assigned an equivalent point according to the table below:
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+|  | **Weighted Assessment** | **Year End Exam** |
+| -------- | -------- | -------- |
+| **JC1 year**     | 30% (one in T2, one in T3)     | 70% (Promo)     |
+| **JC2 year**     | NA     | 100% (Prelim)     |
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
 
 |H1/H2 Grade|Equivalent Points|
 | -------- | -------- |
