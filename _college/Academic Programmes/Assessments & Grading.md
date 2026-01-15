@@ -5,131 +5,67 @@ variant: markdown
 description: ""
 third_nav_title: Academic Programmes
 ---
-#### **(A) Mean Subject Grade**
+#### **Assessment Structure & Promotional Criteria:**
 
-The grades of H1 and H2 subjects are assigned an equivalent point according to the table below:
+ 
+Our school aligns our School-Based Assessment (SBA) structures in accordance with Ministry of Education’s emphasis on reforming assessment practices. This shift aims to reduce the excessive emphasis on examinations, creating a more conducive environment for the development of 21st Century Competencies (21CC).  The adjustments allow a more measured pace in teaching and learning, fostering a learning environment that nurtures students’ intrinsic motivation for learning.
 
+**The Straits Times (1 Mar 2023) - [Fourth content-based A-level subject to be dropped from university admission score](Fourth content-based A-level subject to be dropped from university admission score)**
 
-|H1/H2 Grade|Equivalent Points|
-| -------- | -------- |
-|A|1|
-|B|2|
-|C|3|
-|D|4|
-|E|5|
-|S|6|
-|Ungraded|7|
+The weightings for Weighted Assessment (WA), Promotional Examination (Promo), and Preliminary Examination (Prelim) are calibrated to appropriately reflect the varying scopes and demands expected of students at different stages of their academic journey. 
 
-#### **(B) Computation of Points**
+Additionally, formative unweighted assessments will be strategically conducted to provide timely feedback, enabling students to address any learning gaps promptly.
 
-Mean Subject Grade&nbsp;is calculated based on the following formula:
+Guidelines related to the assessment weightings for both levels are listed below:
 
-[2 (Sum of all H2 grades) + (Sum of all H1 content-based subject grades)]  / [2(No. of H2 subjects) + (No. of H1 content subjects)]
+1. 	Weighting for each WA in JC1 ranges from a minimum of 10% to a maximum of 20%;
+2. 	Total weighting of all WA in JC1 is capped at 30%, excluding Promo;
+3. 	JC1 Promo Exam carries a weighting of 70%;
+4. 	The weighting for JC2 Prelim remains at 100%.
 
-**Examples**
+The table below provides an overview of assessment weightings for JC1 and JC2:
 
-Student A takes 3 H2 and 1 H1 subjects.
-
-
-||Mathematics (H2)|Physics (H2)|Chemistry (H2)|Economics (H1)| 
-| -------- | -------- | -------- | -------- | -------- |
-|Grade|A|B|C|D|
-|Points|1|2|3|4|
-
-MSG =&nbsp;[2(1+ 2+ 3) + 4]&nbsp;\ [2(3) + 1] = 2.29  
-
-Student B takes 4 H2 subjects.
-||Mathematics (H2)|Physics (H2)|Chemistry (H2)|Economics (H2)| 
-| -------- | -------- | -------- | -------- | -------- |
-|Grade|A|B|C|D|
-|Points|1|2|3|4|
-
-MSG = (1 + 2+ 3+ 4) / 4 = 2.5.
-
----
-
-Assessment &amp; Promotion Criteria
-
-#### **(C) Assessment Structures**
-
-The table below shows the weighting and period of assessment:
-
-_Assessment weighting of JC1_
-|Type of assessment|Continual Assessment|Block Test|Promotional Examination|
-| -------- | -------- | -------- | -------- |
-|Weighting|0%|25%|75%|
-|Timeframe|Ongoing|Term 3 Week 1|Term 4 Week 3-4|
-
-**Grading scheme**  
-Grade Scheme for H1 and H2 content- based subjects
-|Achievement Grades|Mark Range|Remarks|
+|  | **Weighted Assessment** | **Year End Exam** |
 | -------- | -------- | -------- |
-|A|70-100|Excellent|
-|B|60-69|Very Good|
-|C|55-59|Good|
-|D|50-54|Satisfactory|
-|E|45-49|Pass|
-|S|40-44|Sub-Pass|
-|U|0-39|Ungraded|
+| **JC1 year**     | 30% (one in T2, one in T3)     | 70% (Promo)     |
+| **JC2 year**     | NA     | 100% (Prelim)     |
 
-Grade Scheme for H3 subjects
-|Achievement Grades|Mark Range|Remarks|
-| -------- | -------- | -------- |
-|D|70-100|Distinction|
-|M|55-69|Merit|
-|P|45-54|Pass|
-|U|0-44|Ungraded|
 
-**Reporting**
+#### **(B) Reporting**
 
 There are 2 main methods of reporting student progress to parents:
 
-1\.  Through progress report in end March, mid year (both JC 1 and 2) and at the end of the school year (for JC1). Aformal transcript for JC2 students will be issued after the school's Preliminary examination in October. <br>
-2\.  Through Parent - Teacher meeting.
+1.	Through progress report in mid-year (both JC1/JC2) and at the end of the school year (for JC1/JC2). 
+2.	Through parent-teacher meetings.
 
-_Reporting Timetable_&nbsp;is as follows:
-|Month|Types of Report|
-| -------- | -------- |
-|April|Progress Report for JC1 and JC2|
-|End July|Mid Year Report for JC1 and JC2|
-|Oct|Prelim Report for JC2|
-|Early Nov|Overall Report for JC1|
+Students and parents can log into Intelligent School Portal (ISP) to check their WA/Promo/Prelim results.  The JC1 Overall Results and JC2 Prelim Exam Report for JC2 will be given to students on the last day of school.
 
-_April, July and Nov student reports are forwarded to parents/guardians by post but the Prelim Exam Report for JC2 will be handed to the student on the last day of school._
 
-**Absence from assessments**  
-All students who miss any major internal examinations must be covered by&nbsp;**a medical certificate (MC)**&nbsp;or be given&nbsp;**exemption by DP / Studies with valid reason(s) (EX/VR)**.
+#### **Promotional Criteria**
 
-**Exemption from Block Tests/ Examinations**
+The JC1 overall result is computed from the WA (30%) and Promotional Examination (70%). 
 
-The following reasons may be considered&nbsp;**valid**&nbsp;for exemption.
-|Month|Types of Report|
-| -------- | -------- |
-|(i) Competition and Performance (National &amp; International Level)|Teacher-in-charge must apply on behalf of students.&nbsp; The application form for exemption must be submitted to College Exams Committee for approval&nbsp;2 weeks&nbsp;before the commencement of Block Test or examinations.|
-|(ii) Medical Grounds|Students must submit their medical certificates (MC) to their Civics Tutors immediately upon return to college.|
-|(iii) Compassionate Grounds (e.g. death of NOK)|Students should inform their Civics Tutors as soon as possible and submit the relevant documents upon return to college.|
+Students will be promoted to JC2 if they meet the following minimum criteria based on the Overall JC1 result.
 
-Students who are absent from Block tests with valid reasons&nbsp;are required to attempt the paper as an exercise&nbsp;and submit to teachers for grading. The marks will not be counted towards the final grade.
+·       Two H2 passes (E-grade); OR
 
-Students who absent without a valid reason will be given&nbsp;**zero**&nbsp;mark for that paper followed by disciplinary actions.
+·       One H2 pass (E-grade) and two H2 sub-pass (S-grade)
 
-**Promotional Criteria for JC1**
+Note
 
-Students will be promoted to JC 2 if they meet the following&nbsp;_**minimum criteria**_&nbsp;based on the Overall JC1 results: <br>
-1\. Two H2 Pass (E-Grade) <br>
-2\. One H2 Pass (E-Grade) and two H2 sub-pass (S-Grade)
+(i) A H1 content subject pass (A to E grade) is equivalent to a H2 sub-pass (S-grade)
 
-_**Note:**_  
-_(i)&nbsp; A H1 content subject pass (A to E grade) is equivalent to a H2 sub-pass (S-grade)_
+(ii) A pass in General Paper (A to E grade) is also equivalent to a H2 sub-pass (S-grade) 
 
-_(ii) A General Paper pass (A to E grade) is also equivalent to a H2 sub-pass (S-grade)_
+Students who repeat JC1 have to take 3H2 1H1 subject combinations.
 
-**Criteria to continue taking the expanded curriculum**&nbsp;  
-(i.e. more than 3 H2 and 1 H1 subjects \[10 academic units\])
 
-Students are allowed to offer the expanded curriculum in JC 2 provided the following minimum criteria, based on the overall JC1 results, are met. Otherwise, they will have to abide by the corresponding actions recommended.
+**Guidelines For Absence From School-Based Assessments (including Examinations)**  
 
-|No|Curriculum taken in JC 1|Minimum Criteria|Action recommended if criteria are not met)|Recommended curriculum in JC 2| 
-| -------- | -------- | -------- | -------- | -------- |
-|1|4 H2 + 1 H1 (12 units)|Pass in three H2 subjects|Drop one non-contrasting subject.|4 H2 (11 units) or 3 H2 + 1 H1&nbsp;(10 units)|
-|2|4 H2&nbsp;(11 units)|Pass in three H2 subjects|Down-grade one H2 subject to H1|3 H2 + 1 H1&nbsp;(10 units)|
+Students who miss any Weighted Assessments, JC1 Promotional Examination and JC2 Preliminary Examination must be covered by a **medical certificate (MC)** or be given exemption by Deputy Principal with valid reason(s). **Parent’s letter citing grounds for absence will not be accepted.** 
+
+Students who are absent from any weighted assessments with valid reasons *are required to attempt the paper as an exercise* and submit to teachers for feedback. The marks will not be counted towards the final grade.
+
+Students who are absent without a valid reason or did not comply with examination regulations will be given **zero** mark for that paper followed by disciplinary actions (if applicable).
+
+If a student is excused with a valid reason from JC1 Promotional Examination, the student may be required to sit for diagnostic assessment(s) on date(s) determined by the school to identify learning gaps and ascertain the readiness of the student for JC2.
