@@ -10,7 +10,7 @@ third_nav_title: Academic Programmes
  
 Our school aligns our School-Based Assessment (SBA) structures in accordance with Ministry of Education’s emphasis on reforming assessment practices. This shift aims to reduce the excessive emphasis on examinations, creating a more conducive environment for the development of 21st Century Competencies (21CC).  The adjustments allow a more measured pace in teaching and learning, fostering a learning environment that nurtures students’ intrinsic motivation for learning.
 
-The Straits Times (1 Mar 2023) - [Fourth content-based A-level subject to be dropped from university admission score](Fourth content-based A-level subject to be dropped from university admission score)
+**The Straits Times (1 Mar 2023) - [Fourth content-based A-level subject to be dropped from university admission score](Fourth content-based A-level subject to be dropped from university admission score)**
 
 The weightings for Weighted Assessment (WA), Promotional Examination (Promo), and Preliminary Examination (Prelim) are calibrated to appropriately reflect the varying scopes and demands expected of students at different stages of their academic journey. 
 
