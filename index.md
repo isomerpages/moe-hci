@@ -10,7 +10,7 @@ sections:
       background: /images/homepage_banner_v3.gif
       variant: center
       button: Click here for the Orientation schedule
-      url: /college/2026_C1_Orientation_Schedule.pdf
+      url: /2026-c1-orientation-schedule/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
