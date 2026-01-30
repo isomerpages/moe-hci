@@ -4,7 +4,7 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: ""
+notification: "To our C1 students:  A warm welcome to Hwa Chong family!"
 sections:
   - hero:
       background: /images/homepage_banner_v3.gif
