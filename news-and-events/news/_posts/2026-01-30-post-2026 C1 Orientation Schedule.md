@@ -11,6 +11,6 @@ variant: tiptap
 <p>A warm welcome to Hwa Chong Family</p>
 <p>Please check your orientation schedule to prepare for an enriching start
 to your journey with us!</p>
-<p>Orientation Schedule : <a href="/files/College/2026_C1_Orientation_Schedule__2_February_2026.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+<p>Orientation Schedule : <a href="/files/College/2026_C1_Orientation_Schedule__2_February_2026_Latest.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
-<p>(updated 02 Feb 2026)</p>
+<p>(updated 02 Feb 2026, 11am)</p>
