@@ -13,7 +13,7 @@ Chong Institution through the JAE Posting Exercise.</p>
 another institution are not eligible for this exercise.</p>
 <p>To be considered for the JAE Appeal, students must meet the Net Aggregate
 L1R5 Cut-off Point for this year.</p>
-<p>Cut-off Point:&nbsp;<strong>3</strong>&nbsp;(Science);&nbsp;<strong>5</strong>&nbsp;(Arts)</p>
+<p>Cut-off Point:&nbsp;<strong><u>3</u></strong><u>&nbsp;</u>(Science);&nbsp;<strong><u>5</u></strong>&nbsp;(Arts)</p>
 <p>All applications will be given due consideration, subject to the availability
 of vacancies and the school’s admission criteria.</p>
 <p></p>
