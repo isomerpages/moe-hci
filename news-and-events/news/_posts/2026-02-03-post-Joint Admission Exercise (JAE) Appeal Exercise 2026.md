@@ -13,7 +13,7 @@ Chong Institution through the JAE Posting Exercise.</p>
 another institution are not eligible for this exercise.</p>
 <p>To be considered for the JAE Appeal, students must meet the Net Aggregate
 L1R5 Cut-off Point for this year.</p>
-<p>Cut-off Point:&nbsp;<strong>3</strong>&nbsp;(Science);&nbsp;<strong>5</strong>&nbsp;(Arts)</p>
+<p>Cut-off Point:&nbsp;<strong><u>3</u></strong><u>&nbsp;</u>(Science);&nbsp;<strong><u>5</u></strong>&nbsp;(Arts)</p>
 <p>All applications will be given due consideration, subject to the availability
 of vacancies and the school’s admission criteria.</p>
 <p></p>
@@ -38,8 +38,7 @@ of NRIC&gt;. Example: AndrewTan_234B</p>
 <p>We may contact you if further verification is required.</p>
 <h4><strong>Outcomes of Appeal</strong></h4>
 <p>Successful applicants will be informed by call or SMS by&nbsp;<strong>6 February (Friday) evening</strong>.
-Successful applicants who accept the offer must report to the College Reception
-on&nbsp;<strong>in accordance to the instructions given when receiving the offer letter.</strong>
+Successful applicants who accept the offer must report to the College Reception&nbsp;<strong>in accordance to the instructions given when receiving the offer letter.</strong>
 </p>
 <p>For enquiries on admission matters, kindly contact College Reception @
 Tel: 64683956 during office hours (8 am to 5 pm) or email:&nbsp;<a href="mailto:admin@hci.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin@hci.edu.sg</a>
