@@ -38,8 +38,7 @@ of NRIC&gt;. Example: AndrewTan_234B</p>
 <p>We may contact you if further verification is required.</p>
 <h4><strong>Outcomes of Appeal</strong></h4>
 <p>Successful applicants will be informed by call or SMS by&nbsp;<strong>6 February (Friday) evening</strong>.
-Successful applicants who accept the offer must report to the College Reception
-on&nbsp;<strong>in accordance to the instructions given when receiving the offer letter.</strong>
+Successful applicants who accept the offer must report to the College Reception&nbsp;<strong>in accordance to the instructions given when receiving the offer letter.</strong>
 </p>
 <p>For enquiries on admission matters, kindly contact College Reception @
 Tel: 64683956 during office hours (8 am to 5 pm) or email:&nbsp;<a href="mailto:admin@hci.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin@hci.edu.sg</a>
