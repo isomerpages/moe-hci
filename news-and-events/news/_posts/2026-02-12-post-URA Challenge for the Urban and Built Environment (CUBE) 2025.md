@@ -28,6 +28,9 @@ Outstanding Award!</p>
 <p>Eion Chan Jen Sen (25S6K)</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/2.jpg">
+</div>
 </li>
 </ul>
 <p>Organised by the Urban Redevelopment Authority, this five-day workshop
@@ -41,11 +44,39 @@ and real-world constraints along the way.</p>
 Timah Canal and shifting the vehicular traffic along Bukit Timah Road underground,
 allowing nature to be better integrated into daily lives of local residents
 and users of the space while reducing the urban heat island effect.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/4.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/5.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/6.jpg">
+</div>
 <p>Their ability to interweave ecological sensitivity with bold urban redesign
 reflects the very best of Hwa Chong’s problem-solving spirit.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/3.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/8.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/9.jpg">
+</div>
 <p>
 <br>
 </p>
