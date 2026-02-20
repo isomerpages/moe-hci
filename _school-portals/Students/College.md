@@ -11,7 +11,7 @@ variant: markdown
 **[Intelligent School Portal (College)](https://isp.hci.edu.sg/)**<br>
 **[HCI Sports for All Website](http://www.facebook.com/HCISports4All)**<br>
 **[HCI OVIA &amp; OE](https://sites.google.com/hci.edu.sg/oeocip)**<br>
-**[HCI VIA](https://cipcouncil2.wixstudio.com/mysite)** <br>
+**[HCI VIA](https://cipcouncil2.wixstudio.com/viacouncil)** <br>
 **[HCunite](http://hcunite.com/)**<br>
 **[HCI National Education](https://sites.google.com/student.hci.edu.sg/hcinationaleducation/)** <br>
 **[HCI Counselling &amp; Well-being Unit](https://sites.google.com/hci.edu.sg/hciwell-beingunit/home)** <br>
