@@ -4,13 +4,11 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: "To our C1 students:  A warm welcome to Hwa Chong family!"
+notification: ""
 sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: center
-      button: Click here for the Orientation schedule
-      url: /2026-c1-orientation-schedule/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
