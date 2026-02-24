@@ -22,8 +22,14 @@ SYPT:
 Luo Zihan (25S66), Lim Kai Yi (26S6H)</p>
 <p><strong>Silver Award<br>HCI Team 2: </strong>&nbsp;Jethro Chai (25S6H),
 Kong Qiyun (25S6N), Kayden Tan (26S62)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/College/Physicist_1.png">
+</div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/College/Physicist_2.png">
+</div>
 <p>Special appreciation goes out to Mr Peter Bruce Gale and Mr Ang Yong Qin
 for their steadfast guidance and mentorship for the students. Their dedication
 and commitment as teacher mentors for SYPT were instrumental in nurturing
