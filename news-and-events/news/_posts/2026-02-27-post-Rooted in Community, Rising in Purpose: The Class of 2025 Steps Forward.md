@@ -235,7 +235,7 @@ discipline, resilience and competitive spirit.</p>
 approaching every challenge with drive and determination. Energetic and
 encouraging, she uplifts those around her and exemplifies team spirit,
 perseverance and a deep commitment to excellence.</p>
-<p><em>“To those who made me feel seen as an individual and not just another student in the classroom -- a big thank you to my Civics Tutor Mdm Irene Kng and subject tutors Mr David Chong, Miss Judy Tan, Ms Jaslyn Kan and Mr Ang Wei Cang.”</em>
+<p><em>“To those who made me feel seen as an individual and not just another student in the classroom -- a big thank you to my Civics Tutor Mdm Irene Kng and subject tutors Mr David Chong, Ms Judy Tan, Ms Jaslyn Kan and Mr Ang Wei Cang.”</em>
 </p>
 <p><strong>POK YAN KAI, BRANDON (24S68)</strong>
 </p>
