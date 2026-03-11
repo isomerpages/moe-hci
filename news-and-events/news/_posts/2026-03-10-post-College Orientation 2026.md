@@ -68,7 +68,7 @@ home!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/Orientation 2026/O111.jpg">
 </div>
-<p>'</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/Orientation 2026/O101.jpg">
 </div>
