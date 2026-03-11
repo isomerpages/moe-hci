@@ -11,7 +11,7 @@ variant: tiptap
 will call home for the next 2 years with an electrifying start during Orientation
 2026!&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/Orientation 2026/O121.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/Orientation 2026/OO1.jpg">
 </div>
 <p>Orientation kicked off with a warm welcome address by our Principal and
 an introduction to faculty. Students then explored the campus through a
