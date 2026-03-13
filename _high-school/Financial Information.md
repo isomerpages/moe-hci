@@ -667,7 +667,7 @@ hostel, to (or from) either the school’s premises or the place where an
 activity covered by the GPA Insurance will be conducted, including any
 reasonable deviations. For the avoidance of doubt, the student’s place
 of residence may include a place that is not in Singapore</p>
-<p>Please refer to the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>for
+<p>Please refer to the <a href="/files/Student_GPA_Factsheet_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>for
 details of Benefits/Sum Insured and other important information.</p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
 Insurance Plan for students can also be found on Income’s website at&nbsp;
