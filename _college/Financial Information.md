@@ -652,7 +652,7 @@ via DSA and/or ESIS recipients</p>
 </p>
 <p><strong>(c) Commuting from (or to) his or her place of residence, including a hostel, to (or from) either the school’s premises or the place where an activity covered by the GPA Insurance will be conducted, including any reasonable deviations. For the avoidance of doubt, the student’s place of residence may include a place that is not in Singapore</strong>
 </p>
-<p><strong>Please refer to the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>for details of Benefits/Sum Insured and other important information.</strong>
+<p><strong>Please refer to the <a href="/files/Student_GPA_Factsheet_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a><u> </u>for details of Benefits/Sum Insured and other important information.</strong>
 </p>
 <p><strong>Information on claims, FAQs and other details pertaining to the MOE GPA Insurance Plan for students can also be found on Income’s website at&nbsp; <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a></strong>
 </p>
