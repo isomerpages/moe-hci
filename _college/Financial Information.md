@@ -670,7 +670,7 @@ via DSA and/or ESIS recipients</p>
 </p>
 <p><strong>All claims must be submitted online by parents/guardians as soon as possible subjected to a cap of 365 days from the date of accident, via the Income’s GPA Claim Portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a></strong>
 </p>
-<p><strong>Please submit all required documents as listed in the <a href="/files/Student_GPA_Factsheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a></strong>
+<p><strong>Please submit all required documents as listed in the <a href="/files/Student_GPA_Factsheet_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GPA Factsheet</u></a></strong>
 </p>
 <p><strong>Parents/guardians can also access the above Claim Portal to follow up on claim submission and make enquiry on claim status.</strong>
 </p>
