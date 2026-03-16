@@ -19,7 +19,7 @@ Urban Redevelopment Authority Singapore, National Volunteer &amp; Philanthropy
 Centre, National Heritage Board Singapore, and Ministry of Sustainability
 and the Environment Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/PW/PW1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/PW/PWone.jpg">
 </div>
 <p>Shi Qingyue, Jazel Neo Zi-Min, Liu Lexi, and Chew Ee Khai from 25S6K tackled
 the National Volunteer &amp; Philanthropy Centre’s problem statement: “Building
