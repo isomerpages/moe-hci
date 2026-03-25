@@ -7,11 +7,14 @@ variant: markdown
 ---
 ##### College: The Faculty System
 
-Under the Faculty system, students are divided across different streams and subject combinations. This heterogeneous arrangement encourages students to interact and appreciate one other's differences as well as similarities.
+At the heart of the college experience is the Faculty System, a structure designed to bring together students from diverse academic pathways into vibrant, supportive communities. By learning alongside peers with different strengths, interests, and perspectives, students develop a deeper appreciation of both individuality and shared purpose.
 
-Each faculty is led by a team comprising a Senior Consultant (SC),&nbsp;Education Consultant (EC)/ and CCA Teacher. Working very closely with the Civics and Subject Tutors, they oversee the scholastic performance and emotional well-being of students in their respective faculties. The work of the faculties is coordinated and supervised by the PCs/Faculty and Director/Well-Being.
+Each faculty is guided by a dedicated team of teachers working closely with Civics and Subject Tutors. Together, they journey with students through their academic and personal growth, providing consistent care, guidance, and encouragement. The work of the faculties is coordinated by the Year Heads and the Director of Well-Being, ensuring a coherent and student-centred approach across the college.
 
-The faculty personnel take on multiple roles. In dealing with the affective aspects of a student's education, he/she takes on the role of a counsellor, disciplinarian and mentor. The SC/Faculty or EC/Faculty is usually the first person the Civics or Subject Tutor turns to when handling a delicate case. Very often, whenever they arise, such cases are a complex mix of emotional and disciplinary issues, each feeding on each other. The SC or EC is empowered to make decisions on-site to intervene in a timely manner to the benefit of our students. Such a decentralised Faculty system of managing students is more efficient in responding to the individual needs of the students. Programmes can also be more flexibly customised to meet the needs of the students within the respective faculties.
+More than an organisational structure, the Faculty System reflects the college’s commitment to holistic education. Faculty staff serve not only as educators, but as mentors who take a genuine interest in each student’s development. Through close relationships and attentive support, they help students navigate challenges, build resilience, and grow in confidence.
+
+This decentralised system allows the college to respond meaningfully to the needs of every student. It enables timely support, thoughtful guidance, and programmes that are tailored to each faculty community. In doing so, the Faculty System creates an environment where every student is known, supported, and empowered to thrive.
+
 
 ##### Our Faculties:
 
@@ -34,4 +37,3 @@ The Faculty Committee provides a highly enriching experience for its members. It
 The Faculty Committees collate and communicate feedback on student morale, problems faced, suggestions for improvement and overall well-being to the faculty teachers-in-charge. Feedback channels and sharing sessions are instituted. Meetings as a faculty of students and teachers are held termly to define strategic direction, ways to strengthen collegiality, and areas for collaboration be in within or across faculties.
 
 ![](/images/College_Faculties_O1.JPG)
-
