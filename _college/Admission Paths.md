@@ -46,7 +46,7 @@ For more information, please visit the MOE website at&nbsp;[https://www.moe.gov.
 
 **Online Appeal Application**
 
-Click [Here](https://go.gov.sg/hcijaeappeal) to begin your application
+Click to begin your application
 
 ##### Returning Singaporeans
 
