@@ -44,7 +44,7 @@ Singapore 269734
 
 Tel: 6468 3955<br>
 Fax: 6769 5857<br>
-Email: [admin@hci.edu.sg](mailto:admin@hci.edu.sg)
+Email: <br>[admin@hci.edu.sg](mailto:admin@hci.edu.sg)  for general queries<br> [schoolleaders@hci.edu.sg](mailto:schoolleaders@hci.edu.sg)  to reach our school leaders
 
 Link: [Virtual Map](https://go.gov.sg/hci-vt)
 ![](/images/HCI_Map.png)
