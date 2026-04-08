@@ -29,37 +29,28 @@ financial assistance schemes, scholarships, and merit-based awards to ensure
 that every student has the opportunity to thrive.</p>
 <p><strong>The selection criteria and process for the talent areas will be updated from early-May. </strong>For
 more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
-<p><strong>DSA Categories</strong>
+<p></p>
+<p><strong> DSA Categories</strong>
 </p>
 <p>We welcome students who demonstrate deep interest, aptitude and talents
 in the following domains:</p>
+<p></p>
 <p><strong><u>Language and Humanities</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Chinese Language</strong>: For students with a strong foundation
 in Chinese and a keen interest in deepening their proficiency in the language
-and appreciation of its culture.
-<br>
-<br>
-</p>
+and appreciation of its culture.</p>
 <p><strong>Humanities</strong>: For students who show exceptional curiosity
 and aptitude in areas such as history, geography, current affairs, and
 interdisciplinary inquiry within the humanities.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
+<p></p>
 <p><strong><u>Science, Technology, Engineering and Mathematics (STEM)</u></strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Infocomm (Programming and/or Robotics)</strong>: For students
 with experience or interest in computational thinking, coding, algorithmic
-problem-solving, or robotics applications.
-<br>
-<br>
-</p>
+problem-solving, or robotics applications.</p>
 <p><strong>Mathematics</strong>: For students who demonstrate strong logical
 reasoning and mathematical problem-solving skills.
 <br>
