@@ -52,10 +52,7 @@ interdisciplinary inquiry within the humanities.</p>
 with experience or interest in computational thinking, coding, algorithmic
 problem-solving, or robotics applications.</p>
 <p><strong>Mathematics</strong>: For students who demonstrate strong logical
-reasoning and mathematical problem-solving skills.
-<br>
-<br>
-</p>
+reasoning and mathematical problem-solving skills.</p>
 <p><strong>Science</strong>: For students with a keen interest in scientific
 inquiry and experimentation across disciplines such as Physics, Chemistry,
 and Biology.</p>
@@ -65,38 +62,28 @@ and Biology.</p>
 <p>We welcome students with artistic talent who demonstrate one or more of
 the following qualities:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong interest in visual arts and creative
-expression, supported by fundamental technical skills and aesthetic sensitivity
-<br>
-<br>
-</p>
+expression, supported by fundamental technical skills and aesthetic sensitivity</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interest in exploring diverse artistic
 media, techniques, and creative processes, including both traditional and
-contemporary art forms
-<br>
-<br>
-</p>
+contemporary art forms</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Motivation to develop as an artist, scholar,
 advocate, and leader in the arts community through sustained practice,
 reflection, and engagement</p>
+<p></p>
 <p><strong><u>Bilingualism</u></strong>
 </p>
 <p>We welcome students with bilingual strength who demonstrate one or more
 of the following attributes:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Passion and creativity in learning and
 using both the Chinese and English languages, with a deep appreciation
-for the cultures, values, and heritage of both the East and the West
-<br>
-<br>
-</p>
+for the cultures, values, and heritage of both the East and the West</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proficiency in both written and spoken
 Chinese and English, with the ability to engage thoughtfully across cultural
-contexts
-<br>
-<br>
-</p>
+contexts</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Curiosity and openness to engage in interdisciplinary
 learning and contribute to the bilingual and bicultural environment at
 HCI</p>
+<p></p>
 <p><strong><u>Entrepreneurship</u></strong>
 </p>
 <p>We welcome students with an enterprising mindset - those who are passionate,
@@ -104,52 +91,37 @@ resourceful, and driven to make a meaningful difference. Students who demonstrat
 one or more of the following qualities are encouraged to apply:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Innovative Thinking: A curiosity to explore
 new ideas and challenge the status quo, especially in solving everyday
-problems
-<br>
-<br>
-</p>
+problems</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creative Problem-Solving: Enjoys identifying
 needs and opportunities, and is motivated to develop effective, out-of-the-box
-solutions
-<br>
-<br>
-</p>
+solutions</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Execution and Initiative: Shows passion
 and perseverance in turning ideas into impactful projects, whether through
 prototypes, campaigns, or ventures</p>
+<p></p>
 <p><strong><u>Leadership</u></strong>
 </p>
 <p>We welcome students with leadership potential who demonstrate one or more
 of the following qualities:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong sense of purpose and commitment
-to making a positive difference in the lives of others
-<br>
-<br>
-</p>
+to making a positive difference in the lives of others</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Active involvement and leadership in student
 organisations such as student councils, co-curricular activities (CCAs),
-or class committees
-<br>
-<br>
-</p>
+or class committees</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated ability to lead peers, inspire
 change, and contribute meaningfully to school life and the wider community</p>
+<p></p>
 <p><strong><u>Sports and Games</u></strong>
 </p>
 <p>We welcome student-athletes with passion, commitment, and strong achievements
 in sports. Students may demonstrate:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A high level of proficiency and dedication
 in their chosen sport or game
-<br>
-<br>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong track record of achievement at
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong track record of achievement at
 the zonal, national, or international levels
-<br>
-<br>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discipline, teamwork, and resilience in
+<br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discipline, teamwork, and resilience in
 balancing rigorous training with academic committments</p>
+<p></p>
 <p>We invite applications from students with talent and experience in the
 following sports and games:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Badminton</p>
