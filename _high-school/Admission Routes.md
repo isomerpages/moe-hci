@@ -30,7 +30,7 @@ that every student has the opportunity to thrive.</p>
 <p><strong>The selection criteria and process for the talent areas will be updated from early-May. </strong>For
 more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p></p>
-<p><strong> DSA Categories</strong>
+<p><strong>DSA Categories</strong>
 </p>
 <p>We welcome students who demonstrate deep interest, aptitude and talents
 in the following domains:</p>
