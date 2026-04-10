@@ -16,7 +16,8 @@ variant: markdown
   <p style="margin:0 0 26px;font-size:18px;line-height:1.15;text-align:justify;text-justify:inter-word;">Importantly, no Singaporean student will be denied a place at HCI due to financial circumstances. The school offers a comprehensive range of financial assistance schemes, scholarships, and merit-based awards to ensure that every student has the opportunity to thrive.</p>
 
   <p style="margin:0 0 20px;font-size:18px;line-height:1.15;text-align:justify;text-justify:inter-word;"><span style="font-weight:700;">The selection criteria and process for the talent areas will be updated from early-May.</span> For more information on DSA-Sec, please refer to the MOE website at <a style="color:#00f;text-decoration:underline;" href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a>.</p>
-
+<div></div>
+	
   <h2 style="margin:22px 0 26px;text-align:center;font-size:18px;line-height:1.2;font-weight:700;">DSA Categories</h2>
 
   <p style="margin:0 0 26px;font-size:18px;line-height:1.15;text-align:left;">We welcome students who demonstrate deep interest, aptitude and talents in the following domains:</p>
