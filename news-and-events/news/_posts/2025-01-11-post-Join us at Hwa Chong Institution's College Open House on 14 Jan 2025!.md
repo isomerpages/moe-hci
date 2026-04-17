@@ -21,5 +21,4 @@ in a vibrant community.</p>
 <p>Time: 12 - 4pm</p>
 <p>Location: Hwa Chong Institution</p>
 <p>Don't miss this chance to experience the Hwa Chong spirit in person!</p>
-<p>For more information on our open house, pls go to: <a href="https://hc-oh.com/" rel="noopener noreferrer nofollow" target="_blank">https://hc-oh.com/</a>
-</p>
+<p></p>
