@@ -72,7 +72,7 @@ variant: markdown
         <li style="margin-bottom: 5px;">Discipline, teamwork, and resilience in balancing rigorous training with academic committments</li>
     </ul>
     <p style="margin-bottom: 15px;">We invite applications from students with talent and experience in the following sports and games:</p>
-    <ul style="margin-bottom: 15px;  list-style-type: disc;">
+    <ul style="margin-bottom: 15px; padding-left: 40px; list-style-type: disc;">
         <li style="margin-bottom: 5px;">Badminton</li>
         <li style="margin-bottom: 5px;">Basketball</li>
         <li style="margin-bottom: 5px;">Canoeing</li>
@@ -88,7 +88,7 @@ variant: markdown
         <li style="margin-bottom: 5px;">Wushu</li>
     </ul>
     <h2 style="color: #000000; margin-top: 30px; margin-bottom: 15px; font-size: 20px; text-align: center;">Direct School Admissions Selection Process</h2>
-    <ul style="margin-bottom: 15px; padding-left: 40px; list-style-type: none;">
+    <ul style="margin-bottom: 15px;  list-style-type: none;text-align: left;">
         <li style="margin-bottom: 10px;">Applicants will be shortlisted based on available information from MOE and from applicants’ submitted information via the application process.</li>
         <li style="margin-bottom: 10px;">Applicants who do not have prior experience may also apply.The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</li>
         <li style="margin-bottom: 10px;">HCI will be conducting in-person selection for all DSA talent areas for 2026 DSA-Sec.Applicants who are successfully shortlisted will be informed between 23 July to 27 July and they will be required to attend an interview and/or selection tests on&nbsp;<b><u>1 Aug 2026.</u></b></li>
