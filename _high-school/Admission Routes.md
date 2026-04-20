@@ -88,13 +88,13 @@ variant: markdown
         <li>Wushu</li>
     </ul>
     <h2 style="margin-top: 30px;  font-size: 20px; text-align: center;">Direct School Admissions Selection Process</h2>
-    <ul style="padding-left: 40px; list-style-type: none;">
-        <li style="margin-bottom: 10px;">Applicants will be shortlisted based on available information from MOE and from applicants’ submitted information via the application process.</li>
-        <li style="margin-bottom: 10px;">Applicants who do not have prior experience may also apply.The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</li>
-        <li style="margin-bottom: 10px;">HCI will be conducting in-person selection for all DSA talent areas for 2026 DSA-Sec.Applicants who are successfully shortlisted will be informed between 23 July to 27 July and they will be required to attend an interview and/or selection tests on&nbsp;<b><u>1 Aug 2026.</u></b></li>
-        <li style="margin-bottom: 10px;">All applicants will receive their application outcomes between 24 Aug 2026 and&nbsp;28 Aug 2026.</li>
-        <li style="margin-bottom: 10px;">Due to the large number of applicants and the limited number of DSA places, meeting all the criteria does not guarantee that the student will be shortlisted for an interview or given an offer</li>
-        <li style="margin-bottom: 10px;">Please note that applicants should attend the in-person selection only if they are well.For students who are unwell during the selection period, re-scheduling the in-person selection will be done where possible.</li>
-        <li style="margin-bottom: 10px;">Please direct any queries about DSA to Hwa Chong Institution to <a style="color: #0000EE; text-decoration: underline;" href="mailto:dsa@hci.edu.sg">dsa@hci.edu.sg</a>.</li>
+    <ul style="list-style-type: none;">
+        <li>Applicants will be shortlisted based on available information from MOE and from applicants’ submitted information via the application process.</li>
+        <li>Applicants who do not have prior experience may also apply.The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</li>
+        <li>HCI will be conducting in-person selection for all DSA talent areas for 2026 DSA-Sec.Applicants who are successfully shortlisted will be informed between 23 July to 27 July and they will be required to attend an interview and/or selection tests on&nbsp;<b><u>1 Aug 2026.</u></b></li>
+        <li>All applicants will receive their application outcomes between 24 Aug 2026 and&nbsp;28 Aug 2026.</li>
+        <li>Due to the large number of applicants and the limited number of DSA places, meeting all the criteria does not guarantee that the student will be shortlisted for an interview or given an offer</li>
+        <li>Please note that applicants should attend the in-person selection only if they are well.For students who are unwell during the selection period, re-scheduling the in-person selection will be done where possible.</li>
+        <li>Please direct any queries about DSA to Hwa Chong Institution to <a style="color: #0000EE; text-decoration: underline;" href="mailto:dsa@hci.edu.sg">dsa@hci.edu.sg</a>.</li>
     </ul>        
 </div>
