@@ -17,7 +17,7 @@ variant: markdown
     <p style="margin-top: 5px;">The school offers a comprehensive range of financial assistance schemes, scholarships, and merit-based awards to ensure that every student has the opportunity to thrive.</p>
     <h2 style="margin-top: 30px; margin-top: 5px; font-size: 20px;text-align: center; font-weight: bold;">Direct School Admissions Schedule</h2>
     <p style="margin-top: 5px;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
-    <p style="margin-top: 5px;">The application is free-of-charge and will be open from&nbsp; <b><u>6 May 2026, 11 am</u></b>&nbsp; to&nbsp; <b><u></u>2 June 2026, 3 pm</b>&nbsp;.</p>
+    <p style="margin-top: 5px;">The application is free-of-charge and will be open from&nbsp; <b><u>6 May 2026, 11 am</u></b>&nbsp; to&nbsp; <b><u>2 June 2026, 4:30 pm</u></b>&nbsp;.</p>
     <p style="margin-top: 5px;">For more details, please refer to MOE website – <a style="color: #0000EE; text-decoration: underline;" href="https://www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a></p>
     <div style="text-align: center; margin: 30px 0;">
         <img style="max-width: 100%; height: auto; border: none;" alt="DSA 2026 Timeline" src="/images/DSA2026.png">
