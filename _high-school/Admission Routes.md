@@ -20,7 +20,7 @@ variant: markdown
     <p style="margin-bottom: 15px;">The application is free-of-charge and will be open from&nbsp; <b><u>6 May 2026, 11 am</u></b>&nbsp; to&nbsp; <b><u></u>2 June 2026, 3 pm</b>&nbsp;.</p>
     <p style="margin-bottom: 15px;">For more details, please refer to MOE website – <a style="color: #0000EE; text-decoration: underline;" href="https://www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a></p>
     <div style="text-align: center; margin: 30px 0;">
-        <img style="max-width: 100%; height: auto; border: none;" alt="DSA 2026 Timeline" src="dsa_timeline_image.png">
+        <img style="max-width: 100%; height: auto; border: none;" alt="DSA 2026 Timeline" src="/images/DSA2026.png">
     </div>
     <h2 style="color: #000000; margin-top: 30px; margin-bottom: 15px; font-size: 20px; text-decoration: underline;">DSA Categories</h2>
     <p style="margin-bottom: 15px;">We welcome students who demonstrate deep interest, aptitude and talents in the following domains:</p>
