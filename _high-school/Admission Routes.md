@@ -72,7 +72,7 @@ variant: markdown
         <li style="margin-bottom: 5px;">Discipline, teamwork, and resilience in balancing rigorous training with academic committments</li>
     </ul>
     <p style="margin-bottom: 15px;">We invite applications from students with talent and experience in the following sports and games:</p>
-    <ul style="margin-bottom: 15px; padding-left: 40px; list-style-type: disc;">
+    <ul style="margin-bottom: 15px; padding-left: 0px; list-style-type: disc;">
         <li style="margin-bottom: 5px;">Badminton</li>
         <li style="margin-bottom: 5px;">Basketball</li>
         <li style="margin-bottom: 5px;">Canoeing</li>
