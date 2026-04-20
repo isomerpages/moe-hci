@@ -6,212 +6,212 @@ variant: markdown
 ---
 <div>
 
-		<h1>DIRECT SCHOOL ADMISSION EXERCISE 2026
+&nbsp; &nbsp; &nbsp; &nbsp; <h1>DIRECT SCHOOL ADMISSION EXERCISE 2026
 
+  
 
+&nbsp; &nbsp; &nbsp; &nbsp; <p>Primary 6 students who are keen to join Hwa Chong Institution in 2027 are welcome to apply through the annual Direct School Admission (DSA) Exercise.
 
-		<p>Primary 6 students who are keen to join Hwa Chong Institution in 2027 are welcome to apply through the annual Direct School Admission (DSA) Exercise.
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>We encourage parents and students to make thoughtful and informed decisions when selecting schools, taking into account the student’s strengths, interests, and aspirations.
 
-		</p><p>We encourage parents and students to make thoughtful and informed decisions when selecting schools, taking into account the student’s strengths, interests, and aspirations.
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>It is important to consider each school’s distinctive programmes, development opportunities, and culture, alongside the specific academic and non-academic requirements for admission and talent development.
 
-		</p><p>It is important to consider each school’s distinctive programmes, development opportunities, and culture, alongside the specific academic and non-academic requirements for admission and talent development.
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>At Hwa Chong Institution, we are committed to nurturing the holistic development of every student.
 
-		</p><p>At Hwa Chong Institution, we are committed to nurturing the holistic development of every student.
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>Our DSA talent areas provide diverse platforms for students to develop their strengths, pursue their passions, and grow in a vibrant and supportive environment.
 
-		</p><p>Our DSA talent areas provide diverse platforms for students to develop their strengths, pursue their passions, and grow in a vibrant and supportive environment.
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>These include opportunities in leadership, STEM, humanities, sports, entrepreneurship, and the visual arts through the Art Elective Programme (AEP).
 
-		</p><p>These include opportunities in leadership, STEM, humanities, sports, entrepreneurship, and the visual arts through the Art Elective Programme (AEP).
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>Students admitted via DSA are expected to honour their commitment to HCI’s six-year Integrated Programme and to actively participate in the talent development activities related to their selected domain from Year 1 to Year 4.
 
-		</p><p>Students admitted via DSA are expected to honour their commitment to HCI’s six-year Integrated Programme and to actively participate in the talent development activities related to their selected domain from Year 1 to Year 4.
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>Importantly, no Singaporean student will be denied a place at HCI due to financial circumstances.
 
-		</p><p>Importantly, no Singaporean student will be denied a place at HCI due to financial circumstances.
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>The school offers a comprehensive range of financial assistance schemes, scholarships, and merit-based awards to ensure that every student has the opportunity to thrive.
 
-		</p><p>The school offers a comprehensive range of financial assistance schemes, scholarships, and merit-based awards to ensure that every student has the opportunity to thrive.
+  
 
+&nbsp; &nbsp; &nbsp; &nbsp; </p></h1><h2>Direct School Admissions Schedule
 
+&nbsp; &nbsp; &nbsp; &nbsp; <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 
-		</p></h1><h2>Direct School Admissions Schedule
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>The application is free-of-charge and will be open from&nbsp; 6 May 2026, 11 am&nbsp; to&nbsp; 2 June 2026, 3 pm&nbsp;.
 
-		<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>For more details, please refer to MOE website – <a>www.moe.gov.sg/dsa-sec
 
-		</p><p>The application is free-of-charge and will be open from&nbsp; 6 May 2026, 11 am&nbsp; to&nbsp; 2 June 2026, 3 pm&nbsp;.
+  
 
-		</p><p>For more details, please refer to MOE website – <a>www.moe.gov.sg/dsa-sec
+&nbsp; &nbsp; &nbsp; &nbsp; </a></p><div><a>
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img>
 
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
-		</a></p><div><a>
+  
 
-				<img>
+&nbsp; &nbsp; &nbsp; &nbsp; <h2>DSA Categories
 
-		
+&nbsp; &nbsp; &nbsp; &nbsp; <p>We welcome students who demonstrate deep interest, aptitude and talents in the following domains:
 
+  
 
+&nbsp; &nbsp; &nbsp; &nbsp; </p></h2></a><h3><a>Language and Humanities
 
-		<h2>DSA Categories
+&nbsp; &nbsp; &nbsp; &nbsp; </a><ul><a>
 
-		<p>We welcome students who demonstrate deep interest, aptitude and talents in the following domains:
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Chinese Language : For students with a strong foundation in Chinese and a keen interest in deepening their proficiency in the language and appreciation of its culture.
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li></a><li><a>Humanities : For students who show exceptional curiosity and aptitude in areas such as history, geography, current affairs, and interdisciplinary inquiry within the humanities.
 
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
-		</p></h2></a><h3><a>Language and Humanities
+  
 
-		</a><ul><a>
+&nbsp; &nbsp; &nbsp; &nbsp; </a><h3><a>Science, Technology, Engineering and Mathematics (STEM)
 
-				<li>Chinese Language : For students with a strong foundation in Chinese and a keen interest in deepening their proficiency in the language and appreciation of its culture.
+&nbsp; &nbsp; &nbsp; &nbsp; </a><ul><a>
 
-				</li></a><li><a>Humanities : For students who show exceptional curiosity and aptitude in areas such as history, geography, current affairs, and interdisciplinary inquiry within the humanities.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Infocomm (Programming and/or Robotics) : For students with experience or interest in computational thinking, coding, algorithmic problem-solving, or robotics applications.
 
-		
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Mathematics : For students who demonstrate strong logical reasoning and mathematical problem-solving skills.
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li></a><li><a>Science : For students with a keen interest in scientific inquiry and experimentation across disciplines such as Physics, Chemistry, and Biology.
 
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
-		</a><h3><a>Science, Technology, Engineering and Mathematics (STEM)
+  
 
-		</a><ul><a>
+&nbsp; &nbsp; &nbsp; &nbsp; </a><h3><a>Art Elective Programme (AEP)
 
-				<li>Infocomm (Programming and/or Robotics) : For students with experience or interest in computational thinking, coding, algorithmic problem-solving, or robotics applications.
+&nbsp; &nbsp; &nbsp; &nbsp; <p>We welcome students with artistic talent who demonstrate one or more of the following qualities:
 
-				</li><li>Mathematics : For students who demonstrate strong logical reasoning and mathematical problem-solving skills.
+&nbsp; &nbsp; &nbsp; &nbsp; </p></a><ul><a>
 
-				</li></a><li><a>Science : For students with a keen interest in scientific inquiry and experimentation across disciplines such as Physics, Chemistry, and Biology.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>A strong interest in visual arts and creative expression, supported by fundamental technical skills and aesthetic sensitivity
 
-		
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Interest in exploring diverse artistic media, techniques, and creative processes, including both traditional and contemporary art forms
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Motivation to develop as an artist, scholar, advocate, and leader in the arts community through sustained practice, reflection, and engagement
 
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
-		</a><h3><a>Art Elective Programme (AEP)
+  
 
-		<p>We welcome students with artistic talent who demonstrate one or more of the following qualities:
+&nbsp; &nbsp; &nbsp; &nbsp; <h3>Bilingualism
 
-		</p></a><ul><a>
+&nbsp; &nbsp; &nbsp; &nbsp; <p>We welcome students with bilingual strength who demonstrate one or more of the following attributes:
 
-				<li>A strong interest in visual arts and creative expression, supported by fundamental technical skills and aesthetic sensitivity
+&nbsp; &nbsp; &nbsp; &nbsp; </p><ul>
 
-				</li><li>Interest in exploring diverse artistic media, techniques, and creative processes, including both traditional and contemporary art forms
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Passion and creativity in learning and using both the Chinese and English languages, with a deep appreciation for the cultures, values, and heritage of both the East and the West
 
-				</li><li>Motivation to develop as an artist, scholar, advocate, and leader in the arts community through sustained practice, reflection, and engagement
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Proficiency in both written and spoken Chinese and English, with the ability to engage thoughtfully across cultural contexts
 
-		
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Curiosity and openness to engage in interdisciplinary learning and contribute to the bilingual and bicultural environment at HCI
 
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
+  
 
-		<h3>Bilingualism
+&nbsp; &nbsp; &nbsp; &nbsp; <h3>Entrepreneurship
 
-		<p>We welcome students with bilingual strength who demonstrate one or more of the following attributes:
+&nbsp; &nbsp; &nbsp; &nbsp; <p>We welcome students with an enterprising mindset - those who are passionate, resourceful, and driven to make a meaningful difference.
 
-		</p><ul>
+&nbsp; &nbsp; &nbsp; &nbsp; </p><p>Students who demonstrate one or more of the following qualities are encouraged to apply:
 
-				<li>Passion and creativity in learning and using both the Chinese and English languages, with a deep appreciation for the cultures, values, and heritage of both the East and the West
+&nbsp; &nbsp; &nbsp; &nbsp; </p><ul>
 
-				</li><li>Proficiency in both written and spoken Chinese and English, with the ability to engage thoughtfully across cultural contexts
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Innovative Thinking: A curiosity to explore new ideas and challenge the status quo, especially in solving everyday problems
 
-				</li><li>Curiosity and openness to engage in interdisciplinary learning and contribute to the bilingual and bicultural environment at HCI
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Creative Problem-Solving: Enjoys identifying needs and opportunities, and is motivated to develop effective, out-of-the-box solutions
 
-		
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Execution and Initiative: Shows passion and perseverance in turning ideas into impactful projects, whether through prototypes, campaigns, or ventures
 
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
+  
 
-		<h3>Entrepreneurship
+&nbsp; &nbsp; &nbsp; &nbsp; <h3>Leadership
 
-		<p>We welcome students with an enterprising mindset - those who are passionate, resourceful, and driven to make a meaningful difference.
+&nbsp; &nbsp; &nbsp; &nbsp; <p>We welcome students with leadership potential who demonstrate one or more of the following qualities:
 
-		</p><p>Students who demonstrate one or more of the following qualities are encouraged to apply:
+&nbsp; &nbsp; &nbsp; &nbsp; </p><ul>
 
-		</p><ul>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>A strong sense of purpose and commitment to making a positive difference in the lives of others
 
-				<li>Innovative Thinking: A curiosity to explore new ideas and challenge the status quo, especially in solving everyday problems
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Active involvement and leadership in student organisations such as student councils, co-curricular activities (CCAs), or class committees
 
-				</li><li>Creative Problem-Solving: Enjoys identifying needs and opportunities, and is motivated to develop effective, out-of-the-box solutions
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Demonstrated ability to lead peers, inspire change, and contribute meaningfully to school life and the wider community
 
-				</li><li>Execution and Initiative: Shows passion and perseverance in turning ideas into impactful projects, whether through prototypes, campaigns, or ventures
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
-		
+  
 
+&nbsp; &nbsp; &nbsp; &nbsp; <h3>Sports and Games
 
+&nbsp; &nbsp; &nbsp; &nbsp; <p>We welcome student-athletes with passion, commitment, and strong achievements in sports. Students may demonstrate:
 
-		<h3>Leadership
+&nbsp; &nbsp; &nbsp; &nbsp; </p><ul>
 
-		<p>We welcome students with leadership potential who demonstrate one or more of the following qualities:
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>A high level of proficiency and dedication in their chosen sport or game
 
-		</p><ul>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>A strong track record of achievement at the zonal, national, or international levels
 
-				<li>A strong sense of purpose and commitment to making a positive difference in the lives of others
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Discipline, teamwork, and resilience in balancing rigorous training with academic committments
 
-				</li><li>Active involvement and leadership in student organisations such as student councils, co-curricular activities (CCAs), or class committees
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
-				</li><li>Demonstrated ability to lead peers, inspire change, and contribute meaningfully to school life and the wider community
+&nbsp; &nbsp; &nbsp; &nbsp; <p>We invite applications from students with talent and experience in the following sports and games:
 
-		
+&nbsp; &nbsp; &nbsp; &nbsp; </p><ul>
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Badminton
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Basketball
 
-		<h3>Sports and Games
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Canoeing
 
-		<p>We welcome student-athletes with passion, commitment, and strong achievements in sports. Students may demonstrate:
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Chinese Weiqi
 
-		</p><ul>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Cross Country
 
-				<li>A high level of proficiency and dedication in their chosen sport or game
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Fencing
 
-				</li><li>A strong track record of achievement at the zonal, national, or international levels
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Judo
 
-				</li><li>Discipline, teamwork, and resilience in balancing rigorous training with academic committments
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Shooting
 
-		
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Table Tennis
 
-		<p>We invite applications from students with talent and experience in the following sports and games:
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Track and Field
 
-		</p><ul>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Volleyball
 
-				<li>Badminton
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Water Polo
 
-				</li><li>Basketball
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Wushu
 
-				</li><li>Canoeing
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
-				</li><li>Chinese Weiqi
+  
 
-				</li><li>Cross Country
+&nbsp; &nbsp; &nbsp; &nbsp; <h2>Direct School Admissions Selection Process
 
-				</li><li>Fencing
+&nbsp; &nbsp; &nbsp; &nbsp; <ul>
 
-				</li><li>Judo
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Applicants will be shortlisted based on available information from MOE and from applicants’ submitted information via the application process.
 
-				</li><li>Shooting
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Applicants who do not have prior experience may also apply.The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.
 
-				</li><li>Table Tennis
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>HCI will be conducting in-person selection for all DSA talent areas for 2026 DSA-Sec.Applicants who are successfully shortlisted will be informed between 23 July to 27 July and they will be required to attend an interview and/or selection tests on&nbsp;1 Aug 2026.
 
-				</li><li>Track and Field
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>All applicants will receive their application outcomes between 24 Aug 2026 and&nbsp;28 Aug 2026.
 
-				</li><li>Volleyball
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Due to the large number of applicants and the limited number of DSA places, meeting all the criteria does not guarantee that the student will be shortlisted for an interview or given an offer
 
-				</li><li>Water Polo
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Please note that applicants should attend the in-person selection only if they are well.For students who are unwell during the selection period, re-scheduling the in-person selection will be done where possible.
 
-				</li><li>Wushu
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </li><li>Please direct any queries about DSA to Hwa Chong Institution to <a>dsa@hci.edu.sg.
 
-		
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
 
-
-
-		<h2>Direct School Admissions Selection Process
-
-		<ul>
-
-				<li>Applicants will be shortlisted based on available information from MOE and from applicants’ submitted information via the application process.
-
-				</li><li>Applicants who do not have prior experience may also apply.The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.
-
-				</li><li>HCI will be conducting in-person selection for all DSA talent areas for 2026 DSA-Sec.Applicants who are successfully shortlisted will be informed between 23 July to 27 July and they will be required to attend an interview and/or selection tests on&nbsp;1 Aug 2026.
-
-				</li><li>All applicants will receive their application outcomes between 24 Aug 2026 and&nbsp;28 Aug 2026.
-
-				</li><li>Due to the large number of applicants and the limited number of DSA places, meeting all the criteria does not guarantee that the student will be shortlisted for an interview or given an offer
-
-				</li><li>Please note that applicants should attend the in-person selection only if they are well.For students who are unwell during the selection period, re-scheduling the in-person selection will be done where possible.
-
-				</li><li>Please direct any queries about DSA to Hwa Chong Institution to <a>dsa@hci.edu.sg.
-
-		 &nbsp; &nbsp; &nbsp; &nbsp;
-
-``</a></li></ul></h2></li></ul></li></ul></h3></li></ul></h3></li></ul></h3></li></ul></h3></li></a></ul></h3></li></ul></h3></li></ul></h3></div></h2></div>
+&nbsp; &nbsp; </a></li></ul></h2></li></ul></li></ul></h3></li></ul></h3></li></ul></h3></li></ul></h3></li></a></ul></h3></li></ul></h3></li></ul></h3></div></h2></div>
