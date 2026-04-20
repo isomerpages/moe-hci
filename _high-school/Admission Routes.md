@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div style="background-color: #ffffff;">
-    <h1 style="text-align: center; margin-bottom: 10px; font-size: 24px; font-weight: bold;">DIRECT SCHOOL ADMISSION EXERCISE 2026</h1>
+    <h1 style="text-align: center;font-size: 24px; font-weight: bold;">DIRECT SCHOOL ADMISSION EXERCISE 2026</h1>
     <p style="margin-bottom: 5px;">Primary 6 students who are keen to join Hwa Chong Institution in 2027 are welcome to apply through the annual Direct School Admission (DSA) Exercise.</p>
     <p style="margin-bottom: 5px;">We encourage parents and students to make thoughtful and informed decisions when selecting schools, taking into account the student’s strengths, interests, and aspirations.</p>
     <p style="margin-bottom: 5px;">It is important to consider each school’s distinctive programmes, development opportunities, and culture, alongside the specific academic and non-academic requirements for admission and talent development.</p>
