@@ -4,16 +4,15 @@ permalink: /high-school/admission-route/
 description: ""
 variant: markdown
 ---
-```
-<div>
+<div style="background-color: #ffffff; padding: 20px;">
 
-&nbsp; &nbsp; &nbsp; &nbsp; <h1>DIRECT SCHOOL ADMISSION EXERCISE 2026
+&nbsp; &nbsp; &nbsp; &nbsp; <h1 style="color: #000000; text-align: center; margin-bottom: 30px; font-size: 24px; font-weight: bold;">DIRECT SCHOOL ADMISSION EXERCISE 2026</h1>
 
   
 
-&nbsp; &nbsp; &nbsp; &nbsp; <p>Primary 6 students who are keen to join Hwa Chong Institution in 2027 are welcome to apply through the annual Direct School Admission (DSA) Exercise.
+&nbsp; &nbsp; &nbsp; &nbsp; <p style="margin-bottom: 15px;">Primary 6 students who are keen to join Hwa Chong Institution in 2027 are welcome to apply through the annual Direct School Admission (DSA) Exercise.</p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; </p><p>We encourage parents and students to make thoughtful and informed decisions when selecting schools, taking into account the student’s strengths, interests, and aspirations.
+&nbsp; &nbsp; &nbsp; &nbsp; <p>We encourage parents and students to make thoughtful and informed decisions when selecting schools, taking into account the student’s strengths, interests, and aspirations.
 
 &nbsp; &nbsp; &nbsp; &nbsp; </p><p>It is important to consider each school’s distinctive programmes, development opportunities, and culture, alongside the specific academic and non-academic requirements for admission and talent development.
 
@@ -31,7 +30,7 @@ variant: markdown
 
   
 
-&nbsp; &nbsp; &nbsp; &nbsp; </p></h1><h2>Direct School Admissions Schedule
+&nbsp; &nbsp; &nbsp; &nbsp; </p><h2>Direct School Admissions Schedule
 
 &nbsp; &nbsp; &nbsp; &nbsp; <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 
@@ -215,5 +214,4 @@ variant: markdown
 
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
 
-&nbsp; &nbsp; 
-```</a></li></ul></h2></li></ul></li></ul></h3></li></ul></h3></li></ul></h3></li></ul></h3></li></a></ul></h3></li></ul></h3></li></ul></h3></div></h2></div>
+&nbsp; &nbsp; </a></li></ul></h2></li></ul></li></ul></h3></li></ul></h3></li></ul></h3></li></ul></h3></li></a></ul></h3></li></ul></h3></li></ul></h3></div></h2></div>
