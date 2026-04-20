@@ -22,7 +22,7 @@ variant: markdown
     <div style="text-align: center; margin: 30px 0;">
         <img style="max-width: 100%; height: auto; border: none;" alt="DSA 2026 Timeline" src="/images/DSA2026.png">
     </div>
-    <h2 style="color: #000000; margin-top: 30px; margin-bottom: 15px; font-size: 20px; text-decoration: underline;">DSA Categories</h2>
+    <h2 style="color: #000000; margin-top: 30px; margin-bottom: 15px; font-size: 20px;text-align: center; font-weight: bold;">DSA Categories</h2>
     <p style="margin-bottom: 15px;">We welcome students who demonstrate deep interest, aptitude and talents in the following domains:</p>
     <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; font-size: 18px;text-decoration: underline;">Language and Humanities</h3>
     <ul style="margin-bottom: 15px; padding-left: 40px; list-style-type: disc;">
