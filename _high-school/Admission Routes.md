@@ -4,6 +4,7 @@ permalink: /high-school/admission-route/
 description: ""
 variant: markdown
 ---
+```
 <div>
 
 &nbsp; &nbsp; &nbsp; &nbsp; <h1>DIRECT SCHOOL ADMISSION EXERCISE 2026
@@ -214,4 +215,5 @@ variant: markdown
 
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
 
-&nbsp; &nbsp; </a></li></ul></h2></li></ul></li></ul></h3></li></ul></h3></li></ul></h3></li></ul></h3></li></a></ul></h3></li></ul></h3></li></ul></h3></div></h2></div>
+&nbsp; &nbsp; 
+```</a></li></ul></h2></li></ul></li></ul></h3></li></ul></h3></li></ul></h3></li></ul></h3></li></a></ul></h3></li></ul></h3></li></ul></h3></div></h2></div>
