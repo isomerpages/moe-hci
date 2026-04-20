@@ -4,7 +4,7 @@ permalink: /high-school/admission-route/
 description: ""
 variant: markdown
 ---
-<div style="background-color: #ffffff;">
+<div>
     <h1 style="text-align: center; margin-top: 10px; font-size: 24px; font-weight: bold;">DIRECT SCHOOL ADMISSION EXERCISE 2026</h1>
     <p style="margin-top: 5px;">Primary 6 students who are keen to join Hwa Chong Institution in 2027 are welcome to apply through the annual Direct School Admission (DSA) Exercise.</p>
     <p style="margin-top: 5px;">We encourage parents and students to make thoughtful and informed decisions when selecting schools, taking into account the student’s strengths, interests, and aspirations.</p>
