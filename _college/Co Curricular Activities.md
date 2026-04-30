@@ -26,7 +26,7 @@ A list of CCAs can be found below:
 |Mindsports|Netball|Guitar Ensemble||
 |Outdoor Education Students' Club|Shooting|Music and Dance||
 |Publications Society|Softball|String Ensemble||
-|Students' Science Research Club|Table Tennis|Symphonic Band||
+|Students' Science Research Club|Table Tennis|Concert Band||
 |Studio Ardent|Taekwondo|||
 ||Tennis|||
 ||Touch Rugby|||
