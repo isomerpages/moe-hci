@@ -26,7 +26,7 @@ Once a student has accepted the DSA offer, he/she will not take part in the Join
 
 Please refer to&nbsp;**[MOE DSA website](https://www.moe.gov.sg/post-secondary/admissions/dsa)**&nbsp;for the latest update.
 
-Click [Here](/files/college/DSA_JC__Info_File) for information and application for DSA JC Exercise.
+Click [Here](/files/College/DSA_JC__Info_File.pdf) for information and application for DSA JC Exercise.
 
 
 ##### Joint Admission Exercise
