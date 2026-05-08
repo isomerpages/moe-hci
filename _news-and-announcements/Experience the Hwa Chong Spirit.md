@@ -4,7 +4,11 @@ permalink: /experience-the-hwa-chong-spirit/
 variant: tiptap
 description: ""
 ---
-<p><strong>                                                             <u>Experience the Hwa Chong Spirit</u></strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Open_House_Instagram_Post.png">
+</div>
+<p><strong><u>Experience the Hwa Chong Spirit</u></strong>
 </p>
 <p><strong>Hwa Chong Institution (High School) Open House 2026<br>Saturday, 23 May 2026 | 8.00am – 1.00pm</strong>
 </p>
@@ -26,8 +30,3 @@ a vibrant and purposeful community.</p>
 <p><strong>More information:</strong>  <a href="https://sites.google.com/hci.edu.sg/hcihsopenhouse/home" rel="noopener nofollow" target="_blank">HCI Open House</a>
 </p>
 <p>We look forward to welcoming you!</p>
-<p>
-<br>
-</p>
-<p><strong><br></strong>
-</p>
