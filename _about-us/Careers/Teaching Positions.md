@@ -9,23 +9,25 @@ third_nav_title: Careers
 
 <center><b><i>We nurture leaders in Research, Industry and Government to serve the nation</i></b></center>
 
-At Hwa Chong, we empower our high ability students to achieve their potential and live their aspirations, while embracing the values of hard work, integrity, resilience, passion and compassion. As a Hwa Chong teacher, you will nurture forward-looking young men and women, grounded in sound values, who will make Singapore proud.
+At Hwa Chong Institution, we are committed to shaping the leaders of tomorrow. We empower our students to realise their fullest potential and pursue their aspirations with purpose and confidence. Guided by the values of integrity, resilience, passion, and compassion, our educators play a vital role in nurturing forward-looking young men and women—future shapers who will make a meaningful impact on Singapore and beyond.
 
-**Teaching Positions**
+If you are passionate about inspiring young minds and thrive in a vibrant, forward-thinking environment, we invite you to join our dedicated team at Hwa Chong. As part of a dynamic professional community that values innovation, collaboration, and continuous growth, you will have the opportunity to nurture future-ready individuals, contribute to a rich educational tradition, and grow both personally and professionally while advancing educational excellence.
+# Teaching Opportunities
 
-**High&nbsp;School&nbsp;Section**
+**High School Section**
 
-1.  History &amp; Social Studies Teacher
-2.  Mathematics&nbsp;Teacher
-  
- 
+* English/ English Literature Teacher
+* Mathematics Teacher
+* Chemistry Teacher
+* Subject Head/Chemistry
+
+
 **College Section**
 
-1.  General Paper&nbsp;Teacher
-2.  Senior Teacher /&nbsp;Mathematics
-3.  Mathematics&nbsp;Teacher
-4.  Economics Teacher
-5.  Art Elective Programme (AEP) Teacher
-6.  Subject Head / Mother-Tongue Languages (MTL)
-7.  China Studies (In Chinese) Teacher (BSP)
-8.  Chinese Teacher (Language Elective Programme)
+* General Paper Teacher
+* Economics Teacher
+* Physics Teacher
+* Mathematics Teacher
+
+Interested applicants are invited to submit a detailed resume, relevant supporting documents and email to our Recruitment Officer at recruit@hci.edu.sg
+We regret that only shortlisted candidates will be notified for interview.
