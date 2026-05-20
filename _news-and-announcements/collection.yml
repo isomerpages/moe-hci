@@ -2,7 +2,6 @@ collections:
   news-and-announcements:
     output: true
     order:
-      - News and Events.md
       - Experience the Hwa Chong Spirit.md
       - News & Announcements.md
       - HCI (College)  DSA JC exercise 2023.md
