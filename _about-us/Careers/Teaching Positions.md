@@ -27,7 +27,7 @@ If you are passionate about inspiring young minds and thrive in a vibrant, forwa
 * General Paper Teacher
 * Economics Teacher
 * Physics Teacher
-* Mathematics Teacher
+
 
 Interested applicants are invited to submit a detailed resume, relevant supporting documents and email to our Recruitment Officer at [recruit@hci.edu.sg](mailto:recruit@hci.edu.sg)
 
