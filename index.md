@@ -4,7 +4,7 @@ title: Hwa Chong Institution
 description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
-notification: 2026 DSA-Sec Sports Trial Schedule Details
+notification: 2026 DSA-Sec Sports Trial Schedule & Details
 sections:
   - hero:
       background: /images/homepage_banner_v3.gif
