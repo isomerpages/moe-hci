@@ -10,7 +10,7 @@ sections:
       background: /images/homepage_banner_v3.gif
       variant: center
       button: Click here for more info
-      url: /2026_DSA_Exercise_Sports_Trial_Dates
+      url: /files/2026_dsa_exercise_sports_trial_dates.pdf
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
